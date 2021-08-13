@@ -7,10 +7,34 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct Problem: Identifiable {
+    var id = UUID()
+    var name: String
+}
+
+struct Row: View {
+    var problem: Problem
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Text(problem.name)
+    }
+}
+
+struct ContentView: View {
+    let problems = [
+        Problem(name: "1"),
+        Problem(name: "2"),
+        Problem(name: "3"),
+        Problem(name: "40")
+    ]
+    var body: some View {
+        VStack {
+            Button("Test") {
+                ThreeSum().tests()
+            }.padding()
+            List(problems) {
+                Row(problem: $0)
+            }
+        }
     }
 }
 
