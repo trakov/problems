@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8F10D97826B90A0800B1BE12 /* ThreeSumClosest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F10D97726B90A0800B1BE12 /* ThreeSumClosest.swift */; };
 		8F34ACDF26C92DE700BB8819 /* LetterCombinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F34ACDE26C92DE700BB8819 /* LetterCombinations.swift */; };
+		8F34ACE326CB646700BB8819 /* MergeIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F34ACE226CB646700BB8819 /* MergeIntervals.swift */; };
 		8FD0C0F026B506A000B7505D /* ProblemsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD0C0EF26B506A000B7505D /* ProblemsApp.swift */; };
 		8FD0C0F226B506A000B7505D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD0C0F126B506A000B7505D /* ContentView.swift */; };
 		8FD0C0F426B506A100B7505D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FD0C0F326B506A100B7505D /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 /* Begin PBXFileReference section */
 		8F10D97726B90A0800B1BE12 /* ThreeSumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSumClosest.swift; sourceTree = "<group>"; };
 		8F34ACDE26C92DE700BB8819 /* LetterCombinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCombinations.swift; sourceTree = "<group>"; };
+		8F34ACE226CB646700BB8819 /* MergeIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeIntervals.swift; sourceTree = "<group>"; };
 		8FD0C0EC26B506A000B7505D /* Problems.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Problems.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FD0C0EF26B506A000B7505D /* ProblemsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProblemsApp.swift; sourceTree = "<group>"; };
 		8FD0C0F126B506A000B7505D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				8FD0C0FF26B522E400B7505D /* ThreeSum.swift */,
 				8F10D97726B90A0800B1BE12 /* ThreeSumClosest.swift */,
 				8F34ACDE26C92DE700BB8819 /* LetterCombinations.swift */,
+				8F34ACE226CB646700BB8819 /* MergeIntervals.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				8F10D97826B90A0800B1BE12 /* ThreeSumClosest.swift in Sources */,
 				8FD0C10826B5234400B7505D /* LongestSubstring.swift in Sources */,
 				8FD0C10626B5232C00B7505D /* Braces.swift in Sources */,
+				8F34ACE326CB646700BB8819 /* MergeIntervals.swift in Sources */,
 				8FD0C10226B522FE00B7505D /* Add2Nums2.swift in Sources */,
 				8FD0C11426B523BB00B7505D /* TreeHeight3.swift in Sources */,
 				8F34ACDF26C92DE700BB8819 /* LetterCombinations.swift in Sources */,
