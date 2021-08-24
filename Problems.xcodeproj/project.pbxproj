@@ -27,6 +27,7 @@
 		8FD0C11326B523BB00B7505D /* TreeHeight2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD0C11126B523BB00B7505D /* TreeHeight2.swift */; };
 		8FD0C11426B523BB00B7505D /* TreeHeight3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD0C11226B523BB00B7505D /* TreeHeight3.swift */; };
 		8FE978F326D234BD00E20A83 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE978F226D234BD00E20A83 /* ValidSudoku.swift */; };
+		8FE978F526D2B57400E20A83 /* PowXN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE978F426D2B57400E20A83 /* PowXN.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		8FD0C11126B523BB00B7505D /* TreeHeight2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeHeight2.swift; sourceTree = "<group>"; };
 		8FD0C11226B523BB00B7505D /* TreeHeight3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeHeight3.swift; sourceTree = "<group>"; };
 		8FE978F226D234BD00E20A83 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
+		8FE978F426D2B57400E20A83 /* PowXN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowXN.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				8F34ACE226CB646700BB8819 /* MergeIntervals.swift */,
 				8F4CA64026CF60070030449C /* NumberOfIslands.swift */,
 				8FE978F226D234BD00E20A83 /* ValidSudoku.swift */,
+				8FE978F426D2B57400E20A83 /* PowXN.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				8FD0C10426B5231200B7505D /* Add2Nums.swift in Sources */,
 				8FD0C0F026B506A000B7505D /* ProblemsApp.swift in Sources */,
 				8FD0C10E26B5238F00B7505D /* ReverseInteger.swift in Sources */,
+				8FE978F526D2B57400E20A83 /* PowXN.swift in Sources */,
 				8F10D97826B90A0800B1BE12 /* ThreeSumClosest.swift in Sources */,
 				8FD0C10826B5234400B7505D /* LongestSubstring.swift in Sources */,
 				8F4CA64126CF60070030449C /* NumberOfIslands.swift in Sources */,
