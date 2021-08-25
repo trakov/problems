@@ -28,6 +28,7 @@
 		8FD0C11426B523BB00B7505D /* TreeHeight3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD0C11226B523BB00B7505D /* TreeHeight3.swift */; };
 		8FE978F326D234BD00E20A83 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE978F226D234BD00E20A83 /* ValidSudoku.swift */; };
 		8FE978F526D2B57400E20A83 /* PowXN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE978F426D2B57400E20A83 /* PowXN.swift */; };
+		8FE978F726D4A38B00E20A83 /* GameOfLife.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE978F626D4A38B00E20A83 /* GameOfLife.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		8FD0C11226B523BB00B7505D /* TreeHeight3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeHeight3.swift; sourceTree = "<group>"; };
 		8FE978F226D234BD00E20A83 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
 		8FE978F426D2B57400E20A83 /* PowXN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowXN.swift; sourceTree = "<group>"; };
+		8FE978F626D4A38B00E20A83 /* GameOfLife.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOfLife.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				8F4CA64026CF60070030449C /* NumberOfIslands.swift */,
 				8FE978F226D234BD00E20A83 /* ValidSudoku.swift */,
 				8FE978F426D2B57400E20A83 /* PowXN.swift */,
+				8FE978F626D4A38B00E20A83 /* GameOfLife.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				8F4CA64126CF60070030449C /* NumberOfIslands.swift in Sources */,
 				8FD0C10626B5232C00B7505D /* Braces.swift in Sources */,
 				8F34ACE326CB646700BB8819 /* MergeIntervals.swift in Sources */,
+				8FE978F726D4A38B00E20A83 /* GameOfLife.swift in Sources */,
 				8FD0C10226B522FE00B7505D /* Add2Nums2.swift in Sources */,
 				8FD0C11426B523BB00B7505D /* TreeHeight3.swift in Sources */,
 				8F34ACDF26C92DE700BB8819 /* LetterCombinations.swift in Sources */,
