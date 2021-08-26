@@ -29,7 +29,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Button("Test") {
-                GameOfLife().tests()
+                IsomorphicStrings().tests()
             }.padding()
             List(problems) {
                 Row(problem: $0)

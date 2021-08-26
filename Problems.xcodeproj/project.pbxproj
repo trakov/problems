@@ -29,6 +29,7 @@
 		8FE978F326D234BD00E20A83 /* ValidSudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE978F226D234BD00E20A83 /* ValidSudoku.swift */; };
 		8FE978F526D2B57400E20A83 /* PowXN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE978F426D2B57400E20A83 /* PowXN.swift */; };
 		8FE978F726D4A38B00E20A83 /* GameOfLife.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE978F626D4A38B00E20A83 /* GameOfLife.swift */; };
+		8FE978F926D6010000E20A83 /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE978F826D6010000E20A83 /* IsomorphicStrings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		8FE978F226D234BD00E20A83 /* ValidSudoku.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSudoku.swift; sourceTree = "<group>"; };
 		8FE978F426D2B57400E20A83 /* PowXN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowXN.swift; sourceTree = "<group>"; };
 		8FE978F626D4A38B00E20A83 /* GameOfLife.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOfLife.swift; sourceTree = "<group>"; };
+		8FE978F826D6010000E20A83 /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				8FE978F226D234BD00E20A83 /* ValidSudoku.swift */,
 				8FE978F426D2B57400E20A83 /* PowXN.swift */,
 				8FE978F626D4A38B00E20A83 /* GameOfLife.swift */,
+				8FE978F826D6010000E20A83 /* IsomorphicStrings.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				8FD0C10E26B5238F00B7505D /* ReverseInteger.swift in Sources */,
 				8FE978F526D2B57400E20A83 /* PowXN.swift in Sources */,
 				8F10D97826B90A0800B1BE12 /* ThreeSumClosest.swift in Sources */,
+				8FE978F926D6010000E20A83 /* IsomorphicStrings.swift in Sources */,
 				8FD0C10826B5234400B7505D /* LongestSubstring.swift in Sources */,
 				8F4CA64126CF60070030449C /* NumberOfIslands.swift in Sources */,
 				8FD0C10626B5232C00B7505D /* Braces.swift in Sources */,
