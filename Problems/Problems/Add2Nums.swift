@@ -8,6 +8,21 @@ public class ListNode: CustomStringConvertible {
     public var description: String {
         return "\(val) -> \(next?.description ?? "nil")"
     }
+
+    public static func list(from array: [Int]) -> ListNode? {
+        var l: ListNode?
+        var last: ListNode?
+        for n in array.enumerated() {
+            let el = ListNode(n.element)
+            if n.offset == 0 {
+                l = el
+            } else {
+                last?.next = el
+            }
+            last = el
+        }
+        return l
+    }
 }
 class Add2Nums {
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
