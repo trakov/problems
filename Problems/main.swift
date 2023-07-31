@@ -1,0 +1,1 @@
+MinimumASCIIDeleteSumForTwoStrings().tests()

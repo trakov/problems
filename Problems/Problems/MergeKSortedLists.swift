@@ -1,5 +1,52 @@
 class MergeKSortedLists {
     func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
+        var sortedLists = lists.compactMap { $0 }.sorted { l1, l2 in
+            return l1.val <= l2.val
+        }
+        guard !sortedLists.isEmpty else { return nil }
+        guard sortedLists.count > 1 else { return sortedLists[0] }
+        let dummy = ListNode(0)
+        var node: ListNode? = dummy
+        
+        while sortedLists.count > 1 {
+            node?.next = sortedLists[0]
+            node = node?.next
+            
+            guard let next = sortedLists[0].next else {
+                sortedLists.removeFirst()
+                continue
+            }
+            
+            if next.val <= sortedLists[1].val {
+                sortedLists[0] = next
+                continue
+            }
+            sortedLists.removeFirst()
+            if next.val >= sortedLists.last!.val {
+                sortedLists.append(next)
+                continue
+            }
+            var left = 0
+            var right = sortedLists.count - 1
+            while left <= right {
+                let mid = (left + right) / 2
+                if sortedLists[mid].val < next.val {
+                    left = mid + 1
+                } else if sortedLists[mid].val > next.val {
+                    right = mid - 1
+                } else {
+                    left = mid
+                    break
+                }
+            }
+            sortedLists.insert(next, at: left)
+        }
+        node?.next = sortedLists[0]
+        
+        return dummy.next
+    }
+    
+    func mergeKLists2(_ lists: [ListNode?]) -> ListNode? {
         var tempLists: [ListNode] = lists.compactMap { $0 }
         if tempLists.count == 0 {
             return nil
@@ -25,15 +72,25 @@ class MergeKSortedLists {
         var lists: [ListNode?] = [[1,4,5],[1,3,4],[2,6]].map {
             ListNode.list(from: $0)
         }
-//        print(mergeKLists(lists))
-        
+        print(mergeKLists(lists))
+
+        lists = [[1,2,3]].map {
+            ListNode.list(from: $0)
+        }
+        print(mergeKLists(lists))
+
         lists = [].map {
             ListNode.list(from: $0)
         }
-//        print(mergeKLists(lists))
-        
-        lists = superlists
         print(mergeKLists(lists))
+        
+        lists = [[-1,1],[-3,1,4],[-2,-1,0,2]].map {
+            ListNode.list(from: $0)
+        }
+        print(mergeKLists(lists))
+
+//        lists = superlists
+//        print(mergeKLists(lists))
     }
 }
 

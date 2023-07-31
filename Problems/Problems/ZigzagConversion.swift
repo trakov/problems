@@ -1,5 +1,41 @@
 class ZigzagConversion {
     func convert(_ s: String, _ numRows: Int) -> String {
+        guard s.count >= numRows, numRows > 1 else { return s }
+        var rows: [[Character]] = Array(repeating: [], count: numRows)
+        var i = 0
+        var down = true
+        for c in s {
+            rows[i].append(c)
+            if i == numRows - 1 {
+                down = false
+            } else if i == 0 {
+                down = true
+            }
+            i += down ? 1 : -1
+        }
+        return rows.reduce("") { partialResult, chars in
+            partialResult + chars
+        }
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    func convert2(_ s: String, _ numRows: Int) -> String {
         guard s.count >= numRows, numRows > 1 else {
             return s
         }

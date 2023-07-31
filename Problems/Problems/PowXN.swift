@@ -1,5 +1,58 @@
 class PowXN {
     func myPow(_ x: Double, _ n: Int) -> Double {
+        if n == 1 { return x }
+        if x.isZero { return 0 }
+        if n == -1 { return 1/x }
+        if n == 0 { return 1 }
+        if x.isEqual(to: 1.0) { return 1 }
+        let sign = n.signum()
+        if x.isEqual(to: -1.0) { return n % 2 == 0 ? 1 : -1 }
+        var pow = abs(n)
+        var operations: [Bool] = []
+        while pow > 0 {
+            if pow % 2 == 0 {
+                operations.append(true)
+                pow /= 2
+            } else {
+                operations.append(false)
+                pow -= 1
+            }
+        }
+        var result = 1.0
+        while let op = operations.popLast() {
+            if op {
+                result *= result
+            } else {
+                result *= x
+            }
+        }
+        return sign == 1 ? result : 1/result
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    func myPow2(_ x: Double, _ n: Int) -> Double {
         if x.isEqual(to: 1.0) {
             return x
         } else if x.isEqual(to: -1.0) {

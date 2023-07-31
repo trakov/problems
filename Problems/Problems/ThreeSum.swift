@@ -4,8 +4,6 @@ class ThreeSum {
         var result = Set<[Int]>()
         let sortedNums = nums.sorted()
         for first in sortedNums.dropLast(2).enumerated() {
-//            print("------------------------------------------")
-//            print("1 :", first.element)
             if first.element > 0 {
                 break
             }
@@ -13,20 +11,15 @@ class ThreeSum {
             var k = sortedNums.count - 1
             while j < k {
                 let second = sortedNums[j]
-//                print("2 :", second)
                 if first.element + second > 0 {
                     break
                 }
                 let third = sortedNums[k]
-//                print("3 :", third)
                 let sum = first.element + second + third
-//                print("sum:", sum)
                 if sum < 0 {
                     j += 1
                 } else if sum == 0 {
                     result.insert([first.element, second, third])
-//                    print("BOOM!", [first.element, second, third])
-//                    print("------------------------------------------")
                     j += 1
                     k -= 1
                 } else {

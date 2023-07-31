@@ -1,5 +1,28 @@
 class LetterCombinations {
     func letterCombinations(_ digits: String) -> [String] {
+        guard !digits.isEmpty else { return [] }
+        var result: [String] = []
+        var temp = ""
+        let nums = digits.compactMap { Int(String($0)) }
+        
+        func backtrack() {
+            if temp.count == digits.count {
+                result.append(temp)
+                return
+            }
+            let i = temp.count
+            for num in LetterCombinations.Letters[nums[i]]! {
+                temp.append(num)
+                backtrack()
+                temp.removeLast()
+            }
+        }
+        
+        backtrack()
+        return result
+    }
+
+    func letterCombinations2(_ digits: String) -> [String] {
         var result: [String] = []
         let nums = digits.compactMap { Int(String($0)) }
         for num in nums {
@@ -57,8 +80,9 @@ class LetterCombinations {
     }
     
     func tests() {
-        print(letterCombinations("7777"))// ["ad","ae","af","bd","be","bf","cd","ce","cf"]
-//        print(letterCombinations(""))// []
-//        print(letterCombinations("2"))// ["a","b","c"]
+//        print(letterCombinations("7777"))// ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+        print(letterCombinations(""))// []
+        print(letterCombinations("2"))// ["a","b","c"]
+        print(letterCombinations("23")) // ["ad","ae","af","bd","be","bf","cd","ce","cf"]
     }
 }

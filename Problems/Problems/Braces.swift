@@ -55,36 +55,36 @@ extension Character {
     }
 }
 
-func printWrongIndexOrSuccess(str: String) {
-    var index = -1
-    var wrongIndex: Int?
-    
-    var stack = Stack()
-    
-    for el in str.enumerated() {
-        index += 1
-        if el.element.closedBraceIndex() != nil {
-            if let last = stack.peek(), last.1.isSameOpenedBrace(as: el.element) {
-                stack.pop()
-            } else {
-                wrongIndex = index
-                break
-            }
-        } else if el.element.isOpenedBrace() {
-            stack.push(el)
-        }
-    }
-    
-    let result: String
-    if let wrongIndex = wrongIndex {
-        result = "\(wrongIndex + 1)"
-    } else if stack.isEmpty() {
-        result = "Success"
-    } else {
-        result = "\(stack.peek()!.0 + 1)"
-    }
-    print(result)
-}
+//func printWrongIndexOrSuccess(str: String) {
+//    var index = -1
+//    var wrongIndex: Int?
+//    
+//    var stack = Stack()
+//    
+//    for el in str.enumerated() {
+//        index += 1
+//        if el.element.closedBraceIndex() != nil {
+//            if let last = stack.peek(), last.1.isSameOpenedBrace(as: el.element) {
+//                stack.pop()
+//            } else {
+//                wrongIndex = index
+//                break
+//            }
+//        } else if el.element.isOpenedBrace() {
+//            stack.push(el)
+//        }
+//    }
+//    
+//    let result: String
+//    if let wrongIndex = wrongIndex {
+//        result = "\(wrongIndex + 1)"
+//    } else if stack.isEmpty() {
+//        result = "Success"
+//    } else {
+//        result = "\(stack.peek()!.0 + 1)"
+//    }
+//    print(result)
+//}
 
 
 //for str in examples {

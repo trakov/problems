@@ -1,4 +1,4 @@
-public class ListNode: CustomStringConvertible {
+public class ListNode: CustomStringConvertible, ExpressibleByArrayLiteral {
     public var val: Int
     public var next: ListNode?
     public init() { self.val = 0; self.next = nil; }
@@ -7,6 +7,28 @@ public class ListNode: CustomStringConvertible {
     
     public var description: String {
         return "\(val) -> \(next?.description ?? "nil")"
+    }
+
+    public init(_ array: [Int]) {
+        var l: ListNode?
+        var last: ListNode?
+        for n in array.enumerated() {
+            let el = ListNode(n.element)
+            if n.offset == 0 {
+                l = el
+            } else {
+                last?.next = el
+            }
+            last = el
+        }
+        val = l!.val
+        next = l?.next
+    }
+    
+    public typealias ArrayLiteralElement = Int
+
+    public required convenience init(arrayLiteral elements: ListNode.ArrayLiteralElement...) {
+        self.init(elements)
     }
 
     public static func list(from array: [Int]) -> ListNode? {
@@ -24,6 +46,7 @@ public class ListNode: CustomStringConvertible {
         return l
     }
 }
+
 class Add2Nums {
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         let dummy = ListNode(-1)
