@@ -1,1 +1,1 @@
-NumberOfMusicPlaylists().tests()
+MinimizeTheMaximumDifferenceOfPairs().tests()
