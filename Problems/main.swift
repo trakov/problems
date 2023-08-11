@@ -1,1 +1,1 @@
-MinimizeTheMaximumDifferenceOfPairs().tests()
+CoinChangeII().tests()
