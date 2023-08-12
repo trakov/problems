@@ -1,1 +1,1 @@
-CoinChangeII().tests()
+UniquePathsII().tests()
