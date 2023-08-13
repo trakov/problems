@@ -540,6 +540,7 @@
 		8FCC12CE2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC12CD2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift */; };
 		8FCC13962A85FEA600698582 /* CoinChangeII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC13952A85FEA600698582 /* CoinChangeII.swift */; };
 		8FCC13A42A878C7900698582 /* UniquePathsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC13A32A878C7900698582 /* UniquePathsII.swift */; };
+		8FCC13A62A88D03C00698582 /* CheckIfThereIsAValidPartitionForTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC13A52A88D03C00698582 /* CheckIfThereIsAValidPartitionForTheArray.swift */; };
 		8FE0EBAE2A29B40B006FC482 /* DetonateTheMaximumBombs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE0EBAD2A29B40B006FC482 /* DetonateTheMaximumBombs.swift */; };
 		8FE0EBB02A3049AE006FC482 /* MinimumFlipsToMakeAORBEqualToC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE0EBAF2A3049AE006FC482 /* MinimumFlipsToMakeAORBEqualToC.swift */; };
 		8FE0EBB22A349836006FC482 /* MaximumValueAtAGivenIndexInABoundedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE0EBB12A349836006FC482 /* MaximumValueAtAGivenIndexInABoundedArray.swift */; };
@@ -913,6 +914,7 @@
 		8FCC12CD2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeTheMaximumDifferenceOfPairs.swift; sourceTree = "<group>"; };
 		8FCC13952A85FEA600698582 /* CoinChangeII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinChangeII.swift; sourceTree = "<group>"; };
 		8FCC13A32A878C7900698582 /* UniquePathsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePathsII.swift; sourceTree = "<group>"; };
+		8FCC13A52A88D03C00698582 /* CheckIfThereIsAValidPartitionForTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfThereIsAValidPartitionForTheArray.swift; sourceTree = "<group>"; };
 		8FCF7E1C2770F9010020D462 /* SpiralMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrix.swift; sourceTree = "<group>"; };
 		8FD0C0FF26B522E400B7505D /* ThreeSum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThreeSum.swift; sourceTree = "<group>"; };
 		8FD0C10126B522FE00B7505D /* Add2Nums2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Add2Nums2.swift; sourceTree = "<group>"; };
@@ -1690,6 +1692,7 @@
 				8FCC12CD2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift */,
 				8FCC13952A85FEA600698582 /* CoinChangeII.swift */,
 				8FCC13A32A878C7900698582 /* UniquePathsII.swift */,
+				8FCC13A52A88D03C00698582 /* CheckIfThereIsAValidPartitionForTheArray.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2043,6 +2046,7 @@
 				8FB9B4402A0BBF340073424E /* Subsets.swift in Sources */,
 				8FB9B55B2A0BBF540073424E /* PowerOfThree.swift in Sources */,
 				8FB9B57F2A0BBF5A0073424E /* LongestCommonPrefix.swift in Sources */,
+				8FCC13A62A88D03C00698582 /* CheckIfThereIsAValidPartitionForTheArray.swift in Sources */,
 				8FB9B3D82A0BBF220073424E /* KthLargestElementInAnArray.swift in Sources */,
 				8FB9B4C72A0BBF480073424E /* LongestCommonSubsequence.swift in Sources */,
 				8F9E9FC02A1380450078FC86 /* DesignAuthenticationManager.swift in Sources */,

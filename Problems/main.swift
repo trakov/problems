@@ -1,1 +1,1 @@
-UniquePathsII().tests()
+CheckIfThereIsAValidPartitionForTheArray().tests()
