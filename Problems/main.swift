@@ -1,1 +1,1 @@
-CheckIfThereIsAValidPartitionForTheArray().tests()
+KthLargestElementInAnArray().tests()
