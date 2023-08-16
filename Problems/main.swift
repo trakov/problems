@@ -1,1 +1,1 @@
-KthLargestElementInAnArray().tests()
+SlidingWindowMaximum().tests()

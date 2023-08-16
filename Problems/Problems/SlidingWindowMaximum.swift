@@ -1,5 +1,29 @@
 class SlidingWindowMaximum {
     func maxSlidingWindow(_ nums: [Int], _ k: Int) -> [Int] {
+        let deque = Deque(k)
+        var results: [Int] = []
+        for i in 0..<nums.count {
+            let num = nums[i]
+            // Remove elements from the right of the deque that
+            // are smaller than the current number.
+            while !deque.isEmpty && deque.right < num {
+                deque.removeRight()
+            }
+            deque.insertRight(num)
+
+            // When `k` elements added window has the needed width.
+            if i >= k - 1 {
+                // The left of the deque holds the maximum for the current window.
+                results.append(deque.left)
+                if deque.left == nums[i + 1 - k] {
+                    deque.removeLeft()
+                }
+            }
+        }
+        return results
+    }
+    
+    func maxSlidingWindow1(_ nums: [Int], _ k: Int) -> [Int] {
         guard k > 1 else { return nums }
         let n = nums.count
         var deque: [Int] = [] // track indices
@@ -99,5 +123,34 @@ class SlidingWindowMaximum {
     func tests() {
         print(maxSlidingWindow([1,3,-1,-3,5,3,6,7], 3)) // [3,3,5,5,6,7]
         print(maxSlidingWindow([1], 1)) // [1]
+    }
+}
+
+class Deque {
+    private var storage: [Int]
+    private var head = 0
+    private var length = 0
+    var left: Int {
+        storage[head]
+    }
+    var right: Int {
+        storage[(head + length - 1) % storage.count]
+    }
+    var isEmpty: Bool {
+        length == 0
+    }
+    init(_ size: Int) {
+        storage = Array(repeating: 0, count: size)
+    }
+    func insertRight(_ element: Int) {
+        storage[(head + length) % storage.count] = element
+        length += 1
+    }
+    func removeLeft() {
+        head = (head + 1) % storage.count
+        length -= 1
+    }
+    func removeRight() {
+        length -= 1
     }
 }
