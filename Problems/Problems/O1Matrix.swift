@@ -1,4 +1,37 @@
 class O1Matrix {
+    func updateMatrix0(_ mat: [[Int]]) -> [[Int]] {
+        let n = mat.count
+        let m = mat[0].count
+        var result = Array(repeating: Array(repeating: -1, count: m), count: n)
+        
+        func neighbours(_ i: Int, _ j: Int) -> [(Int, Int)] {
+            [(-1,0),(1,0),(0,-1),(0,1)].compactMap { dx, dy in
+                let x = i + dx
+                let y = j + dy
+                guard x >= 0 && x < n && y >= 0 && y < m else { return nil }
+                return (x, y)
+            }
+        }
+        var queue: [(Int, Int)] = []
+        for i in 0..<n {
+            for j in 0..<m where mat[i][j] == 0 {
+                result[i][j] = 0
+                queue.append((i, j))
+            }
+        }
+
+        while !queue.isEmpty {
+            let (x, y) = queue.removeFirst()
+            let value = result[x][y]
+            for (i, j) in neighbours(x, y) where result[i][j] == -1 {
+                result[i][j] = value + 1
+                queue.append((i, j))
+            }
+        }
+
+        return result
+    }
+
     func updateMatrix(_ mat: [[Int]]) -> [[Int]] {
         var dist = Array(repeating: Array(repeating: -1, count: mat[0].count), count: mat.count)
         let dxy = [(1,0), (-1,0), (0,1), (0, -1)]
@@ -107,9 +140,9 @@ class O1Matrix {
     }
 
     func tests() {
-        print(updateMatrix([[0,0,0],[0,1,0],[0,0,0]])) // [[0,0,0],[0,1,0],[0,0,0]]
+//        print(updateMatrix([[0,0,0],[0,1,0],[0,0,0]])) // [[0,0,0],[0,1,0],[0,0,0]]
         print(updateMatrix([[0,0,0],[0,1,0],[1,1,1]])) // [[0,0,0],[0,1,0],[1,2,1]]
-        print(updateMatrix([[1,0,1,1,0,0,1,0,0,1],[0,1,1,0,1,0,1,0,1,1],[0,0,1,0,1,0,0,1,0,0],[1,0,1,0,1,1,1,1,1,1],[0,1,0,1,1,0,0,0,0,1],[0,0,1,0,1,1,1,0,1,0],[0,1,0,1,0,1,0,0,1,1],[1,0,0,0,1,1,1,1,0,1],[1,1,1,1,1,1,1,0,1,0],[1,1,1,1,0,1,0,0,1,1]])) //
-        print(updateMatrix([[1,1,0,0,1,0,0,1,1,0],[1,0,0,1,0,1,1,1,1,1],[1,1,1,0,0,1,1,1,1,0],[0,1,1,1,0,1,1,1,1,1],[0,0,1,1,1,1,1,1,1,0],[1,1,1,1,1,1,0,1,1,1],[0,1,1,1,1,1,1,0,0,1],[1,1,1,1,1,0,0,1,1,1],[0,1,0,1,1,0,1,1,1,1],[1,1,1,0,1,0,1,1,1,1]]))
+//        print(updateMatrix([[1,0,1,1,0,0,1,0,0,1],[0,1,1,0,1,0,1,0,1,1],[0,0,1,0,1,0,0,1,0,0],[1,0,1,0,1,1,1,1,1,1],[0,1,0,1,1,0,0,0,0,1],[0,0,1,0,1,1,1,0,1,0],[0,1,0,1,0,1,0,0,1,1],[1,0,0,0,1,1,1,1,0,1],[1,1,1,1,1,1,1,0,1,0],[1,1,1,1,0,1,0,0,1,1]])) //
+//        print(updateMatrix([[1,1,0,0,1,0,0,1,1,0],[1,0,0,1,0,1,1,1,1,1],[1,1,1,0,0,1,1,1,1,0],[0,1,1,1,0,1,1,1,1,1],[0,0,1,1,1,1,1,1,1,0],[1,1,1,1,1,1,0,1,1,1],[0,1,1,1,1,1,1,0,0,1],[1,1,1,1,1,0,0,1,1,1],[0,1,0,1,1,0,1,1,1,1],[1,1,1,0,1,0,1,1,1,1]]))
     }
 }
