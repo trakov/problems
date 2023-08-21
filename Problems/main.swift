@@ -1,1 +1,1 @@
-SlidingWindowMaximum().tests()
+RepeatedSubstringPattern().tests()

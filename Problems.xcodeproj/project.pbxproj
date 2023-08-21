@@ -26,6 +26,8 @@
 		8F9EA03B2A1C84580078FC86 /* KthLargestElementInAStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9EA03A2A1C84570078FC86 /* KthLargestElementInAStream.swift */; };
 		8FA5CFF82A6BD01D00D36107 /* KnightProbabilityInChessboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA5CFF72A6BD01D00D36107 /* KnightProbabilityInChessboard.swift */; };
 		8FA5CFFA2A6D04DB00D36107 /* AllPossibleFullBinaryTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA5CFF92A6D04DB00D36107 /* AllPossibleFullBinaryTrees.swift */; };
+		8FB3A5CF2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB3A5CE2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */; };
+		8FB3A5D12A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB3A5D02A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift */; };
 		8FB9B3B82A0BBE8F0073424E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9B3B72A0BBE8F0073424E /* main.swift */; };
 		8FB9B3B92A0BBECA0073424E /* MaxTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB4B6D426FC26F400B40AFC /* MaxTableCell.swift */; };
 		8FB9B3BA2A0BBECA0073424E /* TreeHeight3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD0C11226B523BB00B7505D /* TreeHeight3.swift */; };
@@ -812,6 +814,8 @@
 		8FAA92DE29C064EB006F78FE /* WordLadder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordLadder.swift; sourceTree = "<group>"; };
 		8FAA92E029C1A963006F78FE /* CheckCompletenessOfABinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckCompletenessOfABinaryTree.swift; sourceTree = "<group>"; };
 		8FAA92E229C31BB1006F78FE /* WaterAndJugProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterAndJugProblem.swift; sourceTree = "<group>"; };
+		8FB3A5CE2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift; sourceTree = "<group>"; };
+		8FB3A5D02A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortItemsByGroupsRespectingDependencies.swift; sourceTree = "<group>"; };
 		8FB4B6D426FC26F400B40AFC /* MaxTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxTableCell.swift; sourceTree = "<group>"; };
 		8FB54E742994CDD800942457 /* NamingACompany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamingACompany.swift; sourceTree = "<group>"; };
 		8FB54E76299624D200942457 /* AsFarFromLandAsPossible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsFarFromLandAsPossible.swift; sourceTree = "<group>"; };
@@ -1693,6 +1697,8 @@
 				8FCC13952A85FEA600698582 /* CoinChangeII.swift */,
 				8FCC13A32A878C7900698582 /* UniquePathsII.swift */,
 				8FCC13A52A88D03C00698582 /* CheckIfThereIsAValidPartitionForTheArray.swift */,
+				8FB3A5CE2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */,
+				8FB3A5D02A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -1780,6 +1786,7 @@
 				8FB9B5442A0BBF540073424E /* RangeSumQueryImmutable.swift in Sources */,
 				8FB9B40E2A0BBF2E0073424E /* DetermineWhetherMatrixCanBeObtainedByRotation.swift in Sources */,
 				8FB9B58A2A0BBF5A0073424E /* NumberOfIslands.swift in Sources */,
+				8FB3A5D12A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift in Sources */,
 				8FB9B4DD2A0BBF480073424E /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */,
 				8FB9B50A2A0BBF4E0073424E /* SumOfSubarrayMinimums.swift in Sources */,
 				8FF029B82A1E318B00E1F3BB /* MaximumSubsequenceScore.swift in Sources */,
@@ -2144,6 +2151,7 @@
 				8FB9B3D22A0BBF220073424E /* Dota2Senate.swift in Sources */,
 				8FC102B12A517514005E8289 /* MaximumNumberOfAchievableTransferRequests.swift in Sources */,
 				8FB9B4EF2A0BBF4E0073424E /* SquaresOfASortedArray.swift in Sources */,
+				8FB3A5CF2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift in Sources */,
 				8FB9B4A72A0BBF410073424E /* ContainerWithMostWater2.swift in Sources */,
 				8F0BB7E92A722A1800A72248 /* MaximumRunningTimeOfNComputers.swift in Sources */,
 				8FB9B4752A0BBF3A0073424E /* SerializeAndDeserializeBinaryTree.swift in Sources */,
