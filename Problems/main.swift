@@ -1,1 +1,1 @@
-RepeatedSubstringPattern().tests()
+ExcelSheetColumnTitle().tests()

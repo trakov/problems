@@ -2,7 +2,7 @@ class ExcelSheetColumnTitle {
     let array: [String] = [
         "A", "B", "C", "D", "E", "F", "G", "H", "I", "J",
         "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T",
-        "U", "V", "W", "X", "Y", "Z", "Z",
+        "U", "V", "W", "X", "Y", "Z"
     ]
     
     func convertToTitle(_ columnNumber: Int) -> String {
@@ -10,7 +10,7 @@ class ExcelSheetColumnTitle {
         var result = ""
         while num > 0 {
             let char = array[(num - 1) % 26]
-            result += String(char)
+            result += char
             num = (num - 1) / 26
         }
         return String(result.reversed())
