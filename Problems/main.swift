@@ -1,1 +1,1 @@
-SumOfTwoIntegers().tests()
+CombinationSumIV().tests()
