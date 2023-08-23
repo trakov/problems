@@ -1,6 +1,15 @@
 class SumOfTwoIntegers {
+    func getSumRec(_ a: Int, _ b: Int) -> Int {
+        b == 0 ? a : getSumRec(a ^ b, (a & b) << 1)
+    }
+    
     func getSum(_ a: Int, _ b: Int) -> Int {
-        b == 0 ? a : getSum(a ^ b, (a & b) << 1)
+        var a = a
+        var b = b
+        while b != 0 {
+            (a, b) = (a ^ b, (a & b) << 1)
+        }
+        return a
     }
     
     func tests() {
