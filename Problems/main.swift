@@ -1,1 +1,1 @@
-WordSearchII().tests()
+SumOfTwoIntegers().tests()

@@ -29,6 +29,8 @@
 		8FB3A5CF2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB3A5CE2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */; };
 		8FB3A5D12A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB3A5D02A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift */; };
 		8FB3A5D32A94B44C00EEBECF /* WordSearchII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB3A5D22A94B44C00EEBECF /* WordSearchII.swift */; };
+		8FB3A5D52A95D3F400EEBECF /* ReorganizeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB3A5D42A95D3F400EEBECF /* ReorganizeString.swift */; };
+		8FB3A5D72A95E74C00EEBECF /* SumOfTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB3A5D62A95E74C00EEBECF /* SumOfTwoIntegers.swift */; };
 		8FB9B3B82A0BBE8F0073424E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9B3B72A0BBE8F0073424E /* main.swift */; };
 		8FB9B3B92A0BBECA0073424E /* MaxTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB4B6D426FC26F400B40AFC /* MaxTableCell.swift */; };
 		8FB9B3BA2A0BBECA0073424E /* TreeHeight3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD0C11226B523BB00B7505D /* TreeHeight3.swift */; };
@@ -818,6 +820,8 @@
 		8FB3A5CE2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift; sourceTree = "<group>"; };
 		8FB3A5D02A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortItemsByGroupsRespectingDependencies.swift; sourceTree = "<group>"; };
 		8FB3A5D22A94B44C00EEBECF /* WordSearchII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSearchII.swift; sourceTree = "<group>"; };
+		8FB3A5D42A95D3F400EEBECF /* ReorganizeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorganizeString.swift; sourceTree = "<group>"; };
+		8FB3A5D62A95E74C00EEBECF /* SumOfTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfTwoIntegers.swift; sourceTree = "<group>"; };
 		8FB4B6D426FC26F400B40AFC /* MaxTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxTableCell.swift; sourceTree = "<group>"; };
 		8FB54E742994CDD800942457 /* NamingACompany.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamingACompany.swift; sourceTree = "<group>"; };
 		8FB54E76299624D200942457 /* AsFarFromLandAsPossible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsFarFromLandAsPossible.swift; sourceTree = "<group>"; };
@@ -1702,6 +1706,8 @@
 				8FB3A5CE2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift */,
 				8FB3A5D02A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift */,
 				8FB3A5D22A94B44C00EEBECF /* WordSearchII.swift */,
+				8FB3A5D42A95D3F400EEBECF /* ReorganizeString.swift */,
+				8FB3A5D62A95E74C00EEBECF /* SumOfTwoIntegers.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -1980,6 +1986,7 @@
 				8FB9B56E2A0BBF5A0073424E /* TrappingRainWater.swift in Sources */,
 				8FB9B5842A0BBF5A0073424E /* IntegerToRoman.swift in Sources */,
 				8FB9B3F42A0BBF280073424E /* ProductOfArrayExceptSelf.swift in Sources */,
+				8FB3A5D72A95E74C00EEBECF /* SumOfTwoIntegers.swift in Sources */,
 				8FB9B5522A0BBF540073424E /* SameTree.swift in Sources */,
 				8FB9B4B02A0BBF410073424E /* DesignCircularQueue.swift in Sources */,
 				8FB9B5942A0CDB620073424E /* UncrossedLines.swift in Sources */,
@@ -2221,6 +2228,7 @@
 				8FB9B4272A0BBF2E0073424E /* SortColors.swift in Sources */,
 				8FE0EBC92A3586C9006FC482 /* SnapshotArray.swift in Sources */,
 				8FB9B54E2A0BBF540073424E /* SymmetricTree.swift in Sources */,
+				8FB3A5D52A95D3F400EEBECF /* ReorganizeString.swift in Sources */,
 				8FC102D12A595E01005E8289 /* PutMarblesInBags.swift in Sources */,
 				8FB9B4C62A0BBF480073424E /* ReverseBits.swift in Sources */,
 				8FB9B56C2A0BBF5A0073424E /* PlusOne.swift in Sources */,
