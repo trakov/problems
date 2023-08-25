@@ -1,1 +1,1 @@
-InterleavingString().tests()
+ThreeSum().tests()
