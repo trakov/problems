@@ -1,1 +1,1 @@
-ThreeSum().tests()
+MaximumLengthOfPairChain().tests()
