@@ -1,1 +1,1 @@
-MaximumLengthOfPairChain().tests()
+ImplementStackUsingQueues.MyStack().tests()
