@@ -1,1 +1,1 @@
-ImplementStackUsingQueues.MyStack().tests()
+MinimumPenaltyForAShop().tests()
