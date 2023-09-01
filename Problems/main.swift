@@ -1,1 +1,1 @@
-MinimumPenaltyForAShop().tests()
+MinimumNumberOfTapsToOpenToWaterAGarden().tests()
