@@ -2,7 +2,15 @@ class CountingBits {
     func countBits(_ n: Int) -> [Int] {
         var memo = Array(repeating: 0, count: n + 1)
         for i in 1..<n+1 {
-            memo[i] = memo[i / 2] + i%2
+            memo[i] = memo[i >> 1] + i % 2
+        }
+        return memo
+    }
+
+    func countBits1(_ n: Int) -> [Int] {
+        var memo = Array(repeating: 0, count: n + 1)
+        for i in 1..<n+1 {
+            memo[i] = memo[i / 2] + i % 2
         }
         return memo
     }

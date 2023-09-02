@@ -1,1 +1,1 @@
-MinimumNumberOfTapsToOpenToWaterAGarden().tests()
+CountingBits().tests()
