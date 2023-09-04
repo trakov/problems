@@ -1,1 +1,1 @@
-CountingBits().tests()
+UniquePaths().tests()
