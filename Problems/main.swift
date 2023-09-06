@@ -1,1 +1,1 @@
-UniquePaths().tests()
+SplitLinkedListInParts().tests()
