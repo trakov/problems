@@ -1,1 +1,1 @@
-ReverseLinkedListII().tests()
+PascalsTriangle().tests()

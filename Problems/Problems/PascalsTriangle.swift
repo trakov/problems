@@ -1,5 +1,18 @@
 class PascalsTriangle {
-    func generate(_ numRows: Int) -> [[Int]] {
+    func generate(_ n: Int) -> [[Int]] {
+        var result = [[1]]
+        guard n > 1 else { return result }
+        for i in 2...n {
+            var line = Array(repeating: 1, count: i)
+            for j in 1..<i-1 {
+                line[j] = result[i - 2][j - 1] + result[i - 2][j]
+            }
+            result.append(line)
+        }
+        return result
+    }
+
+    func generate2(_ numRows: Int) -> [[Int]] {
         var result: [[Int]] = []
         
         while result.count != numRows {
@@ -34,8 +47,8 @@ class PascalsTriangle {
     }
 
     func tests() {
-        print(generate(0))
         print(generate(1))
+        print(generate(2))
         print(generate(5)) // [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
     }
 }
