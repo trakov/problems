@@ -1,1 +1,1 @@
-PascalsTriangle().tests()
+CountAllValidPickupAndDeliveryOptions().tests()
