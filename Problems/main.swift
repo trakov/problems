@@ -1,1 +1,1 @@
-CountAllValidPickupAndDeliveryOptions().tests()
+GroupThePeopleGivenTheGroupSizeTheyBelongTo().tests()

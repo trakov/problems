@@ -12,6 +12,7 @@
 		8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */; };
 		8F04242E2AAA249100970AC5 /* ReverseLinkedListII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F04242D2AAA249100970AC5 /* ReverseLinkedListII.swift */; };
 		8F0424312AAE4E4000970AC5 /* CountAllValidPickupAndDeliveryOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424302AAE4E3F00970AC5 /* CountAllValidPickupAndDeliveryOptions.swift */; };
+		8F0424332AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424322AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */; };
 		8F0BB7E72A70E2F000A72248 /* MinimumSpeedToArriveOnTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0BB7E62A70E2F000A72248 /* MinimumSpeedToArriveOnTime.swift */; };
 		8F0BB7E92A722A1800A72248 /* MaximumRunningTimeOfNComputers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0BB7E82A722A1800A72248 /* MaximumRunningTimeOfNComputers.swift */; };
 		8F0BB7EE2A737AF800A72248 /* PredictTheWinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0BB7ED2A737AF800A72248 /* PredictTheWinner.swift */; };
@@ -590,6 +591,7 @@
 		8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListInParts.swift; sourceTree = "<group>"; };
 		8F04242D2AAA249100970AC5 /* ReverseLinkedListII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseLinkedListII.swift; sourceTree = "<group>"; };
 		8F0424302AAE4E3F00970AC5 /* CountAllValidPickupAndDeliveryOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAllValidPickupAndDeliveryOptions.swift; sourceTree = "<group>"; };
+		8F0424322AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift; sourceTree = "<group>"; };
 		8F0BB7E62A70E2F000A72248 /* MinimumSpeedToArriveOnTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSpeedToArriveOnTime.swift; sourceTree = "<group>"; };
 		8F0BB7E82A722A1800A72248 /* MaximumRunningTimeOfNComputers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumRunningTimeOfNComputers.swift; sourceTree = "<group>"; };
 		8F0BB7ED2A737AF800A72248 /* PredictTheWinner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredictTheWinner.swift; sourceTree = "<group>"; };
@@ -1744,6 +1746,7 @@
 				8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */,
 				8F04242D2AAA249100970AC5 /* ReverseLinkedListII.swift */,
 				8F0424302AAE4E3F00970AC5 /* CountAllValidPickupAndDeliveryOptions.swift */,
+				8F0424322AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2192,6 +2195,7 @@
 				8FB9B4F72A0BBF4E0073424E /* OddEvenLinkedList.swift in Sources */,
 				8FC102A52A4BF97D005E8289 /* PathWithMaximumProbability.swift in Sources */,
 				8FB9B4C42A0BBF480073424E /* SumOfDistancesInTree.swift in Sources */,
+				8F0424332AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift in Sources */,
 				8FB9B5532A0BBF540073424E /* BinaryTreePreorderTraversal.swift in Sources */,
 				8FB9B55F2A0BBF540073424E /* MaximumDepthOfBinaryTree.swift in Sources */,
 				8FB9B4882A0BBF410073424E /* NumberOfIslands2.swift in Sources */,
