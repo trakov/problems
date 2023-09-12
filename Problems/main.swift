@@ -1,1 +1,1 @@
-GroupThePeopleGivenTheGroupSizeTheyBelongTo().tests()
+MinimumDeletionsToMakeCharacterFrequenciesUnique().tests()
