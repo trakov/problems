@@ -1,1 +1,1 @@
-MinimumDeletionsToMakeCharacterFrequenciesUnique().tests()
+Candy().tests()
