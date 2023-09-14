@@ -1,1 +1,1 @@
-Candy().tests()
+ReconstructItinerary().tests()
