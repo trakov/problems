@@ -1,1 +1,1 @@
-ReconstructItinerary().tests()
+MinCostToConnectAllPoints().tests()
