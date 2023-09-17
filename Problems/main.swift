@@ -1,1 +1,1 @@
-MinCostToConnectAllPoints().tests()
+PathWithMinimumEffort().tests()
