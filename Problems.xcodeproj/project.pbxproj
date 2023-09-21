@@ -14,6 +14,7 @@
 		8F0424312AAE4E4000970AC5 /* CountAllValidPickupAndDeliveryOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424302AAE4E3F00970AC5 /* CountAllValidPickupAndDeliveryOptions.swift */; };
 		8F0424332AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424322AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */; };
 		8F0555D52AB5C224006AE708 /* PathWithMinimumEffort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0555D42AB5C224006AE708 /* PathWithMinimumEffort.swift */; };
+		8F0555D82ABAB6F2006AE708 /* MinimumOperationsToReduceXToZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0555D72ABAB6F2006AE708 /* MinimumOperationsToReduceXToZero.swift */; };
 		8F05A3E32AB2C42C005ECA47 /* ReconstructItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F05A3E22AB2C42C005ECA47 /* ReconstructItinerary.swift */; };
 		8F05A3E62AB426A1005ECA47 /* MinCostToConnectAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F05A3E52AB426A1005ECA47 /* MinCostToConnectAllPoints.swift */; };
 		8F0BB7E72A70E2F000A72248 /* MinimumSpeedToArriveOnTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0BB7E62A70E2F000A72248 /* MinimumSpeedToArriveOnTime.swift */; };
@@ -598,6 +599,7 @@
 		8F0424302AAE4E3F00970AC5 /* CountAllValidPickupAndDeliveryOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAllValidPickupAndDeliveryOptions.swift; sourceTree = "<group>"; };
 		8F0424322AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift; sourceTree = "<group>"; };
 		8F0555D42AB5C224006AE708 /* PathWithMinimumEffort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathWithMinimumEffort.swift; sourceTree = "<group>"; };
+		8F0555D72ABAB6F2006AE708 /* MinimumOperationsToReduceXToZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationsToReduceXToZero.swift; sourceTree = "<group>"; };
 		8F05A3E22AB2C42C005ECA47 /* ReconstructItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReconstructItinerary.swift; sourceTree = "<group>"; };
 		8F05A3E52AB426A1005ECA47 /* MinCostToConnectAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostToConnectAllPoints.swift; sourceTree = "<group>"; };
 		8F0BB7E62A70E2F000A72248 /* MinimumSpeedToArriveOnTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSpeedToArriveOnTime.swift; sourceTree = "<group>"; };
@@ -1762,6 +1764,7 @@
 				8F05A3E22AB2C42C005ECA47 /* ReconstructItinerary.swift */,
 				8F05A3E52AB426A1005ECA47 /* MinCostToConnectAllPoints.swift */,
 				8F0555D42AB5C224006AE708 /* PathWithMinimumEffort.swift */,
+				8F0555D72ABAB6F2006AE708 /* MinimumOperationsToReduceXToZero.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -1972,6 +1975,7 @@
 				8F3037BB2A98C18100C71BCB /* InterleavingString.swift in Sources */,
 				8FB9B4B32A0BBF480073424E /* BackspaceStringCompare.swift in Sources */,
 				8FB9B40B2A0BBF2E0073424E /* RotateImage.swift in Sources */,
+				8F0555D82ABAB6F2006AE708 /* MinimumOperationsToReduceXToZero.swift in Sources */,
 				8F0555D52AB5C224006AE708 /* PathWithMinimumEffort.swift in Sources */,
 				8FB9B44F2A0BBF340073424E /* MinimumDistanceBetweenBSTNodes.swift in Sources */,
 				8FB9B3E22A0BBF280073424E /* SpiralMatrixII.swift in Sources */,

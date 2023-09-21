@@ -1,1 +1,1 @@
-PathWithMinimumEffort().tests()
+MinimumOperationsToReduceXToZero().tests()
