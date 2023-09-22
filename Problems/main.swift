@@ -1,1 +1,1 @@
-MinimumOperationsToReduceXToZero().tests()
+IsSubsequence().tests()
