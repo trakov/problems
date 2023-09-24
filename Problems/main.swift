@@ -1,1 +1,1 @@
-IsSubsequence().tests()
+LongestStringChain().tests()
