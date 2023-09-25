@@ -1,1 +1,1 @@
-ChampagneTower().tests()
+FindTheDifference().tests()
