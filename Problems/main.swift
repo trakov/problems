@@ -1,1 +1,1 @@
-LongestStringChain().tests()
+ChampagneTower().tests()
