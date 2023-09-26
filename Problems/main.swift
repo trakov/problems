@@ -1,1 +1,1 @@
-FindTheDifference().tests()
+RemoveDuplicateLetters().tests()

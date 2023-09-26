@@ -32,6 +32,8 @@
 		8F3037BF2A9BC03400C71BCB /* FrogJump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3037BE2A9BC03400C71BCB /* FrogJump.swift */; };
 		8F3037C12A9DAC0B00C71BCB /* MinimumPenaltyForAShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3037C02A9DAC0B00C71BCB /* MinimumPenaltyForAShop.swift */; };
 		8F3037C32A9F191E00C71BCB /* MinimumReplacementsToSortTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3037C22A9F191E00C71BCB /* MinimumReplacementsToSortTheArray.swift */; };
+		8F41111F2AC29FB7001E0804 /* RemoveDuplicateLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F41111E2AC29FB7001E0804 /* RemoveDuplicateLetters.swift */; };
+		8F4111212AC2A376001E0804 /* SmallestSubsequenceOfDistinctCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4111202AC2A376001E0804 /* SmallestSubsequenceOfDistinctCharacters.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -675,6 +677,8 @@
 		8F3466B029CF15C400A8433E /* CountUnreachablePairsOfNodesInAnUndirectedGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUnreachablePairsOfNodesInAnUndirectedGraph.swift; sourceTree = "<group>"; };
 		8F34ACDE26C92DE700BB8819 /* LetterCombinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCombinations.swift; sourceTree = "<group>"; };
 		8F34ACE226CB646700BB8819 /* MergeIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeIntervals.swift; sourceTree = "<group>"; };
+		8F41111E2AC29FB7001E0804 /* RemoveDuplicateLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicateLetters.swift; sourceTree = "<group>"; };
+		8F4111202AC2A376001E0804 /* SmallestSubsequenceOfDistinctCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestSubsequenceOfDistinctCharacters.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -1774,6 +1778,8 @@
 				8FD5EA842ABC1A3800F47EDD /* MedianOfTwoSortedArrays.swift */,
 				8FD5EA932ABEAF1500F47EDD /* LongestStringChain.swift */,
 				8FD5EA952ABFFC3300F47EDD /* ChampagneTower.swift */,
+				8F41111E2AC29FB7001E0804 /* RemoveDuplicateLetters.swift */,
+				8F4111202AC2A376001E0804 /* SmallestSubsequenceOfDistinctCharacters.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2061,6 +2067,7 @@
 				8FB9B5842A0BBF5A0073424E /* IntegerToRoman.swift in Sources */,
 				8FB9B3F42A0BBF280073424E /* ProductOfArrayExceptSelf.swift in Sources */,
 				8FB3A5D72A95E74C00EEBECF /* SumOfTwoIntegers.swift in Sources */,
+				8F4111212AC2A376001E0804 /* SmallestSubsequenceOfDistinctCharacters.swift in Sources */,
 				8FB9B5522A0BBF540073424E /* SameTree.swift in Sources */,
 				8FB9B4B02A0BBF410073424E /* DesignCircularQueue.swift in Sources */,
 				8FB9B5942A0CDB620073424E /* UncrossedLines.swift in Sources */,
@@ -2070,6 +2077,7 @@
 				8FB9B4692A0BBF3A0073424E /* SpecialArrayWithXElementsGreaterThanOrEqualX.swift in Sources */,
 				8FB9B4CE2A0BBF480073424E /* MaxAreaOfIsland.swift in Sources */,
 				8FB9B4D42A0BBF480073424E /* SearchInABinarySearchTree.swift in Sources */,
+				8F41111F2AC29FB7001E0804 /* RemoveDuplicateLetters.swift in Sources */,
 				8FB9B4522A0BBF340073424E /* MinimizeDeviationInArray.swift in Sources */,
 				8FB9B4542A0BBF340073424E /* GenerateParentheses.swift in Sources */,
 				8FB9B47A2A0BBF3A0073424E /* PalindromePartitioning.swift in Sources */,
