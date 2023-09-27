@@ -1,1 +1,1 @@
-RemoveDuplicateLetters().tests()
+DecodedStringAtIndex().tests()
