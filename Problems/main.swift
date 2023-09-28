@@ -1,1 +1,1 @@
-DecodedStringAtIndex().tests()
+SortArrayByParity().tests()
