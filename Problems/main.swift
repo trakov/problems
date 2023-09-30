@@ -1,1 +1,1 @@
-SortArrayByParity().tests()
+One32Pattern().tests()
