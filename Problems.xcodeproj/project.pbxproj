@@ -37,6 +37,7 @@
 		8F4111242AC3F4D5001E0804 /* DecodedStringAtIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4111232AC3F4D5001E0804 /* DecodedStringAtIndex.swift */; };
 		8F4111292AC552F8001E0804 /* SortArrayByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4111282AC552F8001E0804 /* SortArrayByParity.swift */; };
 		8F41112F2AC887FA001E0804 /* One32Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F41112E2AC887FA001E0804 /* One32Pattern.swift */; };
+		8F4111312ACA8449001E0804 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4111302ACA8448001E0804 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -685,6 +686,7 @@
 		8F4111232AC3F4D5001E0804 /* DecodedStringAtIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodedStringAtIndex.swift; sourceTree = "<group>"; };
 		8F4111282AC552F8001E0804 /* SortArrayByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArrayByParity.swift; sourceTree = "<group>"; };
 		8F41112E2AC887FA001E0804 /* One32Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = One32Pattern.swift; sourceTree = "<group>"; };
+		8F4111302ACA8448001E0804 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -1789,6 +1791,7 @@
 				8F4111232AC3F4D5001E0804 /* DecodedStringAtIndex.swift */,
 				8F4111282AC552F8001E0804 /* SortArrayByParity.swift */,
 				8F41112E2AC887FA001E0804 /* One32Pattern.swift */,
+				8F4111302ACA8448001E0804 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2246,6 +2249,7 @@
 				8FB9B4F72A0BBF4E0073424E /* OddEvenLinkedList.swift in Sources */,
 				8FC102A52A4BF97D005E8289 /* PathWithMaximumProbability.swift in Sources */,
 				8FB9B4C42A0BBF480073424E /* SumOfDistancesInTree.swift in Sources */,
+				8F4111312ACA8449001E0804 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift in Sources */,
 				8F0424332AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift in Sources */,
 				8FB9B5532A0BBF540073424E /* BinaryTreePreorderTraversal.swift in Sources */,
 				8FB9B55F2A0BBF540073424E /* MaximumDepthOfBinaryTree.swift in Sources */,

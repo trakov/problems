@@ -1,1 +1,1 @@
-One32Pattern().tests()
+RemoveColoredPiecesIfBothNeighborsAreTheSameColor().tests()
