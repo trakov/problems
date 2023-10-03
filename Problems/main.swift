@@ -1,1 +1,1 @@
-RemoveColoredPiecesIfBothNeighborsAreTheSameColor().tests()
+NumberOfGoodPairs().tests()
