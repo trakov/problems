@@ -1,1 +1,1 @@
-NumberOfGoodPairs().tests()
+MajorityElementII().tests()
