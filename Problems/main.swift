@@ -1,1 +1,1 @@
-MajorityElementII().tests()
+IntegerBreak().tests()
