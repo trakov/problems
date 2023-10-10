@@ -1,1 +1,1 @@
-BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons().tests()
+MaxDotProductOfTwoSubsequences().tests()
