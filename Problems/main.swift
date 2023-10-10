@@ -1,1 +1,1 @@
-MaxDotProductOfTwoSubsequences().tests()
+MinimumNumberOfOperationsToMakeArrayContinuous().tests()

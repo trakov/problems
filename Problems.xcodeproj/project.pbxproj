@@ -42,6 +42,7 @@
 		8F41113A2ACF16EE001E0804 /* MajorityElementII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4111392ACF16EE001E0804 /* MajorityElementII.swift */; };
 		8F41113C2AD0DB2C001E0804 /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F41113B2AD0DB2C001E0804 /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift */; };
 		8F41113E2AD2E673001E0804 /* MaxDotProductOfTwoSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F41113D2AD2E672001E0804 /* MaxDotProductOfTwoSubsequences.swift */; };
+		8F4111402AD4D149001E0804 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F41113F2AD4D149001E0804 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -695,6 +696,7 @@
 		8F4111392ACF16EE001E0804 /* MajorityElementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElementII.swift; sourceTree = "<group>"; };
 		8F41113B2AD0DB2C001E0804 /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift; sourceTree = "<group>"; };
 		8F41113D2AD2E672001E0804 /* MaxDotProductOfTwoSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxDotProductOfTwoSubsequences.swift; sourceTree = "<group>"; };
+		8F41113F2AD4D149001E0804 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMakeArrayContinuous.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -1804,6 +1806,7 @@
 				8F4111392ACF16EE001E0804 /* MajorityElementII.swift */,
 				8F41113B2AD0DB2C001E0804 /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift */,
 				8F41113D2AD2E672001E0804 /* MaxDotProductOfTwoSubsequences.swift */,
+				8F41113F2AD4D149001E0804 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2071,6 +2074,7 @@
 				8FC102922A418763005E8289 /* KRadiusSubarrayAverages.swift in Sources */,
 				8F3037C12A9DAC0B00C71BCB /* MinimumPenaltyForAShop.swift in Sources */,
 				8FB9B5102A0BBF4E0073424E /* SearchA2DMatrix.swift in Sources */,
+				8F4111402AD4D149001E0804 /* MinimumNumberOfOperationsToMakeArrayContinuous.swift in Sources */,
 				8FB9B41B2A0BBF2E0073424E /* JumpGameIII.swift in Sources */,
 				8FC102A12A49D41E005E8289 /* FindAllDuplicatesInAnArray.swift in Sources */,
 				8FB9B4972A0BBF410073424E /* MinStack.swift in Sources */,
