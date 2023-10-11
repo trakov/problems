@@ -1,1 +1,1 @@
-MinimumNumberOfOperationsToMakeArrayContinuous().tests()
+NumberOfFlowersInFullBloom().tests()
