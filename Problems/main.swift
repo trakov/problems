@@ -1,1 +1,1 @@
-PaintingTheWalls().tests()
+NumberOfWaysToStayInTheSamePlaceAfterSomeSteps().tests()
