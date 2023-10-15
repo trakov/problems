@@ -1,1 +1,1 @@
-FindInMountainArray().tests()
+PaintingTheWalls().tests()
