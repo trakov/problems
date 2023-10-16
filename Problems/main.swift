@@ -1,1 +1,1 @@
-NumberOfWaysToStayInTheSamePlaceAfterSomeSteps().tests()
+PascalsTriangle2().tests()

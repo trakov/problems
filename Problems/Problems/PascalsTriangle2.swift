@@ -1,5 +1,14 @@
 class PascalsTriangle2 {
     func getRow(_ rowIndex: Int) -> [Int] {
+        guard rowIndex > 0 else { return [1] }
+        var result = Array(repeating: 1, count: rowIndex + 1)
+        for i in 1...rowIndex {
+            result[i] = result[i-1] * (rowIndex - i + 1) / i
+        }
+        return result
+    }
+
+    func getRow2(_ rowIndex: Int) -> [Int] {
         if rowIndex == 0 { return [1] }
         if rowIndex == 1 { return [1, 1] }
         var result: [Int] = [1]
