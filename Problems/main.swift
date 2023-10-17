@@ -1,1 +1,1 @@
-PascalsTriangle2().tests()
+ValidateBinaryTreeNodes().tests()
