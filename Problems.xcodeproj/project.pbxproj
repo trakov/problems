@@ -49,6 +49,8 @@
 		8F4111422AD6355C001E0804 /* NumberOfFlowersInFullBloom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4111412AD6355C001E0804 /* NumberOfFlowersInFullBloom.swift */; };
 		8F4111442AD7919B001E0804 /* FindInMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4111432AD7919B001E0804 /* FindInMountainArray.swift */; };
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
+		8F9091592AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9091582AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift */; };
+		8F90915B2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F90915A2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -846,6 +848,8 @@
 		8F86AD34292B68C700C403C0 /* LongestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome.swift; sourceTree = "<group>"; };
 		8F86AD36292B6EBF00C403C0 /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 		8F8EAA2F2872B28200A0DCF4 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
+		8F9091582AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstrainedSubsequenceSum.swift; sourceTree = "<group>"; };
+		8F90915A2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreOfAGoodSubarray.swift; sourceTree = "<group>"; };
 		8F9C9AC92757F00400CA1FF0 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChange.swift; sourceTree = "<group>"; };
@@ -1825,6 +1829,8 @@
 				8F3493FE2ADBA71C00932B1F /* NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.swift */,
 				8F3494002ADE33E600932B1F /* ValidateBinaryTreeNodes.swift */,
 				8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */,
+				8F9091582AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift */,
+				8F90915A2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2090,6 +2096,7 @@
 				8FB9B4BF2A0BBF480073424E /* WhereWillTheBallFall.swift in Sources */,
 				8FB9B4202A0BBF2E0073424E /* MinimumScoreOfAPathBetweenTwoCities.swift in Sources */,
 				8FB9B3BD2A0BBECA0073424E /* CourseParenthesis.swift in Sources */,
+				8F90915B2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift in Sources */,
 				8F41113A2ACF16EE001E0804 /* MajorityElementII.swift in Sources */,
 				8FB9B4812A0BBF3A0073424E /* FruitIntoBaskets.swift in Sources */,
 				8FB9B45A2A0BBF340073424E /* CountSubarraysWithFixedBounds.swift in Sources */,
@@ -2298,6 +2305,7 @@
 				8FB9B4832A0BBF3A0073424E /* TheKWeakestRowsInAMatrix.swift in Sources */,
 				8FB9B58F2A0BBF5A0073424E /* AddBinary.swift in Sources */,
 				8FB9B4862A0BBF410073424E /* PathSumIII.swift in Sources */,
+				8F9091592AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift in Sources */,
 				8FB9B42A2A0BBF2E0073424E /* ReducingDishes.swift in Sources */,
 				8FB9B4482A0BBF340073424E /* CheckIfNandItsDoubleExist.swift in Sources */,
 				8FB9B4592A0BBF340073424E /* FindTheIndexOfTheFirstOccurrenceInAString.swift in Sources */,

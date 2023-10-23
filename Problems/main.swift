@@ -1,1 +1,1 @@
-ParallelCoursesIII().tests()
+MaximumScoreOfAGoodSubarray().tests()
