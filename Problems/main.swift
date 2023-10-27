@@ -1,1 +1,1 @@
-KthSymbolInGrammar().tests()
+BinaryTreesWithFactors().tests()
