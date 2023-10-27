@@ -1,1 +1,1 @@
-BinaryTreesWithFactors().tests()
+LongestPalindromicSubstring().tests()
