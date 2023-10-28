@@ -1,1 +1,1 @@
-LongestPalindromicSubstring().tests()
+CountVowelsPermutation().tests()
