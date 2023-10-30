@@ -1,1 +1,1 @@
-CountVowelsPermutation().tests()
+PoorPigs().tests()
