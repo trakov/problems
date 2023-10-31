@@ -1,1 +1,1 @@
-PoorPigs().tests()
+FindTheOriginalArrayOfPrefixXor().tests()
