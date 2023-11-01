@@ -1,1 +1,1 @@
-FindTheOriginalArrayOfPrefixXor().tests()
+FindModeInBinarySearchTree().tests()
