@@ -1,1 +1,1 @@
-FindModeInBinarySearchTree().tests()
+CountNodesEqualToAverageOfSubtree().tests()
