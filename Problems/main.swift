@@ -1,1 +1,1 @@
-CountNodesEqualToAverageOfSubtree().tests()
+BuildAnArrayWithStackOperations().tests()
