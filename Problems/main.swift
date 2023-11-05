@@ -1,1 +1,1 @@
-MaximumProfitInJobScheduling().tests()
+LongestPalindromicSubstring().tests()

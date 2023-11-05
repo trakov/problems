@@ -1,5 +1,35 @@
 class LongestPalindromicSubstring {
     func longestPalindrome(_ s: String) -> String {
+        let n = s.count
+        guard n > 1 else { return s }
+        let s = Array(s)
+        func lr(_ i: Int, _ j: Int) -> (Int, Int) {
+            var l = i
+            var r = j
+            while l >= 0, r < n, s[l] == s[r] {
+                l -= 1
+                r += 1
+            }
+            return (l + 1, r - 1)
+        }
+        var left = 0
+        var right = 0
+        for i in 0..<n {
+            var (l, r) = lr(i, i)
+            if r - l > right - left {
+                right = r
+                left = l
+            }
+            (l, r) = lr(i, i + 1)
+            if r - l > right - left {
+                right = r
+                left = l
+            }
+        }
+        return String(s[left...right])
+    }
+    
+    func longestPalindrome0(_ s: String) -> String {
         guard s.count > 1 else { return s }
         let s = Array(s)
         func expand(_ i: Int, _ j: Int) -> Int {
@@ -30,7 +60,7 @@ class LongestPalindromicSubstring {
         }
         return String(s[left...right])
     }
-
+    
     func longestPalindrome2(_ s: String) -> String {
         guard s.count > 1 else { return s }
         let s = Array(s)
@@ -49,7 +79,7 @@ class LongestPalindromicSubstring {
         }
         return String(s[left...right])
     }
-
+    
     func tests() {
         print(longestPalindrome("babad")) // bab // aba
         print(longestPalindrome("cbbd")) // bb
