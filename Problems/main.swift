@@ -1,1 +1,1 @@
-LastMomentBeforeAllAntsFallOutOfAPlank().tests()
+FindTheWinnerOfAnArrayGame().tests()

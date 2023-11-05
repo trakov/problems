@@ -558,6 +558,7 @@
 		8FBDAC1C2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC1B2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift */; };
 		8FBDAC1E2AF4BA82009335A3 /* BuildAnArrayWithStackOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC1D2AF4BA82009335A3 /* BuildAnArrayWithStackOperations.swift */; };
 		8FBDAC202AF623A3009335A3 /* LastMomentBeforeAllAntsFallOutOfAPlank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC1F2AF623A3009335A3 /* LastMomentBeforeAllAntsFallOutOfAPlank.swift */; };
+		8FBDAC222AF75D85009335A3 /* FindTheWinnerOfAnArrayGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC212AF75D85009335A3 /* FindTheWinnerOfAnArrayGame.swift */; };
 		8FC102862A3C370E005E8289 /* NumberOfWaysToReorderArrayToGetSameBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC102852A3C370E005E8289 /* NumberOfWaysToReorderArrayToGetSameBST.swift */; };
 		8FC1028C2A3E3A7F005E8289 /* MakeArrayStrictlyIncreasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC1028B2A3E3A7F005E8289 /* MakeArrayStrictlyIncreasing.swift */; };
 		8FC1028E2A3F2E96005E8289 /* NumberOfIncreasingPathsInAGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC1028D2A3F2E96005E8289 /* NumberOfIncreasingPathsInAGrid.swift */; };
@@ -972,6 +973,7 @@
 		8FBDAC1B2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNodesEqualToAverageOfSubtree.swift; sourceTree = "<group>"; };
 		8FBDAC1D2AF4BA82009335A3 /* BuildAnArrayWithStackOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildAnArrayWithStackOperations.swift; sourceTree = "<group>"; };
 		8FBDAC1F2AF623A3009335A3 /* LastMomentBeforeAllAntsFallOutOfAPlank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastMomentBeforeAllAntsFallOutOfAPlank.swift; sourceTree = "<group>"; };
+		8FBDAC212AF75D85009335A3 /* FindTheWinnerOfAnArrayGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheWinnerOfAnArrayGame.swift; sourceTree = "<group>"; };
 		8FC01F2D29A73C520086CDB9 /* IPO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPO.swift; sourceTree = "<group>"; };
 		8FC01F5629A88A620086CDB9 /* MinimizeDeviationInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeDeviationInArray.swift; sourceTree = "<group>"; };
 		8FC01F5829A8A42D0086CDB9 /* WordBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak.swift; sourceTree = "<group>"; };
@@ -1861,6 +1863,7 @@
 				8FBDAC1B2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift */,
 				8FBDAC1D2AF4BA82009335A3 /* BuildAnArrayWithStackOperations.swift */,
 				8FBDAC1F2AF623A3009335A3 /* LastMomentBeforeAllAntsFallOutOfAPlank.swift */,
+				8FBDAC212AF75D85009335A3 /* FindTheWinnerOfAnArrayGame.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2010,6 +2013,7 @@
 				8FF029EC2A270F5F00E1F3BB /* DesignUndergroundSystem.swift in Sources */,
 				8FB9B5582A0BBF540073424E /* ErectЕheFence.swift in Sources */,
 				8FB9B4602A0BBF3A0073424E /* CloneGraph.swift in Sources */,
+				8FBDAC222AF75D85009335A3 /* FindTheWinnerOfAnArrayGame.swift in Sources */,
 				8FB9B4392A0BBF340073424E /* BestTimeToBuyAndSellStockWithTransactionFee.swift in Sources */,
 				8F4111332ACBDC87001E0804 /* NumberOfGoodPairs.swift in Sources */,
 				8FE0EBAE2A29B40B006FC482 /* DetonateTheMaximumBombs.swift in Sources */,
