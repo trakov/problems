@@ -1,1 +1,1 @@
-FindTheWinnerOfAnArrayGame().tests()
+MaximumProfitInJobScheduling().tests()
