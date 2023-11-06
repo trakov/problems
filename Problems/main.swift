@@ -1,1 +1,1 @@
-MergeKSortedLists().tests()
+SpiralMatrix().tests()

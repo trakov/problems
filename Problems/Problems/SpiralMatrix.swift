@@ -1,5 +1,43 @@
 class SpiralMatrix {
     func spiralOrder(_ matrix: [[Int]]) -> [Int] {
+        let n = matrix.count
+        let m = matrix[0].count
+        var result = Array(repeating: 0, count: n * m)
+        var left = 0
+        var right = m - 1
+        var top = 0
+        var bottom = n - 1
+        var k = 0
+        while true {
+            for i in stride(from: left, through: right, by: 1) {
+                result[k] = matrix[top][i]
+                k += 1
+            }
+            guard k < n * m else { break }
+            top += 1
+            for i in stride(from: top, through: bottom, by: 1) {
+                result[k] = matrix[i][right]
+                k += 1
+            }
+            guard k < n * m else { break }
+            right -= 1
+            for i in stride(from: right, through: left, by: -1) {
+                result[k] = matrix[bottom][i]
+                k += 1
+            }
+            guard k < n * m else { break }
+            bottom -= 1
+            for i in stride(from: bottom, through: top, by: -1) {
+                result[k] = matrix[i][left]
+                k += 1
+            }
+            guard k < n * m else { break }
+            left += 1
+        }
+        return result
+    }
+    
+    func spiralOrder1(_ matrix: [[Int]]) -> [Int] {
         let m = matrix.count
         guard let n = matrix.first?.count else { return [] }
         var x = 0
