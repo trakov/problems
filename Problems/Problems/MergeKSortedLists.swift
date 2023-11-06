@@ -1,5 +1,53 @@
 class MergeKSortedLists {
     func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
+        var values: [Int] = []
+        for list in lists {
+            var node = list
+            while node != nil {
+                values.append(node!.val)
+                node = node?.next
+            }
+        }
+        values.sort()
+        let dummy = ListNode(0)
+        var node: ListNode? = dummy
+        for value in values {
+            node?.next = ListNode(value)
+            node = node?.next
+        }
+        return dummy.next
+    }
+    
+    func mergeKLists0(_ lists: [ListNode?]) -> ListNode? {
+        guard lists.count > 1 else { return lists.first ?? nil }
+        func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
+            guard list1 != nil else { return list2 }
+            guard list2 != nil else { return list1 }
+            var n1 = list1
+            var n2 = list2
+            let dummy = ListNode(0)
+            var node: ListNode? = dummy
+            while n1 != nil && n2 != nil {
+                if n1!.val <= n2!.val {
+                    node?.next = n1
+                    n1 = n1?.next
+                } else {
+                    node?.next = n2
+                    n2 = n2?.next
+                }
+                node = node?.next
+            }
+            node?.next = n1 ?? n2
+            return dummy.next
+        }
+        var head = lists.first!
+        for list in lists.dropFirst() {
+            head = mergeTwoLists(head, list)
+        }
+        return head
+    }
+    
+    func mergeKLists1(_ lists: [ListNode?]) -> ListNode? {
         var sortedLists = lists.compactMap { $0 }.sorted { l1, l2 in
             return l1.val <= l2.val
         }

@@ -1,1 +1,1 @@
-Merge2SortedLists().tests()
+MergeKSortedLists().tests()
