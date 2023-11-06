@@ -1,4 +1,25 @@
 class Merge2SortedLists {
+    func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
+        guard list1 != nil else { return list2 }
+        guard list2 != nil else { return list1 }
+        var n1 = list1
+        var n2 = list2
+        let dummy = ListNode(0)
+        var node: ListNode? = dummy
+        while n1 != nil && n2 != nil {
+            if n1!.val <= n2!.val {
+                node?.next = n1
+                n1 = n1?.next
+            } else {
+                node?.next = n2
+                n2 = n2?.next
+            }
+            node = node?.next
+        }
+        node?.next = n1 ?? n2
+        return dummy.next
+    }
+
     func mergeTwoLists3(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var n1 = l1
         var n2 = l2
@@ -33,32 +54,7 @@ class Merge2SortedLists {
         return result.next?.next
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+    func mergeTwoLists2(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var tail1 = l1
         var tail2 = l2
         var result: ListNode?

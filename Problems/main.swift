@@ -1,1 +1,1 @@
-LongestPalindromicSubstring().tests()
+Merge2SortedLists().tests()
