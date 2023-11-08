@@ -1,5 +1,47 @@
 class SetMatrixZeroes {
     func setZeroes(_ matrix: inout [[Int]]) {
+        let n = matrix.count
+        let m = matrix[0].count
+        var zeroRow = false
+        var zeroCol = false
+        // should first column be zero
+        for i in 0..<n where matrix[i][0] == 0 {
+            zeroCol = true
+            break
+        }
+        // should first row be zero
+        for j in 0..<m where matrix[0][j] == 0 {
+            zeroRow = true
+            break
+        }
+        // zero values in the first col and first row
+        for i in 1..<n {
+            for j in 1..<m where matrix[i][j] == 0 {
+                matrix[i][0] = 0
+                matrix[0][j] = 0
+            }
+        }
+        // zero others elements if their first col or row element is zero
+        for i in 1..<n {
+            for j in 1..<m where matrix[i][0] == 0 || matrix[0][j] == 0 {
+                matrix[i][j] = 0
+            }
+        }
+        // zero first column if needed
+        if zeroCol {
+            for i in 0..<n {
+                matrix[i][0] = 0
+            }
+        }
+        // zero first column if needed
+        if zeroRow {
+            for j in 0..<m {
+                matrix[0][j] = 0
+            }
+        }
+    }
+    
+    func setZeroes1(_ matrix: inout [[Int]]) {
         var columnsToZero: Set<Int> = []
         let n = matrix.count
         let m = matrix[0].count

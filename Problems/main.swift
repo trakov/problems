@@ -1,1 +1,1 @@
-InsertInterval().tests()
+SetMatrixZeroes().tests()
