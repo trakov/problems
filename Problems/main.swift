@@ -1,1 +1,1 @@
-EliminateMaximumNumberOfMonsters().tests()
+DetermineIfACellIsReachableAtAGivenTime().tests()
