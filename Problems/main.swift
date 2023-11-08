@@ -1,1 +1,1 @@
-SpiralMatrix().tests()
+EliminateMaximumNumberOfMonsters().tests()
