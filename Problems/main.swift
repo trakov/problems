@@ -1,1 +1,1 @@
-MinimumWindowSubstring().tests()
+CountNumberOfHomogenousSubstrings().tests()
