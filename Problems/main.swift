@@ -1,1 +1,1 @@
-CountNumberOfHomogenousSubstrings().tests()
+RestoreTheArrayFromAdjacentPairs().tests()
