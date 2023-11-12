@@ -1,1 +1,1 @@
-RestoreTheArrayFromAdjacentPairs().tests()
+DesignGraphWithShortestPathCalculator().tests()
