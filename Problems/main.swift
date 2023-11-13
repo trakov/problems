@@ -1,1 +1,1 @@
-DesignGraphWithShortestPathCalculator().tests()
+SortVowelsInAString().tests()
