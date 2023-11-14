@@ -1,1 +1,1 @@
-SortVowelsInAString().tests()
+UniqueLength3PalindromicSubsequences().tests()
