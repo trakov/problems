@@ -1,1 +1,1 @@
-MaximumElementAfterDecreasingAndRearranging().tests()
+FindUniqueBinaryString().tests()
