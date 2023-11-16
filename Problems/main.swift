@@ -1,1 +1,1 @@
-UniqueLength3PalindromicSubsequences().tests()
+MaximumElementAfterDecreasingAndRearranging().tests()

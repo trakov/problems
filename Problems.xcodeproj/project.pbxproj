@@ -618,6 +618,7 @@
 		8FF029DE2A21C0D900E1F3BB /* StoneGameIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF029DD2A21C0D900E1F3BB /* StoneGameIII.swift */; };
 		8FF029E02A23E46500E1F3BB /* MinimumCostToCutAStick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF029DF2A23E46500E1F3BB /* MinimumCostToCutAStick.swift */; };
 		8FF029EC2A270F5F00E1F3BB /* DesignUndergroundSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF029EB2A270F5F00E1F3BB /* DesignUndergroundSystem.swift */; };
+		8FF5A4952B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -1091,6 +1092,7 @@
 		8FF029DD2A21C0D900E1F3BB /* StoneGameIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoneGameIII.swift; sourceTree = "<group>"; };
 		8FF029DF2A23E46500E1F3BB /* MinimumCostToCutAStick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostToCutAStick.swift; sourceTree = "<group>"; };
 		8FF029EB2A270F5F00E1F3BB /* DesignUndergroundSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignUndergroundSystem.swift; sourceTree = "<group>"; };
+		8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumElementAfterDecreasingAndRearranging.swift; sourceTree = "<group>"; };
 		8FF65C592A02257600B98D49 /* FindTheDifferenceOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDifferenceOfTwoArrays.swift; sourceTree = "<group>"; };
 		8FF65C5B2A022BE300B98D49 /* LinkedListInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListInBinaryTree.swift; sourceTree = "<group>"; };
 		8FF65C5D2A0389C000B98D49 /* Dota2Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dota2Senate.swift; sourceTree = "<group>"; };
@@ -1888,6 +1890,7 @@
 				8F0907D82AFF7C99003959BC /* DesignGraphWithShortestPathCalculator.swift */,
 				8F0907DA2B01E9BD003959BC /* SortVowelsInAString.swift */,
 				8F0907DC2B033B95003959BC /* UniqueLength3PalindromicSubsequences.swift */,
+				8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2201,6 +2204,7 @@
 				8FB9B5822A0BBF5A0073424E /* CrawlerLogFolder.swift in Sources */,
 				8FB9B4A92A0BBF410073424E /* MaximumProductSubarray.swift in Sources */,
 				8FB9B5492A0BBF540073424E /* RansomNote.swift in Sources */,
+				8FF5A4952B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift in Sources */,
 				8FB9B4692A0BBF3A0073424E /* SpecialArrayWithXElementsGreaterThanOrEqualX.swift in Sources */,
 				8FB9B4CE2A0BBF480073424E /* MaxAreaOfIsland.swift in Sources */,
 				8FB9B4D42A0BBF480073424E /* SearchInABinarySearchTree.swift in Sources */,
