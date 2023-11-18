@@ -1,1 +1,1 @@
-FindUniqueBinaryString().tests()
+MinimizeMaximumPairSumInArray().tests()
