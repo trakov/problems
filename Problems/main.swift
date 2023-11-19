@@ -1,1 +1,1 @@
-MinimizeMaximumPairSumInArray().tests()
+FrequencyOfTheMostFrequentElement().tests()
