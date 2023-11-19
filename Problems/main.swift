@@ -1,1 +1,1 @@
-FrequencyOfTheMostFrequentElement().tests()
+ReductionOperationsToMakeTheArrayElementsEqual().tests()
