@@ -1,1 +1,1 @@
-ReductionOperationsToMakeTheArrayElementsEqual().tests()
+MinimumAmountOfTimeToCollectGarbage().tests()
