@@ -1,1 +1,1 @@
-MinimumAmountOfTimeToCollectGarbage().tests()
+CountNicePairsInAnArray().tests()
