@@ -1,1 +1,1 @@
-CountNicePairsInAnArray().tests()
+DiagonalTraverseII().tests()
