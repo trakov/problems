@@ -1,1 +1,1 @@
-DiagonalTraverseII().tests()
+MaximumNumberOfCoinsYouCanGet().tests()

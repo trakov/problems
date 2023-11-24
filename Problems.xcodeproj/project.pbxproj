@@ -626,6 +626,7 @@
 		8FF5A49F2B0B25AD00C11D6D /* MinimumAmountOfTimeToCollectGarbage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A49E2B0B25AD00C11D6D /* MinimumAmountOfTimeToCollectGarbage.swift */; };
 		8FF5A4A12B0CB47D00C11D6D /* CountNicePairsInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4A02B0CB47D00C11D6D /* CountNicePairsInAnArray.swift */; };
 		8FF5A4A32B0DE7D900C11D6D /* DiagonalTraverseII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4A22B0DE7D900C11D6D /* DiagonalTraverseII.swift */; };
+		8FF5A4A52B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4A42B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -1107,6 +1108,7 @@
 		8FF5A49E2B0B25AD00C11D6D /* MinimumAmountOfTimeToCollectGarbage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumAmountOfTimeToCollectGarbage.swift; sourceTree = "<group>"; };
 		8FF5A4A02B0CB47D00C11D6D /* CountNicePairsInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNicePairsInAnArray.swift; sourceTree = "<group>"; };
 		8FF5A4A22B0DE7D900C11D6D /* DiagonalTraverseII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalTraverseII.swift; sourceTree = "<group>"; };
+		8FF5A4A42B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfCoinsYouCanGet.swift; sourceTree = "<group>"; };
 		8FF65C592A02257600B98D49 /* FindTheDifferenceOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDifferenceOfTwoArrays.swift; sourceTree = "<group>"; };
 		8FF65C5B2A022BE300B98D49 /* LinkedListInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListInBinaryTree.swift; sourceTree = "<group>"; };
 		8FF65C5D2A0389C000B98D49 /* Dota2Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dota2Senate.swift; sourceTree = "<group>"; };
@@ -1912,6 +1914,7 @@
 				8FF5A49E2B0B25AD00C11D6D /* MinimumAmountOfTimeToCollectGarbage.swift */,
 				8FF5A4A02B0CB47D00C11D6D /* CountNicePairsInAnArray.swift */,
 				8FF5A4A22B0DE7D900C11D6D /* DiagonalTraverseII.swift */,
+				8FF5A4A42B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2452,6 +2455,7 @@
 				8FB9B4492A0BBF340073424E /* CountSubIslands.swift in Sources */,
 				8FB9B56A2A0BBF5A0073424E /* SpiralMatrix.swift in Sources */,
 				8FB9B43F2A0BBF340073424E /* CombinationSumII.swift in Sources */,
+				8FF5A4A52B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift in Sources */,
 				8FB9B4F52A0BBF4E0073424E /* AssignCookies.swift in Sources */,
 				8F0E18BB2AB04E1900EAEC3B /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift in Sources */,
 				8FB9B4EE2A0BBF480073424E /* SortIntegersByTheNumberOf1Bits.swift in Sources */,
