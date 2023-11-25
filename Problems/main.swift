@@ -1,1 +1,1 @@
-MaximumNumberOfCoinsYouCanGet().tests()
+SumOfAbsoluteDifferencesInASortedArray().tests()
