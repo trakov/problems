@@ -1,1 +1,1 @@
-SumOfAbsoluteDifferencesInASortedArray().tests()
+LargestSubmatrixWithRearrangements().tests()
