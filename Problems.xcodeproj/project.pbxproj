@@ -629,6 +629,7 @@
 		8FF5A4A52B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4A42B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift */; };
 		8FF5A4A72B11F36700C11D6D /* SumOfAbsoluteDifferencesInASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4A62B11F36700C11D6D /* SumOfAbsoluteDifferencesInASortedArray.swift */; };
 		8FF5A4A92B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4A82B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift */; };
+		8FF5A4AB2B145EA000C11D6D /* KnightDialer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4AA2B145EA000C11D6D /* KnightDialer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -1113,6 +1114,7 @@
 		8FF5A4A42B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberOfCoinsYouCanGet.swift; sourceTree = "<group>"; };
 		8FF5A4A62B11F36700C11D6D /* SumOfAbsoluteDifferencesInASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAbsoluteDifferencesInASortedArray.swift; sourceTree = "<group>"; };
 		8FF5A4A82B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestSubmatrixWithRearrangements.swift; sourceTree = "<group>"; };
+		8FF5A4AA2B145EA000C11D6D /* KnightDialer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnightDialer.swift; sourceTree = "<group>"; };
 		8FF65C592A02257600B98D49 /* FindTheDifferenceOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheDifferenceOfTwoArrays.swift; sourceTree = "<group>"; };
 		8FF65C5B2A022BE300B98D49 /* LinkedListInBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListInBinaryTree.swift; sourceTree = "<group>"; };
 		8FF65C5D2A0389C000B98D49 /* Dota2Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dota2Senate.swift; sourceTree = "<group>"; };
@@ -1921,6 +1923,7 @@
 				8FF5A4A42B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift */,
 				8FF5A4A62B11F36700C11D6D /* SumOfAbsoluteDifferencesInASortedArray.swift */,
 				8FF5A4A82B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift */,
+				8FF5A4AA2B145EA000C11D6D /* KnightDialer.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2469,6 +2472,7 @@
 				8FB9B47B2A0BBF3A0073424E /* FlipStringToMonotoneIncreasing.swift in Sources */,
 				8FD5EA942ABEAF1500F47EDD /* LongestStringChain.swift in Sources */,
 				8FB9B4F12A0BBF4E0073424E /* LongestPalindromicSubstring.swift in Sources */,
+				8FF5A4AB2B145EA000C11D6D /* KnightDialer.swift in Sources */,
 				8F3037BD2A9A5BEB00C71BCB /* MaximumLengthOfPairChain.swift in Sources */,
 				8FB9B4872A0BBF410073424E /* MinimumWindowSubstring.swift in Sources */,
 				8FB9B4F62A0BBF4E0073424E /* LargestPerimeterTriangle.swift in Sources */,

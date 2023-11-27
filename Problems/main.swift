@@ -1,1 +1,1 @@
-LargestSubmatrixWithRearrangements().tests()
+KnightDialer().tests()
