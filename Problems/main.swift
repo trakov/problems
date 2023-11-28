@@ -1,1 +1,1 @@
-KnightDialer().tests()
+NumberOfWaysToDivideALongCorridor().tests()
