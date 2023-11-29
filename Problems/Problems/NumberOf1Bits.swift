@@ -3,6 +3,16 @@ class NumberOf1Bits {
         var count = 0
         var n = n
         while n != 0 {
+            count += n % 2
+            n /= 2
+        }
+        return count
+    }
+
+    func hammingWeight2(_ n: Int) -> Int {
+        var count = 0
+        var n = n
+        while n != 0 {
             n &= n - 1
             count += 1
         }
