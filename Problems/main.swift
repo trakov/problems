@@ -1,1 +1,1 @@
-MinimumOneBitOperationsToMakeIntegersZero().tests()
+CheckIfTwoStringArraysAreEquivalent().tests()
