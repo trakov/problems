@@ -1,1 +1,1 @@
-NumberOfWaysToDivideALongCorridor().tests()
+MinimumOneBitOperationsToMakeIntegersZero().tests()

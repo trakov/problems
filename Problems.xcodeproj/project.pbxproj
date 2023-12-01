@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F0326F22B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */; };
 		8F0424232AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */; };
 		8F0424252AA31C5E00970AC5 /* ExtraCharactersInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */; };
 		8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */; };
@@ -646,6 +647,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOneBitOperationsToMakeIntegersZero.swift; sourceTree = "<group>"; };
 		8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfTapsToOpenToWaterAGarden.swift; sourceTree = "<group>"; };
 		8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraCharactersInAString.swift; sourceTree = "<group>"; };
 		8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListInParts.swift; sourceTree = "<group>"; };
@@ -1927,6 +1929,7 @@
 				8FF5A4A82B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift */,
 				8FF5A4AA2B145EA000C11D6D /* KnightDialer.swift */,
 				8FF5A4AC2B15AD1F00C11D6D /* NumberOfWaysToDivideALongCorridor.swift */,
+				8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2584,6 +2587,7 @@
 				8FB9B52B2A0BBF540073424E /* LongestPalindrome.swift in Sources */,
 				8FB9B52D2A0BBF540073424E /* SumOfLeftLeaves.swift in Sources */,
 				8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */,
+				8F0326F22B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */,
 				8FB9B5152A0BBF4E0073424E /* NumberOf1Bits.swift in Sources */,
 				8FB9B4672A0BBF3A0073424E /* LowestCommonAncestorOfABinaryTree.swift in Sources */,
 				8FC102942A42C1A9005E8289 /* MinimumCostToMakeArrayEqual.swift in Sources */,
