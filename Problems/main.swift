@@ -1,1 +1,1 @@
-CheckIfTwoStringArraysAreEquivalent().tests()
+FindWordsThatCanBeFormedByCharacters().tests()
