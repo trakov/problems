@@ -1,1 +1,1 @@
-MinimumTimeVisitingAllPoints().tests()
+Largest3SameDigitNumberInString().tests()
