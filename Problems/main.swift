@@ -1,1 +1,1 @@
-FindWordsThatCanBeFormedByCharacters().tests()
+MinimumTimeVisitingAllPoints().tests()
