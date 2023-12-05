@@ -1,1 +1,1 @@
-Largest3SameDigitNumberInString().tests()
+CountOfMatchesInTournament().tests()
