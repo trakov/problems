@@ -1,1 +1,1 @@
-CountOfMatchesInTournament().tests()
+CalculateMoneyInLeetcodeBank().tests()

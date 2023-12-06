@@ -12,6 +12,7 @@
 		8F0327162B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */; };
 		8F0327182B1DA07E005950E1 /* Largest3SameDigitNumberInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327172B1DA07E005950E1 /* Largest3SameDigitNumberInString.swift */; };
 		8F03271A2B1EEABE005950E1 /* CountOfMatchesInTournament.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327192B1EEABE005950E1 /* CountOfMatchesInTournament.swift */; };
+		8F03271E2B205F25005950E1 /* CalculateMoneyInLeetcodeBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F03271D2B205F25005950E1 /* CalculateMoneyInLeetcodeBank.swift */; };
 		8F0424232AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */; };
 		8F0424252AA31C5E00970AC5 /* ExtraCharactersInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */; };
 		8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */; };
@@ -656,6 +657,7 @@
 		8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeVisitingAllPoints.swift; sourceTree = "<group>"; };
 		8F0327172B1DA07E005950E1 /* Largest3SameDigitNumberInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Largest3SameDigitNumberInString.swift; sourceTree = "<group>"; };
 		8F0327192B1EEABE005950E1 /* CountOfMatchesInTournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOfMatchesInTournament.swift; sourceTree = "<group>"; };
+		8F03271D2B205F25005950E1 /* CalculateMoneyInLeetcodeBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateMoneyInLeetcodeBank.swift; sourceTree = "<group>"; };
 		8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfTapsToOpenToWaterAGarden.swift; sourceTree = "<group>"; };
 		8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraCharactersInAString.swift; sourceTree = "<group>"; };
 		8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListInParts.swift; sourceTree = "<group>"; };
@@ -1942,6 +1944,7 @@
 				8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */,
 				8F0327172B1DA07E005950E1 /* Largest3SameDigitNumberInString.swift */,
 				8F0327192B1EEABE005950E1 /* CountOfMatchesInTournament.swift */,
+				8F03271D2B205F25005950E1 /* CalculateMoneyInLeetcodeBank.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2330,6 +2333,7 @@
 				8FB9B3FF2A0BBF280073424E /* DesignLinkedList.swift in Sources */,
 				8FB9B4152A0BBF2E0073424E /* DesignHashMap.swift in Sources */,
 				8FB9B4102A0BBF2E0073424E /* TimeNeededToInformAllEmployees.swift in Sources */,
+				8F03271E2B205F25005950E1 /* CalculateMoneyInLeetcodeBank.swift in Sources */,
 				8FB9B51A2A0BBF4E0073424E /* NumberComplement.swift in Sources */,
 				8FB9B5342A0BBF540073424E /* ConvertSortedArrayЕoBinarySearchTree.swift in Sources */,
 				8FB9B3CE2A0BBF220073424E /* FindTheLongestValidObstacleCourseAtEachPosition.swift in Sources */,
