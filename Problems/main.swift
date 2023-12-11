@@ -1,1 +1,1 @@
-TransposeMatrix().tests()
+ElementAppearingMoreThan25InSortedArray().tests()
