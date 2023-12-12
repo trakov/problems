@@ -1,1 +1,1 @@
-ElementAppearingMoreThan25InSortedArray().tests()
+MaximumProductOfTwoElementsInAnArray().tests()
