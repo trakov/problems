@@ -1,1 +1,1 @@
-MaximumProductOfTwoElementsInAnArray().tests()
+SpecialPositionsInABinaryMatrix().tests()
