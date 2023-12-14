@@ -1,1 +1,1 @@
-SpecialPositionsInABinaryMatrix().tests()
+DifferenceBetweenOnesAndZerosInRowAndColumn().tests()
