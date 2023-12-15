@@ -1,1 +1,1 @@
-DifferenceBetweenOnesAndZerosInRowAndColumn().tests()
+DestinationCity().tests()
