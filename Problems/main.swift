@@ -1,1 +1,1 @@
-DestinationCity().tests()
+ValidAnagram().tests()
