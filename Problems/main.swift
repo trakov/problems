@@ -1,1 +1,1 @@
-ValidAnagram().tests()
+DesignAFoodRatingSystem().tests()
