@@ -1,1 +1,1 @@
-DesignAFoodRatingSystem().tests()
+MaximumProductDifferenceBetweenTwoPairs().tests()
