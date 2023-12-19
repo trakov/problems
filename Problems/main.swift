@@ -1,1 +1,1 @@
-MaximumProductDifferenceBetweenTwoPairs().tests()
+ImageSmoother().tests()
