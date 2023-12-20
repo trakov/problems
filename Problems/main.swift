@@ -1,1 +1,1 @@
-ImageSmoother().tests()
+BuyTwoChocolates().tests()

@@ -40,6 +40,7 @@
 		8F1EBF552B2F48D100E76A95 /* DesignAFoodRatingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF542B2F48D100E76A95 /* DesignAFoodRatingSystem.swift */; };
 		8F1EBF572B301B8400E76A95 /* MaximumProductDifferenceBetweenTwoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF562B301B8400E76A95 /* MaximumProductDifferenceBetweenTwoPairs.swift */; };
 		8F1EBF592B3167A200E76A95 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF582B3167A200E76A95 /* ImageSmoother.swift */; };
+		8F1EBF5F2B32B32800E76A95 /* BuyTwoChocolates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF5E2B32B32800E76A95 /* BuyTwoChocolates.swift */; };
 		8F25050C2A7ECD2E0089188D /* UniqueBinarySearchTreesII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F25050B2A7ECD2E0089188D /* UniqueBinarySearchTreesII.swift */; };
 		8F3037B92A971EC000C71BCB /* TextJustification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3037B82A971EC000C71BCB /* TextJustification.swift */; };
 		8F3037BB2A98C18100C71BCB /* InterleavingString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3037BA2A98C18100C71BCB /* InterleavingString.swift */; };
@@ -737,6 +738,7 @@
 		8F1EBF542B2F48D100E76A95 /* DesignAFoodRatingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAFoodRatingSystem.swift; sourceTree = "<group>"; };
 		8F1EBF562B301B8400E76A95 /* MaximumProductDifferenceBetweenTwoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductDifferenceBetweenTwoPairs.swift; sourceTree = "<group>"; };
 		8F1EBF582B3167A200E76A95 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
+		8F1EBF5E2B32B32800E76A95 /* BuyTwoChocolates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyTwoChocolates.swift; sourceTree = "<group>"; };
 		8F1FAEF02767C8BD007E7838 /* RemoveInvalidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveInvalidParentheses.swift; sourceTree = "<group>"; };
 		8F25050B2A7ECD2E0089188D /* UniqueBinarySearchTreesII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueBinarySearchTreesII.swift; sourceTree = "<group>"; };
 		8F3037B82A971EC000C71BCB /* TextJustification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextJustification.swift; sourceTree = "<group>"; };
@@ -1978,6 +1980,7 @@
 				8F1EBF542B2F48D100E76A95 /* DesignAFoodRatingSystem.swift */,
 				8F1EBF562B301B8400E76A95 /* MaximumProductDifferenceBetweenTwoPairs.swift */,
 				8F1EBF582B3167A200E76A95 /* ImageSmoother.swift */,
+				8F1EBF5E2B32B32800E76A95 /* BuyTwoChocolates.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2227,6 +2230,7 @@
 				8FB9B41A2A0BBF2E0073424E /* ConvertSortedListToBinarySearchTree.swift in Sources */,
 				8FB9B5062A0BBF4E0073424E /* DetermineIfTwoStringsAreClose.swift in Sources */,
 				8FB9B4562A0BBF340073424E /* StringCompression.swift in Sources */,
+				8F1EBF5F2B32B32800E76A95 /* BuyTwoChocolates.swift in Sources */,
 				8FB9B44B2A0BBF340073424E /* NQueens.swift in Sources */,
 				8F0BB7F92A777BB800A72248 /* MinimumASCIIDeleteSumForTwoStrings.swift in Sources */,
 				8FB9B5482A0BBF540073424E /* RectangleArea.swift in Sources */,
