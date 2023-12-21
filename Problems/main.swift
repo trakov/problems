@@ -1,1 +1,1 @@
-BuyTwoChocolates().tests()
+WidestVerticalAreaBetweenTwoPointsContainingNoPoints().tests()
