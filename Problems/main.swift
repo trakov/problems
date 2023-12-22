@@ -1,1 +1,1 @@
-WidestVerticalAreaBetweenTwoPointsContainingNoPoints().tests()
+MaximumScoreAfterSplittingAString().tests()
