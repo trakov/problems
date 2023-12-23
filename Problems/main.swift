@@ -1,1 +1,1 @@
-MaximumScoreAfterSplittingAString().tests()
+PathCrossing().tests()
