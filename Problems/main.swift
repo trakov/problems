@@ -1,1 +1,1 @@
-PathCrossing().tests()
+MinimumChangesToMakeAlternatingBinaryString().tests()
