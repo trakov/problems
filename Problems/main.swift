@@ -1,1 +1,1 @@
-MinimumChangesToMakeAlternatingBinaryString().tests()
+DecodeWays().tests()

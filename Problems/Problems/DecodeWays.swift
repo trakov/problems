@@ -1,5 +1,23 @@
 class DecodeWays {
     func numDecodings(_ s: String) -> Int {
+        let s = [0] + s.map { Int(String($0))! }
+        let n = s.count
+        var dp = Array(repeating: 0, count: n + 1)
+        dp[1] = 1
+        for i in 1..<n {
+            let cur = s[i]
+            let prev = s[i - 1]
+            if cur != 0 {
+                dp[i + 1] = dp[i]
+            }
+            if prev == 1 || (prev == 2 && cur < 7) {
+                dp[i + 1] += dp[i - 1]
+            }
+        }
+        return dp[n]
+    }
+
+    func numDecodings2(_ s: String) -> Int {
         guard s.count > 1 else { return s == "0" ? 0 : 1 }
         let s = Array(s)
         var dp = Array(repeating: 0, count: s.count + 1)
