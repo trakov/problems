@@ -1,1 +1,1 @@
-DecodeWays().tests()
+NumberOfDiceRollsWithTargetSum().tests()
