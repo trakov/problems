@@ -1,1 +1,1 @@
-NumberOfDiceRollsWithTargetSum().tests()
+MinimumTimeToMakeRopeColorful().tests()
