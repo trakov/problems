@@ -1,1 +1,1 @@
-StringCompressionII().tests()
+MinimumDifficultyOfAJobSchedule().tests()
