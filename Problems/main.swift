@@ -1,1 +1,1 @@
-MinimumDifficultyOfAJobSchedule().tests()
+RedistributeCharactersToMakeAllStringsEqual().tests()
