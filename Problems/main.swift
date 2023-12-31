@@ -1,1 +1,1 @@
-RedistributeCharactersToMakeAllStringsEqual().tests()
+LargestSubstringBetweenTwoEqualCharacters().tests()
