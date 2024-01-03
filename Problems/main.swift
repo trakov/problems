@@ -1,1 +1,1 @@
-ConvertAnArrayIntoA2DArrayWithConditions().tests()
+NumberOfLaserBeamsInABank().tests()
