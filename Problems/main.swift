@@ -1,1 +1,1 @@
-NumberOfLaserBeamsInABank().tests()
+MinimumNumberOfOperationsToMakeArrayEmpty().tests()
