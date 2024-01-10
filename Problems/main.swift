@@ -1,1 +1,1 @@
-MinimumNumberOfOperationsToMakeArrayEmpty().tests()
+AmountOfTimeForBinaryTreeToBeInfected().tests()

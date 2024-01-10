@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 53;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -662,6 +662,7 @@
 		8FF5A4A92B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4A82B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift */; };
 		8FF5A4AB2B145EA000C11D6D /* KnightDialer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4AA2B145EA000C11D6D /* KnightDialer.swift */; };
 		8FF5A4AD2B15AD1F00C11D6D /* NumberOfWaysToDivideALongCorridor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4AC2B15AD1F00C11D6D /* NumberOfWaysToDivideALongCorridor.swift */; };
+		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -1333,6 +1334,7 @@
 		8FF88E24296F07EB005DADE0 /* FindPeakElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPeakElement.swift; sourceTree = "<group>"; };
 		8FF88E26296FE770005DADE0 /* NumberOfNodesInTheSubTreeWithTheSameLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfNodesInTheSubTreeWithTheSameLabel.swift; sourceTree = "<group>"; };
 		8FF88E28297009CF005DADE0 /* ThreeSum2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSum2.swift; sourceTree = "<group>"; };
+		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2020,6 +2022,7 @@
 				8F1EBF8F2B44610A00E76A95 /* ConvertAnArrayIntoA2DArrayWithConditions.swift */,
 				8F1EBF912B45DB0100E76A95 /* NumberOfLaserBeamsInABank.swift */,
 				8F1EBF932B467DB100E76A95 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */,
+				8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2377,6 +2380,7 @@
 				8FB9B44E2A0BBF340073424E /* AsFarFromLandAsPossible.swift in Sources */,
 				8FB9B5242A0BBF4E0073424E /* InsertDeleteGetRandom.swift in Sources */,
 				8FB9B5712A0BBF5A0073424E /* GameOfLife.swift in Sources */,
+				8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */,
 				8FB9B4582A0BBF340073424E /* AddToArrayFormOfInteger.swift in Sources */,
 				8FB9B4A82A0BBF410073424E /* NumberOfGoodPaths.swift in Sources */,
 				8FB9B4A02A0BBF410073424E /* MinimumRoundsToCompleteAllTasks.swift in Sources */,
