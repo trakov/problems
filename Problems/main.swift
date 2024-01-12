@@ -1,1 +1,1 @@
-AmountOfTimeForBinaryTreeToBeInfected().tests()
+DetermineIfStringHalvesAreAlike().tests()

@@ -1,6 +1,16 @@
 import Foundation
 class DetermineIfStringHalvesAreAlike {
     func halvesAreAlike(_ s: String) -> Bool {
+        let n = s.count
+        let vowels = Set(["a", "e", "i", "o", "u"])
+        var count = 0
+        for (i, c) in s.enumerated() where vowels.contains(c.lowercased()) {
+            count += i < n / 2 ? 1 : -1
+        }
+        return count == 0
+    }
+    
+    func halvesAreAlike1(_ s: String) -> Bool {
         let vowels = "aeiou"
         let a = s.suffix(s.count / 2).lowercased().filter(vowels.contains)
         let b = s.prefix(s.count / 2).lowercased().filter(vowels.contains)
