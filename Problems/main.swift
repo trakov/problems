@@ -1,1 +1,1 @@
-DetermineIfStringHalvesAreAlike().tests()
+MinimumNumberOfStepsToMakeTwoStringsAnagram().tests()
