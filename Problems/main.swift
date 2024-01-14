@@ -1,1 +1,1 @@
-MinimumNumberOfStepsToMakeTwoStringsAnagram().tests()
+DetermineIfTwoStringsAreClose().tests()

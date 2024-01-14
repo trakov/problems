@@ -1,5 +1,33 @@
 class DetermineIfTwoStringsAreClose {
     func closeStrings(_ word1: String, _ word2: String) -> Bool {
+        linearSolution(word1, word2)
+    }
+    
+    func linearSolution(_ word1: String, _ word2: String) -> Bool {
+        guard word1.count == word2.count else { return false }
+        var map1: [Character: Int] = [:]
+        var map2: [Character: Int] = [:]
+        for (c1, c2) in zip(word1, word2) {
+            map1[c1, default: 0] += 1
+            map2[c2, default: 0] += 1
+        }
+        guard Set(map1.keys) == Set(map2.keys) else { return false }
+        var count: [Int: Int] = [:]
+        for c in map1.values {
+            count[c, default: 0] += 1
+        }
+        for c in map2.values {
+            guard let val = count[c] else { return false }
+            if val > 1 {
+                count[c] = val - 1
+            } else {
+                count[c] = nil
+            }
+        }
+        return count.isEmpty
+    }
+
+    func setSolution(_ word1: String, _ word2: String) -> Bool {
         guard word1.count == word2.count else { return false }
         let word1 = Array(word1).sorted()
         let word2 = Array(word2).sorted()
@@ -25,12 +53,12 @@ class DetermineIfTwoStringsAreClose {
         
         return c1 == c2
     }
-    
+
     func dictionaryArraySolution(_ word1: String, _ word2: String) -> Bool {
         guard word1.count == word2.count else { return false }
 
-        var word1 = Array(word1)
-        var word2 = Array(word2)
+        let word1 = Array(word1)
+        let word2 = Array(word2)
 
         var d1: [Character: Int] = [:]
         var d2: [Character: Int] = [:]
