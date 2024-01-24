@@ -1,1 +1,1 @@
-MaximumLengthOfAConcatenatedStringWithUniqueCharacters().tests()
+PseudoPalindromicPathsInABinaryTree().tests()
