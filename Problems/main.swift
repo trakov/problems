@@ -1,1 +1,1 @@
-PseudoPalindromicPathsInABinaryTree().tests()
+OutOfBoundaryPaths().tests()
