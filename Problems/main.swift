@@ -1,1 +1,1 @@
-OutOfBoundaryPaths().tests()
+KInversePairsArray().tests()
