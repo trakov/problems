@@ -1,1 +1,1 @@
-KInversePairsArray().tests()
+NumberOfSubmatricesThatSumToTarget().tests()
