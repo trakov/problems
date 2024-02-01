@@ -1,1 +1,1 @@
-NumberOfSubmatricesThatSumToTarget().tests()
+DivideArrayIntoArraysWithMaxDifference().tests()
