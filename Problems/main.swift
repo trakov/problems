@@ -1,1 +1,1 @@
-DivideArrayIntoArraysWithMaxDifference().tests()
+SequentialDigits().tests()
