@@ -1,1 +1,1 @@
-SequentialDigits().tests()
+PartitionArrayForMaximumSum().tests()
