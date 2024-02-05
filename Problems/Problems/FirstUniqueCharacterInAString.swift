@@ -1,5 +1,17 @@
 class FirstUniqueCharacterInAString {
     func firstUniqChar(_ s: String) -> Int {
+        var candidates: [Character: Int] = [:]
+        for (i, c) in s.enumerated() {
+            candidates[c] = (candidates[c] == nil) ? i : -1
+        }
+        var result = Int.max
+        for i in candidates.values where i != -1 {
+            result = min(result, i)
+        }
+        return result == Int.max ? -1 : result
+    }
+
+    func firstUniqChar2(_ s: String) -> Int {
         var dict: [Character: Int] = [:] // char: index
         var candidates: [Character] = []
         for (i, c) in s.enumerated() {

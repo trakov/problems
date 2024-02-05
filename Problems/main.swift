@@ -1,1 +1,1 @@
-PartitionArrayForMaximumSum().tests()
+FirstUniqueCharacterInAString().tests()
