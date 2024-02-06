@@ -1,1 +1,1 @@
-FirstUniqueCharacterInAString().tests()
+GroupAnagrams().tests()
