@@ -638,6 +638,7 @@
 		8FC102EF2A6508CD005E8289 /* AddTwoNumbersII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC102EE2A6508CD005E8289 /* AddTwoNumbersII.swift */; };
 		8FC102F92A665609005E8289 /* LRUCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC102F82A665609005E8289 /* LRUCache.swift */; };
 		8FC15A9B2B75EAFE000BD5BC /* LargestDivisibleSubset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC15A9A2B75EAFE000BD5BC /* LargestDivisibleSubset.swift */; };
+		8FC15A9D2B782656000BD5BC /* PalindromicSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC15A9C2B782656000BD5BC /* PalindromicSubstrings.swift */; };
 		8FCC12BB2A7F837100698582 /* NumberOfMusicPlaylists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC12BA2A7F837100698582 /* NumberOfMusicPlaylists.swift */; };
 		8FCC12CE2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC12CD2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift */; };
 		8FCC13962A85FEA600698582 /* CoinChangeII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC13952A85FEA600698582 /* CoinChangeII.swift */; };
@@ -1122,6 +1123,7 @@
 		8FC102EE2A6508CD005E8289 /* AddTwoNumbersII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTwoNumbersII.swift; sourceTree = "<group>"; };
 		8FC102F82A665609005E8289 /* LRUCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LRUCache.swift; sourceTree = "<group>"; };
 		8FC15A9A2B75EAFE000BD5BC /* LargestDivisibleSubset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestDivisibleSubset.swift; sourceTree = "<group>"; };
+		8FC15A9C2B782656000BD5BC /* PalindromicSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromicSubstrings.swift; sourceTree = "<group>"; };
 		8FC535222A06464C00F2A27D /* NumberOfSubsequencesThatSatisfyTheGivenSumCondition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfSubsequencesThatSatisfyTheGivenSumCondition.swift; sourceTree = "<group>"; };
 		8FC535242A07822200F2A27D /* FindTheLongestValidObstacleCourseAtEachPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheLongestValidObstacleCourseAtEachPosition.swift; sourceTree = "<group>"; };
 		8FC535262A08FE1700F2A27D /* NextGreaterElementII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElementII.swift; sourceTree = "<group>"; };
@@ -2056,6 +2058,7 @@
 				8F152B712B6CBF8A00AE5C87 /* SequentialDigits.swift */,
 				8F152B732B70CD0D00AE5C87 /* PartitionArrayForMaximumSum.swift */,
 				8FC15A9A2B75EAFE000BD5BC /* LargestDivisibleSubset.swift */,
+				8FC15A9C2B782656000BD5BC /* PalindromicSubstrings.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2363,6 +2366,7 @@
 				8FB9B4652A0BBF3A0073424E /* RestoreIPAddresses.swift in Sources */,
 				8FB9B4D72A0BBF480073424E /* TwoSumIVInputIsABST.swift in Sources */,
 				8FB9B4FA2A0BBF4E0073424E /* DetermineIfStringHalvesAreAlike.swift in Sources */,
+				8FC15A9D2B782656000BD5BC /* PalindromicSubstrings.swift in Sources */,
 				8F152B722B6CBF8A00AE5C87 /* SequentialDigits.swift in Sources */,
 				8FB9B57C2A0BBF5A0073424E /* RomanToInteger.swift in Sources */,
 				8FB9B51E2A0BBF4E0073424E /* FindPlayersWithZeroOrOneLosses.swift in Sources */,

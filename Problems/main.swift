@@ -1,1 +1,1 @@
-LargestDivisibleSubset().tests()
+PalindromicSubstrings().tests()
