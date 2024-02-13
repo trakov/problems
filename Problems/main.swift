@@ -1,1 +1,1 @@
-CherryPickupII().tests()
+FindFirstPalindromicStringInTheArray().tests()
