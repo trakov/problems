@@ -1,1 +1,1 @@
-FindFirstPalindromicStringInTheArray().tests()
+RearrangeArrayElementsBySign().tests()
