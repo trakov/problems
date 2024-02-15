@@ -67,6 +67,7 @@
 		8F3037C32A9F191E00C71BCB /* MinimumReplacementsToSortTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3037C22A9F191E00C71BCB /* MinimumReplacementsToSortTheArray.swift */; };
 		8F30CEE52B7B36F0008B2544 /* FindFirstPalindromicStringInTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30CEE42B7B36F0008B2544 /* FindFirstPalindromicStringInTheArray.swift */; };
 		8F30CEE72B7C845A008B2544 /* RearrangeArrayElementsBySign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30CEE62B7C845A008B2544 /* RearrangeArrayElementsBySign.swift */; };
+		8F30CEE92B7DD791008B2544 /* FindPolygonWithTheLargestPerimeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30CEE82B7DD791008B2544 /* FindPolygonWithTheLargestPerimeter.swift */; };
 		8F3493FD2ADA149100932B1F /* PaintingTheWalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3493FC2ADA149100932B1F /* PaintingTheWalls.swift */; };
 		8F3493FF2ADBA71C00932B1F /* NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3493FE2ADBA71C00932B1F /* NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.swift */; };
 		8F3494012ADE33E700932B1F /* ValidateBinaryTreeNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3494002ADE33E600932B1F /* ValidateBinaryTreeNodes.swift */; };
@@ -795,6 +796,7 @@
 		8F3037C22A9F191E00C71BCB /* MinimumReplacementsToSortTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumReplacementsToSortTheArray.swift; sourceTree = "<group>"; };
 		8F30CEE42B7B36F0008B2544 /* FindFirstPalindromicStringInTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindFirstPalindromicStringInTheArray.swift; sourceTree = "<group>"; };
 		8F30CEE62B7C845A008B2544 /* RearrangeArrayElementsBySign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RearrangeArrayElementsBySign.swift; sourceTree = "<group>"; };
+		8F30CEE82B7DD791008B2544 /* FindPolygonWithTheLargestPerimeter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPolygonWithTheLargestPerimeter.swift; sourceTree = "<group>"; };
 		8F34668E29C59EA100A8433E /* DesignBrowserHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignBrowserHistory.swift; sourceTree = "<group>"; };
 		8F34669029C6D7C400A8433E /* DesignAddAndSearchWordsDataStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAddAndSearchWordsDataStructure.swift; sourceTree = "<group>"; };
 		8F34669229C824B300A8433E /* CanPlaceFlowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers.swift; sourceTree = "<group>"; };
@@ -2068,6 +2070,7 @@
 				8FC15A9E2B78CFD6000BD5BC /* CherryPickupII.swift */,
 				8F30CEE42B7B36F0008B2544 /* FindFirstPalindromicStringInTheArray.swift */,
 				8F30CEE62B7C845A008B2544 /* RearrangeArrayElementsBySign.swift */,
+				8F30CEE82B7DD791008B2544 /* FindPolygonWithTheLargestPerimeter.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2699,6 +2702,7 @@
 				8FB9B4182A0BBF2E0073424E /* MinimumJumpsToReachHome.swift in Sources */,
 				8FB9B4702A0BBF3A0073424E /* FindTheTownJudge.swift in Sources */,
 				8FB9B5352A0BBF540073424E /* FindMedianFromDataStream.swift in Sources */,
+				8F30CEE92B7DD791008B2544 /* FindPolygonWithTheLargestPerimeter.swift in Sources */,
 				8FB9B54C2A0BBF540073424E /* ImplementStackUsingQueues.swift in Sources */,
 				8FB9B3E02A0BBF280073424E /* NonOverlappingIntervals.swift in Sources */,
 				8FB6EACB2B5F83B00034C361 /* MaximumLengthOfAConcatenatedStringWithUniqueCharacters.swift in Sources */,
