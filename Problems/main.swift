@@ -1,1 +1,1 @@
-FindPolygonWithTheLargestPerimeter().tests()
+LeastNumberOfUniqueIntegersAfterKRemovals().tests()
