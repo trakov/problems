@@ -1,1 +1,1 @@
-LeastNumberOfUniqueIntegersAfterKRemovals().tests()
+FurthestBuildingYouCanReach().tests()

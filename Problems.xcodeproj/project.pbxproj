@@ -69,6 +69,7 @@
 		8F30CEE72B7C845A008B2544 /* RearrangeArrayElementsBySign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30CEE62B7C845A008B2544 /* RearrangeArrayElementsBySign.swift */; };
 		8F30CEE92B7DD791008B2544 /* FindPolygonWithTheLargestPerimeter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30CEE82B7DD791008B2544 /* FindPolygonWithTheLargestPerimeter.swift */; };
 		8F30CEEB2B7F2741008B2544 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30CEEA2B7F2741008B2544 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift */; };
+		8F30CEF42B80A12C008B2544 /* FurthestBuildingYouCanReach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F30CEF32B80A12C008B2544 /* FurthestBuildingYouCanReach.swift */; };
 		8F3493FD2ADA149100932B1F /* PaintingTheWalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3493FC2ADA149100932B1F /* PaintingTheWalls.swift */; };
 		8F3493FF2ADBA71C00932B1F /* NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3493FE2ADBA71C00932B1F /* NumberOfWaysToStayInTheSamePlaceAfterSomeSteps.swift */; };
 		8F3494012ADE33E700932B1F /* ValidateBinaryTreeNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3494002ADE33E600932B1F /* ValidateBinaryTreeNodes.swift */; };
@@ -799,6 +800,7 @@
 		8F30CEE62B7C845A008B2544 /* RearrangeArrayElementsBySign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RearrangeArrayElementsBySign.swift; sourceTree = "<group>"; };
 		8F30CEE82B7DD791008B2544 /* FindPolygonWithTheLargestPerimeter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPolygonWithTheLargestPerimeter.swift; sourceTree = "<group>"; };
 		8F30CEEA2B7F2741008B2544 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeastNumberOfUniqueIntegersAfterKRemovals.swift; sourceTree = "<group>"; };
+		8F30CEF32B80A12C008B2544 /* FurthestBuildingYouCanReach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FurthestBuildingYouCanReach.swift; sourceTree = "<group>"; };
 		8F34668E29C59EA100A8433E /* DesignBrowserHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignBrowserHistory.swift; sourceTree = "<group>"; };
 		8F34669029C6D7C400A8433E /* DesignAddAndSearchWordsDataStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAddAndSearchWordsDataStructure.swift; sourceTree = "<group>"; };
 		8F34669229C824B300A8433E /* CanPlaceFlowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanPlaceFlowers.swift; sourceTree = "<group>"; };
@@ -2074,6 +2076,7 @@
 				8F30CEE62B7C845A008B2544 /* RearrangeArrayElementsBySign.swift */,
 				8F30CEE82B7DD791008B2544 /* FindPolygonWithTheLargestPerimeter.swift */,
 				8F30CEEA2B7F2741008B2544 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift */,
+				8F30CEF32B80A12C008B2544 /* FurthestBuildingYouCanReach.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2280,6 +2283,7 @@
 				8FB9B50D2A0BBF4E0073424E /* RotateArray.swift in Sources */,
 				8FB9B5002A0BBF4E0073424E /* SortCharactersByFrequency.swift in Sources */,
 				8FB9B5892A0BBF5A0073424E /* ValidPalindrome2.swift in Sources */,
+				8F30CEF42B80A12C008B2544 /* FurthestBuildingYouCanReach.swift in Sources */,
 				8FB9B46A2A0BBF3A0073424E /* FindTheDistanceValueBetweenTwoArrays.swift in Sources */,
 				8FC102EB2A63C000005E8289 /* SmallestSufficientTeam.swift in Sources */,
 				8FB9B4B22A0BBF480073424E /* SignOfTheProductOfAnArray.swift in Sources */,
