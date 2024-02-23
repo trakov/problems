@@ -1,1 +1,1 @@
-MeetingRoomsIII().tests()
+CheapestFlightsWithinKStops().tests()
