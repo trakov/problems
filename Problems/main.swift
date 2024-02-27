@@ -1,1 +1,1 @@
-CheapestFlightsWithinKStops().tests()
+GreatestCommonDivisorTraversal().tests()

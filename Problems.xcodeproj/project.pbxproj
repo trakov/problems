@@ -95,6 +95,8 @@
 		8F6CBCC32B2AD0DA00EEF65E /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6CBCC22B2AD0DA00EEF65E /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift */; };
 		8F6CBCC52B2C70B100EEF65E /* DestinationCity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6CBCC42B2C70B100EEF65E /* DestinationCity.swift */; };
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
+		8F8F1EA62B8A28F1007B818E /* FindAllPeopleWithSecret.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA52B8A28F1007B818E /* FindAllPeopleWithSecret.swift */; };
+		8F8F1EA82B8B389B007B818E /* GreatestCommonDivisorTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA72B8B389B007B818E /* GreatestCommonDivisorTraversal.swift */; };
 		8F9091592AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9091582AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift */; };
 		8F90915B2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F90915A2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift */; };
 		8F9091652AE7761A00FAFD84 /* FindLargestValueInEachTreeRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9091642AE7761A00FAFD84 /* FindLargestValueInEachTreeRow.swift */; };
@@ -977,6 +979,8 @@
 		8F86AD34292B68C700C403C0 /* LongestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPalindrome.swift; sourceTree = "<group>"; };
 		8F86AD36292B6EBF00C403C0 /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 		8F8EAA2F2872B28200A0DCF4 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
+		8F8F1EA52B8A28F1007B818E /* FindAllPeopleWithSecret.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPeopleWithSecret.swift; sourceTree = "<group>"; };
+		8F8F1EA72B8B389B007B818E /* GreatestCommonDivisorTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreatestCommonDivisorTraversal.swift; sourceTree = "<group>"; };
 		8F9091582AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstrainedSubsequenceSum.swift; sourceTree = "<group>"; };
 		8F90915A2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreOfAGoodSubarray.swift; sourceTree = "<group>"; };
 		8F9091642AE7761A00FAFD84 /* FindLargestValueInEachTreeRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLargestValueInEachTreeRow.swift; sourceTree = "<group>"; };
@@ -2080,6 +2084,8 @@
 				8F30CEEA2B7F2741008B2544 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift */,
 				8F30CEF32B80A12C008B2544 /* FurthestBuildingYouCanReach.swift */,
 				8F30CEF52B829110008B2544 /* MeetingRoomsIII.swift */,
+				8F8F1EA52B8A28F1007B818E /* FindAllPeopleWithSecret.swift */,
+				8F8F1EA72B8B389B007B818E /* GreatestCommonDivisorTraversal.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2392,6 +2398,7 @@
 				8FB9B4FA2A0BBF4E0073424E /* DetermineIfStringHalvesAreAlike.swift in Sources */,
 				8FC15A9D2B782656000BD5BC /* PalindromicSubstrings.swift in Sources */,
 				8F152B722B6CBF8A00AE5C87 /* SequentialDigits.swift in Sources */,
+				8F8F1EA62B8A28F1007B818E /* FindAllPeopleWithSecret.swift in Sources */,
 				8FB9B57C2A0BBF5A0073424E /* RomanToInteger.swift in Sources */,
 				8FB9B51E2A0BBF4E0073424E /* FindPlayersWithZeroOrOneLosses.swift in Sources */,
 				8FB9B5272A0BBF540073424E /* SummaryRanges.swift in Sources */,
@@ -2503,6 +2510,7 @@
 				8FC15A9F2B78CFD6000BD5BC /* CherryPickupII.swift in Sources */,
 				8FB9B57F2A0BBF5A0073424E /* LongestCommonPrefix.swift in Sources */,
 				8FCC13A62A88D03C00698582 /* CheckIfThereIsAValidPartitionForTheArray.swift in Sources */,
+				8F8F1EA82B8B389B007B818E /* GreatestCommonDivisorTraversal.swift in Sources */,
 				8FB9B3D82A0BBF220073424E /* KthLargestElementInAnArray.swift in Sources */,
 				8FB9B4C72A0BBF480073424E /* LongestCommonSubsequence.swift in Sources */,
 				8F9E9FC02A1380450078FC86 /* DesignAuthenticationManager.swift in Sources */,
