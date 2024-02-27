@@ -97,6 +97,7 @@
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
 		8F8F1EA62B8A28F1007B818E /* FindAllPeopleWithSecret.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA52B8A28F1007B818E /* FindAllPeopleWithSecret.swift */; };
 		8F8F1EA82B8B389B007B818E /* GreatestCommonDivisorTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA72B8B389B007B818E /* GreatestCommonDivisorTraversal.swift */; };
+		8F8F1EAA2B8DA841007B818E /* LargestRectangleInHistogram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA92B8DA841007B818E /* LargestRectangleInHistogram.swift */; };
 		8F9091592AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9091582AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift */; };
 		8F90915B2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F90915A2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift */; };
 		8F9091652AE7761A00FAFD84 /* FindLargestValueInEachTreeRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9091642AE7761A00FAFD84 /* FindLargestValueInEachTreeRow.swift */; };
@@ -981,6 +982,7 @@
 		8F8EAA2F2872B28200A0DCF4 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
 		8F8F1EA52B8A28F1007B818E /* FindAllPeopleWithSecret.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPeopleWithSecret.swift; sourceTree = "<group>"; };
 		8F8F1EA72B8B389B007B818E /* GreatestCommonDivisorTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreatestCommonDivisorTraversal.swift; sourceTree = "<group>"; };
+		8F8F1EA92B8DA841007B818E /* LargestRectangleInHistogram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestRectangleInHistogram.swift; sourceTree = "<group>"; };
 		8F9091582AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstrainedSubsequenceSum.swift; sourceTree = "<group>"; };
 		8F90915A2AE639D800FAFD84 /* MaximumScoreOfAGoodSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreOfAGoodSubarray.swift; sourceTree = "<group>"; };
 		8F9091642AE7761A00FAFD84 /* FindLargestValueInEachTreeRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLargestValueInEachTreeRow.swift; sourceTree = "<group>"; };
@@ -2086,6 +2088,7 @@
 				8F30CEF52B829110008B2544 /* MeetingRoomsIII.swift */,
 				8F8F1EA52B8A28F1007B818E /* FindAllPeopleWithSecret.swift */,
 				8F8F1EA72B8B389B007B818E /* GreatestCommonDivisorTraversal.swift */,
+				8F8F1EA92B8DA841007B818E /* LargestRectangleInHistogram.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2557,6 +2560,7 @@
 				8FB9B52F2A0BBF540073424E /* Maximum69Number.swift in Sources */,
 				8FB9B57E2A0BBF5A0073424E /* RemoveInvalidParentheses.swift in Sources */,
 				8F0327182B1DA07E005950E1 /* Largest3SameDigitNumberInString.swift in Sources */,
+				8F8F1EAA2B8DA841007B818E /* LargestRectangleInHistogram.swift in Sources */,
 				8F1EBF7E2B3AA1AA00E76A95 /* NumberOfDiceRollsWithTargetSum.swift in Sources */,
 				8FB9B4772A0BBF3A0073424E /* SnakesAndLadders.swift in Sources */,
 				8FB9B3C02A0BBECA0073424E /* CourseMaxInSlidingWindow.swift in Sources */,

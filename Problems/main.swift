@@ -1,1 +1,1 @@
-GreatestCommonDivisorTraversal().tests()
+LargestRectangleInHistogram().tests()
