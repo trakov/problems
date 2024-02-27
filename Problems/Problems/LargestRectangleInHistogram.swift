@@ -1,5 +1,7 @@
 class LargestRectangleInHistogram {
     func largestRectangleArea(_ heights: [Int]) -> Int {
+        return stackSolution(heights)
+        
         let n = heights.count
         guard n > 0 else { return 0 }
         guard n > 1 else { return heights[0] }
@@ -24,6 +26,22 @@ class LargestRectangleInHistogram {
         }
         for (i, h) in heights.enumerated() {
             result = max(result, h * (lessFromRight[i] - lessFromLeft[i] - 1))
+        }
+        return result
+    }
+    
+    func stackSolution(_ heights: [Int]) -> Int {
+        var stack: [Int] = []
+        var result = 0
+        let heights = heights + [0]
+        for (i, h) in heights.enumerated() {
+            while let hIdx = stack.last, heights[hIdx] >= h {
+                let hIdx = stack.removeLast()
+                let tHeight = heights[hIdx]
+                let leftIdx = !stack.isEmpty ? stack.last! : -1
+                result = max(result, (i - leftIdx - 1) * tHeight)
+            }
+            stack.append(i)
         }
         return result
     }
