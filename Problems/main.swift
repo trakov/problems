@@ -1,1 +1,1 @@
-EvenOddTree().tests()
+PalindromicSubstrings().tests()
