@@ -1,1 +1,1 @@
-FindBottomLeftTreeValue().tests()
+EvenOddTree().tests()
