@@ -1,1 +1,1 @@
-PalindromicSubstrings().tests()
+MaximumOddBinaryNumber().tests()
