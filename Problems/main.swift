@@ -1,1 +1,1 @@
-MaximumOddBinaryNumber().tests()
+BagOfTokens().tests()

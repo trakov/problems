@@ -668,6 +668,7 @@
 		8FE0EBC92A3586C9006FC482 /* SnapshotArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE0EBC82A3586C9006FC482 /* SnapshotArray.swift */; };
 		8FE0EBCB2A3835F7006FC482 /* EqualRowAndColumnPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE0EBCA2A3835F7006FC482 /* EqualRowAndColumnPairs.swift */; };
 		8FE0EC0C2A3AD6DC006FC482 /* MaximumLevelSumOfABinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE0EC0B2A3AD6DC006FC482 /* MaximumLevelSumOfABinaryTree.swift */; };
+		8FED94732B958DB200E55D4C /* BagOfTokens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FED94722B958DB200E55D4C /* BagOfTokens.swift */; };
 		8FF029B82A1E318B00E1F3BB /* MaximumSubsequenceScore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF029B72A1E318B00E1F3BB /* MaximumSubsequenceScore.swift */; };
 		8FF029BA2A1F283600E1F3BB /* New21Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF029B92A1F283600E1F3BB /* New21Game.swift */; };
 		8FF029C72A20797700E1F3BB /* StoneGameII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF029C62A20797700E1F3BB /* StoneGameII.swift */; };
@@ -1211,6 +1212,7 @@
 		8FE978FA26D735B500E20A83 /* MaximumSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSubarray.swift; sourceTree = "<group>"; };
 		8FE978FC26D7A81900E20A83 /* MergeKSortedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeKSortedLists.swift; sourceTree = "<group>"; };
 		8FE978FE26DC67F600E20A83 /* Merge2SortedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Merge2SortedLists.swift; sourceTree = "<group>"; };
+		8FED94722B958DB200E55D4C /* BagOfTokens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BagOfTokens.swift; sourceTree = "<group>"; };
 		8FF029B72A1E318B00E1F3BB /* MaximumSubsequenceScore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSubsequenceScore.swift; sourceTree = "<group>"; };
 		8FF029B92A1F283600E1F3BB /* New21Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New21Game.swift; sourceTree = "<group>"; };
 		8FF029C62A20797700E1F3BB /* StoneGameII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoneGameII.swift; sourceTree = "<group>"; };
@@ -2098,6 +2100,7 @@
 				8F8F1EAB2B8F1186007B818E /* FindBottomLeftTreeValue.swift */,
 				8F8F1EAD2B905E30007B818E /* EvenOddTree.swift */,
 				8F8F1EB12B9197BB007B818E /* MaximumOddBinaryNumber.swift */,
+				8FED94722B958DB200E55D4C /* BagOfTokens.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2852,6 +2855,7 @@
 				8FB9B4032A0BBF2E0073424E /* IsGraphBipartite.swift in Sources */,
 				8FB9B4A22A0BBF410073424E /* BinaryTreeRightSideView.swift in Sources */,
 				8F41113C2AD0DB2C001E0804 /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift in Sources */,
+				8FED94732B958DB200E55D4C /* BagOfTokens.swift in Sources */,
 				8FB9B41F2A0BBF2E0073424E /* RangeSumQuery2DImmutable.swift in Sources */,
 				8FB9B49D2A0BBF410073424E /* SearchInRotatedSortedArray.swift in Sources */,
 				8FB9B5632A0BBF540073424E /* PascalsTriangle.swift in Sources */,
