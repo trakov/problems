@@ -1,1 +1,1 @@
-BagOfTokens().tests()
+MinimumLengthOfStringAfterDeletingSimilarEnds().tests()
