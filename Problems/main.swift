@@ -1,1 +1,1 @@
-MinimumLengthOfStringAfterDeletingSimilarEnds().tests()
+CountElementsWithMaximumFrequency().tests()
