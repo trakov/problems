@@ -1,1 +1,1 @@
-CountElementsWithMaximumFrequency().tests()
+MinimumCommonValue().tests()
