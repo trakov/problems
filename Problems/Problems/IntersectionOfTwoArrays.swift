@@ -1,5 +1,16 @@
 class IntersectionOfTwoArrays {
     func intersection(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
+        var set1 = Set(nums1)
+        var result: Set<Int> = []
+        for num in nums2 {
+            if set1.contains(num) {
+                result.insert(num)
+            }
+        }
+        return Array(result)
+    }
+
+    func intersection0(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
         Array(Set(nums1.filter { nums2.contains($0) }))
     }
 

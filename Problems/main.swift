@@ -1,1 +1,1 @@
-MinimumCommonValue().tests()
+IntersectionOfTwoArrays().tests()
