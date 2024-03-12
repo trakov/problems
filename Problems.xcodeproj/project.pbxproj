@@ -652,6 +652,7 @@
 		8FC15A9B2B75EAFE000BD5BC /* LargestDivisibleSubset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC15A9A2B75EAFE000BD5BC /* LargestDivisibleSubset.swift */; };
 		8FC15A9D2B782656000BD5BC /* PalindromicSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC15A9C2B782656000BD5BC /* PalindromicSubstrings.swift */; };
 		8FC15A9F2B78CFD6000BD5BC /* CherryPickupII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC15A9E2B78CFD6000BD5BC /* CherryPickupII.swift */; };
+		8FC7B97F2BA011A90036C9F8 /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC7B97E2BA011A90036C9F8 /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */; };
 		8FCC12BB2A7F837100698582 /* NumberOfMusicPlaylists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC12BA2A7F837100698582 /* NumberOfMusicPlaylists.swift */; };
 		8FCC12CE2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC12CD2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift */; };
 		8FCC13962A85FEA600698582 /* CoinChangeII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC13952A85FEA600698582 /* CoinChangeII.swift */; };
@@ -1166,6 +1167,7 @@
 		8FC535322A0B896400F2A27D /* CopyListWithRandomPointer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CopyListWithRandomPointer.swift; sourceTree = "<group>"; };
 		8FC535382A0BBD6F00F2A27D /* Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problems; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FC66B2C286F2BE80066D4BB /* RomanToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInteger.swift; sourceTree = "<group>"; };
+		8FC7B97E2BA011A90036C9F8 /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeroSumConsecutiveNodesFromLinkedList.swift; sourceTree = "<group>"; };
 		8FCC12BA2A7F837100698582 /* NumberOfMusicPlaylists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfMusicPlaylists.swift; sourceTree = "<group>"; };
 		8FCC12CD2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeTheMaximumDifferenceOfPairs.swift; sourceTree = "<group>"; };
 		8FCC13952A85FEA600698582 /* CoinChangeII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinChangeII.swift; sourceTree = "<group>"; };
@@ -2113,6 +2115,7 @@
 				8FED94782B9AF66100E55D4C /* CountElementsWithMaximumFrequency.swift */,
 				8FED947A2B9C328300E55D4C /* MinimumCommonValue.swift */,
 				8FED947C2B9EC52800E55D4C /* CustomSortString.swift */,
+				8FC7B97E2BA011A90036C9F8 /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2643,6 +2646,7 @@
 				8FB9B5422A0BBF540073424E /* PowerOfTwo.swift in Sources */,
 				8FB9B4F72A0BBF4E0073424E /* OddEvenLinkedList.swift in Sources */,
 				8FC102A52A4BF97D005E8289 /* PathWithMaximumProbability.swift in Sources */,
+				8FC7B97F2BA011A90036C9F8 /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift in Sources */,
 				8FB9B4C42A0BBF480073424E /* SumOfDistancesInTree.swift in Sources */,
 				8F4111312ACA8449001E0804 /* RemoveColoredPiecesIfBothNeighborsAreTheSameColor.swift in Sources */,
 				8F0424332AAF567700970AC5 /* GroupThePeopleGivenTheGroupSizeTheyBelongTo.swift in Sources */,

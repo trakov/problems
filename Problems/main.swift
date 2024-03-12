@@ -1,1 +1,1 @@
-CustomSortString().tests()
+RemoveZeroSumConsecutiveNodesFromLinkedList().tests()
