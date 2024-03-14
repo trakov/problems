@@ -1,1 +1,1 @@
-FindThePivotInteger().tests()
+BinarySubarraysWithSum().tests()
