@@ -1,1 +1,1 @@
-BinarySubarraysWithSum().tests()
+ContiguousArray().tests()
