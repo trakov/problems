@@ -1,1 +1,1 @@
-ContiguousArray().tests()
+MinimumNumberOfArrowsToBurstBalloons().tests()
