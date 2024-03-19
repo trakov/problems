@@ -1,5 +1,20 @@
 class TaskScheduler {
     func leastInterval(_ tasks: [Character], _ n: Int) -> Int {
+        guard n > 0 else { return tasks.count }
+        var maxCount = 0
+        var map: [Character: Int] = [:]
+        for c in tasks {
+            map[c, default: 0] += 1
+            maxCount = max(maxCount, map[c]!)
+        }
+        var countOfMax = 0
+        for count in map.values where count == maxCount {
+            countOfMax += 1
+        }
+        return max(tasks.count, (maxCount - 1) * (n + 1) + countOfMax)
+    }
+
+    func leastInterval2(_ tasks: [Character], _ n: Int) -> Int {
         let taskCounts = tasks.reduce(into: [:]) { counts, task in
             counts[task, default: 0] += 1
         }

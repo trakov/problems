@@ -1,1 +1,1 @@
-MinimumNumberOfArrowsToBurstBalloons().tests()
+TaskScheduler().tests()
