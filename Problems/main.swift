@@ -1,1 +1,1 @@
-ReverseLinkedList().tests()
+SumOfSquaresOfSpecialElements().tests()
