@@ -1,5 +1,13 @@
 class ReverseLinkedList {
     func reverseList(_ head: ListNode?) -> ListNode? {
+        guard let node = head, head?.next != nil else { return head }
+        let next = reverseList(node.next)
+        node.next?.next = node
+        node.next = nil
+        return next
+    }
+
+    func reverseListIterative(_ head: ListNode?) -> ListNode? {
         var prev: ListNode?
         var cur = head
         
