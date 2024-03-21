@@ -1,1 +1,1 @@
-SumOfSquaresOfSpecialElements().tests()
+NextPermutation().tests()
