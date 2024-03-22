@@ -1,1 +1,1 @@
-NextPermutation().tests()
+MinimumAdjacentSwapsToReachTheKthSmallestNumber().tests()
