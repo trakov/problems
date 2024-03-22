@@ -1,1 +1,1 @@
-MinimumAdjacentSwapsToReachTheKthSmallestNumber().tests()
+PalindromeLinkedList().tests()
