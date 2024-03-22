@@ -1,1 +1,1 @@
-PalindromeLinkedList().tests()
+CountSquareSumTriples().tests()
