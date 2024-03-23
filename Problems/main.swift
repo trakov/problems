@@ -1,1 +1,1 @@
-CountSquareSumTriples().tests()
+VerticalOrderTraversalOfABinaryTree().tests()
