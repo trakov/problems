@@ -1,1 +1,1 @@
-VerticalOrderTraversalOfABinaryTree().tests()
+InsertDeleteGetRandom().tests()
