@@ -1,1 +1,1 @@
-InsertDeleteGetRandom().tests()
+FindAllDuplicatesInAnArray().tests()
