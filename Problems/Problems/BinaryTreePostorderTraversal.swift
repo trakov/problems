@@ -3,7 +3,6 @@ class BinaryTreePostorderTraversal {
         guard root != nil else { return [] }
         var result: [Int] = []
         var stack: [TreeNode] = [root!]
-        
         while !stack.isEmpty {
             guard let n = stack.popLast() else { break }
             result.append(n.val)

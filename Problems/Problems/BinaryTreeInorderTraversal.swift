@@ -36,7 +36,7 @@ class BinaryTreeInorderTraversal {
     
     func recursive(_ node: TreeNode?) -> [Int] {
         if let node = node {
-            return recursive(node.left) + recursive(node.right) + [node.val]
+            return recursive(node.left) + [node.val] + recursive(node.right)
         } else {
             return []
         }
