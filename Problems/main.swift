@@ -1,1 +1,1 @@
-FindAllDuplicatesInAnArray().tests()
+FirstMissingPositive().tests()
