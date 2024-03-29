@@ -1,1 +1,1 @@
-LengthOfLongestSubarrayWithAtMostKFrequency().tests()
+CountSubarraysWhereMaxElementAppearsAtLeastKTimes().tests()
