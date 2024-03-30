@@ -1,1 +1,1 @@
-CountSubarraysWhereMaxElementAppearsAtLeastKTimes().tests()
+SubarraysWithKDifferentIntegers().tests()
