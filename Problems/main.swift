@@ -1,1 +1,1 @@
-SubarraysWithKDifferentIntegers().tests()
+LengthOfLastWord().tests()
