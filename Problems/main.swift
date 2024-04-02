@@ -1,1 +1,1 @@
-LengthOfLastWord().tests()
+IsomorphicStrings().tests()

@@ -1,44 +1,16 @@
 class IsomorphicStrings {
     func isIsomorphic(_ s: String, _ t: String) -> Bool {
         guard s.count == t.count else { return false }
-        var ds: [Character: [Int]] = [:]
-        var s = Array(s)
-        for (i, c) in s.enumerated() {
-            ds[c, default: []] += [i]
+        var s2t: [Character: Character] = [:]
+        var t2s: [Character: Character] = [:]
+        for (c, d) in zip(s, t) {
+            if let value = s2t[c], value != d { return false }
+            if let value = t2s[d], value != c { return false }
+            s2t[c] = d
+            t2s[d] = c
         }
-        
-        var dt: [Character: [Int]] = [:]
-        var t = Array(t)
-        for (i, c) in t.enumerated() {
-            dt[c, default: []] += [i]
-        }
-
-        return dt.values.sorted(by: {$0[0] < $1[0]}) == ds.values.sorted(by: {$0[0] < $1[0]})
+        return true
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     func isIsomorphic2(_ s: String, _ t: String) -> Bool {
         guard s.count == t.count else {
