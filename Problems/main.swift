@@ -1,1 +1,1 @@
-MaximumNestingDepthOfTheParentheses().tests()
+MakeTheStringGreat().tests()
