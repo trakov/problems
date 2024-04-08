@@ -1,1 +1,1 @@
-NumberOfStudentsUnableToEatLunch().tests()
+ValidParenthesisString().tests()
