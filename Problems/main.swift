@@ -1,1 +1,1 @@
-MakeTheStringGreat().tests()
+NumberOfStudentsUnableToEatLunch().tests()
