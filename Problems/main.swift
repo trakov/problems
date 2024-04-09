@@ -1,1 +1,1 @@
-ValidParenthesisString().tests()
+TimeNeededToBuyTickets().tests()
