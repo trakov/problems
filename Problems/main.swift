@@ -1,1 +1,1 @@
-TimeNeededToBuyTickets().tests()
+RevealCardsInIncreasingOrder().tests()
