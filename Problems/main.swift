@@ -1,1 +1,1 @@
-RevealCardsInIncreasingOrder().tests()
+RemoveKDigits().tests()
