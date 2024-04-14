@@ -1,1 +1,1 @@
-RemoveKDigits().tests()
+SumOfLeftLeaves().tests()
