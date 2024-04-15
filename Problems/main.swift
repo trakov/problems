@@ -1,1 +1,1 @@
-SumOfLeftLeaves().tests()
+SumRootToLeafNumbers().tests()

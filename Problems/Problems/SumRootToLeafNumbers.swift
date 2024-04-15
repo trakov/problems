@@ -1,5 +1,14 @@
 class SumRootToLeafNumbers {
-    func sumNumbers(_ root: TreeNode?) -> Int {
+    func sumNumbers(_ root: TreeNode?, _ sum: Int = 0) -> Int {
+        guard let root = root else { return 0 }
+        let sum = 10 * sum + root.val
+        if root.left == nil && root.right == nil {
+            return sum
+        }
+        return sumNumbers(root.left, sum) + sumNumbers(root.right, sum)
+    }
+
+    func sumNumbers2(_ root: TreeNode?) -> Int {
         func helper(_ node: TreeNode?, _ sum: Int) -> Int {
             guard let node = node else { return 0 }
             let newSum = sum * 10 + node.val
