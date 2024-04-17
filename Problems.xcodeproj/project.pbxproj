@@ -107,6 +107,7 @@
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
 		8F7A22DA2BCAFA1C005E48C2 /* MaximalRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A22D92BCAFA1B005E48C2 /* MaximalRectangle.swift */; };
 		8F7A23172BCEAE89005E48C2 /* AddOneRowToTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A23162BCEAE89005E48C2 /* AddOneRowToTree.swift */; };
+		8F7A23192BCFAC7F005E48C2 /* SmallestStringStartingFromLeaf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A23182BCFAC7F005E48C2 /* SmallestStringStartingFromLeaf.swift */; };
 		8F8F1EA62B8A28F1007B818E /* FindAllPeopleWithSecret.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA52B8A28F1007B818E /* FindAllPeopleWithSecret.swift */; };
 		8F8F1EA82B8B389B007B818E /* GreatestCommonDivisorTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA72B8B389B007B818E /* GreatestCommonDivisorTraversal.swift */; };
 		8F8F1EAA2B8DA841007B818E /* LargestRectangleInHistogram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA92B8DA841007B818E /* LargestRectangleInHistogram.swift */; };
@@ -940,6 +941,7 @@
 		8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelCoursesIII.swift; sourceTree = "<group>"; };
 		8F7A22D92BCAFA1B005E48C2 /* MaximalRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximalRectangle.swift; sourceTree = "<group>"; };
 		8F7A23162BCEAE89005E48C2 /* AddOneRowToTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddOneRowToTree.swift; sourceTree = "<group>"; };
+		8F7A23182BCFAC7F005E48C2 /* SmallestStringStartingFromLeaf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestStringStartingFromLeaf.swift; sourceTree = "<group>"; };
 		8F8405FF29F1029300EF1303 /* MaximumWidthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWidthOfBinaryTree.swift; sourceTree = "<group>"; };
 		8F84060129F127B100EF1303 /* DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoIntegers.swift; sourceTree = "<group>"; };
 		8F84060329F1380900EF1303 /* GrayCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayCode.swift; sourceTree = "<group>"; };
@@ -2185,6 +2187,7 @@
 				8F6420332BC7B06B00F97A10 /* RemoveKDigits.swift */,
 				8F7A22D92BCAFA1B005E48C2 /* MaximalRectangle.swift */,
 				8F7A23162BCEAE89005E48C2 /* AddOneRowToTree.swift */,
+				8F7A23182BCFAC7F005E48C2 /* SmallestStringStartingFromLeaf.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2398,6 +2401,7 @@
 				8FB9B5892A0BBF5A0073424E /* ValidPalindrome2.swift in Sources */,
 				8F30CEF42B80A12C008B2544 /* FurthestBuildingYouCanReach.swift in Sources */,
 				8FB9B46A2A0BBF3A0073424E /* FindTheDistanceValueBetweenTwoArrays.swift in Sources */,
+				8F7A23192BCFAC7F005E48C2 /* SmallestStringStartingFromLeaf.swift in Sources */,
 				8FC102EB2A63C000005E8289 /* SmallestSufficientTeam.swift in Sources */,
 				8FB9B4B22A0BBF480073424E /* SignOfTheProductOfAnArray.swift in Sources */,
 				8FB9B3F22A0BBF280073424E /* PathSumII.swift in Sources */,

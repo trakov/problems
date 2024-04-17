@@ -1,1 +1,1 @@
-AddOneRowToTree().tests()
+SmallestStringStartingFromLeaf().tests()
