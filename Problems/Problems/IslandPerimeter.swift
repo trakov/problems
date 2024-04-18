@@ -1,5 +1,24 @@
 class IslandPerimeter {
     func islandPerimeter(_ grid: [[Int]]) -> Int {
+        let n = grid.count
+        let m = grid[0].count
+        var result = 0
+        for i in 0..<n {
+            for j in 0..<m where grid[i][j] == 1 {
+                for isWater in [
+                    i == 0 || grid[i - 1][j] == 0, // top
+                    j == 0 || grid[i][j - 1] == 0, // left
+                    i == n - 1 || grid[i + 1][j] == 0, // bottom
+                    j == m - 1 || grid[i][j + 1] == 0 // right
+                ] where isWater {
+                    result += 1
+                }
+            }
+        }
+        return result
+    }
+
+    func islandPerimeter2(_ grid: [[Int]]) -> Int {
         var perimeter = 0
         let n = grid.count
         let m = grid[0].count

@@ -1,1 +1,1 @@
-SmallestStringStartingFromLeaf().tests()
+IslandPerimeter().tests()
