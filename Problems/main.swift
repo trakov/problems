@@ -1,1 +1,1 @@
-IslandPerimeter().tests()
+FindAllGroupsOfFarmland().tests()
