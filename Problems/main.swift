@@ -1,1 +1,1 @@
-FindIfPathExistsInGraph().tests()
+LongestUnivaluePath().tests()
