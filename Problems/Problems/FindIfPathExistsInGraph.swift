@@ -1,5 +1,45 @@
 class FindIfPathExistsInGraph {
+    class UnionFind {
+        private var rank: [Int]
+        private var root: [Int]
+        init(_ n: Int) {
+            root = Array(0..<n)
+            rank = Array(repeating: 0, count: n)
+        }
+        
+        func find(_ x: Int) -> Int {
+            guard x != root[x] else { return x }
+            root[x] = find(root[x])
+            return root[x]
+        }
+        
+        func union(_ x: Int, _ y: Int) {
+            let rx = find(x)
+            let ry = find(y)
+            if rank[rx] > rank[ry] {
+                root[ry] = rx
+            } else if rank[ry] > rank[rx] {
+                root[rx] = ry
+            } else {
+                root[ry] = rx
+                rank[rx] += 1
+            }
+        }
+        
+        func isConnected(_ x: Int, _ y: Int) -> Bool {
+            find(x) == find(y)
+        }
+    }
+    
     func validPath(_ n: Int, _ edges: [[Int]], _ source: Int, _ destination: Int) -> Bool {
+        let uf = UnionFind(n)
+        for edge in edges {
+            uf.union(edge[0], edge[1])
+        }
+        return uf.isConnected(source, destination)
+    }
+    
+    func validPath2(_ n: Int, _ edges: [[Int]], _ source: Int, _ destination: Int) -> Bool {
         guard !edges.isEmpty else { return true }
         var adjacencies: [Int: [Int]] = [:]
         for edge in edges {

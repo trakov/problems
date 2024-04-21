@@ -1,1 +1,1 @@
-FindAllGroupsOfFarmland().tests()
+FindIfPathExistsInGraph().tests()
