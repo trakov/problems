@@ -1,23 +1,36 @@
 class JumpGameII {
-    func jump(_ nums: [Int]) -> Int {
-        guard nums.count > 1 else { return 0 }
-        var minJumps = [nums.count-1] // min_jumps: min_index
-        for i in (0..<nums.count-1).reversed() {
-            guard nums[i] > 0 else { continue }
-            var temp = minJumps
-            for (minJump, minIndex) in minJumps.enumerated() {
-                if i + nums[i] >= minIndex {
-                    if temp.count > minJump + 1 {
-                        temp[minJump + 1] = i
-                    } else {
-                        temp.append(i)
-                    }
-                    break
-                }
-            }
-            minJumps = temp
+    func jump2(_ nums: [Int]) -> Int {
+        let n = nums.count
+        guard n > 1 else { return 0 }
+        var nums = nums
+        for i in 1..<n {
+            nums[i] = max(nums[i] + i, nums[i-1])
         }
-        return minJumps.firstIndex(of: 0) ?? -1
+        var i = 0
+        var result = 0
+        while i < n - 1 {
+            result += 1
+            i = nums[i]
+        }
+        return result
+    }
+    
+    func jump(_ nums: [Int]) -> Int {
+        let n = nums.count
+        guard n > 1 else { return 0 }
+        var result = 1
+        var reach = nums[0]
+        var cur = 1
+        while reach < n - 1 {
+            var newReach = 0
+            while cur <= reach {
+                newReach = max(newReach, cur + nums[cur])
+                cur += 1
+            }
+            result += 1
+            reach = newReach
+        }
+        return result
     }
 
     func tests() {
