@@ -1,1 +1,1 @@
-JumpGameII().tests()
+OpenTheLock().tests()
