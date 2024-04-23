@@ -1,1 +1,1 @@
-OpenTheLock().tests()
+MinimumHeightTrees().tests()
