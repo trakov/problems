@@ -1,1 +1,1 @@
-MinimumHeightTrees().tests()
+NthTribonacciNumber().tests()

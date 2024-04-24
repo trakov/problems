@@ -1,5 +1,17 @@
 class NthTribonacciNumber {
     func tribonacci(_ n: Int) -> Int {
+        guard n > 0 else { return 0 }
+        guard n > 2 else { return 1 }
+        var dp0 = 0
+        var dp1 = 1
+        var dp2 = 1
+        for i in 2..<n {
+            (dp2, dp1, dp0) = (dp2 + dp1 + dp0, dp2, dp1)
+        }
+        return dp2
+    }
+
+    func tribonacci2(_ n: Int) -> Int {
         guard n > 2 else { return min(n, 1) }
         var dp: [Int] = Array(repeating: 1, count: n+1)
         dp[0] = 0
