@@ -720,6 +720,7 @@
 		8FF5A4A92B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4A82B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift */; };
 		8FF5A4AB2B145EA000C11D6D /* KnightDialer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4AA2B145EA000C11D6D /* KnightDialer.swift */; };
 		8FF5A4AD2B15AD1F00C11D6D /* NumberOfWaysToDivideALongCorridor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4AC2B15AD1F00C11D6D /* NumberOfWaysToDivideALongCorridor.swift */; };
+		8FF7C9352BDA243900A1AFD7 /* LongestIdealSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C9342BDA243900A1AFD7 /* LongestIdealSubsequence.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1306,6 +1307,7 @@
 		8FF6AA552857417C00D407BF /* ContainerWithMostWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWater.swift; sourceTree = "<group>"; };
 		8FF6AA5728576DE500D407BF /* TrappingRainWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWater.swift; sourceTree = "<group>"; };
 		8FF6AA59286203C300D407BF /* IntegerToRoman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegerToRoman.swift; sourceTree = "<group>"; };
+		8FF7C9342BDA243900A1AFD7 /* LongestIdealSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIdealSubsequence.swift; sourceTree = "<group>"; };
 		8FF88C7F29349C34005DADE0 /* FindPlayersWithZeroOrOneLosses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPlayersWithZeroOrOneLosses.swift; sourceTree = "<group>"; };
 		8FF88C812934BCDA005DADE0 /* FindAllNumbersDisappearedInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllNumbersDisappearedInAnArray.swift; sourceTree = "<group>"; };
 		8FF88C832934D201005DADE0 /* AssignCookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignCookies.swift; sourceTree = "<group>"; };
@@ -2197,6 +2199,7 @@
 				8F7A232B2BD39E80005E48C2 /* FindAllGroupsOfFarmland.swift */,
 				8F7A232D2BD559C1005E48C2 /* LongestUnivaluePath.swift */,
 				8F7A23332BD77DCC005E48C2 /* MinimumHeightTrees.swift */,
+				8FF7C9342BDA243900A1AFD7 /* LongestIdealSubsequence.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2344,6 +2347,7 @@
 				8F0907DD2B033B95003959BC /* UniqueLength3PalindromicSubsequences.swift in Sources */,
 				8FB9B5562A0BBF540073424E /* SingleNumber.swift in Sources */,
 				8FB9B5292A0BBF540073424E /* ValidAnagram.swift in Sources */,
+				8FF7C9352BDA243900A1AFD7 /* LongestIdealSubsequence.swift in Sources */,
 				8FB9B4DE2A0BBF480073424E /* NAryTreePreorderTraversal.swift in Sources */,
 				8FB9B5722A0BBF5A0073424E /* MergeKSortedLists.swift in Sources */,
 				8FB6EACD2B60EB8A0034C361 /* PseudoPalindromicPathsInABinaryTree.swift in Sources */,

@@ -1,1 +1,1 @@
-NthTribonacciNumber().tests()
+LongestIdealSubsequence().tests()
