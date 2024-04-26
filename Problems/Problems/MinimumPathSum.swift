@@ -1,6 +1,19 @@
 class MinimumPathSum {
     func minPathSum(_ grid: [[Int]]) -> Int {
         var grid = grid
+        for (i, row) in grid.enumerated() {
+            for (j, val) in row.enumerated() {
+                var prev = (i == 0 && j == 0) ? 0 : Int.max
+                if i > 0 { prev = min(prev, grid[i - 1][j]) }
+                if j > 0 { prev = min(prev, grid[i][j - 1]) }
+                grid[i][j] = prev + val
+            }
+        }
+        return grid.last?.last ?? -1
+    }
+
+    func minPathSum2(_ grid: [[Int]]) -> Int {
+        var grid = grid
         for i in 0..<grid.count {
             for j in 0..<grid[0].count {
                 guard i != 0 || j != 0 else { continue }
