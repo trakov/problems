@@ -1,1 +1,1 @@
-MinimumFallingPathSumII().tests()
+FreedomTrail().tests()
