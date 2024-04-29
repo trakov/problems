@@ -1,1 +1,1 @@
-MinimumNumberofOperationstoMakeArrayXOREqualtoK().tests()
+LongestSubstring().tests()
