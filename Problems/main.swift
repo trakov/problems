@@ -1,1 +1,1 @@
-FreedomTrail().tests()
+MinimumNumberofOperationstoMakeArrayXOREqualtoK().tests()

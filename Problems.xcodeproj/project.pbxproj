@@ -723,6 +723,7 @@
 		8FF7C9352BDA243900A1AFD7 /* LongestIdealSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C9342BDA243900A1AFD7 /* LongestIdealSubsequence.swift */; };
 		8FF7C9592BDB8A5300A1AFD7 /* MinimumFallingPathSumII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C9582BDB8A5300A1AFD7 /* MinimumFallingPathSumII.swift */; };
 		8FF7C95B2BDCF63F00A1AFD7 /* FreedomTrail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C95A2BDCF63F00A1AFD7 /* FreedomTrail.swift */; };
+		8FF7C95D2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C95C2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1312,6 +1313,7 @@
 		8FF7C9342BDA243900A1AFD7 /* LongestIdealSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIdealSubsequence.swift; sourceTree = "<group>"; };
 		8FF7C9582BDB8A5300A1AFD7 /* MinimumFallingPathSumII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumFallingPathSumII.swift; sourceTree = "<group>"; };
 		8FF7C95A2BDCF63F00A1AFD7 /* FreedomTrail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreedomTrail.swift; sourceTree = "<group>"; };
+		8FF7C95C2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift; sourceTree = "<group>"; };
 		8FF88C7F29349C34005DADE0 /* FindPlayersWithZeroOrOneLosses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPlayersWithZeroOrOneLosses.swift; sourceTree = "<group>"; };
 		8FF88C812934BCDA005DADE0 /* FindAllNumbersDisappearedInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllNumbersDisappearedInAnArray.swift; sourceTree = "<group>"; };
 		8FF88C832934D201005DADE0 /* AssignCookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignCookies.swift; sourceTree = "<group>"; };
@@ -2206,6 +2208,7 @@
 				8FF7C9342BDA243900A1AFD7 /* LongestIdealSubsequence.swift */,
 				8FF7C9582BDB8A5300A1AFD7 /* MinimumFallingPathSumII.swift */,
 				8FF7C95A2BDCF63F00A1AFD7 /* FreedomTrail.swift */,
+				8FF7C95C2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2550,6 +2553,7 @@
 				8FB9B5682A0BBF5A0073424E /* Packet.swift in Sources */,
 				8FB9B4442A0BBF340073424E /* IntegerBreak.swift in Sources */,
 				8FB9B4E02A0BBF480073424E /* RichestCustomerWealth.swift in Sources */,
+				8FF7C95D2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift in Sources */,
 				8FF029BA2A1F283600E1F3BB /* New21Game.swift in Sources */,
 				8FB9B5362A0BBF540073424E /* MostStonesRemovedWithSameRowOrColumn.swift in Sources */,
 				8FB9B56E2A0BBF5A0073424E /* TrappingRainWater.swift in Sources */,
