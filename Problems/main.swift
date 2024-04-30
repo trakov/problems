@@ -1,1 +1,1 @@
-LongestSubstring().tests()
+NumberofWonderfulSubstrings().tests()
