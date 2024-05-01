@@ -725,6 +725,7 @@
 		8FF7C95B2BDCF63F00A1AFD7 /* FreedomTrail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C95A2BDCF63F00A1AFD7 /* FreedomTrail.swift */; };
 		8FF7C95D2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C95C2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift */; };
 		8FF7C9662BE0B89E00A1AFD7 /* NumberofWonderfulSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C9652BE0B89E00A1AFD7 /* NumberofWonderfulSubstrings.swift */; };
+		8FF7C9682BE2066E00A1AFD7 /* ReversePrefixofWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C9672BE2066E00A1AFD7 /* ReversePrefixofWord.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1316,6 +1317,7 @@
 		8FF7C95A2BDCF63F00A1AFD7 /* FreedomTrail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreedomTrail.swift; sourceTree = "<group>"; };
 		8FF7C95C2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift; sourceTree = "<group>"; };
 		8FF7C9652BE0B89E00A1AFD7 /* NumberofWonderfulSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofWonderfulSubstrings.swift; sourceTree = "<group>"; };
+		8FF7C9672BE2066E00A1AFD7 /* ReversePrefixofWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReversePrefixofWord.swift; sourceTree = "<group>"; };
 		8FF88C7F29349C34005DADE0 /* FindPlayersWithZeroOrOneLosses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPlayersWithZeroOrOneLosses.swift; sourceTree = "<group>"; };
 		8FF88C812934BCDA005DADE0 /* FindAllNumbersDisappearedInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllNumbersDisappearedInAnArray.swift; sourceTree = "<group>"; };
 		8FF88C832934D201005DADE0 /* AssignCookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignCookies.swift; sourceTree = "<group>"; };
@@ -2212,6 +2214,7 @@
 				8FF7C95A2BDCF63F00A1AFD7 /* FreedomTrail.swift */,
 				8FF7C95C2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift */,
 				8FF7C9652BE0B89E00A1AFD7 /* NumberofWonderfulSubstrings.swift */,
+				8FF7C9672BE2066E00A1AFD7 /* ReversePrefixofWord.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2738,6 +2741,7 @@
 				8F0E18BD2AB182C600EAEC3B /* Candy.swift in Sources */,
 				8FF5A4972B060ED100C11D6D /* FindUniqueBinaryString.swift in Sources */,
 				8FB9B3D72A0BBF220073424E /* CopyListWithRandomPointer.swift in Sources */,
+				8FF7C9682BE2066E00A1AFD7 /* ReversePrefixofWord.swift in Sources */,
 				8FB9B5072A0BBF4E0073424E /* MinimumAverageDifference.swift in Sources */,
 				8FB9B4C02A0BBF480073424E /* JumpGame.swift in Sources */,
 				8F7A232E2BD559C1005E48C2 /* LongestUnivaluePath.swift in Sources */,

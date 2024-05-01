@@ -1,1 +1,1 @@
-NumberofWonderfulSubstrings().tests()
+ReversePrefixofWord().tests()
