@@ -1,1 +1,1 @@
-TimeConverter().tests()
+LargestPositiveIntegerThatExistsWithItsNegative().tests()

@@ -727,6 +727,7 @@
 		8FF7C9662BE0B89E00A1AFD7 /* NumberofWonderfulSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C9652BE0B89E00A1AFD7 /* NumberofWonderfulSubstrings.swift */; };
 		8FF7C9682BE2066E00A1AFD7 /* ReversePrefixofWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C9672BE2066E00A1AFD7 /* ReversePrefixofWord.swift */; };
 		8FF7C96A2BE26F1B00A1AFD7 /* TimeConverter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C9692BE26F1B00A1AFD7 /* TimeConverter.swift */; };
+		8FF7C96C2BE35F8500A1AFD7 /* LargestPositiveIntegerThatExistsWithItsNegative.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C96B2BE35F8500A1AFD7 /* LargestPositiveIntegerThatExistsWithItsNegative.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1320,6 +1321,7 @@
 		8FF7C9652BE0B89E00A1AFD7 /* NumberofWonderfulSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofWonderfulSubstrings.swift; sourceTree = "<group>"; };
 		8FF7C9672BE2066E00A1AFD7 /* ReversePrefixofWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReversePrefixofWord.swift; sourceTree = "<group>"; };
 		8FF7C9692BE26F1B00A1AFD7 /* TimeConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConverter.swift; sourceTree = "<group>"; };
+		8FF7C96B2BE35F8500A1AFD7 /* LargestPositiveIntegerThatExistsWithItsNegative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPositiveIntegerThatExistsWithItsNegative.swift; sourceTree = "<group>"; };
 		8FF88C7F29349C34005DADE0 /* FindPlayersWithZeroOrOneLosses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPlayersWithZeroOrOneLosses.swift; sourceTree = "<group>"; };
 		8FF88C812934BCDA005DADE0 /* FindAllNumbersDisappearedInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllNumbersDisappearedInAnArray.swift; sourceTree = "<group>"; };
 		8FF88C832934D201005DADE0 /* AssignCookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignCookies.swift; sourceTree = "<group>"; };
@@ -2218,6 +2220,7 @@
 				8FF7C9652BE0B89E00A1AFD7 /* NumberofWonderfulSubstrings.swift */,
 				8FF7C9672BE2066E00A1AFD7 /* ReversePrefixofWord.swift */,
 				8FF7C9692BE26F1B00A1AFD7 /* TimeConverter.swift */,
+				8FF7C96B2BE35F8500A1AFD7 /* LargestPositiveIntegerThatExistsWithItsNegative.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2430,6 +2433,7 @@
 				8FB9B4282A0BBF2E0073424E /* MinimumCostForTickets.swift in Sources */,
 				8FB9B4FF2A0BBF4E0073424E /* ConstructTheRectangle.swift in Sources */,
 				8FB9B50D2A0BBF4E0073424E /* RotateArray.swift in Sources */,
+				8FF7C96C2BE35F8500A1AFD7 /* LargestPositiveIntegerThatExistsWithItsNegative.swift in Sources */,
 				8FB9B5002A0BBF4E0073424E /* SortCharactersByFrequency.swift in Sources */,
 				8FB9B5892A0BBF5A0073424E /* ValidPalindrome2.swift in Sources */,
 				8F30CEF42B80A12C008B2544 /* FurthestBuildingYouCanReach.swift in Sources */,
