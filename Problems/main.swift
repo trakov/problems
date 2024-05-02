@@ -1,1 +1,1 @@
-ReversePrefixofWord().tests()
+TimeConverter().tests()
