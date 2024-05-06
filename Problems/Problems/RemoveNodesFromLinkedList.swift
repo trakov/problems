@@ -1,5 +1,36 @@
 class RemoveNodesFromLinkedList {
     func removeNodes(_ head: ListNode?) -> ListNode? {
+        var node = head
+        let dummy: ListNode? = ListNode(0)
+        while node != nil {
+            let next = node?.next
+            node?.next = dummy?.next
+            dummy?.next = node
+            node = next
+        }
+        
+        node = dummy?.next
+        while node?.next != nil {
+            if node!.next!.val < node!.val {
+                node?.next = node?.next?.next
+            } else {
+                node = node?.next
+            }
+        }
+        
+        node = dummy?.next
+        dummy?.next = nil
+        while node != nil {
+            let next = node?.next
+            node?.next = dummy?.next
+            dummy?.next = node
+            node = next
+        }
+        
+        return dummy?.next
+    }
+    
+    func removeNodes2(_ head: ListNode?) -> ListNode? {
         var stack: [ListNode] = []
         var node = head
         while node != nil {
