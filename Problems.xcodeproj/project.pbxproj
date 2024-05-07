@@ -730,6 +730,7 @@
 		8FF7C96C2BE35F8500A1AFD7 /* LargestPositiveIntegerThatExistsWithItsNegative.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C96B2BE35F8500A1AFD7 /* LargestPositiveIntegerThatExistsWithItsNegative.swift */; };
 		8FF7C96E2BE4B4A100A1AFD7 /* CompareVersionNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C96D2BE4B4A100A1AFD7 /* CompareVersionNumbers.swift */; };
 		8FF7C9702BE89FE100A1AFD7 /* RemoveNodesFromLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C96F2BE89FE100A1AFD7 /* RemoveNodesFromLinkedList.swift */; };
+		8FF7C9722BE9F14B00A1AFD7 /* DoubleaNumberRepresentedasaLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF7C9712BE9F14B00A1AFD7 /* DoubleaNumberRepresentedasaLinkedList.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1326,6 +1327,7 @@
 		8FF7C96B2BE35F8500A1AFD7 /* LargestPositiveIntegerThatExistsWithItsNegative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPositiveIntegerThatExistsWithItsNegative.swift; sourceTree = "<group>"; };
 		8FF7C96D2BE4B4A100A1AFD7 /* CompareVersionNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareVersionNumbers.swift; sourceTree = "<group>"; };
 		8FF7C96F2BE89FE100A1AFD7 /* RemoveNodesFromLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNodesFromLinkedList.swift; sourceTree = "<group>"; };
+		8FF7C9712BE9F14B00A1AFD7 /* DoubleaNumberRepresentedasaLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleaNumberRepresentedasaLinkedList.swift; sourceTree = "<group>"; };
 		8FF88C7F29349C34005DADE0 /* FindPlayersWithZeroOrOneLosses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPlayersWithZeroOrOneLosses.swift; sourceTree = "<group>"; };
 		8FF88C812934BCDA005DADE0 /* FindAllNumbersDisappearedInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllNumbersDisappearedInAnArray.swift; sourceTree = "<group>"; };
 		8FF88C832934D201005DADE0 /* AssignCookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignCookies.swift; sourceTree = "<group>"; };
@@ -2227,6 +2229,7 @@
 				8FF7C96B2BE35F8500A1AFD7 /* LargestPositiveIntegerThatExistsWithItsNegative.swift */,
 				8FF7C96D2BE4B4A100A1AFD7 /* CompareVersionNumbers.swift */,
 				8FF7C96F2BE89FE100A1AFD7 /* RemoveNodesFromLinkedList.swift */,
+				8FF7C9712BE9F14B00A1AFD7 /* DoubleaNumberRepresentedasaLinkedList.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2564,6 +2567,7 @@
 				8FC7B9952BAD8FBC0036C9F8 /* CountSquareSumTriples.swift in Sources */,
 				8F152B722B6CBF8A00AE5C87 /* SequentialDigits.swift in Sources */,
 				8F8F1EA62B8A28F1007B818E /* FindAllPeopleWithSecret.swift in Sources */,
+				8FF7C9722BE9F14B00A1AFD7 /* DoubleaNumberRepresentedasaLinkedList.swift in Sources */,
 				8FB9B57C2A0BBF5A0073424E /* RomanToInteger.swift in Sources */,
 				8FB9B51E2A0BBF4E0073424E /* FindPlayersWithZeroOrOneLosses.swift in Sources */,
 				8FB9B5272A0BBF540073424E /* SummaryRanges.swift in Sources */,
