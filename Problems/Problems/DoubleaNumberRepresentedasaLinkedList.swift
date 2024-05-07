@@ -1,5 +1,21 @@
 class DoubleaNumberRepresentedasaLinkedList {
     func doubleIt(_ head: ListNode?) -> ListNode? {
+        guard var head else { return nil }
+        if (head.val * 2) / 10 > 0 {
+            head = ListNode(0, head)
+        }
+        var node: ListNode? = head
+        while node != nil {
+            node?.val = (node!.val * 2) % 10
+            if let val = node?.next?.val, (val * 2) / 10 > 0 {
+                node?.val += 1
+            }
+            node = node?.next
+        }
+        return head
+    }
+    
+    func doubleIt2(_ head: ListNode?) -> ListNode? {
         let rev = reverse(head)
         
         var node = rev
