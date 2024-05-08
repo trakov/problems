@@ -1,1 +1,1 @@
-DoubleaNumberRepresentedasaLinkedList().tests()
+RelativeRanks().tests()
