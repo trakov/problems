@@ -1,1 +1,1 @@
-RelativeRanks().tests()
+MaximizeHappinessofSelectedChildren().tests()
