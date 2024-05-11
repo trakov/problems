@@ -1,1 +1,1 @@
-MaximizeHappinessofSelectedChildren().tests()
+KthSmallestPrimeFraction().tests()
