@@ -1,1 +1,1 @@
-KthSmallestPrimeFraction().tests()
+MinimumCosttoHireKWorkers().tests()
