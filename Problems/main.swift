@@ -1,1 +1,1 @@
-LargestLocalValuesinaMatrix().tests()
+ScoreAfterFlippingMatrix().tests()
