@@ -1,19 +1,16 @@
 class LongestConsecutiveSequence {
     func longestConsecutive(_ nums: [Int]) -> Int {
-        guard !nums.isEmpty else { return 0 }
         var nums = Set(nums)
-        guard nums.count > 1 else { return 1 }
+        guard nums.count > 1 else { return nums.count }
         var result = 1
-        for num in nums {
-            if nums.contains(num - 1) { continue }
-            var temp = 1
-            var n = num
-            while nums.contains(n + 1) {
-                nums.remove(n + 1)
-                n += 1
-                temp += 1
+        for num in nums where !nums.contains(num - 1) {
+            var cur = num
+            var curResult = 1
+            while nums.contains(cur + 1) {
+                cur += 1
+                curResult += 1
             }
-            result = max(result, temp)
+            result = max(result, curResult)
         }
         return result
     }
