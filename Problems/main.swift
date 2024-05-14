@@ -1,1 +1,1 @@
-ScoreAfterFlippingMatrix().tests()
+PathwithMaximumGold().tests()
