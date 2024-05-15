@@ -1,1 +1,1 @@
-WordBreak().tests()
+FindtheSafestPathinaGrid().tests()
