@@ -1,1 +1,1 @@
-PathwithMaximumGold().tests()
+WordBreak().tests()
