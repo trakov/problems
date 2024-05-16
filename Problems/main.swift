@@ -1,1 +1,1 @@
-FindtheSafestPathinaGrid().tests()
+EvaluateBooleanBinaryTree().tests()
