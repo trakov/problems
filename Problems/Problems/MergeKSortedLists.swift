@@ -1,5 +1,25 @@
 class MergeKSortedLists {
     func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
+        guard var head = lists.first else { return nil }
+        
+        func merge(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+            guard let l1, let l2 else { return l1 ?? l2 }
+            if l1.val <= l2.val {
+                l1.next = merge(l1.next, l2)
+                return l1
+            } else {
+                l2.next = merge(l1, l2.next)
+                return l2
+            }
+        }
+
+        for list in lists.dropFirst() {
+            head = merge(head, list)
+        }
+        return head
+    }
+
+    func mergeKLists3(_ lists: [ListNode?]) -> ListNode? {
         var values: [Int] = []
         for list in lists {
             var node = list
