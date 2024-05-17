@@ -1,1 +1,1 @@
-DeleteLeavesWithaGivenValue().tests()
+ThekthFactorofn().tests()
