@@ -1,1 +1,1 @@
-ThekthFactorofn().tests()
+DistributeCoinsinBinaryTree().tests()
