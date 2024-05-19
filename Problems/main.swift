@@ -1,1 +1,1 @@
-DistributeCoinsinBinaryTree().tests()
+FindtheMaximumSumofNodeValues().tests()
