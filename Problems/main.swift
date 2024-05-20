@@ -1,1 +1,1 @@
-FindtheMaximumSumofNodeValues().tests()
+SumofAllSubsetXORTotals().tests()
