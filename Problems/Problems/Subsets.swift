@@ -1,6 +1,17 @@
 class Subsets {
     func subsets(_ nums: [Int]) -> [[Int]] {
         var result: [[Int]] = []
+        func backtrack(_ idx: Int, _ cur: [Int]) {
+            guard idx < nums.count else { return result.append(cur) }
+            backtrack(idx + 1, cur)
+            backtrack(idx + 1, cur + [nums[idx]])
+        }
+        backtrack(0, [])
+        return result
+    }
+
+    func subsets2(_ nums: [Int]) -> [[Int]] {
+        var result: [[Int]] = []
         var temp: [Int] = []
         func backtrack(idx: Int) {
             if temp.count <= nums.count {

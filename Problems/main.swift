@@ -1,1 +1,1 @@
-SumofAllSubsetXORTotals().tests()
+Subsets().tests()
