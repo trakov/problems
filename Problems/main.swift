@@ -1,1 +1,1 @@
-Subsets().tests()
+PalindromePartitioning().tests()
