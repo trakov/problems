@@ -1,1 +1,1 @@
-PalindromePartitioning().tests()
+TheNumberofBeautifulSubsets().tests()
