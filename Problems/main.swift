@@ -1,1 +1,1 @@
-TheNumberofBeautifulSubsets().tests()
+MaximumScoreWordsFormedbyLetters().tests()
