@@ -1,1 +1,1 @@
-MaximumScoreWordsFormedbyLetters().tests()
+RandomPickwithWeight([]).tests()
