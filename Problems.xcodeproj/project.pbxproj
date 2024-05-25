@@ -747,6 +747,7 @@
 		8FFA42DA2BFF0A52008B4F03 /* TheNumberofBeautifulSubsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42D92BFF0A52008B4F03 /* TheNumberofBeautifulSubsets.swift */; };
 		8FFA42DC2C0077B5008B4F03 /* MaximumScoreWordsFormedbyLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42DB2C0077B5008B4F03 /* MaximumScoreWordsFormedbyLetters.swift */; };
 		8FFA42DE2C00AC5D008B4F03 /* RandomPickwithWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42DD2C00AC5D008B4F03 /* RandomPickwithWeight.swift */; };
+		8FFA42E22C01AE12008B4F03 /* WordBreakII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42E12C01AE12008B4F03 /* WordBreakII.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1504,6 +1505,7 @@
 		8FFA42D92BFF0A52008B4F03 /* TheNumberofBeautifulSubsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheNumberofBeautifulSubsets.swift; sourceTree = "<group>"; };
 		8FFA42DB2C0077B5008B4F03 /* MaximumScoreWordsFormedbyLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreWordsFormedbyLetters.swift; sourceTree = "<group>"; };
 		8FFA42DD2C00AC5D008B4F03 /* RandomPickwithWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomPickwithWeight.swift; sourceTree = "<group>"; };
+		8FFA42E12C01AE12008B4F03 /* WordBreakII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreakII.swift; sourceTree = "<group>"; };
 		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -2278,6 +2280,7 @@
 				8FFA42D92BFF0A52008B4F03 /* TheNumberofBeautifulSubsets.swift */,
 				8FFA42DB2C0077B5008B4F03 /* MaximumScoreWordsFormedbyLetters.swift */,
 				8FFA42DD2C00AC5D008B4F03 /* RandomPickwithWeight.swift */,
+				8FFA42E12C01AE12008B4F03 /* WordBreakII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2578,6 +2581,7 @@
 				8FB9B53B2A0BBF540073424E /* NearestExitFromEntranceInMaze.swift in Sources */,
 				8FB9B4BD2A0BBF480073424E /* KeysAndRooms.swift in Sources */,
 				8FB9B4162A0BBF2E0073424E /* NumberOfOperationsToMakeNetworkConnected.swift in Sources */,
+				8FFA42E22C01AE12008B4F03 /* WordBreakII.swift in Sources */,
 				8FF7C98F2BEF47CB00A1AFD7 /* MinimumCosttoHireKWorkers.swift in Sources */,
 				8FB9B5202A0BBF4E0073424E /* PerfectNumber.swift in Sources */,
 				8FB9B46E2A0BBF3A0073424E /* SubtreeOfAnotherTree.swift in Sources */,
