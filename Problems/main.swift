@@ -1,1 +1,1 @@
-StudentAttendanceRecordI().tests()
+StudentAttendanceRecordII().tests()
