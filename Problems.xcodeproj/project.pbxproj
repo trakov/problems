@@ -748,6 +748,7 @@
 		8FFA42DC2C0077B5008B4F03 /* MaximumScoreWordsFormedbyLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42DB2C0077B5008B4F03 /* MaximumScoreWordsFormedbyLetters.swift */; };
 		8FFA42DE2C00AC5D008B4F03 /* RandomPickwithWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42DD2C00AC5D008B4F03 /* RandomPickwithWeight.swift */; };
 		8FFA42E22C01AE12008B4F03 /* WordBreakII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42E12C01AE12008B4F03 /* WordBreakII.swift */; };
+		8FFA42E42C03291E008B4F03 /* StudentAttendanceRecordI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42E32C03291E008B4F03 /* StudentAttendanceRecordI.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1506,6 +1507,7 @@
 		8FFA42DB2C0077B5008B4F03 /* MaximumScoreWordsFormedbyLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreWordsFormedbyLetters.swift; sourceTree = "<group>"; };
 		8FFA42DD2C00AC5D008B4F03 /* RandomPickwithWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomPickwithWeight.swift; sourceTree = "<group>"; };
 		8FFA42E12C01AE12008B4F03 /* WordBreakII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreakII.swift; sourceTree = "<group>"; };
+		8FFA42E32C03291E008B4F03 /* StudentAttendanceRecordI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentAttendanceRecordI.swift; sourceTree = "<group>"; };
 		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -2281,6 +2283,7 @@
 				8FFA42DB2C0077B5008B4F03 /* MaximumScoreWordsFormedbyLetters.swift */,
 				8FFA42DD2C00AC5D008B4F03 /* RandomPickwithWeight.swift */,
 				8FFA42E12C01AE12008B4F03 /* WordBreakII.swift */,
+				8FFA42E32C03291E008B4F03 /* StudentAttendanceRecordI.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2387,6 +2390,7 @@
 				8FB9B5552A0BBF540073424E /* IsSubsequence.swift in Sources */,
 				8FB9B53F2A0BBF540073424E /* MergeSortedArray.swift in Sources */,
 				8FB9B3D12A0BBF220073424E /* SpiralMatrixIV.swift in Sources */,
+				8FFA42E42C03291E008B4F03 /* StudentAttendanceRecordI.swift in Sources */,
 				8FB9B4052A0BBF2E0073424E /* DesignCircularDeque.swift in Sources */,
 				8FB9B5192A0BBF4E0073424E /* LicenseKeyFormatting.swift in Sources */,
 				8FF5A49F2B0B25AD00C11D6D /* MinimumAmountOfTimeToCollectGarbage.swift in Sources */,

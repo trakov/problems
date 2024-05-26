@@ -1,1 +1,1 @@
-WordBreakII().tests()
+StudentAttendanceRecordI().tests()
