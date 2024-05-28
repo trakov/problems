@@ -750,6 +750,7 @@
 		8FFA42E22C01AE12008B4F03 /* WordBreakII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42E12C01AE12008B4F03 /* WordBreakII.swift */; };
 		8FFA42E42C03291E008B4F03 /* StudentAttendanceRecordI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42E32C03291E008B4F03 /* StudentAttendanceRecordI.swift */; };
 		8FFA42E62C032B93008B4F03 /* StudentAttendanceRecordII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42E52C032B93008B4F03 /* StudentAttendanceRecordII.swift */; };
+		8FFA42EA2C05A186008B4F03 /* GetEqualSubstringsWithinBudget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42E92C05A186008B4F03 /* GetEqualSubstringsWithinBudget.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1510,6 +1511,7 @@
 		8FFA42E12C01AE12008B4F03 /* WordBreakII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreakII.swift; sourceTree = "<group>"; };
 		8FFA42E32C03291E008B4F03 /* StudentAttendanceRecordI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentAttendanceRecordI.swift; sourceTree = "<group>"; };
 		8FFA42E52C032B93008B4F03 /* StudentAttendanceRecordII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentAttendanceRecordII.swift; sourceTree = "<group>"; };
+		8FFA42E92C05A186008B4F03 /* GetEqualSubstringsWithinBudget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetEqualSubstringsWithinBudget.swift; sourceTree = "<group>"; };
 		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -2287,6 +2289,7 @@
 				8FFA42E12C01AE12008B4F03 /* WordBreakII.swift */,
 				8FFA42E32C03291E008B4F03 /* StudentAttendanceRecordI.swift */,
 				8FFA42E52C032B93008B4F03 /* StudentAttendanceRecordII.swift */,
+				8FFA42E92C05A186008B4F03 /* GetEqualSubstringsWithinBudget.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2605,6 +2608,7 @@
 				8F3493FD2ADA149100932B1F /* PaintingTheWalls.swift in Sources */,
 				8FF029DE2A21C0D900E1F3BB /* StoneGameIII.swift in Sources */,
 				8FB9B4D22A0BBF480073424E /* HouseRobber.swift in Sources */,
+				8FFA42EA2C05A186008B4F03 /* GetEqualSubstringsWithinBudget.swift in Sources */,
 				8F152B742B70CD0D00AE5C87 /* PartitionArrayForMaximumSum.swift in Sources */,
 				8FB9B4BF2A0BBF480073424E /* WhereWillTheBallFall.swift in Sources */,
 				8FB9B4202A0BBF2E0073424E /* MinimumScoreOfAPathBetweenTwoCities.swift in Sources */,

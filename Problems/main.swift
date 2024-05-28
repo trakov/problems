@@ -1,1 +1,1 @@
-StudentAttendanceRecordII().tests()
+GetEqualSubstringsWithinBudget().tests()
