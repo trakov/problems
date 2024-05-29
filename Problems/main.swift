@@ -1,1 +1,1 @@
-GetEqualSubstringsWithinBudget().tests()
+NumberofStepstoReduceaNumberinBinaryRepresentationtoOne().tests()
