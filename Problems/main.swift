@@ -1,1 +1,1 @@
-CountTripletsThatCanFormTwoArraysofEqualXOR().tests()
+PalindromeNumber().tests()
