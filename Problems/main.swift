@@ -1,1 +1,1 @@
-NumberofStepstoReduceaNumberinBinaryRepresentationtoOne().tests()
+CountTripletsThatCanFormTwoArraysofEqualXOR().tests()

@@ -752,6 +752,7 @@
 		8FFA42E62C032B93008B4F03 /* StudentAttendanceRecordII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42E52C032B93008B4F03 /* StudentAttendanceRecordII.swift */; };
 		8FFA42EA2C05A186008B4F03 /* GetEqualSubstringsWithinBudget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42E92C05A186008B4F03 /* GetEqualSubstringsWithinBudget.swift */; };
 		8FFA42EC2C070072008B4F03 /* NumberofStepstoReduceaNumberinBinaryRepresentationtoOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42EB2C070072008B4F03 /* NumberofStepstoReduceaNumberinBinaryRepresentationtoOne.swift */; };
+		8FFA42EE2C084449008B4F03 /* CountTripletsThatCanFormTwoArraysofEqualXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42ED2C084449008B4F03 /* CountTripletsThatCanFormTwoArraysofEqualXOR.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1514,6 +1515,7 @@
 		8FFA42E52C032B93008B4F03 /* StudentAttendanceRecordII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentAttendanceRecordII.swift; sourceTree = "<group>"; };
 		8FFA42E92C05A186008B4F03 /* GetEqualSubstringsWithinBudget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetEqualSubstringsWithinBudget.swift; sourceTree = "<group>"; };
 		8FFA42EB2C070072008B4F03 /* NumberofStepstoReduceaNumberinBinaryRepresentationtoOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofStepstoReduceaNumberinBinaryRepresentationtoOne.swift; sourceTree = "<group>"; };
+		8FFA42ED2C084449008B4F03 /* CountTripletsThatCanFormTwoArraysofEqualXOR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountTripletsThatCanFormTwoArraysofEqualXOR.swift; sourceTree = "<group>"; };
 		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -2293,6 +2295,7 @@
 				8FFA42E52C032B93008B4F03 /* StudentAttendanceRecordII.swift */,
 				8FFA42E92C05A186008B4F03 /* GetEqualSubstringsWithinBudget.swift */,
 				8FFA42EB2C070072008B4F03 /* NumberofStepstoReduceaNumberinBinaryRepresentationtoOne.swift */,
+				8FFA42ED2C084449008B4F03 /* CountTripletsThatCanFormTwoArraysofEqualXOR.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2975,6 +2978,7 @@
 				8F0327222B22E3B5005950E1 /* ConstructStringFromBinaryTree.swift in Sources */,
 				8FB3A5D52A95D3F400EEBECF /* ReorganizeString.swift in Sources */,
 				8FC102D12A595E01005E8289 /* PutMarblesInBags.swift in Sources */,
+				8FFA42EE2C084449008B4F03 /* CountTripletsThatCanFormTwoArraysofEqualXOR.swift in Sources */,
 				8FB9B4C62A0BBF480073424E /* ReverseBits.swift in Sources */,
 				8FB9B56C2A0BBF5A0073424E /* PlusOne.swift in Sources */,
 				8FB9B4742A0BBF3A0073424E /* AsteroidCollision.swift in Sources */,
