@@ -2,18 +2,11 @@ class SingleNumber3 {
     func singleNumber(_ nums: [Int]) -> [Int] {
         let xor = nums.reduce(0, ^)
         let rightmostSetBit = xor & -xor
-        var num1 = 0
-        var num2 = 0
-        // Step 5: Find the two elements that appear only once
-        for num in nums {
-            if num & rightmostSetBit != 0 {
-                num1 ^= num
-            } else {
-                num2 ^= num
-            }
+        var a = 0
+        for num in nums where num & rightmostSetBit == 0 {
+            a ^= num
         }
-        // Step 7: Return the result
-        return [num1, num2]
+        return [a, a ^ xor]
     }
     
     func singleNumber2(_ nums: [Int]) -> [Int] {
