@@ -1,1 +1,1 @@
-PalindromeNumber().tests()
+ContainsDuplicateIII().tests()
