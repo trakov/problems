@@ -1,1 +1,1 @@
-ContainsDuplicateIII().tests()
+ScoreofaString().tests()
