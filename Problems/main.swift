@@ -1,1 +1,1 @@
-FindCommonCharacters().tests()
+HandofStraights().tests()
