@@ -1,1 +1,1 @@
-HandofStraights().tests()
+ReplaceWords().tests()
