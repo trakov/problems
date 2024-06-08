@@ -1,1 +1,1 @@
-ReplaceWords().tests()
+ContinuousSubarraySum().tests()
