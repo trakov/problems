@@ -1,1 +1,1 @@
-HeightChecker().tests()
+RelativeSortArray().tests()
