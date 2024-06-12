@@ -1,5 +1,21 @@
 class SortColors {
+    // counting sort
     func sortColors(_ nums: inout [Int]) {
+        var map: [Int: Int] = [:]
+        for num in nums {
+            map[num, default: 0] += 1
+        }
+        var i = 0
+        for num in 0...2 {
+            guard let count = map[num] else { continue }
+            for j in i..<i + count {
+                nums[j] = num
+            }
+            i += count
+        }
+    }
+
+    func sortColors2(_ nums: inout [Int]) {
         guard nums.count > 1 else { return }
         var zero = 0
         var two = nums.count - 1

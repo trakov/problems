@@ -1,1 +1,1 @@
-RelativeSortArray().tests()
+SortColors().tests()
