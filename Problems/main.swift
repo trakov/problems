@@ -1,1 +1,1 @@
-SortColors().tests()
+MinimumNumberofMovestoSeatEveryone().tests()
