@@ -1,1 +1,1 @@
-MinimumNumberofMovestoSeatEveryone().tests()
+MinimumIncrementtoMakeArrayUnique().tests()
