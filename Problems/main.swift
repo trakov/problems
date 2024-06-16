@@ -1,1 +1,1 @@
-MinimumIncrementtoMakeArrayUnique().tests()
+PatchingArray().tests()

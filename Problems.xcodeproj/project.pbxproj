@@ -112,6 +112,7 @@
 		8F709A6F2C181CFE0083B7D2 /* RelativeSortArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */; };
 		8F709A712C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */; };
 		8F709A732C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */; };
+		8F709A752C1EDEE00083B7D2 /* PatchingArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A742C1EDEE00083B7D2 /* PatchingArray.swift */; };
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
 		8F7A22DA2BCAFA1C005E48C2 /* MaximalRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A22D92BCAFA1B005E48C2 /* MaximalRectangle.swift */; };
 		8F7A23172BCEAE89005E48C2 /* AddOneRowToTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A23162BCEAE89005E48C2 /* AddOneRowToTree.swift */; };
@@ -995,6 +996,7 @@
 		8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeSortArray.swift; sourceTree = "<group>"; };
 		8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofMovestoSeatEveryone.swift; sourceTree = "<group>"; };
 		8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIncrementtoMakeArrayUnique.swift; sourceTree = "<group>"; };
+		8F709A742C1EDEE00083B7D2 /* PatchingArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatchingArray.swift; sourceTree = "<group>"; };
 		8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelCoursesIII.swift; sourceTree = "<group>"; };
 		8F7A22D92BCAFA1B005E48C2 /* MaximalRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximalRectangle.swift; sourceTree = "<group>"; };
 		8F7A23162BCEAE89005E48C2 /* AddOneRowToTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddOneRowToTree.swift; sourceTree = "<group>"; };
@@ -2335,6 +2337,7 @@
 				8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */,
 				8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */,
 				8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */,
+				8F709A742C1EDEE00083B7D2 /* PatchingArray.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2683,6 +2686,7 @@
 				8FB9B4D72A0BBF480073424E /* TwoSumIVInputIsABST.swift in Sources */,
 				8FB9B4FA2A0BBF4E0073424E /* DetermineIfStringHalvesAreAlike.swift in Sources */,
 				8FB1A5502C16D94F00CD2F8F /* HeightChecker.swift in Sources */,
+				8F709A752C1EDEE00083B7D2 /* PatchingArray.swift in Sources */,
 				8FC15A9D2B782656000BD5BC /* PalindromicSubstrings.swift in Sources */,
 				8FC7B9952BAD8FBC0036C9F8 /* CountSquareSumTriples.swift in Sources */,
 				8F152B722B6CBF8A00AE5C87 /* SequentialDigits.swift in Sources */,
