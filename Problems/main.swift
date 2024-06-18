@@ -1,1 +1,1 @@
-PatchingArray().tests()
+MostProfitAssigningWork().tests()
