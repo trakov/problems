@@ -769,6 +769,7 @@
 		8FFA42F42C08BF57008B4F03 /* ContainsDuplicateIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA42F32C08BF57008B4F03 /* ContainsDuplicateIII.swift */; };
 		8FFE0EFB2C2157DF00EDC564 /* MostProfitAssigningWork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0EFA2C2157DF00EDC564 /* MostProfitAssigningWork.swift */; };
 		8FFE0EFD2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0EFC2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift */; };
+		8FFE0EFF2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0EFE2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1548,6 +1549,7 @@
 		8FFA42F32C08BF57008B4F03 /* ContainsDuplicateIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicateIII.swift; sourceTree = "<group>"; };
 		8FFE0EFA2C2157DF00EDC564 /* MostProfitAssigningWork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostProfitAssigningWork.swift; sourceTree = "<group>"; };
 		8FFE0EFC2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofDaystoMakemBouquets.swift; sourceTree = "<group>"; };
+		8FFE0EFE2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagneticForceBetweenTwoBalls.swift; sourceTree = "<group>"; };
 		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -2344,6 +2346,7 @@
 				8F709A742C1EDEE00083B7D2 /* PatchingArray.swift */,
 				8FFE0EFA2C2157DF00EDC564 /* MostProfitAssigningWork.swift */,
 				8FFE0EFC2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift */,
+				8FFE0EFE2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3093,6 +3096,7 @@
 				8F25050C2A7ECD2E0089188D /* UniqueBinarySearchTreesII.swift in Sources */,
 				8FB9B3FC2A0BBF280073424E /* ValidateStackSequences.swift in Sources */,
 				8FB9B4122A0BBF2E0073424E /* MinimumGeneticMutation.swift in Sources */,
+				8FFE0EFF2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift in Sources */,
 				8FB9B4AF2A0BBF410073424E /* IntervalListIntersections.swift in Sources */,
 				8FB9B5602A0BBF540073424E /* WordPattern.swift in Sources */,
 				8F9EA03B2A1C84580078FC86 /* KthLargestElementInAStream.swift in Sources */,

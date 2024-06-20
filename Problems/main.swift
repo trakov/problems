@@ -1,1 +1,1 @@
-MinimumNumberofDaystoMakemBouquets().tests()
+MagneticForceBetweenTwoBalls().tests()
