@@ -1,1 +1,1 @@
-MagneticForceBetweenTwoBalls().tests()
+GrumpyBookstoreOwner().tests()
