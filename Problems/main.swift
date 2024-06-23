@@ -1,1 +1,1 @@
-GrumpyBookstoreOwner().tests()
+CountNumberofNiceSubarrays().tests()

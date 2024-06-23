@@ -771,6 +771,7 @@
 		8FFE0EFD2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0EFC2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift */; };
 		8FFE0EFF2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0EFE2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift */; };
 		8FFE0F012C25459C00EDC564 /* GrumpyBookstoreOwner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F002C25459C00EDC564 /* GrumpyBookstoreOwner.swift */; };
+		8FFE0F052C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F042C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1552,6 +1553,7 @@
 		8FFE0EFC2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofDaystoMakemBouquets.swift; sourceTree = "<group>"; };
 		8FFE0EFE2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagneticForceBetweenTwoBalls.swift; sourceTree = "<group>"; };
 		8FFE0F002C25459C00EDC564 /* GrumpyBookstoreOwner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrumpyBookstoreOwner.swift; sourceTree = "<group>"; };
+		8FFE0F042C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofNiceSubarrays.swift; sourceTree = "<group>"; };
 		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -2350,6 +2352,7 @@
 				8FFE0EFC2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift */,
 				8FFE0EFE2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift */,
 				8FFE0F002C25459C00EDC564 /* GrumpyBookstoreOwner.swift */,
+				8FFE0F042C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2919,6 +2922,7 @@
 				8FB9B3F02A0BBF280073424E /* TopKFrequentElements.swift in Sources */,
 				8FB9B5312A0BBF540073424E /* SingleNumber3.swift in Sources */,
 				8FB9B5382A0BBF540073424E /* FindTheDifference.swift in Sources */,
+				8FFE0F052C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift in Sources */,
 				8FE0EBB22A349836006FC482 /* MaximumValueAtAGivenIndexInABoundedArray.swift in Sources */,
 				8FB9B4932A0BBF410073424E /* NumberOfProvinces.swift in Sources */,
 				8FB9B40F2A0BBF2E0073424E /* ScrambleString.swift in Sources */,
