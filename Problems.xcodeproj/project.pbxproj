@@ -772,6 +772,7 @@
 		8FFE0EFF2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0EFE2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift */; };
 		8FFE0F012C25459C00EDC564 /* GrumpyBookstoreOwner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F002C25459C00EDC564 /* GrumpyBookstoreOwner.swift */; };
 		8FFE0F052C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F042C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift */; };
+		8FFE0F072C2810D900EDC564 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F062C2810D900EDC564 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1554,6 +1555,7 @@
 		8FFE0EFE2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagneticForceBetweenTwoBalls.swift; sourceTree = "<group>"; };
 		8FFE0F002C25459C00EDC564 /* GrumpyBookstoreOwner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrumpyBookstoreOwner.swift; sourceTree = "<group>"; };
 		8FFE0F042C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofNiceSubarrays.swift; sourceTree = "<group>"; };
+		8FFE0F062C2810D900EDC564 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift; sourceTree = "<group>"; };
 		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -2353,6 +2355,7 @@
 				8FFE0EFE2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift */,
 				8FFE0F002C25459C00EDC564 /* GrumpyBookstoreOwner.swift */,
 				8FFE0F042C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift */,
+				8FFE0F062C2810D900EDC564 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3042,6 +3045,7 @@
 				8FB9B58E2A0BBF5A0073424E /* SearchInsertPosition.swift in Sources */,
 				8FB9B50C2A0BBF4E0073424E /* MiddleOfTheLinkedList.swift in Sources */,
 				8FB9B52A2A0BBF540073424E /* PalindromeLinkedList.swift in Sources */,
+				8FFE0F072C2810D900EDC564 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift in Sources */,
 				8FB9B4C52A0BBF480073424E /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */,
 				8F1EBF6F2B383EAD00E76A95 /* MinimumChangesToMakeAlternatingBinaryString.swift in Sources */,
 				8FB9B5122A0BBF4E0073424E /* TwoSumIIInputArrayIsSorted.swift in Sources */,

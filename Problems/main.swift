@@ -1,1 +1,1 @@
-CountNumberofNiceSubarrays().tests()
+LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit().tests()
