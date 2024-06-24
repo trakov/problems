@@ -1,1 +1,1 @@
-LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit().tests()
+MinimumNumberofKConsecutiveBitFlips().tests()

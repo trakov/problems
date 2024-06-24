@@ -773,6 +773,7 @@
 		8FFE0F012C25459C00EDC564 /* GrumpyBookstoreOwner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F002C25459C00EDC564 /* GrumpyBookstoreOwner.swift */; };
 		8FFE0F052C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F042C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift */; };
 		8FFE0F072C2810D900EDC564 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F062C2810D900EDC564 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift */; };
+		8FFE0F092C29390500EDC564 /* MinimumNumberofKConsecutiveBitFlips.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F082C29390500EDC564 /* MinimumNumberofKConsecutiveBitFlips.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1556,6 +1557,7 @@
 		8FFE0F002C25459C00EDC564 /* GrumpyBookstoreOwner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrumpyBookstoreOwner.swift; sourceTree = "<group>"; };
 		8FFE0F042C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofNiceSubarrays.swift; sourceTree = "<group>"; };
 		8FFE0F062C2810D900EDC564 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift; sourceTree = "<group>"; };
+		8FFE0F082C29390500EDC564 /* MinimumNumberofKConsecutiveBitFlips.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofKConsecutiveBitFlips.swift; sourceTree = "<group>"; };
 		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -2356,6 +2358,7 @@
 				8FFE0F002C25459C00EDC564 /* GrumpyBookstoreOwner.swift */,
 				8FFE0F042C26B9E500EDC564 /* CountNumberofNiceSubarrays.swift */,
 				8FFE0F062C2810D900EDC564 /* LongestContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.swift */,
+				8FFE0F082C29390500EDC564 /* MinimumNumberofKConsecutiveBitFlips.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3089,6 +3092,7 @@
 				8FB9B3CB2A0BBF220073424E /* ArithmeticSubarrays.swift in Sources */,
 				8FB9B4DB2A0BBF480073424E /* ArithmeticSlicesIISubsequence.swift in Sources */,
 				8FB9B5832A0BBF5A0073424E /* LengthOfLastWord.swift in Sources */,
+				8FFE0F092C29390500EDC564 /* MinimumNumberofKConsecutiveBitFlips.swift in Sources */,
 				8FB9B3D42A0BBF220073424E /* WildcardMatching.swift in Sources */,
 				8FB9B3BA2A0BBECA0073424E /* TreeHeight3.swift in Sources */,
 				8FB9B4AA2A0BBF410073424E /* SingleThreadedCPU.swift in Sources */,
