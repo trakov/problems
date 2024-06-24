@@ -1,1 +1,1 @@
-MinimumNumberofKConsecutiveBitFlips().tests()
+DivideArrayinSetsofKConsecutiveNumbers().tests()
