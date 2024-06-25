@@ -1,1 +1,1 @@
-DivideArrayinSetsofKConsecutiveNumbers().tests()
+BinarySearchTreetoGreaterSumTree().tests()
