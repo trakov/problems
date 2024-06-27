@@ -1,1 +1,1 @@
-BinarySearchTreetoGreaterSumTree().tests()
+FindCenterofStarGraph().tests()
