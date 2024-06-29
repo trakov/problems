@@ -1,1 +1,1 @@
-FindCenterofStarGraph().tests()
+MaximumTotalImportanceofRoads().tests()
