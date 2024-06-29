@@ -778,6 +778,7 @@
 		8FFE0F0D2C2A94BF00EDC564 /* BinarySearchTreetoGreaterSumTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F0C2C2A94BF00EDC564 /* BinarySearchTreetoGreaterSumTree.swift */; };
 		8FFE0F0F2C2D46AB00EDC564 /* FindCenterofStarGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F0E2C2D46AB00EDC564 /* FindCenterofStarGraph.swift */; };
 		8FFE0F112C2ECFD900EDC564 /* MaximumTotalImportanceofRoads.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F102C2ECFD900EDC564 /* MaximumTotalImportanceofRoads.swift */; };
+		8FFE0F152C3097CE00EDC564 /* AllAncestorsofaNodeinaDirectedAcyclicGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFE0F142C3097CE00EDC564 /* AllAncestorsofaNodeinaDirectedAcyclicGraph.swift */; };
 		8FFEB1722B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */; };
 /* End PBXBuildFile section */
 
@@ -1566,6 +1567,7 @@
 		8FFE0F0C2C2A94BF00EDC564 /* BinarySearchTreetoGreaterSumTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTreetoGreaterSumTree.swift; sourceTree = "<group>"; };
 		8FFE0F0E2C2D46AB00EDC564 /* FindCenterofStarGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCenterofStarGraph.swift; sourceTree = "<group>"; };
 		8FFE0F102C2ECFD900EDC564 /* MaximumTotalImportanceofRoads.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumTotalImportanceofRoads.swift; sourceTree = "<group>"; };
+		8FFE0F142C3097CE00EDC564 /* AllAncestorsofaNodeinaDirectedAcyclicGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllAncestorsofaNodeinaDirectedAcyclicGraph.swift; sourceTree = "<group>"; };
 		8FFEB1712B4E673000CDBBDC /* AmountOfTimeForBinaryTreeToBeInfected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountOfTimeForBinaryTreeToBeInfected.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -2371,6 +2373,7 @@
 				8FFE0F0C2C2A94BF00EDC564 /* BinarySearchTreetoGreaterSumTree.swift */,
 				8FFE0F0E2C2D46AB00EDC564 /* FindCenterofStarGraph.swift */,
 				8FFE0F102C2ECFD900EDC564 /* MaximumTotalImportanceofRoads.swift */,
+				8FFE0F142C3097CE00EDC564 /* AllAncestorsofaNodeinaDirectedAcyclicGraph.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2969,6 +2972,7 @@
 				8FB9B55F2A0BBF540073424E /* MaximumDepthOfBinaryTree.swift in Sources */,
 				8FB9B4882A0BBF410073424E /* NumberOfIslands2.swift in Sources */,
 				8FB9B4832A0BBF3A0073424E /* TheKWeakestRowsInAMatrix.swift in Sources */,
+				8FFE0F152C3097CE00EDC564 /* AllAncestorsofaNodeinaDirectedAcyclicGraph.swift in Sources */,
 				8FB9B58F2A0BBF5A0073424E /* AddBinary.swift in Sources */,
 				8FB9B4862A0BBF410073424E /* PathSumIII.swift in Sources */,
 				8F9091592AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift in Sources */,
