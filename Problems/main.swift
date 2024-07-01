@@ -1,1 +1,1 @@
-AllAncestorsofaNodeinaDirectedAcyclicGraph().tests()
+ThreeConsecutiveOdds().tests()
