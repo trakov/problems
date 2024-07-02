@@ -1,1 +1,1 @@
-ThreeConsecutiveOdds().tests()
+IntersectionOfTwoArrays2().tests()
