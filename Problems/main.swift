@@ -1,1 +1,1 @@
-IntersectionOfTwoArrays2().tests()
+MinimumDifferenceBetweenLargestandSmallestValueinThreeMoves().tests()
