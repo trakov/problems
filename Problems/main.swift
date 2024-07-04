@@ -1,1 +1,1 @@
-MinimumDifferenceBetweenLargestandSmallestValueinThreeMoves().tests()
+MergeNodesinBetweenZeros().tests()
