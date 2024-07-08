@@ -1,1 +1,1 @@
-WaterBottles().tests()
+FindTheWinnerOfTheCircularGame().tests()
