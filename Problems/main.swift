@@ -1,1 +1,1 @@
-FindTheWinnerOfTheCircularGame().tests()
+AverageWaitingTime().tests()
