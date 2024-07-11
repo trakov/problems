@@ -1,1 +1,1 @@
-AverageWaitingTime().tests()
+ReverseSubstringsBetweenEachPairofParentheses().tests()
