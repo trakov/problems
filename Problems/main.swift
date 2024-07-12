@@ -1,1 +1,1 @@
-ReverseSubstringsBetweenEachPairofParentheses().tests()
+MaximumScoreFromRemovingSubstrings().tests()
