@@ -1,1 +1,1 @@
-RobotCollisions().tests()
+NumberofAtoms().tests()
