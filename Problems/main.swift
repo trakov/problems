@@ -1,1 +1,1 @@
-MaximumScoreFromRemovingSubstrings().tests()
+RobotCollisions().tests()
