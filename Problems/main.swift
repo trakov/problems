@@ -1,1 +1,1 @@
-DeleteNodesAndReturnForest().tests()
+NumberofGoodLeafNodesPairs().tests()
