@@ -1,1 +1,1 @@
-NumberofGoodLeafNodesPairs().tests()
+LuckyNumbersinaMatrix().tests()

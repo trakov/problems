@@ -113,6 +113,7 @@
 		8F6B6E832C46673200A639F6 /* StepByStepDirectionsFromaBinaryTreeNodetoAnother.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E822C46673200A639F6 /* StepByStepDirectionsFromaBinaryTreeNodetoAnother.swift */; };
 		8F6B6E852C47CC3500A639F6 /* DeleteNodesAndReturnForest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E842C47CC3500A639F6 /* DeleteNodesAndReturnForest.swift */; };
 		8F6B6E872C48EBB100A639F6 /* NumberofGoodLeafNodesPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E862C48EBB000A639F6 /* NumberofGoodLeafNodesPairs.swift */; };
+		8F6B6E892C4A2F1800A639F6 /* LuckyNumbersinaMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E882C4A2F1800A639F6 /* LuckyNumbersinaMatrix.swift */; };
 		8F6BED112B5295420056FCAC /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6BED102B5295420056FCAC /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */; };
 		8F6CBCBD2B270A3100EEF65E /* ElementAppearingMoreThan25InSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6CBCBC2B270A3100EEF65E /* ElementAppearingMoreThan25InSortedArray.swift */; };
 		8F6CBCBF2B28255000EEF65E /* MaximumProductOfTwoElementsInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6CBCBE2B28255000EEF65E /* MaximumProductOfTwoElementsInAnArray.swift */; };
@@ -977,6 +978,7 @@
 		8F6B6E822C46673200A639F6 /* StepByStepDirectionsFromaBinaryTreeNodetoAnother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepByStepDirectionsFromaBinaryTreeNodetoAnother.swift; sourceTree = "<group>"; };
 		8F6B6E842C47CC3500A639F6 /* DeleteNodesAndReturnForest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteNodesAndReturnForest.swift; sourceTree = "<group>"; };
 		8F6B6E862C48EBB000A639F6 /* NumberofGoodLeafNodesPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofGoodLeafNodesPairs.swift; sourceTree = "<group>"; };
+		8F6B6E882C4A2F1800A639F6 /* LuckyNumbersinaMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuckyNumbersinaMatrix.swift; sourceTree = "<group>"; };
 		8F6BED102B5295420056FCAC /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfStepsToMakeTwoStringsAnagram.swift; sourceTree = "<group>"; };
 		8F6C49E72902CBAC002AF7AC /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
 		8F6C49E92902D406002AF7AC /* RemoveElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElement.swift; sourceTree = "<group>"; };
@@ -2413,6 +2415,7 @@
 				8F6B6E822C46673200A639F6 /* StepByStepDirectionsFromaBinaryTreeNodetoAnother.swift */,
 				8F6B6E842C47CC3500A639F6 /* DeleteNodesAndReturnForest.swift */,
 				8F6B6E862C48EBB000A639F6 /* NumberofGoodLeafNodesPairs.swift */,
+				8F6B6E882C4A2F1800A639F6 /* LuckyNumbersinaMatrix.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2949,6 +2952,7 @@
 				8F8F1EAA2B8DA841007B818E /* LargestRectangleInHistogram.swift in Sources */,
 				8FED94792B9AF66100E55D4C /* CountElementsWithMaximumFrequency.swift in Sources */,
 				8F1EBF7E2B3AA1AA00E76A95 /* NumberOfDiceRollsWithTargetSum.swift in Sources */,
+				8F6B6E892C4A2F1800A639F6 /* LuckyNumbersinaMatrix.swift in Sources */,
 				8FB9B4772A0BBF3A0073424E /* SnakesAndLadders.swift in Sources */,
 				8FB9B3C02A0BBECA0073424E /* CourseMaxInSlidingWindow.swift in Sources */,
 				8FC1028E2A3F2E96005E8289 /* NumberOfIncreasingPathsInAGrid.swift in Sources */,
