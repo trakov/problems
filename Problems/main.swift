@@ -1,1 +1,1 @@
-LuckyNumbersinaMatrix().tests()
+FindValidMatrixGivenRowandColumnSums().tests()
