@@ -115,6 +115,7 @@
 		8F6B6E872C48EBB100A639F6 /* NumberofGoodLeafNodesPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E862C48EBB000A639F6 /* NumberofGoodLeafNodesPairs.swift */; };
 		8F6B6E892C4A2F1800A639F6 /* LuckyNumbersinaMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E882C4A2F1800A639F6 /* LuckyNumbersinaMatrix.swift */; };
 		8F6B6E8B2C4BB99E00A639F6 /* FindValidMatrixGivenRowandColumnSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E8A2C4BB99E00A639F6 /* FindValidMatrixGivenRowandColumnSums.swift */; };
+		8F6B6E8D2C4CE65A00A639F6 /* BuildaMatrixWithConditions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E8C2C4CE65A00A639F6 /* BuildaMatrixWithConditions.swift */; };
 		8F6BED112B5295420056FCAC /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6BED102B5295420056FCAC /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */; };
 		8F6CBCBD2B270A3100EEF65E /* ElementAppearingMoreThan25InSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6CBCBC2B270A3100EEF65E /* ElementAppearingMoreThan25InSortedArray.swift */; };
 		8F6CBCBF2B28255000EEF65E /* MaximumProductOfTwoElementsInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6CBCBE2B28255000EEF65E /* MaximumProductOfTwoElementsInAnArray.swift */; };
@@ -981,6 +982,7 @@
 		8F6B6E862C48EBB000A639F6 /* NumberofGoodLeafNodesPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofGoodLeafNodesPairs.swift; sourceTree = "<group>"; };
 		8F6B6E882C4A2F1800A639F6 /* LuckyNumbersinaMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuckyNumbersinaMatrix.swift; sourceTree = "<group>"; };
 		8F6B6E8A2C4BB99E00A639F6 /* FindValidMatrixGivenRowandColumnSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindValidMatrixGivenRowandColumnSums.swift; sourceTree = "<group>"; };
+		8F6B6E8C2C4CE65A00A639F6 /* BuildaMatrixWithConditions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildaMatrixWithConditions.swift; sourceTree = "<group>"; };
 		8F6BED102B5295420056FCAC /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfStepsToMakeTwoStringsAnagram.swift; sourceTree = "<group>"; };
 		8F6C49E72902CBAC002AF7AC /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
 		8F6C49E92902D406002AF7AC /* RemoveElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElement.swift; sourceTree = "<group>"; };
@@ -2419,6 +2421,7 @@
 				8F6B6E862C48EBB000A639F6 /* NumberofGoodLeafNodesPairs.swift */,
 				8F6B6E882C4A2F1800A639F6 /* LuckyNumbersinaMatrix.swift */,
 				8F6B6E8A2C4BB99E00A639F6 /* FindValidMatrixGivenRowandColumnSums.swift */,
+				8F6B6E8C2C4CE65A00A639F6 /* BuildaMatrixWithConditions.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -2499,6 +2502,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F1EBF552B2F48D100E76A95 /* DesignAFoodRatingSystem.swift in Sources */,
+				8F6B6E8D2C4CE65A00A639F6 /* BuildaMatrixWithConditions.swift in Sources */,
 				8F0BB7F52A75078B00A72248 /* SoupServings.swift in Sources */,
 				8F4111242AC3F4D5001E0804 /* DecodedStringAtIndex.swift in Sources */,
 				8FB9B49F2A0BBF410073424E /* TaskScheduler.swift in Sources */,

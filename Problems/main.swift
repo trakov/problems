@@ -1,1 +1,1 @@
-FindValidMatrixGivenRowandColumnSums().tests()
+BuildaMatrixWithConditions().tests()
