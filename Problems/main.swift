@@ -1,1 +1,1 @@
-SortthePeople().tests()
+SortArraybyIncreasingFrequency().tests()
