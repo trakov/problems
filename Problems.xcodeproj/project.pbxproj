@@ -99,6 +99,7 @@
 		8F4111442AD7919B001E0804 /* FindInMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4111432AD7919B001E0804 /* FindInMountainArray.swift */; };
 		8F424FFF2BBFC8ED006E4E74 /* MakeTheStringGreat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F424FFE2BBFC8ED006E4E74 /* MakeTheStringGreat.swift */; };
 		8F4755512C4FE6F0000C94A8 /* SortArraybyIncreasingFrequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4755502C4FE6F0000C94A8 /* SortArraybyIncreasingFrequency.swift */; };
+		8F4755532C50BCDF000C94A8 /* SorttheJumbledNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4755522C50BCDF000C94A8 /* SorttheJumbledNumbers.swift */; };
 		8F6420212BC3B82E00F97A10 /* NumberOfStudentsUnableToEatLunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6420202BC3B82E00F97A10 /* NumberOfStudentsUnableToEatLunch.swift */; };
 		8F6420232BC3BC4000F97A10 /* ValidParenthesisString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6420222BC3BC4000F97A10 /* ValidParenthesisString.swift */; };
 		8F6420252BC508AC00F97A10 /* TimeNeededToBuyTickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6420242BC508AC00F97A10 /* TimeNeededToBuyTickets.swift */; };
@@ -960,6 +961,7 @@
 		8F4111432AD7919B001E0804 /* FindInMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindInMountainArray.swift; sourceTree = "<group>"; };
 		8F424FFE2BBFC8ED006E4E74 /* MakeTheStringGreat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeTheStringGreat.swift; sourceTree = "<group>"; };
 		8F4755502C4FE6F0000C94A8 /* SortArraybyIncreasingFrequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArraybyIncreasingFrequency.swift; sourceTree = "<group>"; };
+		8F4755522C50BCDF000C94A8 /* SorttheJumbledNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SorttheJumbledNumbers.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -2428,6 +2430,7 @@
 				8F6B6E8C2C4CE65A00A639F6 /* BuildaMatrixWithConditions.swift */,
 				8F6B6E8E2C4E34B300A639F6 /* SortthePeople.swift */,
 				8F4755502C4FE6F0000C94A8 /* SortArraybyIncreasingFrequency.swift */,
+				8F4755522C50BCDF000C94A8 /* SorttheJumbledNumbers.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3145,6 +3148,7 @@
 				8F0327222B22E3B5005950E1 /* ConstructStringFromBinaryTree.swift in Sources */,
 				8FB3A5D52A95D3F400EEBECF /* ReorganizeString.swift in Sources */,
 				8FC102D12A595E01005E8289 /* PutMarblesInBags.swift in Sources */,
+				8F4755532C50BCDF000C94A8 /* SorttheJumbledNumbers.swift in Sources */,
 				8FFA42EE2C084449008B4F03 /* CountTripletsThatCanFormTwoArraysofEqualXOR.swift in Sources */,
 				8FB9B4C62A0BBF480073424E /* ReverseBits.swift in Sources */,
 				8FB9B56C2A0BBF5A0073424E /* PlusOne.swift in Sources */,
