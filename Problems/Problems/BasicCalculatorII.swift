@@ -1,6 +1,32 @@
-import Foundation
 class BasicCalculatorII {
     func calculate(_ s: String) -> Int {
+        var op: Character = "+"
+        var last = 0
+        var result = 0
+        var cur = 0
+        for c in s + "+" where c != " " {
+            if let n = c.wholeNumberValue {
+                cur = cur * 10 + n
+                continue
+            }
+            if op == "+" {
+                result += last
+                last = cur
+            } else if op == "-" {
+                result += last
+                last = -cur
+            } else if op == "*" {
+                last *= cur
+            } else if op == "/" {
+                last /= cur
+            }
+            cur = 0
+            op = c
+        }
+        return result + last
+    }
+
+    func calculate2(_ s: String) -> Int {
         let s = s.replacingOccurrences(of: " ", with: "").map { String($0) }
         guard !s.isEmpty else { return 0 }
         var stack: [Int] = []
