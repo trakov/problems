@@ -1,1 +1,1 @@
-BuildingsWithanOceanViewLevel().tests()
+NumberofUnequalTripletsinArray().tests()
