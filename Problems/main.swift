@@ -1,1 +1,1 @@
-NumberofUnequalTripletsinArray().tests()
+FindPalindromeWithFixedLength().tests()
