@@ -1,1 +1,1 @@
-FindPalindromeWithFixedLength().tests()
+SecondMinimumTimetoReachDestination().tests()
