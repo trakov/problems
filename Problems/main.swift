@@ -1,1 +1,1 @@
-ConvertBinarySearchTreetoSortedDoublyLinkedList().tests()
+GroupShiftedStrings().tests()
