@@ -1,1 +1,1 @@
-SecondMinimumTimetoReachDestination().tests()
+MinimumAddtoMakeParenthesesValid().tests()
