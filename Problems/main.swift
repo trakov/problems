@@ -1,1 +1,1 @@
-GroupShiftedStrings().tests()
+CountNumberofTeams().tests()
