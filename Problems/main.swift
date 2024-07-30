@@ -1,1 +1,1 @@
-CountNumberofTeams().tests()
+MinimumDeletionstoMakeStringBalanced().tests()
