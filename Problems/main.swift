@@ -1,1 +1,1 @@
-ColorfulNumbers().tests()
+NumberofSeniorCitizens().tests()
