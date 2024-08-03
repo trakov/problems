@@ -1,1 +1,1 @@
-MinimumSwapstoGroupAll1sTogetherII().tests()
+MakeTwoArraysEqualbyReversingSubarrays().tests()
