@@ -1,1 +1,1 @@
-ConstructBinaryTreefromString().tests()
+VerifyingAnAlienDictionary().tests()
