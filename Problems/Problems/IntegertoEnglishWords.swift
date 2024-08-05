@@ -1,55 +1,63 @@
 class IntegertoEnglishWords {
-    let oneMap: [Int: String] = [
-        1:"one",2:"two",3:"three",4:"four",5:"five",
-        6:"six",7:"seven",8:"eight",9:"nine"
-    ]
-    let tenMap: [Int: String] = [
-        1:"ten",2:"twenty",3:"thirty",4:"forty",5:"fifty",
-        6:"sixty",7:"seventy",8:"eighty",9:"ninety"
-    ]
-    let tenPlusMap: [Int: String] = [
-        0:"ten",1:"eleven",2:"twelve",3:"thirteen",4:"forteen",5:"fifteen",
-        6:"sixteen",7:"seventeen",8:"eighteen",9:"nineteen"
-    ]
-    let tens: [Int: String] = [
-        2:"hundred",3:"tousand",6:"million",9:"billion"
-    ]
-    func tensString(of extent: Int) -> String {
-        if extent > 9 { return tens[9]! }
-        if extent > 6 { return tens[6]! }
-        if extent > 3 { return tens[3]! }
-        if extent > 2 { return tens[2]! }
-        return ""
-    }
+    private let kAtomicWords = [1:"One",2:"Two",3:"Three",4:"Four",5:"Five",6:"Six",
+                                7:"Seven",8:"Eight",9:"Nine",10:"Ten",11:"Eleven",
+                                12:"Twelve",13:"Thirteen",14:"Fourteen",15:"Fifteen",
+                                16:"Sixteen",17:"Seventeen",18:"Eighteen",19:"Nineteen",
+                                20:"Twenty",30:"Thirty",40:"Forty",50:"Fifty",60:"Sixty",
+                                70:"Seventy",80:"Eighty",90:"Ninety"]
+
+    private let kAtomicPowers = [100: "Hundred",
+                                1_000: "Thousand",
+                                1_000_000: "Million",
+                                1_000_000_000: "Billion",
+                                1_000_000_000_000: "Trillion"]
+
     func numberToWords(_ num: Int) -> String {
-        var stack: [Int] = []
-        var temp = num
-        while temp > 0 {
-            stack.append(temp % 10)
-            temp /= 10
+        guard num != 0 else { return "Zero" }
+        // Remove nils and join by " "
+        return wordFor(num).flatMap{$0}.joined(separator: " ")
+    }
+
+    /// Recursively build
+    private func wordFor(_ num: Int) -> [String?] {
+        var result = [String?]()
+        
+        // 0-19
+        if num < 20 {
+            result.append(kAtomicWords[num])
         }
-        var result: [String] = []
-        while !stack.isEmpty {
-            var c = stack.count
-            var n = stack.removeLast()
-            guard n > 0 else { continue }
-            if c % 3 == 1 || c % 3 == 0 {
-                result.append(oneMap[n]!)
-            } else {
-                if n == 1 {
-                    n = stack.removeLast()
-                    result.append(tenPlusMap[n]!)
-                    c -= 1
-                    
-                } else {
-                    result.append(tenMap[n]!)
-                }
+        // 20-99
+        else if num  < 100 {
+            let leastSig = num % 10
+            let mostSig = (num/10) * 10
+            result.append(kAtomicWords[mostSig])
+            if leastSig > 0 {
+               result.append(kAtomicWords[leastSig])
+            }
+        }
+        // 1Y xx - 1YY xxx xxx xxx xxx
+        else {
+            // get largest power of number
+            var power = 100
+            while (num / (power*10)) > 0 {
+                power *= 10
+            }
+            // divide by 10 until we find closest atomic word power
+            while kAtomicPowers[power] == nil {
+                power /= 10
             }
             
-        }
-        return result.joined(separator: " ")
-    }
+            var mostSig = num / power
+            let remainder = num - (mostSig * power)
     
+            result.append(contentsOf: wordFor(mostSig))
+            result.append(kAtomicPowers[power])
+            result.append(contentsOf: wordFor(remainder))
+        }
+        
+        return result
+    }
+
     func tests() {
         print(numberToWords(123)) // One Hundred Twenty Three
         print(numberToWords(12345)) // Twelve Thousand Three Hundred Forty Five
