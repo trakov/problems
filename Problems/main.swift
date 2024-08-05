@@ -1,1 +1,1 @@
-IntegertoEnglishWords().tests()
+KthDistinctStringinanArray().tests()
