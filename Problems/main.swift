@@ -1,1 +1,1 @@
-MinimumNumberofPushestoTypeWordII().tests()
+AddStrings().tests()
