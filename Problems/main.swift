@@ -1,1 +1,1 @@
-KthDistinctStringinanArray().tests()
+AlienDictionary().tests()
