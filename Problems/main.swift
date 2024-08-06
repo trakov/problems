@@ -1,1 +1,1 @@
-AlienDictionary().tests()
+MinimumNumberofPushestoTypeWordII().tests()
