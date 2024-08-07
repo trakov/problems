@@ -1,5 +1,22 @@
 class ContinuousSubarraySum {
+    // Set
     func checkSubarraySum(_ nums: [Int], _ k: Int) -> Bool {
+        var sumsSet: Set<Int> = []
+        var sum = 0
+        var prevSum = 0
+        for (i, num) in nums.enumerated() {
+            prevSum = sum
+            sum = (sum + num) % k
+            if sumsSet.contains(sum) {
+                return true
+            }
+            sumsSet.insert(prevSum)
+        }
+        return false
+    }
+
+    // HashMap
+    func checkSubarraySum2(_ nums: [Int], _ k: Int) -> Bool {
         var prefixMod = 0
         var modSeen = [0: -1]
         for i in 0..<nums.count {
