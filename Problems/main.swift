@@ -1,1 +1,1 @@
-MagicSquaresInGrid().tests()
+ExclusiveTimeofFunctions().tests()
