@@ -1,1 +1,1 @@
-LongestSubstringwithAtMostKDistinctCharacters().tests()
+MagicSquaresInGrid().tests()
