@@ -1,1 +1,1 @@
-ValidNumber().tests()
+RegionsCutBySlashes().tests()
