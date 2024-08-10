@@ -1,1 +1,1 @@
-ExclusiveTimeofFunctions().tests()
+ValidNumber().tests()
