@@ -1,1 +1,1 @@
-LeftmostColumnwithatLeastaOne().tests()
+SparseMatrixMultiplication().tests()
