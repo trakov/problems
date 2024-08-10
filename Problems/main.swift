@@ -1,1 +1,1 @@
-RegionsCutBySlashes().tests()
+LeftmostColumnwithatLeastaOne().tests()
