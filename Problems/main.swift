@@ -1,1 +1,1 @@
-ClosestBinarySearchTreeValue().tests()
+MaximumSumof3NonOverlappingSubarrays().tests()
