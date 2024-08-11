@@ -1,1 +1,1 @@
-SparseMatrixMultiplication().tests()
+CounttheNumberofGoodNodes().tests()
