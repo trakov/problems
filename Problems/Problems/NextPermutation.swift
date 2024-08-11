@@ -1,29 +1,21 @@
 class NextPermutation {
     func nextPermutation(_ nums: inout [Int]) {
-        let n = nums.count
-        guard n > 2 else { nums.reverse(); return }
-        var pos: Int?
-        for (i, num) in nums.enumerated().reversed().dropFirst() {
-            if num < nums[i + 1] {
-                pos = i
-                break
-            }
+        var i = nums.count - 2
+        while i >= 0 && nums[i + 1] <= nums[i] {
+            i -= 1
         }
-        guard let pos = pos else { nums.reverse(); return }
-        var temp: Int?
-        for i in (pos+1)..<n {
-            if nums[i] <= nums[pos] {
-                temp = i - 1
-                break
+        if i >= 0 {
+            var j = nums.count - 1
+            while nums[j] <= nums[i] {
+                j -= 1
             }
+            nums.swapAt(i, j)
         }
-        let pos2 = temp ?? (n - 1)
-        nums.swapAt(pos, pos2)
-        var left = pos + 1
-        var right = n - 1
-        while left < right {
-            nums.swapAt(left, right)
-            left += 1
+        i += 1
+        var right = nums.count - 1
+        while i < right {
+            nums.swapAt(i, right)
+            i += 1
             right -= 1
         }
     }

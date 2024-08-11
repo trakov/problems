@@ -1,1 +1,1 @@
-MaximumSumof3NonOverlappingSubarrays().tests()
+NextPermutation().tests()
