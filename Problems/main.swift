@@ -1,1 +1,1 @@
-CounttheNumberofGoodNodes().tests()
+MinimumNumberofDaystoDisconnectIsland().tests()
