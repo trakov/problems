@@ -1,1 +1,1 @@
-NextPermutation().tests()
+MergeSortedArray().tests()
