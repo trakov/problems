@@ -1,1 +1,1 @@
-MergeSortedArray().tests()
+AccountsMerge().tests()
