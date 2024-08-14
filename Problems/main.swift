@@ -1,1 +1,1 @@
-AccountsMerge().tests()
+FindKthSmallestPairDistance().tests()
