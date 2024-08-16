@@ -1,1 +1,1 @@
-FindKthSmallestPairDistance().tests()
+MaximumDistanceinArrays().tests()
