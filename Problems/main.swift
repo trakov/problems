@@ -1,1 +1,1 @@
-MaximumDistanceinArrays().tests()
+MaximumNumberofPointswithCost().tests()
