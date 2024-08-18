@@ -1,1 +1,1 @@
-CountSubstringsThatSatisfyKConstraintI().tests()
+UglyNumberII().tests()
