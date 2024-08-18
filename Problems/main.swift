@@ -1,1 +1,1 @@
-MaximumNumberofPointswithCost().tests()
+CountSubstringsThatSatisfyKConstraintI().tests()
