@@ -787,6 +787,7 @@
 		8FF20BA32C710B5E002C9D49 /* MaximumNumberofPointswithCost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BA22C710B5E002C9D49 /* MaximumNumberofPointswithCost.swift */; };
 		8FF20BA52C71A6FC002C9D49 /* CountSubstringsThatSatisfyKConstraintI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BA42C71A6FC002C9D49 /* CountSubstringsThatSatisfyKConstraintI.swift */; };
 		8FF20BA72C7285A5002C9D49 /* UglyNumberII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BA62C7285A5002C9D49 /* UglyNumberII.swift */; };
+		8FF20BA92C730B43002C9D49 /* TwoKeysKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BA82C730B43002C9D49 /* TwoKeysKeyboard.swift */; };
 		8FF34FFD2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */; };
 		8FF5A4952B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */; };
 		8FF5A4972B060ED100C11D6D /* FindUniqueBinaryString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */; };
@@ -1489,6 +1490,7 @@
 		8FF20BA22C710B5E002C9D49 /* MaximumNumberofPointswithCost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofPointswithCost.swift; sourceTree = "<group>"; };
 		8FF20BA42C71A6FC002C9D49 /* CountSubstringsThatSatisfyKConstraintI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubstringsThatSatisfyKConstraintI.swift; sourceTree = "<group>"; };
 		8FF20BA62C7285A5002C9D49 /* UglyNumberII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumberII.swift; sourceTree = "<group>"; };
+		8FF20BA82C730B43002C9D49 /* TwoKeysKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoKeysKeyboard.swift; sourceTree = "<group>"; };
 		8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNestingDepthOfTheParentheses.swift; sourceTree = "<group>"; };
 		8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumElementAfterDecreasingAndRearranging.swift; sourceTree = "<group>"; };
 		8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindUniqueBinaryString.swift; sourceTree = "<group>"; };
@@ -2575,6 +2577,7 @@
 				8FF20BA22C710B5E002C9D49 /* MaximumNumberofPointswithCost.swift */,
 				8FF20BA42C71A6FC002C9D49 /* CountSubstringsThatSatisfyKConstraintI.swift */,
 				8FF20BA62C7285A5002C9D49 /* UglyNumberII.swift */,
+				8FF20BA82C730B43002C9D49 /* TwoKeysKeyboard.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3251,6 +3254,7 @@
 				8FB9B3D32A0BBF220073424E /* KClosestPointsToOrigin.swift in Sources */,
 				8FB9B5472A0BBF540073424E /* FirstBadVersion.swift in Sources */,
 				8FC102B52A533F48005E8289 /* SetMatrixZeroes.swift in Sources */,
+				8FF20BA92C730B43002C9D49 /* TwoKeysKeyboard.swift in Sources */,
 				8FC102962A456683005E8289 /* LongestArithmeticSubsequence.swift in Sources */,
 				8FB9B46C2A0BBF3A0073424E /* PopulatingNextRightPointersInEachNodeII.swift in Sources */,
 				8FB9B4E82A0BBF480073424E /* BinaryTreeMaximumPathSum.swift in Sources */,

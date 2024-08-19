@@ -1,1 +1,1 @@
-UglyNumberII().tests()
+TwoKeysKeyboard().tests()
