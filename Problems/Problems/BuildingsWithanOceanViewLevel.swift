@@ -1,5 +1,16 @@
 class BuildingsWithanOceanViewLevel {
     func buildings(_ heights: [Int]) -> [Int] {
+        var stack: [Int] = []
+        for (i, h) in heights.enumerated() {
+            while !stack.isEmpty && heights[stack.last!] <= h {
+                stack.removeLast()
+            }
+            stack.append(i)
+        }
+        return stack
+    }
+
+    func buildings2(_ heights: [Int]) -> [Int] {
         let n = heights.count
         var result: [Int] = [n - 1]
         guard n > 1 else { return result }
@@ -14,6 +25,7 @@ class BuildingsWithanOceanViewLevel {
         print(buildings([4,3,2,1])) // [0,1,2,3]
         print(buildings([1,3,2,4])) // [3]
         print(buildings([2,2,2,2])) // [3]
+        print(buildings([2])) // [0]
     }
 }
 
