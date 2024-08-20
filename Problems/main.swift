@@ -1,1 +1,1 @@
-BuildingsWithanOceanViewLevel().tests()
+MovingAveragefromDataStream().tests()
