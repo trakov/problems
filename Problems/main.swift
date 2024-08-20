@@ -1,1 +1,1 @@
-BinaryTreeVerticalOrderTraversal().tests()
+ValidWordAbbreviation().tests()
