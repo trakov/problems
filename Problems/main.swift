@@ -1,1 +1,1 @@
-TwoKeysKeyboard().tests()
+BinaryTreeVerticalOrderTraversal().tests()
