@@ -1,1 +1,1 @@
-MaxConsecutiveOnesIII().tests()
+CountandSay().tests()
