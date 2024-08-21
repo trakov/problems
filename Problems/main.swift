@@ -1,1 +1,1 @@
-MovingAveragefromDataStream().tests()
+MaxConsecutiveOnesIII().tests()

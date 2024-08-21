@@ -794,6 +794,7 @@
 		8FF20BB32C74D80D002C9D49 /* LowestCommonAncestorofaBinaryTreeIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BB22C74D80D002C9D49 /* LowestCommonAncestorofaBinaryTreeIII.swift */; };
 		8FF20BB52C7505DB002C9D49 /* DotProductofTwoSparseVectors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BB42C7505DB002C9D49 /* DotProductofTwoSparseVectors.swift */; };
 		8FF20BB72C752D46002C9D49 /* MovingAveragefromDataStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BB62C752D46002C9D49 /* MovingAveragefromDataStream.swift */; };
+		8FF20BB92C75FF4B002C9D49 /* MaxConsecutiveOnesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BB82C75FF4B002C9D49 /* MaxConsecutiveOnesIII.swift */; };
 		8FF34FFD2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */; };
 		8FF5A4952B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */; };
 		8FF5A4972B060ED100C11D6D /* FindUniqueBinaryString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */; };
@@ -1503,6 +1504,7 @@
 		8FF20BB22C74D80D002C9D49 /* LowestCommonAncestorofaBinaryTreeIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowestCommonAncestorofaBinaryTreeIII.swift; sourceTree = "<group>"; };
 		8FF20BB42C7505DB002C9D49 /* DotProductofTwoSparseVectors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotProductofTwoSparseVectors.swift; sourceTree = "<group>"; };
 		8FF20BB62C752D46002C9D49 /* MovingAveragefromDataStream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovingAveragefromDataStream.swift; sourceTree = "<group>"; };
+		8FF20BB82C75FF4B002C9D49 /* MaxConsecutiveOnesIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxConsecutiveOnesIII.swift; sourceTree = "<group>"; };
 		8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNestingDepthOfTheParentheses.swift; sourceTree = "<group>"; };
 		8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumElementAfterDecreasingAndRearranging.swift; sourceTree = "<group>"; };
 		8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindUniqueBinaryString.swift; sourceTree = "<group>"; };
@@ -2596,6 +2598,7 @@
 				8FF20BB22C74D80D002C9D49 /* LowestCommonAncestorofaBinaryTreeIII.swift */,
 				8FF20BB42C7505DB002C9D49 /* DotProductofTwoSparseVectors.swift */,
 				8FF20BB62C752D46002C9D49 /* MovingAveragefromDataStream.swift */,
+				8FF20BB82C75FF4B002C9D49 /* MaxConsecutiveOnesIII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3514,6 +3517,7 @@
 				8FA5CFFA2A6D04DB00D36107 /* AllPossibleFullBinaryTrees.swift in Sources */,
 				8FB9B4F02A0BBF4E0073424E /* LinkedListCycleII.swift in Sources */,
 				8FA5CFF82A6BD01D00D36107 /* KnightProbabilityInChessboard.swift in Sources */,
+				8FF20BB92C75FF4B002C9D49 /* MaxConsecutiveOnesIII.swift in Sources */,
 				8FB9B4032A0BBF2E0073424E /* IsGraphBipartite.swift in Sources */,
 				8FB9B4A22A0BBF410073424E /* BinaryTreeRightSideView.swift in Sources */,
 				8F41113C2AD0DB2C001E0804 /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift in Sources */,
