@@ -1,1 +1,1 @@
-DiagonalTraverse().tests()
+MaximumSwap().tests()
