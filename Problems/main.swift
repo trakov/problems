@@ -1,1 +1,1 @@
-MaximumSwap().tests()
+MissingRanges().tests()
