@@ -1,1 +1,1 @@
-InsertintoaSortedCircularLinkedList().tests()
+DiagonalTraverse().tests()
