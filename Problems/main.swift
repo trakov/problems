@@ -1,1 +1,1 @@
-ToeplitzMatrix().tests()
+WildcardMatching().tests()
