@@ -802,6 +802,7 @@
 		8FF20BC32C77562F002C9D49 /* MaximumSwap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BC22C77562F002C9D49 /* MaximumSwap.swift */; };
 		8FF20BC52C777648002C9D49 /* MissingRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BC42C777648002C9D49 /* MissingRanges.swift */; };
 		8FF20BC72C77BA95002C9D49 /* MeetingRoomsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BC62C77BA95002C9D49 /* MeetingRoomsII.swift */; };
+		8FF20BC92C786EE3002C9D49 /* FractionAdditionandSubtraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BC82C786EE3002C9D49 /* FractionAdditionandSubtraction.swift */; };
 		8FF34FFD2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */; };
 		8FF5A4952B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */; };
 		8FF5A4972B060ED100C11D6D /* FindUniqueBinaryString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */; };
@@ -1519,6 +1520,7 @@
 		8FF20BC22C77562F002C9D49 /* MaximumSwap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSwap.swift; sourceTree = "<group>"; };
 		8FF20BC42C777648002C9D49 /* MissingRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingRanges.swift; sourceTree = "<group>"; };
 		8FF20BC62C77BA95002C9D49 /* MeetingRoomsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingRoomsII.swift; sourceTree = "<group>"; };
+		8FF20BC82C786EE3002C9D49 /* FractionAdditionandSubtraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FractionAdditionandSubtraction.swift; sourceTree = "<group>"; };
 		8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNestingDepthOfTheParentheses.swift; sourceTree = "<group>"; };
 		8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumElementAfterDecreasingAndRearranging.swift; sourceTree = "<group>"; };
 		8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindUniqueBinaryString.swift; sourceTree = "<group>"; };
@@ -2620,6 +2622,7 @@
 				8FF20BC22C77562F002C9D49 /* MaximumSwap.swift */,
 				8FF20BC42C777648002C9D49 /* MissingRanges.swift */,
 				8FF20BC62C77BA95002C9D49 /* MeetingRoomsII.swift */,
+				8FF20BC82C786EE3002C9D49 /* FractionAdditionandSubtraction.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3104,6 +3107,7 @@
 				8FCC12BB2A7F837100698582 /* NumberOfMusicPlaylists.swift in Sources */,
 				8FB9B3F82A0BBF280073424E /* PartitionList.swift in Sources */,
 				8FB9B5702A0BBF5A0073424E /* Add2Nums2.swift in Sources */,
+				8FF20BC92C786EE3002C9D49 /* FractionAdditionandSubtraction.swift in Sources */,
 				8FB9B4B82A0BBF480073424E /* DecodeString.swift in Sources */,
 				8FF5A4A12B0CB47D00C11D6D /* CountNicePairsInAnArray.swift in Sources */,
 				8FB9B59E2A11F92C0073424E /* SwappingNodesInALinkedList.swift in Sources */,

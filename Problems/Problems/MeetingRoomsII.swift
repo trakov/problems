@@ -1,20 +1,20 @@
-import HeapModule
+//import HeapModule
 class MeetingRoomsII {
-    func minMeetingRooms(_ intervals: [[Int]]) -> Int {
-        let n = intervals.count
-        guard n > 1 else { return n }
-        let sorted = intervals.sorted { $0[0] < $1[0] }
-        var heap: HeapModule.Heap<Int> = []
-        for interval in sorted {
-            if let minEnd = heap.min, minEnd <= interval[0] {
-                heap.removeMin()
-            }
-            heap.insert(interval[1])
-        }
-        return heap.count
-    }
+//    func minMeetingRooms(_ intervals: [[Int]]) -> Int {
+//        let n = intervals.count
+//        guard n > 1 else { return n }
+//        let sorted = intervals.sorted { $0[0] < $1[0] }
+//        var heap: HeapModule.Heap<Int> = []
+//        for interval in sorted {
+//            if let minEnd = heap.min, minEnd <= interval[0] {
+//                heap.removeMin()
+//            }
+//            heap.insert(interval[1])
+//        }
+//        return heap.count
+//    }
 
-    func minMeetingRooms2(_ intervals: [[Int]]) -> Int {
+    func minMeetingRooms(_ intervals: [[Int]]) -> Int {
         let n = intervals.count
         guard n > 1 else { return n }
         let sorted = intervals.sorted { $0[0] < $1[0] }
