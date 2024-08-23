@@ -804,6 +804,7 @@
 		8FF20BC72C77BA95002C9D49 /* MeetingRoomsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BC62C77BA95002C9D49 /* MeetingRoomsII.swift */; };
 		8FF20BC92C786EE3002C9D49 /* FractionAdditionandSubtraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BC82C786EE3002C9D49 /* FractionAdditionandSubtraction.swift */; };
 		8FF20BCB2C787B69002C9D49 /* ToeplitzMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BCA2C787B68002C9D49 /* ToeplitzMatrix.swift */; };
+		8FF20BCD2C78A096002C9D49 /* WallsandGates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BCC2C78A096002C9D49 /* WallsandGates.swift */; };
 		8FF34FFD2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */; };
 		8FF5A4952B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */; };
 		8FF5A4972B060ED100C11D6D /* FindUniqueBinaryString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */; };
@@ -1523,6 +1524,7 @@
 		8FF20BC62C77BA95002C9D49 /* MeetingRoomsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingRoomsII.swift; sourceTree = "<group>"; };
 		8FF20BC82C786EE3002C9D49 /* FractionAdditionandSubtraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FractionAdditionandSubtraction.swift; sourceTree = "<group>"; };
 		8FF20BCA2C787B68002C9D49 /* ToeplitzMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToeplitzMatrix.swift; sourceTree = "<group>"; };
+		8FF20BCC2C78A096002C9D49 /* WallsandGates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WallsandGates.swift; sourceTree = "<group>"; };
 		8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNestingDepthOfTheParentheses.swift; sourceTree = "<group>"; };
 		8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumElementAfterDecreasingAndRearranging.swift; sourceTree = "<group>"; };
 		8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindUniqueBinaryString.swift; sourceTree = "<group>"; };
@@ -2626,6 +2628,7 @@
 				8FF20BC62C77BA95002C9D49 /* MeetingRoomsII.swift */,
 				8FF20BC82C786EE3002C9D49 /* FractionAdditionandSubtraction.swift */,
 				8FF20BCA2C787B68002C9D49 /* ToeplitzMatrix.swift */,
+				8FF20BCC2C78A096002C9D49 /* WallsandGates.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3430,6 +3433,7 @@
 				8FF20BA32C710B5E002C9D49 /* MaximumNumberofPointswithCost.swift in Sources */,
 				8F6CBCC32B2AD0DA00EEF65E /* DifferenceBetweenOnesAndZerosInRowAndColumn.swift in Sources */,
 				8FC7B9832BA2C6DF0036C9F8 /* BinarySubarraysWithSum.swift in Sources */,
+				8FF20BCD2C78A096002C9D49 /* WallsandGates.swift in Sources */,
 				8FF34FFD2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift in Sources */,
 				8F0907DB2B01E9BE003959BC /* SortVowelsInAString.swift in Sources */,
 				8FD5EA962ABFFC3300F47EDD /* ChampagneTower.swift in Sources */,

@@ -1,1 +1,1 @@
-WildcardMatching().tests()
+WallsandGates().tests()
