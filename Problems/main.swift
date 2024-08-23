@@ -1,1 +1,1 @@
-FriendsOfAppropriateAges().tests()
+IntersectionofThreeSortedArrays().tests()
