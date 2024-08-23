@@ -1,1 +1,1 @@
-WallsandGates().tests()
+SplitArrayLargestSum().tests()
