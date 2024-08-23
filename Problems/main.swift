@@ -1,1 +1,1 @@
-GroupShiftedStrings().tests()
+ToeplitzMatrix().tests()
