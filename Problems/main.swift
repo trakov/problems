@@ -1,1 +1,1 @@
-FractionAdditionandSubtraction().tests()
+GroupShiftedStrings().tests()

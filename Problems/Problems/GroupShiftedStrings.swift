@@ -1,4 +1,25 @@
 class GroupShiftedStrings {
+    func getKey(_ s: String) -> [Int] {
+        guard s.count > 0 else { return [] }
+        guard s.count > 1 else { return [-1] }
+        var key = Array(repeating: 0, count: s.count - 1)
+        var prev = s.first!
+        for (i, c) in s.enumerated().dropFirst() {
+            let diff = (Int(c.asciiValue!) - Int(prev.asciiValue!) + 26) % 26
+            key[i - 1] = diff
+        }
+        return key
+    }
+
+    func groupStrings(_ strings: [String]) -> [[String]] {
+        var map: [[Int]: [String]] = [:]
+        for s in strings {
+            let key = getKey(s)
+            map[key, default: []].append(s)
+        }
+        return Array(map.values)
+    }
+
     func group(_ strings: [String]) -> [[String]] {
         var map: [[Int]: [String]] = [:]
         for string in strings {
@@ -36,7 +57,7 @@ class GroupShiftedStrings {
     }
     
     func tests() {
-        print(group(["abc", "bcd", "acef", "xyz", "az", "ba", "a", "z"]))
+        print(groupStrings(["abc", "bcd", "acef", "xyz", "az", "ba", "a", "z"]))
 //         [
 //              ["abc","bcd","xyz"],
 //              ["az","ba"],
