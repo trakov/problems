@@ -1,1 +1,1 @@
-SplitArrayLargestSum().tests()
+FriendsOfAppropriateAges().tests()
