@@ -1,1 +1,1 @@
-IntersectionofThreeSortedArrays().tests()
+ValidPalindromeIII().tests()
