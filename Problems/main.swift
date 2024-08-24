@@ -1,1 +1,1 @@
-FindtheClosestPalindrome().tests()
+StringtoIntegeratoi().tests()
