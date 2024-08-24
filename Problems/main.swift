@@ -1,1 +1,1 @@
-StringtoIntegeratoi().tests()
+CheckifArrayIsSortedandRotated().tests()
