@@ -1,1 +1,1 @@
-DesignTicTacToe().tests()
+DesignTicTacToe2().tests()
