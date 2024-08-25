@@ -1,1 +1,1 @@
-ValidateIPAddress().tests()
+ProductofTwoRunLengthEncodedArrays().tests()
