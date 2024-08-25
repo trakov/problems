@@ -1,1 +1,1 @@
-DesignTicTacToe2().tests()
+ValidateIPAddress().tests()
