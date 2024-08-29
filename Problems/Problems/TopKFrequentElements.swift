@@ -1,29 +1,54 @@
 class TopKFrequentElements {
+    // heap
+//    func topKFrequent(_ nums: [Int], _ k: Int) -> [Int] {
+//        struct FreqElement: Comparable {
+//            let val: Int
+//            let freq: Int
+//
+//            static func < (lhs: FreqElement, rhs: FreqElement) -> Bool {
+//                lhs.freq < rhs.freq
+//            }
+//
+//            static func == (lhs: FreqElement, rhs: FreqElement) -> Bool {
+//                lhs.freq == rhs.freq
+//            }
+//        }
+//        var freqMap = [Int: Int]()
+//        for num in nums {
+//            freqMap[num, default: 0] += 1
+//        }
+//        var freqHeap = Heap<FreqElement>()
+//        for (key, value) in freqMap {
+//            freqHeap.insert(.init(val: key, freq: value))
+//            if freqHeap.count > k {
+//                freqHeap.removeMin()
+//            }
+//        }
+//        var res = [Int]()
+//        while let element = freqHeap.popMax() {
+//            res.append(element.val)
+//        }
+//        return res
+//    }
+
+    // bucket sort
     func topKFrequent(_ nums: [Int], _ k: Int) -> [Int] {
-        var map: [Int: Int] = [:]
+        var map: [Int: Int] = [:] // num: count
         for num in nums {
             map[num, default: 0] += 1
         }
-        var buckets = Array(repeating: [Int](), count: nums.count + 1)
-        for (num, freq) in map {
-            buckets[freq].append(num)
+        var bucket = Array(repeating: [Int](), count: nums.count + 1)
+        for (num, count) in map {
+            bucket[count].append(num)
         }
-        
-        var result = Array(repeating: 0, count: k)
-        var j = 0
-        for i in (0 ..< buckets.count).reversed() where !buckets[i].isEmpty {
-            for num in buckets[i] {
-                result[j] = num
-                j += 1
-            }
-            guard j < k else {
-                break
-            }
+        var result: [Int] = []
+        for buck in bucket.reversed() where buck.count > 0 {
+            result += buck
+            if result.count == k { break }
         }
-    
         return result
     }
-
+    
     func topKFrequent2(_ nums: [Int], _ k: Int) -> [Int] {
         var map: [Int: Int] = [:]
         for num in nums {

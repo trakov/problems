@@ -1,1 +1,1 @@
-DecodeString().tests()
+TopKFrequentElements().tests()
