@@ -1,1 +1,1 @@
-MostStonesRemovedWithSameRowOrColumn().tests()
+DecodeString().tests()
