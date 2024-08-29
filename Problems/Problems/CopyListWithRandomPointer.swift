@@ -13,6 +13,35 @@ class CopyListWithRandomPointer {
     func copyRandomList(_ head: Node3?) -> Node3? {
         guard head != nil else { return nil }
         var node = head
+        while node != nil {
+            let copy = Node3(node!.val)
+            copy.next = node?.next
+            node?.next = copy
+            node = copy.next
+        }
+
+        node = head
+        while node != nil {
+            node?.next?.random = node?.random?.next
+            node = node?.next?.next
+        }
+
+        let newHead = head?.next
+        node = head
+        while node != nil {
+            let next = node?.next?.next
+            let newNext = next?.next
+            node?.next?.next = newNext
+            node?.next = next
+            node = next
+        }
+
+        return newHead
+    }
+    
+    func copyRandomList2(_ head: Node3?) -> Node3? {
+        guard head != nil else { return nil }
+        var node = head
         while let val = node?.val {
             let newNode = Node3(val)
             newNode.next = node?.next
