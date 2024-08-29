@@ -1,5 +1,48 @@
 class MostStonesRemovedWithSameRowOrColumn {
+    class UnionFind {
+        var count = 0
+        private var root: [Int]
+        private var rank: [Int]
+        init(_ n: Int) {
+            root = Array(0..<n)
+            rank = Array(repeating: 0, count: n)
+            count = n
+        }
+        
+        func find(_ x: Int) -> Int {
+            if x == root[x] { return x }
+            root[x] = find(root[x])
+            return root[x]
+        }
+        
+        func union(_ x: Int, _ y: Int) {
+            let rx = find(x)
+            let ry = find(y)
+            guard rx != ry else { return }
+            if rank[rx] < rank[ry] {
+                root[rx] = ry
+            } else if rank[rx] > rank[ry] {
+                root[ry] = rx
+            } else {
+                root[rx] = ry
+                rank[ry] += 1
+            }
+            count -= 1
+        }
+    }
+    
     func removeStones(_ stones: [[Int]]) -> Int {
+        let n = stones.count
+        let uf = UnionFind(n)
+        for (i, stone) in stones.enumerated() {
+            for j in i+1..<n where stone[0] == stones[j][0] || stone[1] == stones[j][1] {
+                uf.union(i, j)
+            }
+        }
+        return n - uf.count
+    }
+    
+    func removeStones2(_ stones: [[Int]]) -> Int {
         var xStones: [Int: [Int]] = [:]
         var yStones: [Int: [Int]] = [:]
         for s in stones {

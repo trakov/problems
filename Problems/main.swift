@@ -1,1 +1,1 @@
-NaryTreePostorderTraversal().tests()
+MostStonesRemovedWithSameRowOrColumn().tests()
