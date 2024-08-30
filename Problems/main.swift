@@ -1,1 +1,1 @@
-CopyListWithRandomPointer().tests()
+ModifyGraphEdgeWeights().tests()
