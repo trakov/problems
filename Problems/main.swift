@@ -1,1 +1,1 @@
-BestTimetoBuyandSellStockIV().tests()
+Heaters().tests()
