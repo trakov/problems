@@ -1,1 +1,1 @@
-ThreeSum().tests()
+ThreeSumSmaller().tests()
