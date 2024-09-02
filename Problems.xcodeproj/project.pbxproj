@@ -824,6 +824,7 @@
 		8FF20BEF2C830E7F002C9D49 /* Heaters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BEE2C830E7F002C9D49 /* Heaters.swift */; };
 		8FF20BF12C8318F5002C9D49 /* LongestIncreasingSubsequenceII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BF02C8318F5002C9D49 /* LongestIncreasingSubsequenceII.swift */; };
 		8FF20BF52C844FEB002C9D49 /* Convert1DArrayInto2DArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BF42C844FEB002C9D49 /* Convert1DArrayInto2DArray.swift */; };
+		8FF20BF72C858A55002C9D49 /* FindtheStudentthatWillReplacetheChalk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF20BF62C858A55002C9D49 /* FindtheStudentthatWillReplacetheChalk.swift */; };
 		8FF34FFD2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */; };
 		8FF5A4952B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */; };
 		8FF5A4972B060ED100C11D6D /* FindUniqueBinaryString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */; };
@@ -1563,6 +1564,7 @@
 		8FF20BEE2C830E7F002C9D49 /* Heaters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heaters.swift; sourceTree = "<group>"; };
 		8FF20BF02C8318F5002C9D49 /* LongestIncreasingSubsequenceII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIncreasingSubsequenceII.swift; sourceTree = "<group>"; };
 		8FF20BF42C844FEB002C9D49 /* Convert1DArrayInto2DArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Convert1DArrayInto2DArray.swift; sourceTree = "<group>"; };
+		8FF20BF62C858A55002C9D49 /* FindtheStudentthatWillReplacetheChalk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheStudentthatWillReplacetheChalk.swift; sourceTree = "<group>"; };
 		8FF34FFC2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNestingDepthOfTheParentheses.swift; sourceTree = "<group>"; };
 		8FF5A4942B04F1AA00C11D6D /* MaximumElementAfterDecreasingAndRearranging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumElementAfterDecreasingAndRearranging.swift; sourceTree = "<group>"; };
 		8FF5A4962B060ED100C11D6D /* FindUniqueBinaryString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindUniqueBinaryString.swift; sourceTree = "<group>"; };
@@ -2686,6 +2688,7 @@
 				8FF20BEE2C830E7F002C9D49 /* Heaters.swift */,
 				8FF20BF02C8318F5002C9D49 /* LongestIncreasingSubsequenceII.swift */,
 				8FF20BF42C844FEB002C9D49 /* Convert1DArrayInto2DArray.swift */,
+				8FF20BF62C858A55002C9D49 /* FindtheStudentthatWillReplacetheChalk.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3158,6 +3161,7 @@
 				8FB9B54D2A0BBF540073424E /* IntersectionOfTwoLinkedLists.swift in Sources */,
 				8FC7B9872BA812340036C9F8 /* MinimumNumberOfArrowsToBurstBalloons.swift in Sources */,
 				8FB9B4942A0BBF410073424E /* LongestPalindromeByConcatenatingTwoLetterWords.swift in Sources */,
+				8FF20BF72C858A55002C9D49 /* FindtheStudentthatWillReplacetheChalk.swift in Sources */,
 				8FB9B3EC2A0BBF280073424E /* GroupAnagrams.swift in Sources */,
 				8FB9B53E2A0BBF540073424E /* PascalsTriangle2.swift in Sources */,
 				8FD44E532C5F712A0096C210 /* ShortestDistanceAfterRoadAdditionQueriesI.swift in Sources */,
