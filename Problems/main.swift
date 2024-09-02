@@ -1,1 +1,1 @@
-FindtheStudentthatWillReplacetheChalk().tests()
+LargestRectangleInHistogram().tests()
