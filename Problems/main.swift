@@ -1,1 +1,1 @@
-LargestRectangleInHistogram().tests()
+ThreeSum().tests()

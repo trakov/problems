@@ -1,5 +1,22 @@
 class ThreeSum {
     func threeSum(_ nums: [Int]) -> [[Int]] {
+        var res: Set<[Int]> = []
+        var dups: Set<Int> = []
+        var seen: [Int: Int] = [:]
+        for (i, num) in nums.enumerated() {
+            guard dups.insert(num).inserted else { continue }
+            for j in i+1..<nums.count {
+                let complement = -num - nums[j]
+                if let n = seen[complement], n == i {
+                    res.insert([num, nums[j], complement].sorted())
+                }
+                seen[nums[j]] = i
+            }
+        }
+        return Array(res)
+    }
+    
+    func threeSum2(_ nums: [Int]) -> [[Int]] {
         let n = nums.count
         guard n > 2 else { return [] }
         let nums = nums.sorted()
@@ -26,37 +43,6 @@ class ThreeSum {
         return result
     }
     
-    func threeSum2(_ nums: [Int]) -> [[Int]] {
-        guard nums.count > 2 else { return [] }
-        var result = Set<[Int]>()
-        let sortedNums = nums.sorted()
-        for first in sortedNums.dropLast(2).enumerated() {
-            if first.element > 0 {
-                break
-            }
-            var j = first.offset + 1
-            var k = sortedNums.count - 1
-            while j < k {
-                let second = sortedNums[j]
-                if first.element + second > 0 {
-                    break
-                }
-                let third = sortedNums[k]
-                let sum = first.element + second + third
-                if sum < 0 {
-                    j += 1
-                } else if sum == 0 {
-                    result.insert([first.element, second, third])
-                    j += 1
-                    k -= 1
-                } else {
-                    k -= 1
-                }
-            }
-        }
-        return Array(result)
-    }
-
     func tests() {
         print(threeSum([]))
         print(threeSum([0]))
