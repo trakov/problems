@@ -1,1 +1,1 @@
-SumofDigitsofStringAfterConvert().tests()
+ValidPalindrome().tests()
