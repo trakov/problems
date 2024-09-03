@@ -1,1 +1,1 @@
-ThreeSumSmaller().tests()
+SumofDigitsofStringAfterConvert().tests()
