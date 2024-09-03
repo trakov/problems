@@ -1,17 +1,49 @@
 class PathSumII {
     func pathSum(_ root: TreeNode?, _ targetSum: Int) -> [[Int]] {
-        func dfs(_ node: TreeNode?, _ sum: Int, _ path: [Int]) -> [[Int]] {
-            guard let node = node else { return [] }
-            var updSum = sum - node.val
-            var updPath = path + [node.val]
-            if node.left == nil && node.right == nil && 0 == updSum {
-                return [updPath]
+        func dfs(_ node: TreeNode?, _ sum: Int, _ path: inout [Int]) -> [[Int]] {
+            guard let node else { return [] }
+            path.append(node.val)
+            defer {
+                path.removeLast()
             }
-            return dfs(node.left, updSum, updPath) + dfs(node.right, updSum, updPath)
+            let sum = sum - node.val
+            if node.left == nil && node.right == nil {
+                if sum == 0 { return [path] }
+                return []
+            }
+            return dfs(node.left, sum, &path) + dfs(node.right, sum, &path)
         }
-        return dfs(root, targetSum, [])
+        var path: [Int] = []
+        return dfs(root, targetSum, &path)
     }
 
+    func pathSum2(_ root: TreeNode?, _ targetSum: Int) -> [[Int]] {
+        var result: [[Int]] = []
+        guard let root else { return result }
+        func dfs(_ node: TreeNode?, _ sum: Int, _ path: inout [Int]) {
+            guard let node else { return }
+            if node.left == nil && node.right == nil {
+                if sum == targetSum {
+                    result.append(path)
+                }
+                return
+            }
+            if let left = node.left {
+                path.append(left.val)
+                dfs(left, sum + left.val, &path)
+                path.removeLast()
+            }
+            if let right = node.right {
+                path.append(right.val)
+                dfs(right, sum + right.val, &path)
+                path.removeLast()
+            }
+        }
+        var path: [Int] = [root.val]
+        dfs(root, root.val, &path)
+        return result
+    }
+    
     func tests() {
         var root = TreeNode(
             5,
