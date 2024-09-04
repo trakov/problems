@@ -1,1 +1,1 @@
-ValidPalindrome().tests()
+WalkingRobotSimulation().tests()
