@@ -1,1 +1,1 @@
-WalkingRobotSimulation().tests()
+FindMissingObservations().tests()
