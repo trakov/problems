@@ -1,1 +1,1 @@
-MissingElementinSortedArray().tests()
+StickerstoSpellWord().tests()
