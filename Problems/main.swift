@@ -1,1 +1,1 @@
-MaximumNumberofEventsThatCanBeAttended().tests()
+MissingElementinSortedArray().tests()
