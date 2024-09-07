@@ -1,1 +1,1 @@
-DeleteNodesFromLinkedListPresentinArray().tests()
+MaximumNumberofEventsThatCanBeAttended().tests()
