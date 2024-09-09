@@ -1,1 +1,1 @@
-StickerstoSpellWord().tests()
+ExpressionAddOperators().tests()
