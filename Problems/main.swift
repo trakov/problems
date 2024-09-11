@@ -1,1 +1,1 @@
-InsertGreatestCommonDivisorsinLinkedList().tests()
+MinimumBitFlipstoConvertNumber().tests()
