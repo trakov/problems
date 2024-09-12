@@ -1,1 +1,1 @@
-MinimumBitFlipstoConvertNumber().tests()
+CounttheNumberofConsistentStrings().tests()
