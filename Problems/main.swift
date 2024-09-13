@@ -1,1 +1,1 @@
-CounttheNumberofConsistentStrings().tests()
+XORQueriesofaSubarray().tests()
