@@ -1,1 +1,1 @@
-XORQueriesofaSubarray().tests()
+LongestSubarrayWithMaximumBitwiseAND().tests()
