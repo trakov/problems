@@ -1,1 +1,1 @@
-MinimumTimeDifference().tests()
+UncommonWordsfromTwoSentences().tests()
