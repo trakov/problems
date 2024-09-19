@@ -1,1 +1,1 @@
-LargestNumber().tests()
+DifferentWaystoAddParentheses().tests()
