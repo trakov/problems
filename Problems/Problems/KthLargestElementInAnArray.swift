@@ -48,7 +48,8 @@ class KthLargestElementInAnArray {
         }
     }
     
-    func findKthLargest(_ nums: [Int], _ k: Int) -> Int {
+    // min heap
+    func findKthLargest1(_ nums: [Int], _ k: Int) -> Int {
         let n = nums.count
         guard k <= n else { return 0 }
         let heap = Heap<Int>(<)
@@ -61,12 +62,8 @@ class KthLargestElementInAnArray {
         return heap.top!
     }
 
+    // counting sort
     func findKthLargest2(_ nums: [Int], _ k: Int) -> Int {
-        countingSortSolution(nums, k)
-//        nums.sorted()[nums.count - k]
-    }
-    
-    func countingSortSolution(_ nums: [Int], _ k: Int) -> Int {
         var minValue = Int.max
         var maxValue = Int.min
         
@@ -91,6 +88,34 @@ class KthLargestElementInAnArray {
         return -1
     }
     
+    // quick select
+    func findKthLargest(_ nums: [Int], _ k: Int) -> Int {
+        func quickSelect(_ nums: [Int], _ k: Int) -> Int {
+            let pivotIndex = Int.random(in: (0..<nums.count))
+            let pivot = nums[pivotIndex]
+            var left: [Int] = []
+            var mid: [Int] = []
+            var right: [Int] = []
+            for num in nums {
+                if num > pivot {
+                    left.append(num)
+                } else if num < pivot {
+                    right.append(num)
+                } else {
+                    mid.append(num)
+                }
+            }
+            if k <= left.count {
+                return quickSelect(left, k)
+            }
+            if left.count + mid.count < k {
+                return quickSelect(right, k - left.count - mid.count)
+            }
+            return pivot
+        }
+        return quickSelect(nums, k)
+    }
+
     func tests() {
         print(findKthLargest([3,2,1,5,6,4], 2)) // 5
         print(findKthLargest([3,2,3,1,2,4,5,5,6], 4)) // 4

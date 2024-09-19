@@ -1,1 +1,1 @@
-FindWinneronaTicTacToeGame().tests()
+KthLargestElementInAnArray().tests()
