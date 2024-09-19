@@ -1,1 +1,1 @@
-WordLadderII().tests()
+LargestNumber().tests()
