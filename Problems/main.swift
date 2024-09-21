@@ -1,1 +1,1 @@
-KthLargestElementInAnArray().tests()
+LexicographicalNumbers().tests()
