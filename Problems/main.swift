@@ -1,1 +1,1 @@
-LexicographicalNumbers().tests()
+ShortestPalindrome().tests()
