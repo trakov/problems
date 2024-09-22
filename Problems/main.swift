@@ -1,1 +1,1 @@
-ShortestPalindrome().tests()
+KthSmallestinLexicographicalOrder().tests()
