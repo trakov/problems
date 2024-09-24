@@ -1,1 +1,1 @@
-KthSmallestinLexicographicalOrder().tests()
+FindtheLengthoftheLongestCommonPrefix().tests()

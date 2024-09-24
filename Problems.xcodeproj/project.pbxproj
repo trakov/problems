@@ -19,6 +19,7 @@
 		8F0040D92C9F4BB800116FE0 /* LexicographicalNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040D82C9F4BB800116FE0 /* LexicographicalNumbers.swift */; };
 		8F0040DB2C9F4FBE00116FE0 /* ShortestPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040DA2C9F4FBE00116FE0 /* ShortestPalindrome.swift */; };
 		8F0040DD2CA0B3E100116FE0 /* KthSmallestinLexicographicalOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040DC2CA0B3E100116FE0 /* KthSmallestinLexicographicalOrder.swift */; };
+		8F0040DF2CA28C7900116FE0 /* FindtheLengthoftheLongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040DE2CA28C7900116FE0 /* FindtheLengthoftheLongestCommonPrefix.swift */; };
 		8F0326F22B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */; };
 		8F0327142B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327132B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift */; };
 		8F0327162B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */; };
@@ -936,6 +937,7 @@
 		8F0040D82C9F4BB800116FE0 /* LexicographicalNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicalNumbers.swift; sourceTree = "<group>"; };
 		8F0040DA2C9F4FBE00116FE0 /* ShortestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestPalindrome.swift; sourceTree = "<group>"; };
 		8F0040DC2CA0B3E100116FE0 /* KthSmallestinLexicographicalOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSmallestinLexicographicalOrder.swift; sourceTree = "<group>"; };
+		8F0040DE2CA28C7900116FE0 /* FindtheLengthoftheLongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheLengthoftheLongestCommonPrefix.swift; sourceTree = "<group>"; };
 		8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOneBitOperationsToMakeIntegersZero.swift; sourceTree = "<group>"; };
 		8F0327132B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindWordsThatCanBeFormedByCharacters.swift; sourceTree = "<group>"; };
 		8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeVisitingAllPoints.swift; sourceTree = "<group>"; };
@@ -2761,6 +2763,7 @@
 				8F0040D82C9F4BB800116FE0 /* LexicographicalNumbers.swift */,
 				8F0040DA2C9F4FBE00116FE0 /* ShortestPalindrome.swift */,
 				8F0040DC2CA0B3E100116FE0 /* KthSmallestinLexicographicalOrder.swift */,
+				8F0040DE2CA28C7900116FE0 /* FindtheLengthoftheLongestCommonPrefix.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3695,6 +3698,7 @@
 				8FB9B5752A0BBF5A0073424E /* MaximumSubarray.swift in Sources */,
 				8F30CEEB2B7F2741008B2544 /* LeastNumberOfUniqueIntegersAfterKRemovals.swift in Sources */,
 				8FF20BFD2C882925002C9D49 /* WalkingRobotSimulation.swift in Sources */,
+				8F0040DF2CA28C7900116FE0 /* FindtheLengthoftheLongestCommonPrefix.swift in Sources */,
 				8FB9B3CC2A0BBF220073424E /* ProfitableSchemes.swift in Sources */,
 				8F8504F42C6478D70046CFCA /* SpiralMatrixIII.swift in Sources */,
 				8F424FFF2BBFC8ED006E4E74 /* MakeTheStringGreat.swift in Sources */,
