@@ -1,1 +1,1 @@
-FindtheLengthoftheLongestCommonPrefix().tests()
+SumofPrefixScoresofStrings().tests()
