@@ -1,1 +1,1 @@
-SumofPrefixScoresofStrings().tests()
+MyCalendarI().tests()
