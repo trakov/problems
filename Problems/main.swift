@@ -1,1 +1,1 @@
-MyCalendarII().tests()
+AllOoneDataStructure().tests()
