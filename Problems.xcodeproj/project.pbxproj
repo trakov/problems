@@ -23,6 +23,7 @@
 		8F0040E12CA3D61000116FE0 /* SumofPrefixScoresofStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040E02CA3D61000116FE0 /* SumofPrefixScoresofStrings.swift */; };
 		8F0040ED2CA69B2C00116FE0 /* MyCalendarII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040EC2CA69B2C00116FE0 /* MyCalendarII.swift */; };
 		8F0040F82CA9D6B000116FE0 /* AllOoneDataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040F72CA9D6B000116FE0 /* AllOoneDataStructure.swift */; };
+		8F0040FA2CAA6C7E00116FE0 /* DesignaStackWithIncrementOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040F92CAA6C7E00116FE0 /* DesignaStackWithIncrementOperation.swift */; };
 		8F0326F22B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */; };
 		8F0327142B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327132B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift */; };
 		8F0327162B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */; };
@@ -944,6 +945,7 @@
 		8F0040E02CA3D61000116FE0 /* SumofPrefixScoresofStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumofPrefixScoresofStrings.swift; sourceTree = "<group>"; };
 		8F0040EC2CA69B2C00116FE0 /* MyCalendarII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarII.swift; sourceTree = "<group>"; };
 		8F0040F72CA9D6B000116FE0 /* AllOoneDataStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllOoneDataStructure.swift; sourceTree = "<group>"; };
+		8F0040F92CAA6C7E00116FE0 /* DesignaStackWithIncrementOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignaStackWithIncrementOperation.swift; sourceTree = "<group>"; };
 		8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOneBitOperationsToMakeIntegersZero.swift; sourceTree = "<group>"; };
 		8F0327132B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindWordsThatCanBeFormedByCharacters.swift; sourceTree = "<group>"; };
 		8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeVisitingAllPoints.swift; sourceTree = "<group>"; };
@@ -2773,6 +2775,7 @@
 				8F0040E02CA3D61000116FE0 /* SumofPrefixScoresofStrings.swift */,
 				8F0040EC2CA69B2C00116FE0 /* MyCalendarII.swift */,
 				8F0040F72CA9D6B000116FE0 /* AllOoneDataStructure.swift */,
+				8F0040F92CAA6C7E00116FE0 /* DesignaStackWithIncrementOperation.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3236,6 +3239,7 @@
 				8FF7C9662BE0B89E00A1AFD7 /* NumberofWonderfulSubstrings.swift in Sources */,
 				8FB9B4732A0BBF3A0073424E /* MinimumSizeSubarraySum.swift in Sources */,
 				8FB9B4892A0BBF410073424E /* DiameterOfBinaryTree.swift in Sources */,
+				8F0040FA2CAA6C7E00116FE0 /* DesignaStackWithIncrementOperation.swift in Sources */,
 				8FB9B3B92A0BBECA0073424E /* MaxTableCell.swift in Sources */,
 				8FB9B44E2A0BBF340073424E /* AsFarFromLandAsPossible.swift in Sources */,
 				8FB9B5242A0BBF4E0073424E /* InsertDeleteGetRandom.swift in Sources */,

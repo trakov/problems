@@ -1,1 +1,1 @@
-AllOoneDataStructure().tests()
+DesignaStackWithIncrementOperation().tests()
