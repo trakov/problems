@@ -1,1 +1,1 @@
-DesignaStackWithIncrementOperation().tests()
+CheckIfArrayPairsAreDivisiblebyk().tests()

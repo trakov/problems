@@ -24,6 +24,7 @@
 		8F0040ED2CA69B2C00116FE0 /* MyCalendarII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040EC2CA69B2C00116FE0 /* MyCalendarII.swift */; };
 		8F0040F82CA9D6B000116FE0 /* AllOoneDataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040F72CA9D6B000116FE0 /* AllOoneDataStructure.swift */; };
 		8F0040FA2CAA6C7E00116FE0 /* DesignaStackWithIncrementOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040F92CAA6C7E00116FE0 /* DesignaStackWithIncrementOperation.swift */; };
+		8F0040FC2CABBF4900116FE0 /* CheckIfArrayPairsAreDivisiblebyk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0040FB2CABBF4900116FE0 /* CheckIfArrayPairsAreDivisiblebyk.swift */; };
 		8F0326F22B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */; };
 		8F0327142B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327132B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift */; };
 		8F0327162B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */; };
@@ -946,6 +947,7 @@
 		8F0040EC2CA69B2C00116FE0 /* MyCalendarII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarII.swift; sourceTree = "<group>"; };
 		8F0040F72CA9D6B000116FE0 /* AllOoneDataStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllOoneDataStructure.swift; sourceTree = "<group>"; };
 		8F0040F92CAA6C7E00116FE0 /* DesignaStackWithIncrementOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignaStackWithIncrementOperation.swift; sourceTree = "<group>"; };
+		8F0040FB2CABBF4900116FE0 /* CheckIfArrayPairsAreDivisiblebyk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfArrayPairsAreDivisiblebyk.swift; sourceTree = "<group>"; };
 		8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOneBitOperationsToMakeIntegersZero.swift; sourceTree = "<group>"; };
 		8F0327132B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindWordsThatCanBeFormedByCharacters.swift; sourceTree = "<group>"; };
 		8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeVisitingAllPoints.swift; sourceTree = "<group>"; };
@@ -2776,6 +2778,7 @@
 				8F0040EC2CA69B2C00116FE0 /* MyCalendarII.swift */,
 				8F0040F72CA9D6B000116FE0 /* AllOoneDataStructure.swift */,
 				8F0040F92CAA6C7E00116FE0 /* DesignaStackWithIncrementOperation.swift */,
+				8F0040FB2CABBF4900116FE0 /* CheckIfArrayPairsAreDivisiblebyk.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3699,6 +3702,7 @@
 				8FB9B5252A0BBF540073424E /* PathSum.swift in Sources */,
 				8FF5A4992B07309200C11D6D /* MinimizeMaximumPairSumInArray.swift in Sources */,
 				8FFE0F0D2C2A94BF00EDC564 /* BinarySearchTreetoGreaterSumTree.swift in Sources */,
+				8F0040FC2CABBF4900116FE0 /* CheckIfArrayPairsAreDivisiblebyk.swift in Sources */,
 				8FB9B4ED2A0BBF480073424E /* RemoveNthNodeFromEndOfList.swift in Sources */,
 				8FF20BF12C8318F5002C9D49 /* LongestIncreasingSubsequenceII.swift in Sources */,
 				8FB9B45B2A0BBF340073424E /* BitwiseANDOfNumbersRange.swift in Sources */,
