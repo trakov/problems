@@ -1,1 +1,1 @@
-CheckIfArrayPairsAreDivisiblebyk().tests()
+RankTransformofanArray().tests()
