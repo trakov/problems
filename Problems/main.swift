@@ -1,1 +1,1 @@
-RankTransformofanArray().tests()
+MakeSumDivisiblebyP().tests()
