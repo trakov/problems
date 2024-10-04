@@ -1,1 +1,1 @@
-MakeSumDivisiblebyP().tests()
+DividePlayersIntoTeamsofEqualSkill().tests()
