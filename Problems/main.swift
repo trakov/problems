@@ -1,1 +1,1 @@
-DividePlayersIntoTeamsofEqualSkill().tests()
+SentenceSimilarityIII().tests()
