@@ -1,1 +1,1 @@
-SentenceSimilarityIII().tests()
+MinimumStringLengthAfterRemovingSubstrings().tests()
