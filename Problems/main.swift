@@ -1,1 +1,1 @@
-MinimumStringLengthAfterRemovingSubstrings().tests()
+MinimumNumberofSwapstoMaketheStringBalanced().tests()
