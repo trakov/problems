@@ -1,1 +1,1 @@
-MinimumNumberofSwapstoMaketheStringBalanced().tests()
+MaximumWidthRamp().tests()
