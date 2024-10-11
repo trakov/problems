@@ -1,1 +1,1 @@
-MaximumWidthRamp().tests()
+TheNumberoftheSmallestUnoccupiedChair().tests()
