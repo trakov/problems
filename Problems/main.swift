@@ -1,1 +1,1 @@
-TheNumberoftheSmallestUnoccupiedChair().tests()
+DivideIntervalsIntoMinimumNumberofGroups().tests()
