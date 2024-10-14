@@ -1,1 +1,1 @@
-SmallestRangeCoveringElementsFromKLists().tests()
+MaximalScoreAfterApplyingKOperations().tests()
