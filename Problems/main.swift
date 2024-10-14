@@ -1,1 +1,1 @@
-DivideIntervalsIntoMinimumNumberofGroups().tests()
+SmallestRangeCoveringElementsFromKLists().tests()
