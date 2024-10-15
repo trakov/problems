@@ -1,1 +1,1 @@
-MaximalScoreAfterApplyingKOperations().tests()
+SeparateBlackandWhiteBalls().tests()
