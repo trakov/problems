@@ -1,1 +1,1 @@
-SeparateBlackandWhiteBalls().tests()
+LongestHappyString().tests()
