@@ -1,1 +1,1 @@
-LongestHappyString().tests()
+CountNumberofMaximumBitwiseORSubsets().tests()
