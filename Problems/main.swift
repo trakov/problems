@@ -1,1 +1,1 @@
-CountNumberofMaximumBitwiseORSubsets().tests()
+FindKthBitinNthBinaryString().tests()
