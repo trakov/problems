@@ -1,1 +1,1 @@
-FindKthBitinNthBinaryString().tests()
+ParsingABooleanExpression().tests()
