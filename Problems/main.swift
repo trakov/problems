@@ -1,1 +1,1 @@
-ParsingABooleanExpression().tests()
+SplitaStringIntotheMaxNumberofUniqueSubstrings().tests()
