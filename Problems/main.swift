@@ -1,1 +1,1 @@
-FlipEquivalentBinaryTrees().tests()
+RemoveSubFoldersfromtheFilesystem().tests()
