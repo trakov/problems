@@ -1,1 +1,1 @@
-RemoveSubFoldersfromtheFilesystem().tests()
+HeightofBinaryTreeAfterSubtreeRemovalQueries().tests()
