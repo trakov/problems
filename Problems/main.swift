@@ -1,1 +1,1 @@
-HeightofBinaryTreeAfterSubtreeRemovalQueries().tests()
+CountSquareSubmatriceswithAllOnes().tests()
