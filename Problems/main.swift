@@ -1,1 +1,1 @@
-CountSquareSubmatriceswithAllOnes().tests()
+LongestSquareStreakinanArray().tests()
