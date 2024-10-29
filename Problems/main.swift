@@ -1,1 +1,1 @@
-LongestSquareStreakinanArray().tests()
+MaximumNumberofMovesinaGrid().tests()
