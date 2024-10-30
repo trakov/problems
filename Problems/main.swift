@@ -1,1 +1,1 @@
-MaximumNumberofMovesinaGrid().tests()
+MinimumNumberofRemovalstoMakeMountainArray().tests()
