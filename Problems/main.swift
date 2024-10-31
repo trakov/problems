@@ -1,1 +1,1 @@
-MinimumNumberofRemovalstoMakeMountainArray().tests()
+MinimumTotalDistanceTraveled().tests()
