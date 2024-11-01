@@ -1,1 +1,1 @@
-MinimumTotalDistanceTraveled().tests()
+DeleteCharacterstoMakeFancyString().tests()
