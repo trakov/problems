@@ -1,1 +1,1 @@
-DeleteCharacterstoMakeFancyString().tests()
+CircularSentence().tests()
