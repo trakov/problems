@@ -1,1 +1,1 @@
-CircularSentence().tests()
+RotateString().tests()
