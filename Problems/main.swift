@@ -1,1 +1,1 @@
-RotateString().tests()
+StringCompressionIII().tests()
