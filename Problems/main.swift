@@ -1,1 +1,1 @@
-StringCompressionIII().tests()
+MinimumNumberofChangestoMakeBinaryStringBeautiful().tests()
