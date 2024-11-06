@@ -1,1 +1,1 @@
-MinimumNumberofChangestoMakeBinaryStringBeautiful().tests()
+FindifArrayCanBeSorted().tests()
