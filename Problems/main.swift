@@ -1,1 +1,1 @@
-LargestCombinationWithBitwiseANDGreaterThanZero().tests()
+MaximumXORforEachQuery().tests()
