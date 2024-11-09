@@ -1,1 +1,1 @@
-MaximumXORforEachQuery().tests()
+MinimumArrayEnd().tests()
