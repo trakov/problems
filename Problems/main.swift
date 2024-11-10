@@ -1,1 +1,1 @@
-MinimumArrayEnd().tests()
+ShortestSubarrayWithORatLeastKII().tests()
