@@ -1,1 +1,1 @@
-ShortestSubarrayWithORatLeastKII().tests()
+PrimeSubtractionOperation().tests()
