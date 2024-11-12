@@ -1,1 +1,1 @@
-PrimeSubtractionOperation().tests()
+MostBeautifulItemforEachQuery().tests()
