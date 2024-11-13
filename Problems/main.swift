@@ -1,1 +1,1 @@
-MostBeautifulItemforEachQuery().tests()
+CounttheNumberofFairPairs().tests()
