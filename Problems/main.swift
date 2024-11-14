@@ -1,1 +1,1 @@
-CounttheNumberofFairPairs().tests()
+MinimizedMaximumofProductsDistributedtoAnyStore().tests()
