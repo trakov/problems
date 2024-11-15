@@ -1,1 +1,1 @@
-MinimizedMaximumofProductsDistributedtoAnyStore().tests()
+ShortestSubarraytobeRemovedtoMakeArraySorted().tests()
