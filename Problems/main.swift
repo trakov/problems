@@ -1,1 +1,1 @@
-DefusetheBomb().tests()
+MaximumSumofDistinctSubarraysWithLengthK().tests()
