@@ -1,1 +1,1 @@
-MaximumSumofDistinctSubarraysWithLengthK().tests()
+TakeKofEachCharacterFromLeftandRight().tests()
