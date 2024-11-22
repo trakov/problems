@@ -1,1 +1,1 @@
-CountUnguardedCellsintheGrid().tests()
+FlipColumnsForMaximumNumberofEqualRows().tests()

@@ -755,6 +755,7 @@
 		8FC7AC4A2CEC599A00D51E25 /* MaximumSumofDistinctSubarraysWithLengthK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC7AC492CEC599A00D51E25 /* MaximumSumofDistinctSubarraysWithLengthK.swift */; };
 		8FC7AC4C2CEDB70500D51E25 /* TakeKofEachCharacterFromLeftandRight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC7AC4B2CEDB70500D51E25 /* TakeKofEachCharacterFromLeftandRight.swift */; };
 		8FC7AC4E2CEEFCBE00D51E25 /* CountUnguardedCellsintheGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC7AC4D2CEEFCBE00D51E25 /* CountUnguardedCellsintheGrid.swift */; };
+		8FC7AC522CF041BC00D51E25 /* FlipColumnsForMaximumNumberofEqualRows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC7AC512CF041BC00D51E25 /* FlipColumnsForMaximumNumberofEqualRows.swift */; };
 		8FC7B97F2BA011A90036C9F8 /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC7B97E2BA011A90036C9F8 /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */; };
 		8FC7B9812BA16B570036C9F8 /* FindThePivotInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC7B9802BA16B570036C9F8 /* FindThePivotInteger.swift */; };
 		8FC7B9832BA2C6DF0036C9F8 /* BinarySubarraysWithSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC7B9822BA2C6DF0036C9F8 /* BinarySubarraysWithSum.swift */; };
@@ -1538,6 +1539,7 @@
 		8FC7AC492CEC599A00D51E25 /* MaximumSumofDistinctSubarraysWithLengthK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSumofDistinctSubarraysWithLengthK.swift; sourceTree = "<group>"; };
 		8FC7AC4B2CEDB70500D51E25 /* TakeKofEachCharacterFromLeftandRight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TakeKofEachCharacterFromLeftandRight.swift; sourceTree = "<group>"; };
 		8FC7AC4D2CEEFCBE00D51E25 /* CountUnguardedCellsintheGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUnguardedCellsintheGrid.swift; sourceTree = "<group>"; };
+		8FC7AC512CF041BC00D51E25 /* FlipColumnsForMaximumNumberofEqualRows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipColumnsForMaximumNumberofEqualRows.swift; sourceTree = "<group>"; };
 		8FC7B97E2BA011A90036C9F8 /* RemoveZeroSumConsecutiveNodesFromLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeroSumConsecutiveNodesFromLinkedList.swift; sourceTree = "<group>"; };
 		8FC7B9802BA16B570036C9F8 /* FindThePivotInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindThePivotInteger.swift; sourceTree = "<group>"; };
 		8FC7B9822BA2C6DF0036C9F8 /* BinarySubarraysWithSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySubarraysWithSum.swift; sourceTree = "<group>"; };
@@ -2920,6 +2922,7 @@
 				8FC7AC492CEC599A00D51E25 /* MaximumSumofDistinctSubarraysWithLengthK.swift */,
 				8FC7AC4B2CEDB70500D51E25 /* TakeKofEachCharacterFromLeftandRight.swift */,
 				8FC7AC4D2CEEFCBE00D51E25 /* CountUnguardedCellsintheGrid.swift */,
+				8FC7AC512CF041BC00D51E25 /* FlipColumnsForMaximumNumberofEqualRows.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3547,6 +3550,7 @@
 				8FB9B57E2A0BBF5A0073424E /* RemoveInvalidParentheses.swift in Sources */,
 				8FF20BE72C7C5383002C9D49 /* NaryTreePostorderTraversal.swift in Sources */,
 				8F0327182B1DA07E005950E1 /* Largest3SameDigitNumberInString.swift in Sources */,
+				8FC7AC522CF041BC00D51E25 /* FlipColumnsForMaximumNumberofEqualRows.swift in Sources */,
 				8F8F1EAA2B8DA841007B818E /* LargestRectangleInHistogram.swift in Sources */,
 				8FED94792B9AF66100E55D4C /* CountElementsWithMaximumFrequency.swift in Sources */,
 				8F1EBF7E2B3AA1AA00E76A95 /* NumberOfDiceRollsWithTargetSum.swift in Sources */,
