@@ -1,1 +1,1 @@
-FlipColumnsForMaximumNumberofEqualRows().tests()
+RotatingtheBox().tests()
