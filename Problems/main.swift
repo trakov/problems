@@ -1,1 +1,1 @@
-MaximumMatrixSum().tests()
+SlidingPuzzle().tests()
