@@ -1,1 +1,1 @@
-SlidingPuzzle().tests()
+FindChampionII().tests()

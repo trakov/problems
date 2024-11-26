@@ -64,6 +64,7 @@
 		8F0D54872B66212B00BD6498 /* NumberOfSubmatricesThatSumToTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0D54862B66212A00BD6498 /* NumberOfSubmatricesThatSumToTarget.swift */; };
 		8F0E18BB2AB04E1900EAEC3B /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0E18BA2AB04E1900EAEC3B /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift */; };
 		8F0E18BD2AB182C600EAEC3B /* Candy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0E18BC2AB182C600EAEC3B /* Candy.swift */; };
+		8F1354352CF586B4008541D5 /* FindChampionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1354342CF586B4008541D5 /* FindChampionII.swift */; };
 		8F152B722B6CBF8A00AE5C87 /* SequentialDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F152B712B6CBF8A00AE5C87 /* SequentialDigits.swift */; };
 		8F152B742B70CD0D00AE5C87 /* PartitionArrayForMaximumSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F152B732B70CD0D00AE5C87 /* PartitionArrayForMaximumSum.swift */; };
 		8F1EBF552B2F48D100E76A95 /* DesignAFoodRatingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF542B2F48D100E76A95 /* DesignAFoodRatingSystem.swift */; };
@@ -1079,6 +1080,7 @@
 		8F12A5182930A1CD00C57837 /* Devices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Devices.swift; sourceTree = "<group>"; };
 		8F12A5202930C6A000C57837 /* Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Words.swift; sourceTree = "<group>"; };
 		8F12A5222930E58600C57837 /* SumOfSubarrayMinimums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfSubarrayMinimums.swift; sourceTree = "<group>"; };
+		8F1354342CF586B4008541D5 /* FindChampionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindChampionII.swift; sourceTree = "<group>"; };
 		8F152B712B6CBF8A00AE5C87 /* SequentialDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequentialDigits.swift; sourceTree = "<group>"; };
 		8F152B732B70CD0D00AE5C87 /* PartitionArrayForMaximumSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArrayForMaximumSum.swift; sourceTree = "<group>"; };
 		8F1EBF542B2F48D100E76A95 /* DesignAFoodRatingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAFoodRatingSystem.swift; sourceTree = "<group>"; };
@@ -2932,6 +2934,7 @@
 				8F8694F02CF211A300442604 /* RotatingtheBox.swift */,
 				8F8694F22CF380FA00442604 /* MaximumMatrixSum.swift */,
 				8F8694F42CF434C100442604 /* SlidingPuzzle.swift */,
+				8F1354342CF586B4008541D5 /* FindChampionII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3575,6 +3578,7 @@
 				8FB1A54A2C13BA2300CD2F8F /* ReplaceWords.swift in Sources */,
 				8FB9B4AE2A0BBF410073424E /* LexicographicallySmallestEquivalentString.swift in Sources */,
 				8FB1A5462C110DD800CD2F8F /* FindCommonCharacters.swift in Sources */,
+				8F1354352CF586B4008541D5 /* FindChampionII.swift in Sources */,
 				8FFE0EFD2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift in Sources */,
 				8FB9B3E72A0BBF280073424E /* SimplifyPath.swift in Sources */,
 				8FE9D6932CE1CE230043A0AC /* PrimeSubtractionOperation.swift in Sources */,
