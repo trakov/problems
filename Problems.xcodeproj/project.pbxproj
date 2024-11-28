@@ -724,6 +724,7 @@
 		8FBDAC282AFB520E009335A3 /* DetermineIfACellIsReachableAtAGivenTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC272AFB520E009335A3 /* DetermineIfACellIsReachableAtAGivenTime.swift */; };
 		8FBDAC2A2AFC97A4009335A3 /* CountNumberOfHomogenousSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC292AFC97A4009335A3 /* CountNumberOfHomogenousSubstrings.swift */; };
 		8FBDAC342AFDF558009335A3 /* RestoreTheArrayFromAdjacentPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC332AFDF558009335A3 /* RestoreTheArrayFromAdjacentPairs.swift */; };
+		8FC057C42CF8351500CAF1D4 /* MinimumObstacleRemovaltoReachCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC057C32CF8351500CAF1D4 /* MinimumObstacleRemovaltoReachCorner.swift */; };
 		8FC102862A3C370E005E8289 /* NumberOfWaysToReorderArrayToGetSameBST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC102852A3C370E005E8289 /* NumberOfWaysToReorderArrayToGetSameBST.swift */; };
 		8FC1028C2A3E3A7F005E8289 /* MakeArrayStrictlyIncreasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC1028B2A3E3A7F005E8289 /* MakeArrayStrictlyIncreasing.swift */; };
 		8FC1028E2A3F2E96005E8289 /* NumberOfIncreasingPathsInAGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC1028D2A3F2E96005E8289 /* NumberOfIncreasingPathsInAGrid.swift */; };
@@ -1501,6 +1502,7 @@
 		8FC01F5829A8A42D0086CDB9 /* WordBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak.swift; sourceTree = "<group>"; };
 		8FC01F5A29A8B6DB0086CDB9 /* DeleteOperationForTwoStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteOperationForTwoStrings.swift; sourceTree = "<group>"; };
 		8FC01F5C29A8C0BA0086CDB9 /* NumberOfLongestIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLongestIncreasingSubsequence.swift; sourceTree = "<group>"; };
+		8FC057C32CF8351500CAF1D4 /* MinimumObstacleRemovaltoReachCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumObstacleRemovaltoReachCorner.swift; sourceTree = "<group>"; };
 		8FC102852A3C370E005E8289 /* NumberOfWaysToReorderArrayToGetSameBST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfWaysToReorderArrayToGetSameBST.swift; sourceTree = "<group>"; };
 		8FC1028B2A3E3A7F005E8289 /* MakeArrayStrictlyIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeArrayStrictlyIncreasing.swift; sourceTree = "<group>"; };
 		8FC1028D2A3F2E96005E8289 /* NumberOfIncreasingPathsInAGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIncreasingPathsInAGrid.swift; sourceTree = "<group>"; };
@@ -2935,6 +2937,7 @@
 				8F8694F22CF380FA00442604 /* MaximumMatrixSum.swift */,
 				8F8694F42CF434C100442604 /* SlidingPuzzle.swift */,
 				8F1354342CF586B4008541D5 /* FindChampionII.swift */,
+				8FC057C32CF8351500CAF1D4 /* MinimumObstacleRemovaltoReachCorner.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3795,6 +3798,7 @@
 				8FB9B4E22A0BBF480073424E /* CheckIfItIsAStraightLine.swift in Sources */,
 				8FB9B57B2A0BBF5A0073424E /* ValidPalindrome.swift in Sources */,
 				8FB9B46F2A0BBF3A0073424E /* ShortestPathInBinaryMatrix.swift in Sources */,
+				8FC057C42CF8351500CAF1D4 /* MinimumObstacleRemovaltoReachCorner.swift in Sources */,
 				8FB9B4532A0BBF340073424E /* DeleteOperationForTwoStrings.swift in Sources */,
 				8FB9B4182A0BBF2E0073424E /* MinimumJumpsToReachHome.swift in Sources */,
 				8FB9B4702A0BBF3A0073424E /* FindTheTownJudge.swift in Sources */,

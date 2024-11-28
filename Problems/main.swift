@@ -1,1 +1,1 @@
-FindChampionII().tests()
+MinimumObstacleRemovaltoReachCorner().tests()
