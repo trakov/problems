@@ -1,1 +1,1 @@
-MinimumObstacleRemovaltoReachCorner().tests()
+MinimumTimetoVisitaCellInaGrid().tests()
