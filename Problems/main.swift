@@ -1,1 +1,1 @@
-MinimumTimetoVisitaCellInaGrid().tests()
+ValidArrangementofPairs().tests()
