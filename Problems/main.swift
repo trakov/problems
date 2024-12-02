@@ -1,1 +1,1 @@
-ValidArrangementofPairs().tests()
+CheckIfaWordOccursAsaPrefixofAnyWordinaSentence().tests()
