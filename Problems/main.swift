@@ -1,1 +1,1 @@
-CheckIfaWordOccursAsaPrefixofAnyWordinaSentence().tests()
+AddingSpacestoaString().tests()
