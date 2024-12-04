@@ -1,1 +1,1 @@
-AddingSpacestoaString().tests()
+MakeStringaSubsequenceUsingCyclicIncrements().tests()
