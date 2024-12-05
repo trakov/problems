@@ -1,1 +1,1 @@
-MakeStringaSubsequenceUsingCyclicIncrements().tests()
+MovePiecestoObtainaString().tests()
