@@ -1,1 +1,1 @@
-MaximumNumberofIntegerstoChooseFromaRangeI().tests()
+MinimumLimitofBallsinaBag().tests()
