@@ -1,1 +1,1 @@
-MinimumLimitofBallsinaBag().tests()
+TwoBestNonOverlappingEvents().tests()
