@@ -1,1 +1,1 @@
-SpecialArrayII().tests()
+FindLongestSpecialSubstringThatOccursThriceI().tests()
