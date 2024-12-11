@@ -1,1 +1,1 @@
-FindLongestSpecialSubstringThatOccursThriceI().tests()
+MaximumBeautyofanArrayAfterApplyingOperation().tests()
