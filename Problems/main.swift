@@ -1,1 +1,1 @@
-MaximumBeautyofanArrayAfterApplyingOperation().tests()
+TakeGiftsFromtheRichestPile().tests()
