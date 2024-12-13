@@ -1,1 +1,1 @@
-TakeGiftsFromtheRichestPile().tests()
+FindScoreofanArrayAfterMarkingAllElements().tests()
