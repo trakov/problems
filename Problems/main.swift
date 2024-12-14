@@ -1,1 +1,1 @@
-FindScoreofanArrayAfterMarkingAllElements().tests()
+ContinuousSubarrays().tests()
