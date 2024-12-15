@@ -1,1 +1,1 @@
-ContinuousSubarrays().tests()
+MaximumAveragePassRatio().tests()
