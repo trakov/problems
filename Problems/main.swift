@@ -1,1 +1,1 @@
-MaximumAveragePassRatio().tests()
+ConstructStringWithRepeatLimit().tests()
