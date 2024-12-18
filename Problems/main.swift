@@ -1,1 +1,1 @@
-ConstructStringWithRepeatLimit().tests()
+FinalPricesWithaSpecialDiscountinaShop().tests()
