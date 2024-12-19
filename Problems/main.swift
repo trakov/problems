@@ -1,1 +1,1 @@
-FinalPricesWithaSpecialDiscountinaShop().tests()
+MaxChunksToMakeSorted().tests()
