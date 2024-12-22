@@ -1,1 +1,1 @@
-MaximumNumberofKDivisibleComponents().tests()
+FindBuildingWhereAliceandBobCanMeet().tests()
