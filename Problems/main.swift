@@ -1,1 +1,1 @@
-FindBuildingWhereAliceandBobCanMeet().tests()
+MinimumNumberofOperationstoSortaBinaryTreebyLevel().tests()
