@@ -1,1 +1,1 @@
-MinimumNumberofOperationstoSortaBinaryTreebyLevel().tests()
+FindMinimumDiameterAfterMergingTwoTrees().tests()

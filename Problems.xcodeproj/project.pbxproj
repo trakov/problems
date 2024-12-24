@@ -128,6 +128,7 @@
 		8F5C73412D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73402D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift */; };
 		8F5C73432D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73422D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift */; };
 		8F5C73452D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73442D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift */; };
+		8F5C73492D1A63DD003CE491 /* FindMinimumDiameterAfterMergingTwoTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73482D1A63DD003CE491 /* FindMinimumDiameterAfterMergingTwoTrees.swift */; };
 		8F5DE2DE2C8F283D00008D19 /* RegularExpressionMatching.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5DE2DD2C8F283D00008D19 /* RegularExpressionMatching.swift */; };
 		8F5DE2E02C901A6200008D19 /* InsertGreatestCommonDivisorsinLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5DE2DF2C901A6200008D19 /* InsertGreatestCommonDivisorsinLinkedList.swift */; };
 		8F5DE2E22C91734A00008D19 /* MinimumBitFlipstoConvertNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5DE2E12C91734A00008D19 /* MinimumBitFlipstoConvertNumber.swift */; };
@@ -1190,6 +1191,7 @@
 		8F5C73402D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofKDivisibleComponents.swift; sourceTree = "<group>"; };
 		8F5C73422D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindBuildingWhereAliceandBobCanMeet.swift; sourceTree = "<group>"; };
 		8F5C73442D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift; sourceTree = "<group>"; };
+		8F5C73482D1A63DD003CE491 /* FindMinimumDiameterAfterMergingTwoTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumDiameterAfterMergingTwoTrees.swift; sourceTree = "<group>"; };
 		8F5DE2DD2C8F283D00008D19 /* RegularExpressionMatching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegularExpressionMatching.swift; sourceTree = "<group>"; };
 		8F5DE2DF2C901A6200008D19 /* InsertGreatestCommonDivisorsinLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertGreatestCommonDivisorsinLinkedList.swift; sourceTree = "<group>"; };
 		8F5DE2E12C91734A00008D19 /* MinimumBitFlipstoConvertNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumBitFlipstoConvertNumber.swift; sourceTree = "<group>"; };
@@ -3007,6 +3009,7 @@
 				8F5C73402D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift */,
 				8F5C73422D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift */,
 				8F5C73442D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift */,
+				8F5C73482D1A63DD003CE491 /* FindMinimumDiameterAfterMergingTwoTrees.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3224,6 +3227,7 @@
 				8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */,
 				8F4111422AD6355C001E0804 /* NumberOfFlowersInFullBloom.swift in Sources */,
 				8FF7C95B2BDCF63F00A1AFD7 /* FreedomTrail.swift in Sources */,
+				8F5C73492D1A63DD003CE491 /* FindMinimumDiameterAfterMergingTwoTrees.swift in Sources */,
 				8FC102AF2A4FFFF7005E8289 /* FairDistributionOfCookies.swift in Sources */,
 				8F0D54852B6501F800BD6498 /* KInversePairsArray.swift in Sources */,
 				8FB9B4462A0BBF340073424E /* IPO.swift in Sources */,
