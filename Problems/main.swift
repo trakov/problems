@@ -1,1 +1,1 @@
-FindMinimumDiameterAfterMergingTwoTrees().tests()
+BestSightseeingPair().tests()
