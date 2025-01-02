@@ -1,1 +1,1 @@
-BestSightseeingPair().tests()
+CountVowelStringsinRanges().tests()
