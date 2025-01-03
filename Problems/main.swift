@@ -1,1 +1,1 @@
-CountVowelStringsinRanges().tests()
+NumberofWaystoSplitArray().tests()
