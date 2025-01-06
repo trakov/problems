@@ -1,1 +1,1 @@
-ShiftingLettersII().tests()
+MinimumNumberofOperationstoMoveAllBallstoEachBox().tests()
