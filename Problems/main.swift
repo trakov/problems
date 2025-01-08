@@ -1,1 +1,1 @@
-StringMatchinginanArray().tests()
+CountPrefixandSuffixPairsI().tests()
