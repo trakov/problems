@@ -1,1 +1,1 @@
-CountPrefixandSuffixPairsI().tests()
+CountingWordsWithaGivenPrefix().tests()
