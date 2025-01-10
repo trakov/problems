@@ -1,1 +1,1 @@
-CountingWordsWithaGivenPrefix().tests()
+WordSubsets().tests()
