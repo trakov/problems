@@ -1,1 +1,1 @@
-WordSubsets().tests()
+ConstructKPalindromeStrings().tests()
