@@ -1,1 +1,1 @@
-ConstructKPalindromeStrings().tests()
+CheckifaParenthesesStringCanBeValid().tests()
