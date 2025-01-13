@@ -1,1 +1,1 @@
-CheckifaParenthesesStringCanBeValid().tests()
+MinimumLengthofStringAfterOperations().tests()
