@@ -1,1 +1,1 @@
-MinimumLengthofStringAfterOperations().tests()
+FindthePrefixCommonArrayofTwoArrays().tests()
