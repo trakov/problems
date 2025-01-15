@@ -1,1 +1,1 @@
-FindthePrefixCommonArrayofTwoArrays().tests()
+MinimizeXOR().tests()
