@@ -1,1 +1,1 @@
-MinimizeXOR().tests()
+BitwiseXORofAllPairings().tests()
