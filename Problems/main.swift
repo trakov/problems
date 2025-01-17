@@ -1,1 +1,1 @@
-BitwiseXORofAllPairings().tests()
+NeighboringBitwiseXOR().tests()
