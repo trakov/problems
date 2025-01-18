@@ -1,1 +1,1 @@
-NeighboringBitwiseXOR().tests()
+MinimumCosttoMakeatLeastOneValidPathinaGrid().tests()
