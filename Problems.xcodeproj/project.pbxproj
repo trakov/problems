@@ -192,6 +192,7 @@
 		8F8EB7602D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75F2D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift */; };
 		8F8EB7642D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB7632D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift */; };
 		8F8EB7662D3C262100DFD2D3 /* MinimumCosttoMakeatLeastOneValidPathinaGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB7652D3C262100DFD2D3 /* MinimumCosttoMakeatLeastOneValidPathinaGrid.swift */; };
+		8F8EB7682D3D50BA00DFD2D3 /* TrappingRainWaterII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB7672D3D50BA00DFD2D3 /* TrappingRainWaterII.swift */; };
 		8F8F1EA62B8A28F1007B818E /* FindAllPeopleWithSecret.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA52B8A28F1007B818E /* FindAllPeopleWithSecret.swift */; };
 		8F8F1EA82B8B389B007B818E /* GreatestCommonDivisorTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA72B8B389B007B818E /* GreatestCommonDivisorTraversal.swift */; };
 		8F8F1EAA2B8DA841007B818E /* LargestRectangleInHistogram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8F1EA92B8DA841007B818E /* LargestRectangleInHistogram.swift */; };
@@ -1401,6 +1402,7 @@
 		8F8EB75F2D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitwiseXORofAllPairings.swift; sourceTree = "<group>"; };
 		8F8EB7632D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeighboringBitwiseXOR.swift; sourceTree = "<group>"; };
 		8F8EB7652D3C262100DFD2D3 /* MinimumCosttoMakeatLeastOneValidPathinaGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCosttoMakeatLeastOneValidPathinaGrid.swift; sourceTree = "<group>"; };
+		8F8EB7672D3D50BA00DFD2D3 /* TrappingRainWaterII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrappingRainWaterII.swift; sourceTree = "<group>"; };
 		8F8F1EA52B8A28F1007B818E /* FindAllPeopleWithSecret.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPeopleWithSecret.swift; sourceTree = "<group>"; };
 		8F8F1EA72B8B389B007B818E /* GreatestCommonDivisorTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreatestCommonDivisorTraversal.swift; sourceTree = "<group>"; };
 		8F8F1EA92B8DA841007B818E /* LargestRectangleInHistogram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestRectangleInHistogram.swift; sourceTree = "<group>"; };
@@ -3061,6 +3063,7 @@
 				8F8EB75F2D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift */,
 				8F8EB7632D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift */,
 				8F8EB7652D3C262100DFD2D3 /* MinimumCosttoMakeatLeastOneValidPathinaGrid.swift */,
+				8F8EB7672D3D50BA00DFD2D3 /* TrappingRainWaterII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4023,6 +4026,7 @@
 				8FB9B4122A0BBF2E0073424E /* MinimumGeneticMutation.swift in Sources */,
 				8FFE0EFF2C2408A300EDC564 /* MagneticForceBetweenTwoBalls.swift in Sources */,
 				8FB9B4AF2A0BBF410073424E /* IntervalListIntersections.swift in Sources */,
+				8F8EB7682D3D50BA00DFD2D3 /* TrappingRainWaterII.swift in Sources */,
 				8FB9B5602A0BBF540073424E /* WordPattern.swift in Sources */,
 				8F9EA03B2A1C84580078FC86 /* KthLargestElementInAStream.swift in Sources */,
 				8F3303752BF895ED00E4C4F3 /* DistributeCoinsinBinaryTree.swift in Sources */,
