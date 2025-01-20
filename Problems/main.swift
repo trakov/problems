@@ -1,1 +1,1 @@
-TrappingRainWaterII().tests()
+FirstCompletelyPaintedRoworColumn().tests()
