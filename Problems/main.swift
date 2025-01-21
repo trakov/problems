@@ -1,1 +1,1 @@
-FirstCompletelyPaintedRoworColumn().tests()
+GridGame().tests()
