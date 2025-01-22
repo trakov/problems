@@ -1,1 +1,1 @@
-GridGame().tests()
+MapofHighestPeak().tests()

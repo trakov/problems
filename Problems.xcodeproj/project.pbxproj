@@ -820,6 +820,7 @@
 		8FCD6EAA2C6C74B900993277 /* FindKthSmallestPairDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD6EA92C6C74B900993277 /* FindKthSmallestPairDistance.swift */; };
 		8FD02B0B2AEA5FC1005924FD /* BinaryTreesWithFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD02B0A2AEA5FC1005924FD /* BinaryTreesWithFactors.swift */; };
 		8FD02B1A2AECF44E005924FD /* CountVowelsPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD02B192AECF44E005924FD /* CountVowelsPermutation.swift */; };
+		8FD112FC2D40F7FB00C645C5 /* MapofHighestPeak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD112FB2D40F7FB00C645C5 /* MapofHighestPeak.swift */; };
 		8FD44DEC2C54D9490096C210 /* MinimumCosttoConvertStringI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD44DEB2C54D9490096C210 /* MinimumCosttoConvertStringI.swift */; };
 		8FD44DEE2C54F9CB0096C210 /* BuildingsWithanOceanViewLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD44DED2C54F9CB0096C210 /* BuildingsWithanOceanViewLevel.swift */; };
 		8FD44DF02C5526840096C210 /* NumberofUnequalTripletsinArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD44DEF2C5526840096C210 /* NumberofUnequalTripletsinArray.swift */; };
@@ -1665,6 +1666,7 @@
 		8FD0C10F26B523B400B7505D /* TreeHeight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeHeight.swift; sourceTree = "<group>"; };
 		8FD0C11126B523BB00B7505D /* TreeHeight2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeHeight2.swift; sourceTree = "<group>"; };
 		8FD0C11226B523BB00B7505D /* TreeHeight3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeHeight3.swift; sourceTree = "<group>"; };
+		8FD112FB2D40F7FB00C645C5 /* MapofHighestPeak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapofHighestPeak.swift; sourceTree = "<group>"; };
 		8FD44DEB2C54D9490096C210 /* MinimumCosttoConvertStringI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCosttoConvertStringI.swift; sourceTree = "<group>"; };
 		8FD44DED2C54F9CB0096C210 /* BuildingsWithanOceanViewLevel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingsWithanOceanViewLevel.swift; sourceTree = "<group>"; };
 		8FD44DEF2C5526840096C210 /* NumberofUnequalTripletsinArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofUnequalTripletsinArray.swift; sourceTree = "<group>"; };
@@ -3070,6 +3072,7 @@
 				8F8EB7672D3D50BA00DFD2D3 /* TrappingRainWaterII.swift */,
 				8F8EB7692D3DC9E700DFD2D3 /* FirstCompletelyPaintedRoworColumn.swift */,
 				8F8EB76B2D3F752300DFD2D3 /* GridGame.swift */,
+				8FD112FB2D40F7FB00C645C5 /* MapofHighestPeak.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3633,6 +3636,7 @@
 				8FB9B4632A0BBF3A0073424E /* FindSmallestLetterGreaterThanTarget.swift in Sources */,
 				8FB9B4CD2A0BBF480073424E /* MaximumProductOfSplittedBinaryTree.swift in Sources */,
 				8FC102AD2A4E9DDA005E8289 /* LastDayWhereYouCanStillCross.swift in Sources */,
+				8FD112FC2D40F7FB00C645C5 /* MapofHighestPeak.swift in Sources */,
 				8FC102D52A5D2003005E8289 /* AllNodesDistanceKInBinaryTree.swift in Sources */,
 				8FF20BAB2C744CE1002C9D49 /* NestedListWeightSum.swift in Sources */,
 				8F0040D72C9C13C000116FE0 /* FindWinneronaTicTacToeGame.swift in Sources */,
