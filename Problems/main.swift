@@ -1,1 +1,1 @@
-MapofHighestPeak().tests()
+CountServersthatCommunicate().tests()
