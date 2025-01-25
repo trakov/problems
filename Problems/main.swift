@@ -1,1 +1,1 @@
-CountServersthatCommunicate().tests()
+MakeLexicographicallySmallestArraybySwappingElements().tests()
