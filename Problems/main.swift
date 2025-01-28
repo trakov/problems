@@ -1,1 +1,1 @@
-CourseScheduleIV().tests()
+MaximumNumberofFishinaGrid().tests()
