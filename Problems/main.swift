@@ -1,1 +1,1 @@
-MaximumNumberofFishinaGrid().tests()
+RedundantConnection().tests()
