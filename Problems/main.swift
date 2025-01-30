@@ -1,1 +1,1 @@
-RedundantConnection().tests()
+DivideNodesIntotheMaximumNumberofGroups().tests()
