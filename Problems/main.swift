@@ -1,1 +1,1 @@
-DivideNodesIntotheMaximumNumberofGroups().tests()
+SpecialArrayI().tests()

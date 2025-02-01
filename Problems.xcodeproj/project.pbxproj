@@ -67,6 +67,7 @@
 		8F0FBBC42D48A27000E4B9BE /* MaximumNumberofFishinaGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0FBBC32D48A26F00E4B9BE /* MaximumNumberofFishinaGrid.swift */; };
 		8F0FBBC82D4A5DA100E4B9BE /* RedundantConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0FBBC72D4A5DA100E4B9BE /* RedundantConnection.swift */; };
 		8F0FBBCC2D4B47FB00E4B9BE /* DivideNodesIntotheMaximumNumberofGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0FBBCB2D4B47FB00E4B9BE /* DivideNodesIntotheMaximumNumberofGroups.swift */; };
+		8F0FBBD42D4E3C9C00E4B9BE /* SpecialArrayI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0FBBD32D4E3C9C00E4B9BE /* SpecialArrayI.swift */; };
 		8F1354352CF586B4008541D5 /* FindChampionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1354342CF586B4008541D5 /* FindChampionII.swift */; };
 		8F152B722B6CBF8A00AE5C87 /* SequentialDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F152B712B6CBF8A00AE5C87 /* SequentialDigits.swift */; };
 		8F152B742B70CD0D00AE5C87 /* PartitionArrayForMaximumSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F152B732B70CD0D00AE5C87 /* PartitionArrayForMaximumSum.swift */; };
@@ -1123,6 +1124,7 @@
 		8F0FBBC32D48A26F00E4B9BE /* MaximumNumberofFishinaGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofFishinaGrid.swift; sourceTree = "<group>"; };
 		8F0FBBC72D4A5DA100E4B9BE /* RedundantConnection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedundantConnection.swift; sourceTree = "<group>"; };
 		8F0FBBCB2D4B47FB00E4B9BE /* DivideNodesIntotheMaximumNumberofGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideNodesIntotheMaximumNumberofGroups.swift; sourceTree = "<group>"; };
+		8F0FBBD32D4E3C9C00E4B9BE /* SpecialArrayI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialArrayI.swift; sourceTree = "<group>"; };
 		8F10D97726B90A0800B1BE12 /* ThreeSumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSumClosest.swift; sourceTree = "<group>"; };
 		8F12A506292CD0A900C57837 /* PerfectSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectSquares.swift; sourceTree = "<group>"; };
 		8F12A508292CF11F00C57837 /* ThirdMaximumNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdMaximumNumber.swift; sourceTree = "<group>"; };
@@ -3094,6 +3096,7 @@
 				8F0FBBC32D48A26F00E4B9BE /* MaximumNumberofFishinaGrid.swift */,
 				8F0FBBC72D4A5DA100E4B9BE /* RedundantConnection.swift */,
 				8F0FBBCB2D4B47FB00E4B9BE /* DivideNodesIntotheMaximumNumberofGroups.swift */,
+				8F0FBBD32D4E3C9C00E4B9BE /* SpecialArrayI.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3931,6 +3934,7 @@
 				8FF5A4A52B108E0B00C11D6D /* MaximumNumberOfCoinsYouCanGet.swift in Sources */,
 				8FB9B4F52A0BBF4E0073424E /* AssignCookies.swift in Sources */,
 				8F0E18BB2AB04E1900EAEC3B /* MinimumDeletionsToMakeCharacterFrequenciesUnique.swift in Sources */,
+				8F0FBBD42D4E3C9C00E4B9BE /* SpecialArrayI.swift in Sources */,
 				8FB9B4EE2A0BBF480073424E /* SortIntegersByTheNumberOf1Bits.swift in Sources */,
 				8FD44DF82C564C710096C210 /* ConvertBinarySearchTreetoSortedDoublyLinkedList.swift in Sources */,
 				8FF20BA72C7285A5002C9D49 /* UglyNumberII.swift in Sources */,
