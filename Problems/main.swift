@@ -1,1 +1,1 @@
-SpecialArrayI().tests()
+LongestStrictlyIncreasingorStrictlyDecreasingSubarray().tests()
