@@ -1,1 +1,1 @@
-LongestStrictlyIncreasingorStrictlyDecreasingSubarray().tests()
+MaximumAscendingSubarraySum().tests()
