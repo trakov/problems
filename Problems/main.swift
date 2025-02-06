@@ -1,1 +1,1 @@
-MaximumAscendingSubarraySum().tests()
+TuplewithSameProduct().tests()
