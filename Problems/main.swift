@@ -1,1 +1,1 @@
-TuplewithSameProduct().tests()
+FindtheNumberofDistinctColorsAmongtheBalls().tests()

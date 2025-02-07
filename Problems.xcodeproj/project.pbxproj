@@ -71,6 +71,7 @@
 		8F0FBBD62D508CF200E4B9BE /* LongestStrictlyIncreasingorStrictlyDecreasingSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0FBBD52D508CF200E4B9BE /* LongestStrictlyIncreasingorStrictlyDecreasingSubarray.swift */; };
 		8F0FBBD82D51DD6D00E4B9BE /* MaximumAscendingSubarraySum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0FBBD72D51DD6D00E4B9BE /* MaximumAscendingSubarraySum.swift */; };
 		8F0FBBDA2D54977000E4B9BE /* TuplewithSameProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0FBBD92D54977000E4B9BE /* TuplewithSameProduct.swift */; };
+		8F0FBBEA2D56197200E4B9BE /* FindtheNumberofDistinctColorsAmongtheBalls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0FBBE92D56197200E4B9BE /* FindtheNumberofDistinctColorsAmongtheBalls.swift */; };
 		8F1354352CF586B4008541D5 /* FindChampionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1354342CF586B4008541D5 /* FindChampionII.swift */; };
 		8F152B722B6CBF8A00AE5C87 /* SequentialDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F152B712B6CBF8A00AE5C87 /* SequentialDigits.swift */; };
 		8F152B742B70CD0D00AE5C87 /* PartitionArrayForMaximumSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F152B732B70CD0D00AE5C87 /* PartitionArrayForMaximumSum.swift */; };
@@ -1131,6 +1132,7 @@
 		8F0FBBD52D508CF200E4B9BE /* LongestStrictlyIncreasingorStrictlyDecreasingSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestStrictlyIncreasingorStrictlyDecreasingSubarray.swift; sourceTree = "<group>"; };
 		8F0FBBD72D51DD6D00E4B9BE /* MaximumAscendingSubarraySum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAscendingSubarraySum.swift; sourceTree = "<group>"; };
 		8F0FBBD92D54977000E4B9BE /* TuplewithSameProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuplewithSameProduct.swift; sourceTree = "<group>"; };
+		8F0FBBE92D56197200E4B9BE /* FindtheNumberofDistinctColorsAmongtheBalls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheNumberofDistinctColorsAmongtheBalls.swift; sourceTree = "<group>"; };
 		8F10D97726B90A0800B1BE12 /* ThreeSumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeSumClosest.swift; sourceTree = "<group>"; };
 		8F12A506292CD0A900C57837 /* PerfectSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectSquares.swift; sourceTree = "<group>"; };
 		8F12A508292CF11F00C57837 /* ThirdMaximumNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdMaximumNumber.swift; sourceTree = "<group>"; };
@@ -3106,6 +3108,7 @@
 				8F0FBBD52D508CF200E4B9BE /* LongestStrictlyIncreasingorStrictlyDecreasingSubarray.swift */,
 				8F0FBBD72D51DD6D00E4B9BE /* MaximumAscendingSubarraySum.swift */,
 				8F0FBBD92D54977000E4B9BE /* TuplewithSameProduct.swift */,
+				8F0FBBE92D56197200E4B9BE /* FindtheNumberofDistinctColorsAmongtheBalls.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3976,6 +3979,7 @@
 				8FB9B5262A0BBF540073424E /* SingleNumber2.swift in Sources */,
 				8FB9B4E92A0BBF480073424E /* InsertIntoABinarySearchTree.swift in Sources */,
 				8FB1A5442C0E5B1C00CD2F8F /* AppendCharacterstoStringtoMakeSubsequence.swift in Sources */,
+				8F0FBBEA2D56197200E4B9BE /* FindtheNumberofDistinctColorsAmongtheBalls.swift in Sources */,
 				8F6B6E8F2C4E34B300A639F6 /* SortthePeople.swift in Sources */,
 				8FE06D392D095B4900CEDF86 /* MaximumBeautyofanArrayAfterApplyingOperation.swift in Sources */,
 				8F8694F32CF380FA00442604 /* MaximumMatrixSum.swift in Sources */,
