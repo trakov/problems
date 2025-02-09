@@ -1,1 +1,1 @@
-DesignaNumberContainerSystem().tests()
+CountNumberofBadPairs().tests()
