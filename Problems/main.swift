@@ -1,1 +1,1 @@
-CountNumberofBadPairs().tests()
+ClearDigits().tests()
