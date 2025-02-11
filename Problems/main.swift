@@ -1,1 +1,1 @@
-ClearDigits().tests()
+RemoveAllOccurrencesofaSubstring().tests()
