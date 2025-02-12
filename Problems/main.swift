@@ -1,1 +1,1 @@
-RemoveAllOccurrencesofaSubstring().tests()
+MaxSumofaPairWithEqualSumofDigits().tests()
