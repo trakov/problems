@@ -222,6 +222,14 @@
 		8F9091652AE7761A00FAFD84 /* FindLargestValueInEachTreeRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9091642AE7761A00FAFD84 /* FindLargestValueInEachTreeRow.swift */; };
 		8F9091682AE8DD1600FAFD84 /* KthSymbolInGrammar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9091672AE8DD1600FAFD84 /* KthSymbolInGrammar.swift */; };
 		8F91DC992D5CD22800967792 /* MaxSumofaPairWithEqualSumofDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F91DC982D5CD22800967792 /* MaxSumofaPairWithEqualSumofDigits.swift */; };
+		8F91DC9B2D5DCA8A00967792 /* MinimumOperationstoExceedThresholdValueII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F91DC9A2D5DCA8A00967792 /* MinimumOperationstoExceedThresholdValueII.swift */; };
+		8F91DC9D2D5DD01100967792 /* BitCollections in Frameworks */ = {isa = PBXBuildFile; productRef = 8F91DC9C2D5DD01100967792 /* BitCollections */; };
+		8F91DC9F2D5DD01100967792 /* Collections in Frameworks */ = {isa = PBXBuildFile; productRef = 8F91DC9E2D5DD01100967792 /* Collections */; };
+		8F91DCA12D5DD01100967792 /* DequeModule in Frameworks */ = {isa = PBXBuildFile; productRef = 8F91DCA02D5DD01100967792 /* DequeModule */; };
+		8F91DCA32D5DD01100967792 /* HashTreeCollections in Frameworks */ = {isa = PBXBuildFile; productRef = 8F91DCA22D5DD01100967792 /* HashTreeCollections */; };
+		8F91DCA52D5DD01100967792 /* HeapModule in Frameworks */ = {isa = PBXBuildFile; productRef = 8F91DCA42D5DD01100967792 /* HeapModule */; };
+		8F91DCA72D5DD01100967792 /* OrderedCollections in Frameworks */ = {isa = PBXBuildFile; productRef = 8F91DCA62D5DD01100967792 /* OrderedCollections */; };
+		8F91DCA92D5DD01100967792 /* _RopeModule in Frameworks */ = {isa = PBXBuildFile; productRef = 8F91DCA82D5DD01100967792 /* _RopeModule */; };
 		8F9446B52CB7A5FE00E64087 /* MaximumWidthRamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9446B42CB7A5FE00E64087 /* MaximumWidthRamp.swift */; };
 		8F956B612B6B761700506E00 /* DivideArrayIntoArraysWithMaxDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F956B602B6B761700506E00 /* DivideArrayIntoArraysWithMaxDifference.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
@@ -1452,6 +1460,7 @@
 		8F9091642AE7761A00FAFD84 /* FindLargestValueInEachTreeRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLargestValueInEachTreeRow.swift; sourceTree = "<group>"; };
 		8F9091672AE8DD1600FAFD84 /* KthSymbolInGrammar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthSymbolInGrammar.swift; sourceTree = "<group>"; };
 		8F91DC982D5CD22800967792 /* MaxSumofaPairWithEqualSumofDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxSumofaPairWithEqualSumofDigits.swift; sourceTree = "<group>"; };
+		8F91DC9A2D5DCA8A00967792 /* MinimumOperationstoExceedThresholdValueII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoExceedThresholdValueII.swift; sourceTree = "<group>"; };
 		8F9446B42CB7A5FE00E64087 /* MaximumWidthRamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWidthRamp.swift; sourceTree = "<group>"; };
 		8F956B602B6B761700506E00 /* DivideArrayIntoArraysWithMaxDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideArrayIntoArraysWithMaxDifference.swift; sourceTree = "<group>"; };
 		8F9C9AC92757F00400CA1FF0 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
@@ -2076,6 +2085,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F91DC9F2D5DD01100967792 /* Collections in Frameworks */,
+				8F91DCA52D5DD01100967792 /* HeapModule in Frameworks */,
+				8F91DCA72D5DD01100967792 /* OrderedCollections in Frameworks */,
+				8F91DC9D2D5DD01100967792 /* BitCollections in Frameworks */,
+				8F91DCA32D5DD01100967792 /* HashTreeCollections in Frameworks */,
+				8F91DCA12D5DD01100967792 /* DequeModule in Frameworks */,
+				8F91DCA92D5DD01100967792 /* _RopeModule in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3124,6 +3140,7 @@
 				8F3D72DD2D59DD68007E7625 /* ClearDigits.swift */,
 				8F3D72DF2D5B03CA007E7625 /* RemoveAllOccurrencesofaSubstring.swift */,
 				8F91DC982D5CD22800967792 /* MaxSumofaPairWithEqualSumofDigits.swift */,
+				8F91DC9A2D5DCA8A00967792 /* MinimumOperationstoExceedThresholdValueII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4221,6 +4238,7 @@
 				8FF63D7E2CB8F70D0061ED24 /* TheNumberoftheSmallestUnoccupiedChair.swift in Sources */,
 				8F41113C2AD0DB2C001E0804 /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift in Sources */,
 				8FED94732B958DB200E55D4C /* BagOfTokens.swift in Sources */,
+				8F91DC9B2D5DCA8A00967792 /* MinimumOperationstoExceedThresholdValueII.swift in Sources */,
 				8FB9B41F2A0BBF2E0073424E /* RangeSumQuery2DImmutable.swift in Sources */,
 				8FB9B49D2A0BBF410073424E /* SearchInRotatedSortedArray.swift in Sources */,
 				8FF20BCB2C787B69002C9D49 /* ToeplitzMatrix.swift in Sources */,
@@ -4411,10 +4429,48 @@
 			repositoryURL = "https://github.com/apple/swift-collections.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 1.1.2;
+				minimumVersion = 1.1.4;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8F91DC9C2D5DD01100967792 /* BitCollections */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = BitCollections;
+		};
+		8F91DC9E2D5DD01100967792 /* Collections */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = Collections;
+		};
+		8F91DCA02D5DD01100967792 /* DequeModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = DequeModule;
+		};
+		8F91DCA22D5DD01100967792 /* HashTreeCollections */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = HashTreeCollections;
+		};
+		8F91DCA42D5DD01100967792 /* HeapModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = HeapModule;
+		};
+		8F91DCA62D5DD01100967792 /* OrderedCollections */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = OrderedCollections;
+		};
+		8F91DCA82D5DD01100967792 /* _RopeModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = _RopeModule;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 8FD0C0E426B506A000B7505D /* Project object */;
 }
