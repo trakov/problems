@@ -1,1 +1,1 @@
-MinimumOperationstoExceedThresholdValueII().tests()
+ProductoftheLastKNumbers().tests()
