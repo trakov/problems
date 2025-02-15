@@ -1,1 +1,1 @@
-ProductoftheLastKNumbers().tests()
+FindthePunishmentNumberofanInteger().tests()
