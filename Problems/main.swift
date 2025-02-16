@@ -1,1 +1,1 @@
-FindthePunishmentNumberofanInteger().tests()
+ConstructtheLexicographicallyLargestValidSequence().tests()
