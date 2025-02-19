@@ -757,6 +757,7 @@
 		8FB9B59A2A0F76670073424E /* CountWaysToBuildGoodStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9B5992A0F76670073424E /* CountWaysToBuildGoodStrings.swift */; };
 		8FB9B59C2A10C4F90073424E /* MaximizeScoreAfterNOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9B59B2A10C4F90073424E /* MaximizeScoreAfterNOperations.swift */; };
 		8FB9B59E2A11F92C0073424E /* SwappingNodesInALinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9B59D2A11F92C0073424E /* SwappingNodesInALinkedList.swift */; };
+		8FB9BC292D667811003CA94C /* ThekthLexicographicalStringofAllHappyStringsofLengthn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9BC282D667810003CA94C /* ThekthLexicographicalStringofAllHappyStringsofLengthn.swift */; };
 		8FBDAC182AF0C49B009335A3 /* FindTheOriginalArrayOfPrefixXor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC172AF0C49B009335A3 /* FindTheOriginalArrayOfPrefixXor.swift */; };
 		8FBDAC1A2AF220A4009335A3 /* FindModeInBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC192AF220A4009335A3 /* FindModeInBinarySearchTree.swift */; };
 		8FBDAC1C2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC1B2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift */; };
@@ -1585,6 +1586,7 @@
 		8FB9B5992A0F76670073424E /* CountWaysToBuildGoodStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountWaysToBuildGoodStrings.swift; sourceTree = "<group>"; };
 		8FB9B59B2A10C4F90073424E /* MaximizeScoreAfterNOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeScoreAfterNOperations.swift; sourceTree = "<group>"; };
 		8FB9B59D2A11F92C0073424E /* SwappingNodesInALinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwappingNodesInALinkedList.swift; sourceTree = "<group>"; };
+		8FB9BC282D667810003CA94C /* ThekthLexicographicalStringofAllHappyStringsofLengthn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThekthLexicographicalStringofAllHappyStringsofLengthn.swift; sourceTree = "<group>"; };
 		8FBBFA9F297673C8003BA1C7 /* FlipStringToMonotoneIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipStringToMonotoneIncreasing.swift; sourceTree = "<group>"; };
 		8FBBFAA1297689E6003BA1C7 /* SubtreeOfAnotherTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtreeOfAnotherTree.swift; sourceTree = "<group>"; };
 		8FBBFAA32976AFC6003BA1C7 /* CloneGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloneGraph.swift; sourceTree = "<group>"; };
@@ -3153,6 +3155,7 @@
 				8F91DCAE2D611C3300967792 /* FindthePunishmentNumberofanInteger.swift */,
 				8F91DCB02D61AD6600967792 /* ConstructtheLexicographicallyLargestValidSequence.swift */,
 				8F91DCB22D62EE9300967792 /* LetterTilePossibilities.swift */,
+				8FB9BC282D667810003CA94C /* ThekthLexicographicalStringofAllHappyStringsofLengthn.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3608,6 +3611,7 @@
 				8FF7C95D2BDF6A8700A1AFD7 /* MinimumNumberofOperationstoMakeArrayXOREqualtoK.swift in Sources */,
 				8FF029BA2A1F283600E1F3BB /* New21Game.swift in Sources */,
 				8FB9B5362A0BBF540073424E /* MostStonesRemovedWithSameRowOrColumn.swift in Sources */,
+				8FB9BC292D667811003CA94C /* ThekthLexicographicalStringofAllHappyStringsofLengthn.swift in Sources */,
 				8F8694F52CF434C100442604 /* SlidingPuzzle.swift in Sources */,
 				8FB9B56E2A0BBF5A0073424E /* TrappingRainWater.swift in Sources */,
 				8FF20BB72C752D46002C9D49 /* MovingAveragefromDataStream.swift in Sources */,

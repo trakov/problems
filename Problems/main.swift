@@ -1,1 +1,1 @@
-LetterTilePossibilities().tests()
+ThekthLexicographicalStringofAllHappyStringsofLengthn().tests()
