@@ -1,1 +1,1 @@
-ThekthLexicographicalStringofAllHappyStringsofLengthn().tests()
+ConstructSmallestNumberFromDIString().tests()
