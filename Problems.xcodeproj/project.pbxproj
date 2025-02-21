@@ -759,6 +759,7 @@
 		8FB9B59E2A11F92C0073424E /* SwappingNodesInALinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9B59D2A11F92C0073424E /* SwappingNodesInALinkedList.swift */; };
 		8FB9BC292D667811003CA94C /* ThekthLexicographicalStringofAllHappyStringsofLengthn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9BC282D667810003CA94C /* ThekthLexicographicalStringofAllHappyStringsofLengthn.swift */; };
 		8FB9BC2B2D66F33F003CA94C /* ConstructSmallestNumberFromDIString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9BC2A2D66F33F003CA94C /* ConstructSmallestNumberFromDIString.swift */; };
+		8FB9BC2D2D684597003CA94C /* FindElementsinaContaminatedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9BC2C2D684597003CA94C /* FindElementsinaContaminatedBinaryTree.swift */; };
 		8FBDAC182AF0C49B009335A3 /* FindTheOriginalArrayOfPrefixXor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC172AF0C49B009335A3 /* FindTheOriginalArrayOfPrefixXor.swift */; };
 		8FBDAC1A2AF220A4009335A3 /* FindModeInBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC192AF220A4009335A3 /* FindModeInBinarySearchTree.swift */; };
 		8FBDAC1C2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC1B2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift */; };
@@ -1589,6 +1590,7 @@
 		8FB9B59D2A11F92C0073424E /* SwappingNodesInALinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwappingNodesInALinkedList.swift; sourceTree = "<group>"; };
 		8FB9BC282D667810003CA94C /* ThekthLexicographicalStringofAllHappyStringsofLengthn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThekthLexicographicalStringofAllHappyStringsofLengthn.swift; sourceTree = "<group>"; };
 		8FB9BC2A2D66F33F003CA94C /* ConstructSmallestNumberFromDIString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructSmallestNumberFromDIString.swift; sourceTree = "<group>"; };
+		8FB9BC2C2D684597003CA94C /* FindElementsinaContaminatedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindElementsinaContaminatedBinaryTree.swift; sourceTree = "<group>"; };
 		8FBBFA9F297673C8003BA1C7 /* FlipStringToMonotoneIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipStringToMonotoneIncreasing.swift; sourceTree = "<group>"; };
 		8FBBFAA1297689E6003BA1C7 /* SubtreeOfAnotherTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtreeOfAnotherTree.swift; sourceTree = "<group>"; };
 		8FBBFAA32976AFC6003BA1C7 /* CloneGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloneGraph.swift; sourceTree = "<group>"; };
@@ -3159,6 +3161,7 @@
 				8F91DCB22D62EE9300967792 /* LetterTilePossibilities.swift */,
 				8FB9BC282D667810003CA94C /* ThekthLexicographicalStringofAllHappyStringsofLengthn.swift */,
 				8FB9BC2A2D66F33F003CA94C /* ConstructSmallestNumberFromDIString.swift */,
+				8FB9BC2C2D684597003CA94C /* FindElementsinaContaminatedBinaryTree.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3363,6 +3366,7 @@
 				8FE0EBAE2A29B40B006FC482 /* DetonateTheMaximumBombs.swift in Sources */,
 				8FB9B5412A0BBF540073424E /* AddDigits.swift in Sources */,
 				8FB9B56D2A0BBF5A0073424E /* Braces.swift in Sources */,
+				8FB9BC2D2D684597003CA94C /* FindElementsinaContaminatedBinaryTree.swift in Sources */,
 				8FB9B58D2A0BBF5A0073424E /* RemoveAllAdjacentDuplicates.swift in Sources */,
 				8F0040D32C9AAB3700116FE0 /* LargestNumber.swift in Sources */,
 				8FC102EF2A6508CD005E8289 /* AddTwoNumbersII.swift in Sources */,
