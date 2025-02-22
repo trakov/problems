@@ -1,1 +1,1 @@
-FindElementsinaContaminatedBinaryTree().tests()
+RecoveraTreeFromPreorderTraversal().tests()
