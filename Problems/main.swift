@@ -1,1 +1,1 @@
-RecoveraTreeFromPreorderTraversal().tests()
+ConstructBinaryTreeFromPreorderAndPostorderTraversal().tests()
