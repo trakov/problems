@@ -1,1 +1,1 @@
-ConstructBinaryTreeFromPreorderAndPostorderTraversal().tests()
+MostProfitablePathinaTree().tests()

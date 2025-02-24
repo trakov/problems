@@ -761,6 +761,7 @@
 		8FB9BC2B2D66F33F003CA94C /* ConstructSmallestNumberFromDIString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9BC2A2D66F33F003CA94C /* ConstructSmallestNumberFromDIString.swift */; };
 		8FB9BC2D2D684597003CA94C /* FindElementsinaContaminatedBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9BC2C2D684597003CA94C /* FindElementsinaContaminatedBinaryTree.swift */; };
 		8FB9BC2F2D69F69D003CA94C /* RecoveraTreeFromPreorderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9BC2E2D69F69D003CA94C /* RecoveraTreeFromPreorderTraversal.swift */; };
+		8FB9BC312D6C5846003CA94C /* MostProfitablePathinaTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB9BC302D6C5846003CA94C /* MostProfitablePathinaTree.swift */; };
 		8FBDAC182AF0C49B009335A3 /* FindTheOriginalArrayOfPrefixXor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC172AF0C49B009335A3 /* FindTheOriginalArrayOfPrefixXor.swift */; };
 		8FBDAC1A2AF220A4009335A3 /* FindModeInBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC192AF220A4009335A3 /* FindModeInBinarySearchTree.swift */; };
 		8FBDAC1C2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBDAC1B2AF380B1009335A3 /* CountNodesEqualToAverageOfSubtree.swift */; };
@@ -1593,6 +1594,7 @@
 		8FB9BC2A2D66F33F003CA94C /* ConstructSmallestNumberFromDIString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructSmallestNumberFromDIString.swift; sourceTree = "<group>"; };
 		8FB9BC2C2D684597003CA94C /* FindElementsinaContaminatedBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindElementsinaContaminatedBinaryTree.swift; sourceTree = "<group>"; };
 		8FB9BC2E2D69F69D003CA94C /* RecoveraTreeFromPreorderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecoveraTreeFromPreorderTraversal.swift; sourceTree = "<group>"; };
+		8FB9BC302D6C5846003CA94C /* MostProfitablePathinaTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostProfitablePathinaTree.swift; sourceTree = "<group>"; };
 		8FBBFA9F297673C8003BA1C7 /* FlipStringToMonotoneIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipStringToMonotoneIncreasing.swift; sourceTree = "<group>"; };
 		8FBBFAA1297689E6003BA1C7 /* SubtreeOfAnotherTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtreeOfAnotherTree.swift; sourceTree = "<group>"; };
 		8FBBFAA32976AFC6003BA1C7 /* CloneGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloneGraph.swift; sourceTree = "<group>"; };
@@ -3165,6 +3167,7 @@
 				8FB9BC2A2D66F33F003CA94C /* ConstructSmallestNumberFromDIString.swift */,
 				8FB9BC2C2D684597003CA94C /* FindElementsinaContaminatedBinaryTree.swift */,
 				8FB9BC2E2D69F69D003CA94C /* RecoveraTreeFromPreorderTraversal.swift */,
+				8FB9BC302D6C5846003CA94C /* MostProfitablePathinaTree.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3772,6 +3775,7 @@
 				8FB9B3D82A0BBF220073424E /* KthLargestElementInAnArray.swift in Sources */,
 				8FB9B4C72A0BBF480073424E /* LongestCommonSubsequence.swift in Sources */,
 				8F9E9FC02A1380450078FC86 /* DesignAuthenticationManager.swift in Sources */,
+				8FB9BC312D6C5846003CA94C /* MostProfitablePathinaTree.swift in Sources */,
 				8FB9B4252A0BBF2E0073424E /* NumberOfWaysOfCuttingAPizza.swift in Sources */,
 				8FB9B4292A0BBF2E0073424E /* DesignAddAndSearchWordsDataStructure.swift in Sources */,
 				8FF63D8E2CC62ACE0061ED24 /* SplitaStringIntotheMaxNumberofUniqueSubstrings.swift in Sources */,
