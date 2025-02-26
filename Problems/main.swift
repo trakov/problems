@@ -1,1 +1,1 @@
-NumberofSubarraysWithOddSum().tests()
+MaximumAbsoluteSumofAnySubarray().tests()
