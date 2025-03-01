@@ -1,1 +1,1 @@
-ShortestCommonSupersequence().tests()
+ApplyOperationstoanArray().tests()
