@@ -1,1 +1,1 @@
-MergeTwo2DArraysbySummingValues().tests()
+PartitionArrayAccordingtoGivenPivot().tests()
