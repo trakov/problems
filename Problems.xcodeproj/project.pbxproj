@@ -54,6 +54,7 @@
 		8F08BBC82D73902A0049E48D /* ApplyOperationstoanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F08BBC72D73902A0049E48D /* ApplyOperationstoanArray.swift */; };
 		8F08BBCA2D746D830049E48D /* MergeTwo2DArraysbySummingValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F08BBC92D746D820049E48D /* MergeTwo2DArraysbySummingValues.swift */; };
 		8F08BBCC2D7593790049E48D /* PartitionArrayAccordingtoGivenPivot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F08BBCB2D7593790049E48D /* PartitionArrayAccordingtoGivenPivot.swift */; };
+		8F08BBDD2D77084C0049E48D /* CheckifNumberisaSumofPowersofThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F08BBDC2D77084C0049E48D /* CheckifNumberisaSumofPowersofThree.swift */; };
 		8F0907D92AFF7C99003959BC /* DesignGraphWithShortestPathCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0907D82AFF7C99003959BC /* DesignGraphWithShortestPathCalculator.swift */; };
 		8F0907DB2B01E9BE003959BC /* SortVowelsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0907DA2B01E9BD003959BC /* SortVowelsInAString.swift */; };
 		8F0907DD2B033B95003959BC /* UniqueLength3PalindromicSubsequences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0907DC2B033B95003959BC /* UniqueLength3PalindromicSubsequences.swift */; };
@@ -1116,6 +1117,7 @@
 		8F08BBC72D73902A0049E48D /* ApplyOperationstoanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplyOperationstoanArray.swift; sourceTree = "<group>"; };
 		8F08BBC92D746D820049E48D /* MergeTwo2DArraysbySummingValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwo2DArraysbySummingValues.swift; sourceTree = "<group>"; };
 		8F08BBCB2D7593790049E48D /* PartitionArrayAccordingtoGivenPivot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArrayAccordingtoGivenPivot.swift; sourceTree = "<group>"; };
+		8F08BBDC2D77084C0049E48D /* CheckifNumberisaSumofPowersofThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifNumberisaSumofPowersofThree.swift; sourceTree = "<group>"; };
 		8F0907D82AFF7C99003959BC /* DesignGraphWithShortestPathCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignGraphWithShortestPathCalculator.swift; sourceTree = "<group>"; };
 		8F0907DA2B01E9BD003959BC /* SortVowelsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortVowelsInAString.swift; sourceTree = "<group>"; };
 		8F0907DC2B033B95003959BC /* UniqueLength3PalindromicSubsequences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueLength3PalindromicSubsequences.swift; sourceTree = "<group>"; };
@@ -3189,6 +3191,7 @@
 				8F08BBC72D73902A0049E48D /* ApplyOperationstoanArray.swift */,
 				8F08BBC92D746D820049E48D /* MergeTwo2DArraysbySummingValues.swift */,
 				8F08BBCB2D7593790049E48D /* PartitionArrayAccordingtoGivenPivot.swift */,
+				8F08BBDC2D77084C0049E48D /* CheckifNumberisaSumofPowersofThree.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4207,6 +4210,7 @@
 				8F08BBCC2D7593790049E48D /* PartitionArrayAccordingtoGivenPivot.swift in Sources */,
 				8FB9B5322A0BBF540073424E /* ValidPerfectSquare.swift in Sources */,
 				8FFA42E62C032B93008B4F03 /* StudentAttendanceRecordII.swift in Sources */,
+				8F08BBDD2D77084C0049E48D /* CheckifNumberisaSumofPowersofThree.swift in Sources */,
 				8FB9B4312A0BBF340073424E /* CapacityToShipPackagesWithinDDays.swift in Sources */,
 				8FB9B45F2A0BBF3A0073424E /* CourseScheduleII.swift in Sources */,
 				8F0FBBC42D48A27000E4B9BE /* MaximumNumberofFishinaGrid.swift in Sources */,

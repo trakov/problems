@@ -1,1 +1,1 @@
-PartitionArrayAccordingtoGivenPivot().tests()
+CheckifNumberisaSumofPowersofThree().tests()
