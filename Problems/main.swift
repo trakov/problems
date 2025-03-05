@@ -1,1 +1,1 @@
-CheckifNumberisaSumofPowersofThree().tests()
+CountTotalNumberofColoredCells().tests()
