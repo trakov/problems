@@ -1,1 +1,1 @@
-CountTotalNumberofColoredCells().tests()
+FindMissingandRepeatedValues().tests()
