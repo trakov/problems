@@ -865,6 +865,7 @@
 		8FD02B1A2AECF44E005924FD /* CountVowelsPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD02B192AECF44E005924FD /* CountVowelsPermutation.swift */; };
 		8FD112FC2D40F7FB00C645C5 /* MapofHighestPeak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD112FB2D40F7FB00C645C5 /* MapofHighestPeak.swift */; };
 		8FD438C62D7978F800E959C5 /* FindMissingandRepeatedValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD438C52D7978F800E959C5 /* FindMissingandRepeatedValues.swift */; };
+		8FD438C82D7AA53800E959C5 /* ClosestPrimeNumbersinRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD438C72D7AA53800E959C5 /* ClosestPrimeNumbersinRange.swift */; };
 		8FD44DEC2C54D9490096C210 /* MinimumCosttoConvertStringI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD44DEB2C54D9490096C210 /* MinimumCosttoConvertStringI.swift */; };
 		8FD44DEE2C54F9CB0096C210 /* BuildingsWithanOceanViewLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD44DED2C54F9CB0096C210 /* BuildingsWithanOceanViewLevel.swift */; };
 		8FD44DF02C5526840096C210 /* NumberofUnequalTripletsinArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD44DEF2C5526840096C210 /* NumberofUnequalTripletsinArray.swift */; };
@@ -1748,6 +1749,7 @@
 		8FD0C11226B523BB00B7505D /* TreeHeight3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeHeight3.swift; sourceTree = "<group>"; };
 		8FD112FB2D40F7FB00C645C5 /* MapofHighestPeak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapofHighestPeak.swift; sourceTree = "<group>"; };
 		8FD438C52D7978F800E959C5 /* FindMissingandRepeatedValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMissingandRepeatedValues.swift; sourceTree = "<group>"; };
+		8FD438C72D7AA53800E959C5 /* ClosestPrimeNumbersinRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosestPrimeNumbersinRange.swift; sourceTree = "<group>"; };
 		8FD44DEB2C54D9490096C210 /* MinimumCosttoConvertStringI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCosttoConvertStringI.swift; sourceTree = "<group>"; };
 		8FD44DED2C54F9CB0096C210 /* BuildingsWithanOceanViewLevel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingsWithanOceanViewLevel.swift; sourceTree = "<group>"; };
 		8FD44DEF2C5526840096C210 /* NumberofUnequalTripletsinArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofUnequalTripletsinArray.swift; sourceTree = "<group>"; };
@@ -3198,6 +3200,7 @@
 				8F08BBDC2D77084C0049E48D /* CheckifNumberisaSumofPowersofThree.swift */,
 				8F08BBDE2D78183C0049E48D /* CountTotalNumberofColoredCells.swift */,
 				8FD438C52D7978F800E959C5 /* FindMissingandRepeatedValues.swift */,
+				8FD438C72D7AA53800E959C5 /* ClosestPrimeNumbersinRange.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4214,6 +4217,7 @@
 				8FF20BE12C7B66BA002C9D49 /* DesignTicTacToe2.swift in Sources */,
 				8FB9B5812A0BBF5A0073424E /* RemoveElement.swift in Sources */,
 				8FD44E4F2C5DF9280096C210 /* MakeTwoArraysEqualbyReversingSubarrays.swift in Sources */,
+				8FD438C82D7AA53800E959C5 /* ClosestPrimeNumbersinRange.swift in Sources */,
 				8FB9B4412A0BBF340073424E /* NumberOfClosedIslands.swift in Sources */,
 				8F08BBCC2D7593790049E48D /* PartitionArrayAccordingtoGivenPivot.swift in Sources */,
 				8FB9B5322A0BBF540073424E /* ValidPerfectSquare.swift in Sources */,
