@@ -1,1 +1,1 @@
-ClosestPrimeNumbersinRange().tests()
+MinimumRecolorstoGetKConsecutiveBlackBlocks().tests()
