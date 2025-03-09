@@ -1,1 +1,1 @@
-MinimumRecolorstoGetKConsecutiveBlackBlocks().tests()
+AlternatingGroupsII().tests()
