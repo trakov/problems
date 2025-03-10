@@ -868,6 +868,7 @@
 		8FD438C82D7AA53800E959C5 /* ClosestPrimeNumbersinRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD438C72D7AA53800E959C5 /* ClosestPrimeNumbersinRange.swift */; };
 		8FD438CA2D7C5F9D00E959C5 /* MinimumRecolorstoGetKConsecutiveBlackBlocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD438C92D7C5F9D00E959C5 /* MinimumRecolorstoGetKConsecutiveBlackBlocks.swift */; };
 		8FD438CC2D7D777100E959C5 /* AlternatingGroupsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD438CB2D7D777100E959C5 /* AlternatingGroupsII.swift */; };
+		8FD438CE2D7F41C500E959C5 /* CountofSubstringsContainingEveryVowelandKConsonantsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD438CD2D7F41C500E959C5 /* CountofSubstringsContainingEveryVowelandKConsonantsII.swift */; };
 		8FD44DEC2C54D9490096C210 /* MinimumCosttoConvertStringI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD44DEB2C54D9490096C210 /* MinimumCosttoConvertStringI.swift */; };
 		8FD44DEE2C54F9CB0096C210 /* BuildingsWithanOceanViewLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD44DED2C54F9CB0096C210 /* BuildingsWithanOceanViewLevel.swift */; };
 		8FD44DF02C5526840096C210 /* NumberofUnequalTripletsinArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD44DEF2C5526840096C210 /* NumberofUnequalTripletsinArray.swift */; };
@@ -1754,6 +1755,7 @@
 		8FD438C72D7AA53800E959C5 /* ClosestPrimeNumbersinRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosestPrimeNumbersinRange.swift; sourceTree = "<group>"; };
 		8FD438C92D7C5F9D00E959C5 /* MinimumRecolorstoGetKConsecutiveBlackBlocks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumRecolorstoGetKConsecutiveBlackBlocks.swift; sourceTree = "<group>"; };
 		8FD438CB2D7D777100E959C5 /* AlternatingGroupsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternatingGroupsII.swift; sourceTree = "<group>"; };
+		8FD438CD2D7F41C500E959C5 /* CountofSubstringsContainingEveryVowelandKConsonantsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountofSubstringsContainingEveryVowelandKConsonantsII.swift; sourceTree = "<group>"; };
 		8FD44DEB2C54D9490096C210 /* MinimumCosttoConvertStringI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCosttoConvertStringI.swift; sourceTree = "<group>"; };
 		8FD44DED2C54F9CB0096C210 /* BuildingsWithanOceanViewLevel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingsWithanOceanViewLevel.swift; sourceTree = "<group>"; };
 		8FD44DEF2C5526840096C210 /* NumberofUnequalTripletsinArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofUnequalTripletsinArray.swift; sourceTree = "<group>"; };
@@ -3207,6 +3209,7 @@
 				8FD438C72D7AA53800E959C5 /* ClosestPrimeNumbersinRange.swift */,
 				8FD438C92D7C5F9D00E959C5 /* MinimumRecolorstoGetKConsecutiveBlackBlocks.swift */,
 				8FD438CB2D7D777100E959C5 /* AlternatingGroupsII.swift */,
+				8FD438CD2D7F41C500E959C5 /* CountofSubstringsContainingEveryVowelandKConsonantsII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3973,6 +3976,7 @@
 				8FB9B4E12A0BBF480073424E /* VerifyingAnAlienDictionary.swift in Sources */,
 				8FD02B0B2AEA5FC1005924FD /* BinaryTreesWithFactors.swift in Sources */,
 				8FB9B4172A0BBF2E0073424E /* MinimumNumberOfVerticesToReachAllNodes.swift in Sources */,
+				8FD438CE2D7F41C500E959C5 /* CountofSubstringsContainingEveryVowelandKConsonantsII.swift in Sources */,
 				8FB9B58B2A0BBF5A0073424E /* LongestSubstring.swift in Sources */,
 				8FB9B5422A0BBF540073424E /* PowerOfTwo.swift in Sources */,
 				8FB9B4F72A0BBF4E0073424E /* OddEvenLinkedList.swift in Sources */,
