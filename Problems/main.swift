@@ -1,1 +1,1 @@
-CountofSubstringsContainingEveryVowelandKConsonantsII().tests()
+NumberofSubstringsContainingAllThreeCharacters().tests()
