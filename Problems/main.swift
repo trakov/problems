@@ -1,1 +1,1 @@
-MaximumCandiesAllocatedtoKChildren().tests()
+HouseRobberIV().tests()
