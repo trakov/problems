@@ -1,1 +1,1 @@
-HouseRobberIV().tests()
+MinimumTimetoRepairCars().tests()
