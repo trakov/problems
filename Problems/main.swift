@@ -1,1 +1,1 @@
-MinimumTimetoRepairCars().tests()
+DivideArrayIntoEqualPairs().tests()
