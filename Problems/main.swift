@@ -1,1 +1,1 @@
-DivideArrayIntoEqualPairs().tests()
+LongestNiceSubarray().tests()
