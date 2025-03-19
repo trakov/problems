@@ -1,1 +1,1 @@
-LongestNiceSubarray().tests()
+MinimumOperationstoMakeBinaryArrayElementsEqualtoOneI().tests()
