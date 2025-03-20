@@ -1,1 +1,1 @@
-MinimumOperationstoMakeBinaryArrayElementsEqualtoOneI().tests()
+MinimumCostWalkinWeightedGraph().tests()
