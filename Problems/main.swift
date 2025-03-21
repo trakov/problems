@@ -1,1 +1,1 @@
-MinimumCostWalkinWeightedGraph().tests()
+FindAllPossibleRecipesfromGivenSupplies().tests()
