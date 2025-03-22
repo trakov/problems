@@ -1,1 +1,1 @@
-FindAllPossibleRecipesfromGivenSupplies().tests()
+CounttheNumberofCompleteComponents().tests()
