@@ -1,1 +1,1 @@
-CounttheNumberofCompleteComponents().tests()
+NumberofWaystoArriveatDestination().tests()
