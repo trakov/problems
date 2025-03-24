@@ -1,1 +1,1 @@
-NumberofWaystoArriveatDestination().tests()
+CountDaysWithoutMeetings().tests()
