@@ -1,1 +1,1 @@
-CountDaysWithoutMeetings().tests()
+CheckifGridcanbeCutintoSections().tests()
