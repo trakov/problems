@@ -1,1 +1,1 @@
-CheckifGridcanbeCutintoSections().tests()
+MinimumOperationstoMakeaUniValueGrid().tests()
