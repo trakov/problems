@@ -1,1 +1,1 @@
-MinimumOperationstoMakeaUniValueGrid().tests()
+MinimumIndexofaValidSplit().tests()
