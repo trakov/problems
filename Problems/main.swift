@@ -1,1 +1,1 @@
-MinimumIndexofaValidSplit().tests()
+MaximumNumberofPointsFromGridQueries().tests()
