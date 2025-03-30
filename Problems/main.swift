@@ -1,1 +1,1 @@
-MaximumNumberofPointsFromGridQueries().tests()
+ApplyOperationstoMaximizeScore().tests()
