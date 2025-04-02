@@ -1,1 +1,1 @@
-ApplyOperationstoMaximizeScore().tests()
+MaximumValueofanOrderedTripletI().tests()
