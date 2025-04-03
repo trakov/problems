@@ -1,1 +1,1 @@
-MaximumValueofanOrderedTripletI().tests()
+MaximumValueofanOrderedTripletII().tests()
