@@ -1,1 +1,1 @@
-MaximumValueofanOrderedTripletII().tests()
+MinimumNumberofOperationstoMakeElementsinArrayDistinct().tests()
