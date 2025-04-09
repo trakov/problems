@@ -252,6 +252,7 @@
 		8F9446B52CB7A5FE00E64087 /* MaximumWidthRamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9446B42CB7A5FE00E64087 /* MaximumWidthRamp.swift */; };
 		8F956B612B6B761700506E00 /* DivideArrayIntoArraysWithMaxDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F956B602B6B761700506E00 /* DivideArrayIntoArraysWithMaxDifference.swift */; };
 		8F9948C72DA54908007D982F /* MinimumNumberofOperationstoMakeElementsinArrayDistinct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948C62DA54908007D982F /* MinimumNumberofOperationstoMakeElementsinArrayDistinct.swift */; };
+		8F9948C92DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948C82DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -1528,6 +1529,7 @@
 		8F9446B42CB7A5FE00E64087 /* MaximumWidthRamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWidthRamp.swift; sourceTree = "<group>"; };
 		8F956B602B6B761700506E00 /* DivideArrayIntoArraysWithMaxDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideArrayIntoArraysWithMaxDifference.swift; sourceTree = "<group>"; };
 		8F9948C62DA54908007D982F /* MinimumNumberofOperationstoMakeElementsinArrayDistinct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofOperationstoMakeElementsinArrayDistinct.swift; sourceTree = "<group>"; };
+		8F9948C82DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMakeArrayValuesEqualtoK.swift; sourceTree = "<group>"; };
 		8F9C9AC92757F00400CA1FF0 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChange.swift; sourceTree = "<group>"; };
@@ -3276,6 +3278,7 @@
 				8F8BD1942D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift */,
 				8F8BD1962D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift */,
 				8F9948C62DA54908007D982F /* MinimumNumberofOperationstoMakeElementsinArrayDistinct.swift */,
+				8F9948C82DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4357,6 +4360,7 @@
 				8FB9B4CF2A0BBF480073424E /* Combinations.swift in Sources */,
 				8F7A0A4A2D92355800BB12BD /* CheckifGridcanbeCutintoSections.swift in Sources */,
 				8FB9B4A42A0BBF410073424E /* RemoveStonesToMinimizeTheTotal.swift in Sources */,
+				8F9948C92DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift in Sources */,
 				8FF20BD92C7A0AAF002C9D49 /* StringtoIntegeratoi.swift in Sources */,
 				8FB9B48F2A0BBF410073424E /* Trie.swift in Sources */,
 				8FB9B4612A0BBF3A0073424E /* LFUCache.swift in Sources */,

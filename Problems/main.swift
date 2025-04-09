@@ -1,1 +1,1 @@
-MinimumNumberofOperationstoMakeElementsinArrayDistinct().tests()
+MinimumOperationstoMakeArrayValuesEqualtoK().tests()
