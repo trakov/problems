@@ -1,1 +1,1 @@
-MinimumOperationstoMakeArrayValuesEqualtoK().tests()
+CounttheNumberofPowerfulIntegers().tests()
