@@ -1,1 +1,1 @@
-CounttheNumberofPowerfulIntegers().tests()
+CountSymmetricIntegers().tests()
