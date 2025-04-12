@@ -1,1 +1,1 @@
-CountSymmetricIntegers().tests()
+FindtheCountofGoodIntegers().tests()

@@ -255,6 +255,7 @@
 		8F9948C92DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948C82DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift */; };
 		8F9948D92DA80C9D007D982F /* CounttheNumberofPowerfulIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948D82DA80C9D007D982F /* CounttheNumberofPowerfulIntegers.swift */; };
 		8F9948DF2DA8A076007D982F /* CountSymmetricIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948DE2DA8A076007D982F /* CountSymmetricIntegers.swift */; };
+		8F9948EA2DAAC96A007D982F /* FindtheCountofGoodIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948E92DAAC96A007D982F /* FindtheCountofGoodIntegers.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -1534,6 +1535,7 @@
 		8F9948C82DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMakeArrayValuesEqualtoK.swift; sourceTree = "<group>"; };
 		8F9948D82DA80C9D007D982F /* CounttheNumberofPowerfulIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofPowerfulIntegers.swift; sourceTree = "<group>"; };
 		8F9948DE2DA8A076007D982F /* CountSymmetricIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSymmetricIntegers.swift; sourceTree = "<group>"; };
+		8F9948E92DAAC96A007D982F /* FindtheCountofGoodIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheCountofGoodIntegers.swift; sourceTree = "<group>"; };
 		8F9C9AC92757F00400CA1FF0 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChange.swift; sourceTree = "<group>"; };
@@ -3285,6 +3287,7 @@
 				8F9948C82DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift */,
 				8F9948D82DA80C9D007D982F /* CounttheNumberofPowerfulIntegers.swift */,
 				8F9948DE2DA8A076007D982F /* CountSymmetricIntegers.swift */,
+				8F9948E92DAAC96A007D982F /* FindtheCountofGoodIntegers.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3895,6 +3898,7 @@
 				8F03271E2B205F25005950E1 /* CalculateMoneyInLeetcodeBank.swift in Sources */,
 				8FFE0F172C32791400EDC564 /* ThreeConsecutiveOdds.swift in Sources */,
 				8FB9B51A2A0BBF4E0073424E /* NumberComplement.swift in Sources */,
+				8F9948EA2DAAC96A007D982F /* FindtheCountofGoodIntegers.swift in Sources */,
 				8FB9B5342A0BBF540073424E /* ConvertSortedArrayЕoBinarySearchTree.swift in Sources */,
 				8FB9B3CE2A0BBF220073424E /* FindTheLongestValidObstacleCourseAtEachPosition.swift in Sources */,
 				8FD5EA852ABC1A3800F47EDD /* MedianOfTwoSortedArrays.swift in Sources */,
