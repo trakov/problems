@@ -1,1 +1,1 @@
-FindtheCountofGoodIntegers().tests()
+CountGoodNumbers().tests()
