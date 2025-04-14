@@ -1,1 +1,1 @@
-CountGoodNumbers().tests()
+CountGoodTriplets().tests()
