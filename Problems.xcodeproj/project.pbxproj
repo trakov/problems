@@ -147,6 +147,7 @@
 		8F46BA3D2D476F2700C5D3AF /* CourseScheduleIV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F46BA3C2D476F2700C5D3AF /* CourseScheduleIV.swift */; };
 		8F4755512C4FE6F0000C94A8 /* SortArraybyIncreasingFrequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4755502C4FE6F0000C94A8 /* SortArraybyIncreasingFrequency.swift */; };
 		8F4755532C50BCDF000C94A8 /* SorttheJumbledNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4755522C50BCDF000C94A8 /* SorttheJumbledNumbers.swift */; };
+		8F5B59782DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */; };
 		8F5C73412D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73402D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift */; };
 		8F5C73432D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73422D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift */; };
 		8F5C73452D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73442D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift */; };
@@ -1307,6 +1308,7 @@
 		8F506B272753A51700AF30B7 /* MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroes.swift; sourceTree = "<group>"; };
 		8F51BBCF277708EA00A5C145 /* ValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome.swift; sourceTree = "<group>"; };
 		8F51BBD127770D3B00A5C145 /* ValidPalindrome2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome2.swift; sourceTree = "<group>"; };
+		8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTripletsinanArray.swift; sourceTree = "<group>"; };
 		8F5C73402D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofKDivisibleComponents.swift; sourceTree = "<group>"; };
 		8F5C73422D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindBuildingWhereAliceandBobCanMeet.swift; sourceTree = "<group>"; };
 		8F5C73442D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift; sourceTree = "<group>"; };
@@ -3294,6 +3296,7 @@
 				8F9948E92DAAC96A007D982F /* FindtheCountofGoodIntegers.swift */,
 				8F9948EB2DAB8908007D982F /* CountGoodNumbers.swift */,
 				8F9948ED2DACD7E3007D982F /* CountGoodTriplets.swift */,
+				8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3378,6 +3381,7 @@
 			files = (
 				8F1EBF552B2F48D100E76A95 /* DesignAFoodRatingSystem.swift in Sources */,
 				8F6B6E8D2C4CE65A00A639F6 /* BuildaMatrixWithConditions.swift in Sources */,
+				8F5B59782DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift in Sources */,
 				8F0BB7F52A75078B00A72248 /* SoupServings.swift in Sources */,
 				8F4111242AC3F4D5001E0804 /* DecodedStringAtIndex.swift in Sources */,
 				8FB9B49F2A0BBF410073424E /* TaskScheduler.swift in Sources */,

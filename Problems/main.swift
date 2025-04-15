@@ -1,1 +1,1 @@
-CountGoodTriplets().tests()
+CountGoodTripletsinanArray().tests()
