@@ -149,6 +149,7 @@
 		8F4755532C50BCDF000C94A8 /* SorttheJumbledNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4755522C50BCDF000C94A8 /* SorttheJumbledNumbers.swift */; };
 		8F5B59782DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */; };
 		8F5B597D2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */; };
+		8F5B597F2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */; };
 		8F5C73412D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73402D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift */; };
 		8F5C73432D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73422D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift */; };
 		8F5C73452D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C73442D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift */; };
@@ -1311,6 +1312,7 @@
 		8F51BBD127770D3B00A5C145 /* ValidPalindrome2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome2.swift; sourceTree = "<group>"; };
 		8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTripletsinanArray.swift; sourceTree = "<group>"; };
 		8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofGoodSubarrays.swift; sourceTree = "<group>"; };
+		8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountEqualandDivisiblePairsinanArray.swift; sourceTree = "<group>"; };
 		8F5C73402D17073C003CE491 /* MaximumNumberofKDivisibleComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofKDivisibleComponents.swift; sourceTree = "<group>"; };
 		8F5C73422D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindBuildingWhereAliceandBobCanMeet.swift; sourceTree = "<group>"; };
 		8F5C73442D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift; sourceTree = "<group>"; };
@@ -3300,6 +3302,7 @@
 				8F9948ED2DACD7E3007D982F /* CountGoodTriplets.swift */,
 				8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */,
 				8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */,
+				8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4308,6 +4311,7 @@
 				8FB9B3E92A0BBF280073424E /* MaximumValueOfKCoinsFromPiles.swift in Sources */,
 				8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */,
 				8FB9B4C22A0BBF480073424E /* ReverseWordsInAStringIII.swift in Sources */,
+				8F5B597F2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift in Sources */,
 				8FF20C052C8C7CD3002C9D49 /* MissingElementinSortedArray.swift in Sources */,
 				8FCD6EA82C6A981A00993277 /* AccountsMerge.swift in Sources */,
 				8FB9B48B2A0BBF410073424E /* CoinChange.swift in Sources */,

@@ -1,1 +1,1 @@
-CounttheNumberofGoodSubarrays().tests()
+CountEqualandDivisiblePairsinanArray().tests()
