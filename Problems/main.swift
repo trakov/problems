@@ -1,1 +1,1 @@
-CountEqualandDivisiblePairsinanArray().tests()
+RabbitsinForest().tests()
