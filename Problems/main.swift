@@ -1,1 +1,1 @@
-RabbitsinForest().tests()
+CounttheHiddenSequences().tests()
