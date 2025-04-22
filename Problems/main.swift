@@ -1,1 +1,1 @@
-CounttheHiddenSequences().tests()
+CounttheNumberofIdealArrays().tests()
