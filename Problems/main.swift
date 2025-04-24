@@ -1,1 +1,1 @@
-CountLargestGroup().tests()
+CountCompleteSubarraysinanArray().tests()
