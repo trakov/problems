@@ -1,1 +1,1 @@
-CountCompleteSubarraysinanArray().tests()
+CountofInterestingSubarrays().tests()
