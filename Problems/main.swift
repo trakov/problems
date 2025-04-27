@@ -1,1 +1,1 @@
-CountofInterestingSubarrays().tests()
+CountSubarraysofLengthThreeWithaCondition().tests()
