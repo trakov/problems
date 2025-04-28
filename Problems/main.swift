@@ -1,1 +1,1 @@
-CountSubarraysofLengthThreeWithaCondition().tests()
+CountSubarraysWithScoreLessThanK().tests()
