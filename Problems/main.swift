@@ -1,1 +1,1 @@
-PushDominoes().tests()
+MinimumDominoRotationsForEqualRow().tests()
