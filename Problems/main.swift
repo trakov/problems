@@ -1,1 +1,1 @@
-MaximumNumberofTasksYouCanAssign().tests()
+PushDominoes().tests()
