@@ -1,1 +1,1 @@
-MinimumDominoRotationsForEqualRow().tests()
+NumberofEquivalentDominoPairs().tests()
