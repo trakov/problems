@@ -1,1 +1,1 @@
-NumberofEquivalentDominoPairs().tests()
+DominoandTrominoTiling().tests()
