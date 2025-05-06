@@ -1,1 +1,1 @@
-DominoandTrominoTiling().tests()
+BuildArrayfromPermutation().tests()
