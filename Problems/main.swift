@@ -1,1 +1,1 @@
-BuildArrayfromPermutation().tests()
+FindMinimumTimetoReachLastRoomI().tests()
