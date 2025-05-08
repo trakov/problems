@@ -1,1 +1,1 @@
-FindMinimumTimetoReachLastRoomI().tests()
+FindMinimumTimetoReachLastRoomII().tests()
