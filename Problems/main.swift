@@ -1,1 +1,1 @@
-FindMinimumTimetoReachLastRoomII().tests()
+CountNumberofBalancedPermutations().tests()
