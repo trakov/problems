@@ -308,6 +308,7 @@
 		8FB584E52DCB28BC00CEE980 /* FindMinimumTimetoReachLastRoomI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB584E42DCB28BC00CEE980 /* FindMinimumTimetoReachLastRoomI.swift */; };
 		8FB584E72DCC6C5400CEE980 /* FindMinimumTimetoReachLastRoomII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB584E62DCC6C5400CEE980 /* FindMinimumTimetoReachLastRoomII.swift */; };
 		8FB584E92DCDDFC500CEE980 /* CountNumberofBalancedPermutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB584E82DCDDFC500CEE980 /* CountNumberofBalancedPermutations.swift */; };
+		8FB584EB2DCFA3DE00CEE980 /* MinimumEqualSumofTwoArraysAfterReplacingZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB584EA2DCFA3DE00CEE980 /* MinimumEqualSumofTwoArraysAfterReplacingZeros.swift */; };
 		8FB5F9182D95196A00A980C9 /* MinimumIndexofaValidSplit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB5F9172D95196A00A980C9 /* MinimumIndexofaValidSplit.swift */; };
 		8FB5F91B2D965A2D00A980C9 /* MaximumNumberofPointsFromGridQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB5F91A2D965A2D00A980C9 /* MaximumNumberofPointsFromGridQueries.swift */; };
 		8FB5F91D2D98BB9E00A980C9 /* ApplyOperationstoMaximizeScore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB5F91C2D98BB9D00A980C9 /* ApplyOperationstoMaximizeScore.swift */; };
@@ -1670,6 +1671,7 @@
 		8FB584E42DCB28BC00CEE980 /* FindMinimumTimetoReachLastRoomI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumTimetoReachLastRoomI.swift; sourceTree = "<group>"; };
 		8FB584E62DCC6C5400CEE980 /* FindMinimumTimetoReachLastRoomII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumTimetoReachLastRoomII.swift; sourceTree = "<group>"; };
 		8FB584E82DCDDFC500CEE980 /* CountNumberofBalancedPermutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofBalancedPermutations.swift; sourceTree = "<group>"; };
+		8FB584EA2DCFA3DE00CEE980 /* MinimumEqualSumofTwoArraysAfterReplacingZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumEqualSumofTwoArraysAfterReplacingZeros.swift; sourceTree = "<group>"; };
 		8FB5F9172D95196A00A980C9 /* MinimumIndexofaValidSplit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIndexofaValidSplit.swift; sourceTree = "<group>"; };
 		8FB5F91A2D965A2D00A980C9 /* MaximumNumberofPointsFromGridQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofPointsFromGridQueries.swift; sourceTree = "<group>"; };
 		8FB5F91C2D98BB9D00A980C9 /* ApplyOperationstoMaximizeScore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplyOperationstoMaximizeScore.swift; sourceTree = "<group>"; };
@@ -3357,6 +3359,7 @@
 				8FB584E42DCB28BC00CEE980 /* FindMinimumTimetoReachLastRoomI.swift */,
 				8FB584E62DCC6C5400CEE980 /* FindMinimumTimetoReachLastRoomII.swift */,
 				8FB584E82DCDDFC500CEE980 /* CountNumberofBalancedPermutations.swift */,
+				8FB584EA2DCFA3DE00CEE980 /* MinimumEqualSumofTwoArraysAfterReplacingZeros.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4147,6 +4150,7 @@
 				8FB9B4932A0BBF410073424E /* NumberOfProvinces.swift in Sources */,
 				8FB9B40F2A0BBF2E0073424E /* ScrambleString.swift in Sources */,
 				8FB9B3BC2A0BBECA0073424E /* TreeHeight.swift in Sources */,
+				8FB584EB2DCFA3DE00CEE980 /* MinimumEqualSumofTwoArraysAfterReplacingZeros.swift in Sources */,
 				8F6B6E852C47CC3500A639F6 /* DeleteNodesAndReturnForest.swift in Sources */,
 				8F0327162B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift in Sources */,
 				8F1EBF8C2B405D4800E76A95 /* RedistributeCharactersToMakeAllStringsEqual.swift in Sources */,

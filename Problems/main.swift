@@ -1,1 +1,1 @@
-CountNumberofBalancedPermutations().tests()
+MinimumEqualSumofTwoArraysAfterReplacingZeros().tests()
