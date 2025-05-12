@@ -1,1 +1,1 @@
-MinimumEqualSumofTwoArraysAfterReplacingZeros().tests()
+Finding3DigitEvenNumbers().tests()
