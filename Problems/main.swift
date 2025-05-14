@@ -1,1 +1,1 @@
-TotalCharactersinStringAfterTransformationsI().tests()
+TotalCharactersinStringAfterTransformationsII().tests()
