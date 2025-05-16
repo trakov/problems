@@ -1,1 +1,1 @@
-LongestUnequalAdjacentGroupsSubsequenceI().tests()
+LongestUnequalAdjacentGroupsSubsequenceII().tests()
