@@ -1,1 +1,1 @@
-LongestUnequalAdjacentGroupsSubsequenceII().tests()
+PaintingaGridWithThreeDifferentColors().tests()

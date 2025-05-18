@@ -202,6 +202,7 @@
 		8F737EBC2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */; };
 		8F737EBE2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */; };
 		8F737EC42DD71B6E0084DADC /* LongestUnequalAdjacentGroupsSubsequenceII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EC32DD71B6E0084DADC /* LongestUnequalAdjacentGroupsSubsequenceII.swift */; };
+		8F737EC82DD9BFE70084DADC /* PaintingaGridWithThreeDifferentColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EC72DD9BFE70084DADC /* PaintingaGridWithThreeDifferentColors.swift */; };
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
 		8F7A0A402D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A0A3F2D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift */; };
 		8F7A0A422D8CE62D00BB12BD /* FindAllPossibleRecipesfromGivenSupplies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A0A412D8CE62D00BB12BD /* FindAllPossibleRecipesfromGivenSupplies.swift */; };
@@ -1434,6 +1435,7 @@
 		8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCharactersinStringAfterTransformationsII.swift; sourceTree = "<group>"; };
 		8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUnequalAdjacentGroupsSubsequenceI.swift; sourceTree = "<group>"; };
 		8F737EC32DD71B6E0084DADC /* LongestUnequalAdjacentGroupsSubsequenceII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUnequalAdjacentGroupsSubsequenceII.swift; sourceTree = "<group>"; };
+		8F737EC72DD9BFE70084DADC /* PaintingaGridWithThreeDifferentColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintingaGridWithThreeDifferentColors.swift; sourceTree = "<group>"; };
 		8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelCoursesIII.swift; sourceTree = "<group>"; };
 		8F7A0A3F2D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostWalkinWeightedGraph.swift; sourceTree = "<group>"; };
 		8F7A0A412D8CE62D00BB12BD /* FindAllPossibleRecipesfromGivenSupplies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPossibleRecipesfromGivenSupplies.swift; sourceTree = "<group>"; };
@@ -3375,6 +3377,7 @@
 				8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */,
 				8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */,
 				8F737EC32DD71B6E0084DADC /* LongestUnequalAdjacentGroupsSubsequenceII.swift */,
+				8F737EC72DD9BFE70084DADC /* PaintingaGridWithThreeDifferentColors.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3551,6 +3554,7 @@
 				8FB9B5082A0BBF4E0073424E /* BinarySearch.swift in Sources */,
 				8FB9B44D2A0BBF340073424E /* SlidingWindowMaximum.swift in Sources */,
 				8FE9D6AF2CEB08DA0043A0AC /* DefusetheBomb.swift in Sources */,
+				8F737EC82DD9BFE70084DADC /* PaintingaGridWithThreeDifferentColors.swift in Sources */,
 				8F46BA3D2D476F2700C5D3AF /* CourseScheduleIV.swift in Sources */,
 				8F0907DD2B033B95003959BC /* UniqueLength3PalindromicSubsequences.swift in Sources */,
 				8FB9B5562A0BBF540073424E /* SingleNumber.swift in Sources */,
