@@ -1,1 +1,1 @@
-PaintingaGridWithThreeDifferentColors().tests()
+TypeofTriangle().tests()

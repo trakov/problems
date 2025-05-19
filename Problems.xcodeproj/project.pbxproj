@@ -203,6 +203,7 @@
 		8F737EBE2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */; };
 		8F737EC42DD71B6E0084DADC /* LongestUnequalAdjacentGroupsSubsequenceII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EC32DD71B6E0084DADC /* LongestUnequalAdjacentGroupsSubsequenceII.swift */; };
 		8F737EC82DD9BFE70084DADC /* PaintingaGridWithThreeDifferentColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EC72DD9BFE70084DADC /* PaintingaGridWithThreeDifferentColors.swift */; };
+		8F737ECA2DDB11F30084DADC /* TypeofTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EC92DDB11F30084DADC /* TypeofTriangle.swift */; };
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
 		8F7A0A402D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A0A3F2D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift */; };
 		8F7A0A422D8CE62D00BB12BD /* FindAllPossibleRecipesfromGivenSupplies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A0A412D8CE62D00BB12BD /* FindAllPossibleRecipesfromGivenSupplies.swift */; };
@@ -1436,6 +1437,7 @@
 		8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUnequalAdjacentGroupsSubsequenceI.swift; sourceTree = "<group>"; };
 		8F737EC32DD71B6E0084DADC /* LongestUnequalAdjacentGroupsSubsequenceII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUnequalAdjacentGroupsSubsequenceII.swift; sourceTree = "<group>"; };
 		8F737EC72DD9BFE70084DADC /* PaintingaGridWithThreeDifferentColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaintingaGridWithThreeDifferentColors.swift; sourceTree = "<group>"; };
+		8F737EC92DDB11F30084DADC /* TypeofTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeofTriangle.swift; sourceTree = "<group>"; };
 		8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelCoursesIII.swift; sourceTree = "<group>"; };
 		8F7A0A3F2D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostWalkinWeightedGraph.swift; sourceTree = "<group>"; };
 		8F7A0A412D8CE62D00BB12BD /* FindAllPossibleRecipesfromGivenSupplies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPossibleRecipesfromGivenSupplies.swift; sourceTree = "<group>"; };
@@ -3378,6 +3380,7 @@
 				8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */,
 				8F737EC32DD71B6E0084DADC /* LongestUnequalAdjacentGroupsSubsequenceII.swift */,
 				8F737EC72DD9BFE70084DADC /* PaintingaGridWithThreeDifferentColors.swift */,
+				8F737EC92DDB11F30084DADC /* TypeofTriangle.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4560,6 +4563,7 @@
 				8FF20BCB2C787B69002C9D49 /* ToeplitzMatrix.swift in Sources */,
 				8FB9B5632A0BBF540073424E /* PascalsTriangle.swift in Sources */,
 				8FB9B4C32A0BBF480073424E /* DailyTemperatures.swift in Sources */,
+				8F737ECA2DDB11F30084DADC /* TypeofTriangle.swift in Sources */,
 				8F9E9FF42A14AE580078FC86 /* MaximumTwinSumOfALinkedList.swift in Sources */,
 				8FD44DFA2C5662C60096C210 /* GroupShiftedStrings.swift in Sources */,
 				8FB9B4352A0BBF340073424E /* DecodeWays.swift in Sources */,
