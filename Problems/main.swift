@@ -1,1 +1,1 @@
-TypeofTriangle().tests()
+ZeroArrayTransformationI().tests()
