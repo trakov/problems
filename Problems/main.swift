@@ -1,1 +1,1 @@
-ZeroArrayTransformationI().tests()
+ZeroArrayTransformationIII().tests()
