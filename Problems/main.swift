@@ -1,1 +1,1 @@
-FindWordsContainingCharacter().tests()
+DivisibleandNondivisibleSumsDifference().tests()
