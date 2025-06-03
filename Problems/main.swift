@@ -1,1 +1,1 @@
-DistributeCandiesAmongChildrenII().tests()
+MaximumCandiesYouCanGetfromBoxes().tests()

@@ -199,6 +199,7 @@
 		8F6E2E402DE6E87B00D80D9C /* MaximizetheNumberofTargetNodesAfterConnectingTreesI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E3F2DE6E87B00D80D9C /* MaximizetheNumberofTargetNodesAfterConnectingTreesI.swift */; };
 		8F6E2E452DE83C9200D80D9C /* MaximizetheNumberofTargetNodesAfterConnectingTreesII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E442DE83C9200D80D9C /* MaximizetheNumberofTargetNodesAfterConnectingTreesII.swift */; };
 		8F6E2E472DEC821800D80D9C /* DistributeCandiesAmongChildrenII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E462DEC821800D80D9C /* DistributeCandiesAmongChildrenII.swift */; };
+		8F6E2E492DEEBB9700D80D9C /* MaximumCandiesYouCanGetfromBoxes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E482DEEBB9700D80D9C /* MaximumCandiesYouCanGetfromBoxes.swift */; };
 		8F709A6F2C181CFE0083B7D2 /* RelativeSortArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */; };
 		8F709A712C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */; };
 		8F709A732C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */; };
@@ -1440,6 +1441,7 @@
 		8F6E2E3F2DE6E87B00D80D9C /* MaximizetheNumberofTargetNodesAfterConnectingTreesI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizetheNumberofTargetNodesAfterConnectingTreesI.swift; sourceTree = "<group>"; };
 		8F6E2E442DE83C9200D80D9C /* MaximizetheNumberofTargetNodesAfterConnectingTreesII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizetheNumberofTargetNodesAfterConnectingTreesII.swift; sourceTree = "<group>"; };
 		8F6E2E462DEC821800D80D9C /* DistributeCandiesAmongChildrenII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandiesAmongChildrenII.swift; sourceTree = "<group>"; };
+		8F6E2E482DEEBB9700D80D9C /* MaximumCandiesYouCanGetfromBoxes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumCandiesYouCanGetfromBoxes.swift; sourceTree = "<group>"; };
 		8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeSortArray.swift; sourceTree = "<group>"; };
 		8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofMovestoSeatEveryone.swift; sourceTree = "<group>"; };
 		8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIncrementtoMakeArrayUnique.swift; sourceTree = "<group>"; };
@@ -3402,6 +3404,7 @@
 				8F6E2E3F2DE6E87B00D80D9C /* MaximizetheNumberofTargetNodesAfterConnectingTreesI.swift */,
 				8F6E2E442DE83C9200D80D9C /* MaximizetheNumberofTargetNodesAfterConnectingTreesII.swift */,
 				8F6E2E462DEC821800D80D9C /* DistributeCandiesAmongChildrenII.swift */,
+				8F6E2E482DEEBB9700D80D9C /* MaximumCandiesYouCanGetfromBoxes.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3726,6 +3729,7 @@
 				8FB9B44A2A0BBF340073424E /* BasicCalculatorII.swift in Sources */,
 				8FB9B5032A0BBF4E0073424E /* ReshapeTheMatrix.swift in Sources */,
 				8FB9B3E42A0BBF280073424E /* FindTheDuplicateNumber.swift in Sources */,
+				8F6E2E492DEEBB9700D80D9C /* MaximumCandiesYouCanGetfromBoxes.swift in Sources */,
 				8FB9B5612A0BBF540073424E /* NimGame.swift in Sources */,
 				8F3037BB2A98C18100C71BCB /* InterleavingString.swift in Sources */,
 				8FB9B4B32A0BBF480073424E /* BackspaceStringCompare.swift in Sources */,
