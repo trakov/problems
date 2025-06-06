@@ -201,6 +201,7 @@
 		8F6E2E472DEC821800D80D9C /* DistributeCandiesAmongChildrenII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E462DEC821800D80D9C /* DistributeCandiesAmongChildrenII.swift */; };
 		8F6E2E492DEEBB9700D80D9C /* MaximumCandiesYouCanGetfromBoxes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E482DEEBB9700D80D9C /* MaximumCandiesYouCanGetfromBoxes.swift */; };
 		8F6E2E4B2DF00DFB00D80D9C /* FindtheLexicographicallyLargestStringFromtheBoxI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E4A2DF00DFB00D80D9C /* FindtheLexicographicallyLargestStringFromtheBoxI.swift */; };
+		8F6E2E662DF33B9300D80D9C /* UsingaRobottoPrinttheLexicographicallySmallestString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E652DF33B9300D80D9C /* UsingaRobottoPrinttheLexicographicallySmallestString.swift */; };
 		8F709A6F2C181CFE0083B7D2 /* RelativeSortArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */; };
 		8F709A712C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */; };
 		8F709A732C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */; };
@@ -1444,6 +1445,7 @@
 		8F6E2E462DEC821800D80D9C /* DistributeCandiesAmongChildrenII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandiesAmongChildrenII.swift; sourceTree = "<group>"; };
 		8F6E2E482DEEBB9700D80D9C /* MaximumCandiesYouCanGetfromBoxes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumCandiesYouCanGetfromBoxes.swift; sourceTree = "<group>"; };
 		8F6E2E4A2DF00DFB00D80D9C /* FindtheLexicographicallyLargestStringFromtheBoxI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheLexicographicallyLargestStringFromtheBoxI.swift; sourceTree = "<group>"; };
+		8F6E2E652DF33B9300D80D9C /* UsingaRobottoPrinttheLexicographicallySmallestString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsingaRobottoPrinttheLexicographicallySmallestString.swift; sourceTree = "<group>"; };
 		8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeSortArray.swift; sourceTree = "<group>"; };
 		8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofMovestoSeatEveryone.swift; sourceTree = "<group>"; };
 		8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIncrementtoMakeArrayUnique.swift; sourceTree = "<group>"; };
@@ -3408,6 +3410,7 @@
 				8F6E2E462DEC821800D80D9C /* DistributeCandiesAmongChildrenII.swift */,
 				8F6E2E482DEEBB9700D80D9C /* MaximumCandiesYouCanGetfromBoxes.swift */,
 				8F6E2E4A2DF00DFB00D80D9C /* FindtheLexicographicallyLargestStringFromtheBoxI.swift */,
+				8F6E2E652DF33B9300D80D9C /* UsingaRobottoPrinttheLexicographicallySmallestString.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4037,6 +4040,7 @@
 				8FB9B3FF2A0BBF280073424E /* DesignLinkedList.swift in Sources */,
 				8FB9B4152A0BBF2E0073424E /* DesignHashMap.swift in Sources */,
 				8FB9B4102A0BBF2E0073424E /* TimeNeededToInformAllEmployees.swift in Sources */,
+				8F6E2E662DF33B9300D80D9C /* UsingaRobottoPrinttheLexicographicallySmallestString.swift in Sources */,
 				8F1EBF6D2B36B3F300E76A95 /* PathCrossing.swift in Sources */,
 				8F03271E2B205F25005950E1 /* CalculateMoneyInLeetcodeBank.swift in Sources */,
 				8FFE0F172C32791400EDC564 /* ThreeConsecutiveOdds.swift in Sources */,

@@ -1,1 +1,1 @@
-FindtheLexicographicallyLargestStringFromtheBoxI().tests()
+UsingaRobottoPrinttheLexicographicallySmallestString().tests()
