@@ -1,1 +1,1 @@
-UsingaRobottoPrinttheLexicographicallySmallestString().tests()
+LexicographicallyMinimumStringAfterRemovingStars().tests()
