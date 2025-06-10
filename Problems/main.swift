@@ -1,1 +1,1 @@
-LexicographicallyMinimumStringAfterRemovingStars().tests()
+MaximumDifferenceBetweenEvenandOddFrequencyI().tests()
