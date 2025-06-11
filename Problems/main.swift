@@ -1,1 +1,1 @@
-MaximumDifferenceBetweenEvenandOddFrequencyI().tests()
+MaximumDifferenceBetweenEvenandOddFrequencyII().tests()

@@ -204,6 +204,7 @@
 		8F6E2E662DF33B9300D80D9C /* UsingaRobottoPrinttheLexicographicallySmallestString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E652DF33B9300D80D9C /* UsingaRobottoPrinttheLexicographicallySmallestString.swift */; };
 		8F6E2E682DF4C7D800D80D9C /* LexicographicallyMinimumStringAfterRemovingStars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E672DF4C7D800D80D9C /* LexicographicallyMinimumStringAfterRemovingStars.swift */; };
 		8F6E2E6A2DF8014300D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E692DF8014300D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyI.swift */; };
+		8F6E2E6C2DF9556200D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E6B2DF9556200D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyII.swift */; };
 		8F709A6F2C181CFE0083B7D2 /* RelativeSortArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */; };
 		8F709A712C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */; };
 		8F709A732C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */; };
@@ -1450,6 +1451,7 @@
 		8F6E2E652DF33B9300D80D9C /* UsingaRobottoPrinttheLexicographicallySmallestString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsingaRobottoPrinttheLexicographicallySmallestString.swift; sourceTree = "<group>"; };
 		8F6E2E672DF4C7D800D80D9C /* LexicographicallyMinimumStringAfterRemovingStars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallyMinimumStringAfterRemovingStars.swift; sourceTree = "<group>"; };
 		8F6E2E692DF8014300D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDifferenceBetweenEvenandOddFrequencyI.swift; sourceTree = "<group>"; };
+		8F6E2E6B2DF9556200D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDifferenceBetweenEvenandOddFrequencyII.swift; sourceTree = "<group>"; };
 		8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeSortArray.swift; sourceTree = "<group>"; };
 		8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofMovestoSeatEveryone.swift; sourceTree = "<group>"; };
 		8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIncrementtoMakeArrayUnique.swift; sourceTree = "<group>"; };
@@ -3417,6 +3419,7 @@
 				8F6E2E652DF33B9300D80D9C /* UsingaRobottoPrinttheLexicographicallySmallestString.swift */,
 				8F6E2E672DF4C7D800D80D9C /* LexicographicallyMinimumStringAfterRemovingStars.swift */,
 				8F6E2E692DF8014300D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyI.swift */,
+				8F6E2E6B2DF9556200D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4505,6 +4508,7 @@
 				8F08BBDD2D77084C0049E48D /* CheckifNumberisaSumofPowersofThree.swift in Sources */,
 				8FB9B4312A0BBF340073424E /* CapacityToShipPackagesWithinDDays.swift in Sources */,
 				8FB9B45F2A0BBF3A0073424E /* CourseScheduleII.swift in Sources */,
+				8F6E2E6C2DF9556200D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyII.swift in Sources */,
 				8F0FBBC42D48A27000E4B9BE /* MaximumNumberofFishinaGrid.swift in Sources */,
 				8FD438D62D83B54F00E959C5 /* MaximumCandiesAllocatedtoKChildren.swift in Sources */,
 				8FB9B4242A0BBF2E0073424E /* DesignBrowserHistory.swift in Sources */,
