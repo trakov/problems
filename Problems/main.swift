@@ -1,1 +1,1 @@
-MaximumDifferenceBetweenEvenandOddFrequencyII().tests()
+MaximumDifferenceBetweenAdjacentElementsinaCircularArray().tests()
