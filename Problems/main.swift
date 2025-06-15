@@ -1,1 +1,1 @@
-MaximumDifferenceBetweenAdjacentElementsinaCircularArray().tests()
+MaxDifferenceYouCanGetFromChanginganInteger().tests()
