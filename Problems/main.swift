@@ -1,1 +1,1 @@
-MaxDifferenceYouCanGetFromChanginganInteger().tests()
+MaximumDifferencebyRemappingaDigit().tests()
