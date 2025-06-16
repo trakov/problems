@@ -1,1 +1,1 @@
-MaximumDifferencebyRemappingaDigit().tests()
+MaximumDifferenceBetweenIncreasingElements().tests()
