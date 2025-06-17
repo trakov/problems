@@ -1,1 +1,1 @@
-MaximumDifferenceBetweenIncreasingElements().tests()
+CounttheNumberofArrayswithKMatchingAdjacentElements().tests()
