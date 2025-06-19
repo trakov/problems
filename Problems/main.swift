@@ -1,1 +1,1 @@
-CounttheNumberofArrayswithKMatchingAdjacentElements().tests()
+PartitionArraySuchThatMaximumDifferenceIsK().tests()
