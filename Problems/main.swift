@@ -1,1 +1,1 @@
-PartitionArraySuchThatMaximumDifferenceIsK().tests()
+MaximumManhattanDistanceAfterKChanges().tests()
