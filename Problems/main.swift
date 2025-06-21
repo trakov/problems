@@ -1,1 +1,1 @@
-MaximumManhattanDistanceAfterKChanges().tests()
+MinimumDeletionstoMakeStringKSpecial().tests()

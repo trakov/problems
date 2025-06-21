@@ -239,6 +239,7 @@
 		8F7AE4762C5357A90084AFEF /* FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AE4752C5357A90084AFEF /* FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance.swift */; };
 		8F7AE47C2E03D9E9004C2126 /* PartitionArraySuchThatMaximumDifferenceIsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AE47B2E03D9E9004C2126 /* PartitionArraySuchThatMaximumDifferenceIsK.swift */; };
 		8F7AE47E2E052DC6004C2126 /* MaximumManhattanDistanceAfterKChanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AE47D2E052DC6004C2126 /* MaximumManhattanDistanceAfterKChanges.swift */; };
+		8F7AE4802E073625004C2126 /* MinimumDeletionstoMakeStringKSpecial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AE47F2E073625004C2126 /* MinimumDeletionstoMakeStringKSpecial.swift */; };
 		8F8504E82C61F21E0046CFCA /* MinimumNumberofPushestoTypeWordII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504E72C61F21E0046CFCA /* MinimumNumberofPushestoTypeWordII.swift */; };
 		8F8504EF2C62A0770046CFCA /* ReadNCharactersGivenRead4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504EE2C62A0770046CFCA /* ReadNCharactersGivenRead4.swift */; };
 		8F8504F42C6478D70046CFCA /* SpiralMatrixIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504F32C6478D70046CFCA /* SpiralMatrixIII.swift */; };
@@ -1493,6 +1494,7 @@
 		8F7AE4752C5357A90084AFEF /* FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance.swift; sourceTree = "<group>"; };
 		8F7AE47B2E03D9E9004C2126 /* PartitionArraySuchThatMaximumDifferenceIsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArraySuchThatMaximumDifferenceIsK.swift; sourceTree = "<group>"; };
 		8F7AE47D2E052DC6004C2126 /* MaximumManhattanDistanceAfterKChanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumManhattanDistanceAfterKChanges.swift; sourceTree = "<group>"; };
+		8F7AE47F2E073625004C2126 /* MinimumDeletionstoMakeStringKSpecial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDeletionstoMakeStringKSpecial.swift; sourceTree = "<group>"; };
 		8F8405FF29F1029300EF1303 /* MaximumWidthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWidthOfBinaryTree.swift; sourceTree = "<group>"; };
 		8F84060129F127B100EF1303 /* DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoIntegers.swift; sourceTree = "<group>"; };
 		8F84060329F1380900EF1303 /* GrayCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayCode.swift; sourceTree = "<group>"; };
@@ -3441,6 +3443,7 @@
 				8F6E2E752E0137C100D80D9C /* CounttheNumberofArrayswithKMatchingAdjacentElements.swift */,
 				8F7AE47B2E03D9E9004C2126 /* PartitionArraySuchThatMaximumDifferenceIsK.swift */,
 				8F7AE47D2E052DC6004C2126 /* MaximumManhattanDistanceAfterKChanges.swift */,
+				8F7AE47F2E073625004C2126 /* MinimumDeletionstoMakeStringKSpecial.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3789,6 +3792,7 @@
 				8F0555D52AB5C224006AE708 /* PathWithMinimumEffort.swift in Sources */,
 				8FC057D12D00214600CAF1D4 /* MakeStringaSubsequenceUsingCyclicIncrements.swift in Sources */,
 				8FB9B44F2A0BBF340073424E /* MinimumDistanceBetweenBSTNodes.swift in Sources */,
+				8F7AE4802E073625004C2126 /* MinimumDeletionstoMakeStringKSpecial.swift in Sources */,
 				8F6420252BC508AC00F97A10 /* TimeNeededToBuyTickets.swift in Sources */,
 				8FB9B3E22A0BBF280073424E /* SpiralMatrixII.swift in Sources */,
 				8FB9B43C2A0BBF340073424E /* EditDistance.swift in Sources */,
