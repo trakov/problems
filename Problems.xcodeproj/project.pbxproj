@@ -240,6 +240,7 @@
 		8F7AE47C2E03D9E9004C2126 /* PartitionArraySuchThatMaximumDifferenceIsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AE47B2E03D9E9004C2126 /* PartitionArraySuchThatMaximumDifferenceIsK.swift */; };
 		8F7AE47E2E052DC6004C2126 /* MaximumManhattanDistanceAfterKChanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AE47D2E052DC6004C2126 /* MaximumManhattanDistanceAfterKChanges.swift */; };
 		8F7AE4802E073625004C2126 /* MinimumDeletionstoMakeStringKSpecial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AE47F2E073625004C2126 /* MinimumDeletionstoMakeStringKSpecial.swift */; };
+		8F7AE4822E07C23A004C2126 /* DivideaStringIntoGroupsofSizek.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7AE4812E07C23A004C2126 /* DivideaStringIntoGroupsofSizek.swift */; };
 		8F8504E82C61F21E0046CFCA /* MinimumNumberofPushestoTypeWordII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504E72C61F21E0046CFCA /* MinimumNumberofPushestoTypeWordII.swift */; };
 		8F8504EF2C62A0770046CFCA /* ReadNCharactersGivenRead4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504EE2C62A0770046CFCA /* ReadNCharactersGivenRead4.swift */; };
 		8F8504F42C6478D70046CFCA /* SpiralMatrixIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504F32C6478D70046CFCA /* SpiralMatrixIII.swift */; };
@@ -1495,6 +1496,7 @@
 		8F7AE47B2E03D9E9004C2126 /* PartitionArraySuchThatMaximumDifferenceIsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArraySuchThatMaximumDifferenceIsK.swift; sourceTree = "<group>"; };
 		8F7AE47D2E052DC6004C2126 /* MaximumManhattanDistanceAfterKChanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumManhattanDistanceAfterKChanges.swift; sourceTree = "<group>"; };
 		8F7AE47F2E073625004C2126 /* MinimumDeletionstoMakeStringKSpecial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDeletionstoMakeStringKSpecial.swift; sourceTree = "<group>"; };
+		8F7AE4812E07C23A004C2126 /* DivideaStringIntoGroupsofSizek.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideaStringIntoGroupsofSizek.swift; sourceTree = "<group>"; };
 		8F8405FF29F1029300EF1303 /* MaximumWidthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWidthOfBinaryTree.swift; sourceTree = "<group>"; };
 		8F84060129F127B100EF1303 /* DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoIntegers.swift; sourceTree = "<group>"; };
 		8F84060329F1380900EF1303 /* GrayCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayCode.swift; sourceTree = "<group>"; };
@@ -3444,6 +3446,7 @@
 				8F7AE47B2E03D9E9004C2126 /* PartitionArraySuchThatMaximumDifferenceIsK.swift */,
 				8F7AE47D2E052DC6004C2126 /* MaximumManhattanDistanceAfterKChanges.swift */,
 				8F7AE47F2E073625004C2126 /* MinimumDeletionstoMakeStringKSpecial.swift */,
+				8F7AE4812E07C23A004C2126 /* DivideaStringIntoGroupsofSizek.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4221,6 +4224,7 @@
 				8FB5F9182D95196A00A980C9 /* MinimumIndexofaValidSplit.swift in Sources */,
 				8FB9B4B52A0BBF480073424E /* FindIfPathExistsInGraph.swift in Sources */,
 				8FB9B3F32A0BBF280073424E /* DivideTwoIntegers.swift in Sources */,
+				8F7AE4822E07C23A004C2126 /* DivideaStringIntoGroupsofSizek.swift in Sources */,
 				8FB9B4762A0BBF3A0073424E /* CheapestFlightsWithinKStops.swift in Sources */,
 				8FB1A5422C0B80CD00CD2F8F /* ScoreofaString.swift in Sources */,
 				8FF20BC12C772945002C9D49 /* DiagonalTraverse.swift in Sources */,

@@ -1,1 +1,1 @@
-MinimumDeletionstoMakeStringKSpecial().tests()
+DivideaStringIntoGroupsofSizek().tests()
