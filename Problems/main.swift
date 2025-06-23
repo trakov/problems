@@ -1,1 +1,1 @@
-DivideaStringIntoGroupsofSizek().tests()
+SumofkMirrorNumbers().tests()
