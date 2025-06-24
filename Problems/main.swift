@@ -1,1 +1,1 @@
-SumofkMirrorNumbers().tests()
+FindAllKDistantIndicesinanArray().tests()
