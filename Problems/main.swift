@@ -1,1 +1,1 @@
-FindAllKDistantIndicesinanArray().tests()
+KthSmallestProductofTwoSortedArrays().tests()
