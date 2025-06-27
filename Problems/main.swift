@@ -1,1 +1,1 @@
-LongestBinarySubsequenceLessThanorEqualtoK().tests()
+LongestSubsequenceRepeatedkTimes().tests()
