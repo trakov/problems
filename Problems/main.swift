@@ -1,1 +1,1 @@
-LongestSubsequenceRepeatedkTimes().tests()
+FindSubsequenceofLengthKWiththeLargestSum().tests()
