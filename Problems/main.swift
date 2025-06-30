@@ -1,1 +1,1 @@
-FindSubsequenceofLengthKWiththeLargestSum().tests()
+LongestHarmoniousSubsequence().tests()
