@@ -1,1 +1,1 @@
-LongestHarmoniousSubsequence().tests()
+FindtheOriginalTypedStringI().tests()
