@@ -127,6 +127,7 @@
 		8F3BC63B2E10255A002909CA /* FindSubsequenceofLengthKWiththeLargestSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC63A2E10255A002909CA /* FindSubsequenceofLengthKWiththeLargestSum.swift */; };
 		8F3BC63D2E131F91002909CA /* LongestHarmoniousSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC63C2E131F91002909CA /* LongestHarmoniousSubsequence.swift */; };
 		8F3BC63F2E13AFF3002909CA /* FindtheOriginalTypedStringI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC63E2E13AFF3002909CA /* FindtheOriginalTypedStringI.swift */; };
+		8F3BC6412E150819002909CA /* FindtheOriginalTypedStringII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6402E150819002909CA /* FindtheOriginalTypedStringII.swift */; };
 		8F3D33EA2AEEC00500E94E1C /* PoorPigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D33E92AEEC00500E94E1C /* PoorPigs.swift */; };
 		8F3D72DA2D573151007E7625 /* DesignaNumberContainerSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D72D92D573151007E7625 /* DesignaNumberContainerSystem.swift */; };
 		8F3D72DC2D588E7F007E7625 /* CountNumberofBadPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D72DB2D588E7F007E7625 /* CountNumberofBadPairs.swift */; };
@@ -1338,6 +1339,7 @@
 		8F3BC63A2E10255A002909CA /* FindSubsequenceofLengthKWiththeLargestSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSubsequenceofLengthKWiththeLargestSum.swift; sourceTree = "<group>"; };
 		8F3BC63C2E131F91002909CA /* LongestHarmoniousSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestHarmoniousSubsequence.swift; sourceTree = "<group>"; };
 		8F3BC63E2E13AFF3002909CA /* FindtheOriginalTypedStringI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheOriginalTypedStringI.swift; sourceTree = "<group>"; };
+		8F3BC6402E150819002909CA /* FindtheOriginalTypedStringII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheOriginalTypedStringII.swift; sourceTree = "<group>"; };
 		8F3D33E92AEEC00500E94E1C /* PoorPigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoorPigs.swift; sourceTree = "<group>"; };
 		8F3D72D92D573151007E7625 /* DesignaNumberContainerSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignaNumberContainerSystem.swift; sourceTree = "<group>"; };
 		8F3D72DB2D588E7F007E7625 /* CountNumberofBadPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofBadPairs.swift; sourceTree = "<group>"; };
@@ -3471,6 +3473,7 @@
 				8F3BC63A2E10255A002909CA /* FindSubsequenceofLengthKWiththeLargestSum.swift */,
 				8F3BC63C2E131F91002909CA /* LongestHarmoniousSubsequence.swift */,
 				8F3BC63E2E13AFF3002909CA /* FindtheOriginalTypedStringI.swift */,
+				8F3BC6402E150819002909CA /* FindtheOriginalTypedStringII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4376,6 +4379,7 @@
 				8FB9B3D52A0BBF220073424E /* NumberOfSubsequencesThatSatisfyTheGivenSumCondition.swift in Sources */,
 				8FB9B5112A0BBF4E0073424E /* WordSearch.swift in Sources */,
 				8F8504E82C61F21E0046CFCA /* MinimumNumberofPushestoTypeWordII.swift in Sources */,
+				8F3BC6412E150819002909CA /* FindtheOriginalTypedStringII.swift in Sources */,
 				8F737EC42DD71B6E0084DADC /* LongestUnequalAdjacentGroupsSubsequenceII.swift in Sources */,
 				8FB3A5D32A94B44C00EEBECF /* WordSearchII.swift in Sources */,
 				8FF20BEB2C818115002C9D49 /* ModifyGraphEdgeWeights.swift in Sources */,

@@ -1,1 +1,1 @@
-FindtheOriginalTypedStringI().tests()
+FindtheOriginalTypedStringII().tests()
