@@ -1,1 +1,1 @@
-FindtheOriginalTypedStringII().tests()
+FindtheKthCharacterinStringGameI().tests()
