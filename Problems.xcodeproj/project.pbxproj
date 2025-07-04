@@ -129,6 +129,7 @@
 		8F3BC63F2E13AFF3002909CA /* FindtheOriginalTypedStringI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC63E2E13AFF3002909CA /* FindtheOriginalTypedStringI.swift */; };
 		8F3BC6412E150819002909CA /* FindtheOriginalTypedStringII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6402E150819002909CA /* FindtheOriginalTypedStringII.swift */; };
 		8F3BC6472E165F9E002909CA /* FindtheKthCharacterinStringGameI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6462E165F9E002909CA /* FindtheKthCharacterinStringGameI.swift */; };
+		8F3BC6492E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6482E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift */; };
 		8F3D33EA2AEEC00500E94E1C /* PoorPigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D33E92AEEC00500E94E1C /* PoorPigs.swift */; };
 		8F3D72DA2D573151007E7625 /* DesignaNumberContainerSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D72D92D573151007E7625 /* DesignaNumberContainerSystem.swift */; };
 		8F3D72DC2D588E7F007E7625 /* CountNumberofBadPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D72DB2D588E7F007E7625 /* CountNumberofBadPairs.swift */; };
@@ -1342,6 +1343,7 @@
 		8F3BC63E2E13AFF3002909CA /* FindtheOriginalTypedStringI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheOriginalTypedStringI.swift; sourceTree = "<group>"; };
 		8F3BC6402E150819002909CA /* FindtheOriginalTypedStringII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheOriginalTypedStringII.swift; sourceTree = "<group>"; };
 		8F3BC6462E165F9E002909CA /* FindtheKthCharacterinStringGameI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheKthCharacterinStringGameI.swift; sourceTree = "<group>"; };
+		8F3BC6482E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheKthCharacterinStringGameII.swift; sourceTree = "<group>"; };
 		8F3D33E92AEEC00500E94E1C /* PoorPigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoorPigs.swift; sourceTree = "<group>"; };
 		8F3D72D92D573151007E7625 /* DesignaNumberContainerSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignaNumberContainerSystem.swift; sourceTree = "<group>"; };
 		8F3D72DB2D588E7F007E7625 /* CountNumberofBadPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofBadPairs.swift; sourceTree = "<group>"; };
@@ -3477,6 +3479,7 @@
 				8F3BC63E2E13AFF3002909CA /* FindtheOriginalTypedStringI.swift */,
 				8F3BC6402E150819002909CA /* FindtheOriginalTypedStringII.swift */,
 				8F3BC6462E165F9E002909CA /* FindtheKthCharacterinStringGameI.swift */,
+				8F3BC6482E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4393,6 +4396,7 @@
 				8FB9B43D2A0BBF340073424E /* SortAnArray.swift in Sources */,
 				8F04242E2AAA249100970AC5 /* ReverseLinkedListII.swift in Sources */,
 				8FF20BC52C777648002C9D49 /* MissingRanges.swift in Sources */,
+				8F3BC6492E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift in Sources */,
 				8FB9B47D2A0BBF3A0073424E /* ConstructBinaryTreeFromPreorderAndInorderTraversal.swift in Sources */,
 				8FE9D6912CE0B13E0043A0AC /* ShortestSubarrayWithORatLeastKII.swift in Sources */,
 				8FB9B4802A0BBF3A0073424E /* SubarraySumsDivisibleByK.swift in Sources */,

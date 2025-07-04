@@ -1,1 +1,1 @@
-FindtheKthCharacterinStringGameI().tests()
+FindtheKthCharacterinStringGameII().tests()
