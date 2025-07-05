@@ -1,1 +1,1 @@
-FindtheKthCharacterinStringGameII().tests()
+FindLuckyIntegerinanArray().tests()
