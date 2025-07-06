@@ -131,6 +131,7 @@
 		8F3BC6472E165F9E002909CA /* FindtheKthCharacterinStringGameI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6462E165F9E002909CA /* FindtheKthCharacterinStringGameI.swift */; };
 		8F3BC6492E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6482E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift */; };
 		8F3BC6522E19C47B002909CA /* FindLuckyIntegerinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6512E19C47B002909CA /* FindLuckyIntegerinanArray.swift */; };
+		8F3BC6542E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6532E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift */; };
 		8F3D33EA2AEEC00500E94E1C /* PoorPigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D33E92AEEC00500E94E1C /* PoorPigs.swift */; };
 		8F3D72DA2D573151007E7625 /* DesignaNumberContainerSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D72D92D573151007E7625 /* DesignaNumberContainerSystem.swift */; };
 		8F3D72DC2D588E7F007E7625 /* CountNumberofBadPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D72DB2D588E7F007E7625 /* CountNumberofBadPairs.swift */; };
@@ -1346,6 +1347,7 @@
 		8F3BC6462E165F9E002909CA /* FindtheKthCharacterinStringGameI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheKthCharacterinStringGameI.swift; sourceTree = "<group>"; };
 		8F3BC6482E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheKthCharacterinStringGameII.swift; sourceTree = "<group>"; };
 		8F3BC6512E19C47B002909CA /* FindLuckyIntegerinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLuckyIntegerinanArray.swift; sourceTree = "<group>"; };
+		8F3BC6532E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindingPairsWithaCertainSum.swift; sourceTree = "<group>"; };
 		8F3D33E92AEEC00500E94E1C /* PoorPigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoorPigs.swift; sourceTree = "<group>"; };
 		8F3D72D92D573151007E7625 /* DesignaNumberContainerSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignaNumberContainerSystem.swift; sourceTree = "<group>"; };
 		8F3D72DB2D588E7F007E7625 /* CountNumberofBadPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofBadPairs.swift; sourceTree = "<group>"; };
@@ -3483,6 +3485,7 @@
 				8F3BC6462E165F9E002909CA /* FindtheKthCharacterinStringGameI.swift */,
 				8F3BC6482E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift */,
 				8F3BC6512E19C47B002909CA /* FindLuckyIntegerinanArray.swift */,
+				8F3BC6532E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4693,6 +4696,7 @@
 				8FF63D7E2CB8F70D0061ED24 /* TheNumberoftheSmallestUnoccupiedChair.swift in Sources */,
 				8F41113C2AD0DB2C001E0804 /* BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.swift in Sources */,
 				8FED94732B958DB200E55D4C /* BagOfTokens.swift in Sources */,
+				8F3BC6542E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift in Sources */,
 				8F91DC9B2D5DCA8A00967792 /* MinimumOperationstoExceedThresholdValueII.swift in Sources */,
 				8FB9B41F2A0BBF2E0073424E /* RangeSumQuery2DImmutable.swift in Sources */,
 				8FB9B49D2A0BBF410073424E /* SearchInRotatedSortedArray.swift in Sources */,

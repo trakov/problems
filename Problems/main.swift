@@ -1,1 +1,1 @@
-FindLuckyIntegerinanArray().tests()
+FindingPairsWithaCertainSum.tests()
