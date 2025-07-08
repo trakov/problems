@@ -1,56 +1,37 @@
-private extension Array {
-    var startDay: Element { self[0] }
-    var endDay: Element { self[1] }
-    var value: Element { self[2] }
-}
-
 class MaximumNumberOfEventsThatCanBeAttendedII {
-    func maxValue(_ events: [[Int]], _ k: Int) -> Int
-    {
-        let events = events.sorted{$0.startDay < $1.startDay}, n = events.count
-        var memo: [Int:Int] = [:]
-
-        func maxEventsSum(_ startEvent: Int, _ attend: Int) -> Int
-        {
-            let memoKey = startEvent * 1024 + attend
-            if let res = memo[memoKey] { return res }
-
-            var res = 0; defer { memo[memoKey] = res }
-
-            if startEvent >= n || attend == 0 { return 0 }
-            if startEvent == n-1 {
-                res = events[n-1].value
-                return res
-            }
-            if attend == 1 {
-                res = events[startEvent...].max{$0.value < $1.value}!.value
-                return res
-            }
-             
-            let ignoreEventSum = maxEventsSum(startEvent + 1, attend)
-            var attendEventSum = events[startEvent].value
-
-            let eventLastDay = events[startEvent].endDay
-            if eventLastDay < events.last!.startDay
-            {
-                var left = startEvent+1, right = n-1, mid: Int
-                while left < right
-                {
-                    mid = (left + right) / 2
-                    if events[mid].startDay > eventLastDay { right = mid }
-                    else { left = mid + 1 }
+    func maxValue(_ events: [[Int]], _ k: Int) -> Int {
+        let n = events.count
+        var dp = Array(repeating: Array(repeating: 0, count: n + 1), count: k + 1)
+        let events = events.sorted { $0[0] < $1[0] }
+        
+        func bisectRight(_ target: Int) -> Int {
+            var (left, right) = (0, events.count)
+            while left < right {
+                let mid = (left + right) / 2
+                if events[mid][0] <= target {
+                    left = mid + 1
+                } else {
+                    right = mid
                 }
-                attendEventSum += maxEventsSum(left, attend-1)
             }
-
-            res = max(ignoreEventSum, attendEventSum)
-            return res
+            return left
         }
 
-        return maxEventsSum(0, k)
+        for i in (0..<n).reversed() {
+            for count in 1...k {
+                let nextIndex = bisectRight(events[i][1])
+                dp[count][i] = max(
+                    dp[count][i + 1],
+                    events[i][2] + dp[count - 1][nextIndex]
+                )
+            }
+        }
+        return dp[k][0]
     }
     
     func tests() {
-//        print() //
+        print(maxValue([[1,2,4],[3,4,3],[2,3,1]], 2)) // 7
+        print(maxValue([[1,2,4],[3,4,3],[2,3,10]], 2)) // 10
+        print(maxValue([[1,1,1],[2,2,2],[3,3,3],[4,4,4]], 3)) // 9
     }
 }
