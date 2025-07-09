@@ -1,1 +1,1 @@
-MaximumNumberOfEventsThatCanBeAttendedII().tests()
+RescheduleMeetingsforMaximumFreeTimeI().tests()

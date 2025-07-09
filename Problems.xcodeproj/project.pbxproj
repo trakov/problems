@@ -132,6 +132,7 @@
 		8F3BC6492E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6482E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift */; };
 		8F3BC6522E19C47B002909CA /* FindLuckyIntegerinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6512E19C47B002909CA /* FindLuckyIntegerinanArray.swift */; };
 		8F3BC6542E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6532E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift */; };
+		8F3BC6562E1E4D31002909CA /* RescheduleMeetingsforMaximumFreeTimeI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3BC6552E1E4D31002909CA /* RescheduleMeetingsforMaximumFreeTimeI.swift */; };
 		8F3D33EA2AEEC00500E94E1C /* PoorPigs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D33E92AEEC00500E94E1C /* PoorPigs.swift */; };
 		8F3D72DA2D573151007E7625 /* DesignaNumberContainerSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D72D92D573151007E7625 /* DesignaNumberContainerSystem.swift */; };
 		8F3D72DC2D588E7F007E7625 /* CountNumberofBadPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3D72DB2D588E7F007E7625 /* CountNumberofBadPairs.swift */; };
@@ -1348,6 +1349,7 @@
 		8F3BC6482E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheKthCharacterinStringGameII.swift; sourceTree = "<group>"; };
 		8F3BC6512E19C47B002909CA /* FindLuckyIntegerinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLuckyIntegerinanArray.swift; sourceTree = "<group>"; };
 		8F3BC6532E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindingPairsWithaCertainSum.swift; sourceTree = "<group>"; };
+		8F3BC6552E1E4D31002909CA /* RescheduleMeetingsforMaximumFreeTimeI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RescheduleMeetingsforMaximumFreeTimeI.swift; sourceTree = "<group>"; };
 		8F3D33E92AEEC00500E94E1C /* PoorPigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoorPigs.swift; sourceTree = "<group>"; };
 		8F3D72D92D573151007E7625 /* DesignaNumberContainerSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignaNumberContainerSystem.swift; sourceTree = "<group>"; };
 		8F3D72DB2D588E7F007E7625 /* CountNumberofBadPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofBadPairs.swift; sourceTree = "<group>"; };
@@ -3486,6 +3488,7 @@
 				8F3BC6482E179AE5002909CA /* FindtheKthCharacterinStringGameII.swift */,
 				8F3BC6512E19C47B002909CA /* FindLuckyIntegerinanArray.swift */,
 				8F3BC6532E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift */,
+				8F3BC6552E1E4D31002909CA /* RescheduleMeetingsforMaximumFreeTimeI.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4705,6 +4708,7 @@
 				8FB9B4C32A0BBF480073424E /* DailyTemperatures.swift in Sources */,
 				8F737ECA2DDB11F30084DADC /* TypeofTriangle.swift in Sources */,
 				8F9E9FF42A14AE580078FC86 /* MaximumTwinSumOfALinkedList.swift in Sources */,
+				8F3BC6562E1E4D31002909CA /* RescheduleMeetingsforMaximumFreeTimeI.swift in Sources */,
 				8FD44DFA2C5662C60096C210 /* GroupShiftedStrings.swift in Sources */,
 				8FB9B4352A0BBF340073424E /* DecodeWays.swift in Sources */,
 			);
