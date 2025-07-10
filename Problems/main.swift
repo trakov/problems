@@ -1,1 +1,1 @@
-RescheduleMeetingsforMaximumFreeTimeI().tests()
+RescheduleMeetingsforMaximumFreeTimeII().tests()
