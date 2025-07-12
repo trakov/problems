@@ -259,6 +259,7 @@
 		8F8504EF2C62A0770046CFCA /* ReadNCharactersGivenRead4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504EE2C62A0770046CFCA /* ReadNCharactersGivenRead4.swift */; };
 		8F8504F42C6478D70046CFCA /* SpiralMatrixIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504F32C6478D70046CFCA /* SpiralMatrixIII.swift */; };
 		8F8510652E1FA42B00622079 /* RescheduleMeetingsforMaximumFreeTimeII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8510642E1FA42B00622079 /* RescheduleMeetingsforMaximumFreeTimeII.swift */; };
+		8F85106D2E22FC9A00622079 /* TheEarliestandLatestRoundsWherePlayersCompete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F85106C2E22FC9A00622079 /* TheEarliestandLatestRoundsWherePlayersCompete.swift */; };
 		8F8694F12CF211A300442604 /* RotatingtheBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8694F02CF211A300442604 /* RotatingtheBox.swift */; };
 		8F8694F32CF380FA00442604 /* MaximumMatrixSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8694F22CF380FA00442604 /* MaximumMatrixSum.swift */; };
 		8F8694F52CF434C100442604 /* SlidingPuzzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8694F42CF434C100442604 /* SlidingPuzzle.swift */; };
@@ -1547,6 +1548,7 @@
 		8F8504EE2C62A0770046CFCA /* ReadNCharactersGivenRead4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadNCharactersGivenRead4.swift; sourceTree = "<group>"; };
 		8F8504F32C6478D70046CFCA /* SpiralMatrixIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrixIII.swift; sourceTree = "<group>"; };
 		8F8510642E1FA42B00622079 /* RescheduleMeetingsforMaximumFreeTimeII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RescheduleMeetingsforMaximumFreeTimeII.swift; sourceTree = "<group>"; };
+		8F85106C2E22FC9A00622079 /* TheEarliestandLatestRoundsWherePlayersCompete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheEarliestandLatestRoundsWherePlayersCompete.swift; sourceTree = "<group>"; };
 		8F8694F02CF211A300442604 /* RotatingtheBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatingtheBox.swift; sourceTree = "<group>"; };
 		8F8694F22CF380FA00442604 /* MaximumMatrixSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumMatrixSum.swift; sourceTree = "<group>"; };
 		8F8694F42CF434C100442604 /* SlidingPuzzle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlidingPuzzle.swift; sourceTree = "<group>"; };
@@ -3492,6 +3494,7 @@
 				8F3BC6532E1AFFAD002909CA /* FindingPairsWithaCertainSum.swift */,
 				8F3BC6552E1E4D31002909CA /* RescheduleMeetingsforMaximumFreeTimeI.swift */,
 				8F8510642E1FA42B00622079 /* RescheduleMeetingsforMaximumFreeTimeII.swift */,
+				8F85106C2E22FC9A00622079 /* TheEarliestandLatestRoundsWherePlayersCompete.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4639,6 +4642,7 @@
 				8F7A0A4A2D92355800BB12BD /* CheckifGridcanbeCutintoSections.swift in Sources */,
 				8FB9B4A42A0BBF410073424E /* RemoveStonesToMinimizeTheTotal.swift in Sources */,
 				8F9948C92DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift in Sources */,
+				8F85106D2E22FC9A00622079 /* TheEarliestandLatestRoundsWherePlayersCompete.swift in Sources */,
 				8FF20BD92C7A0AAF002C9D49 /* StringtoIntegeratoi.swift in Sources */,
 				8FB9B48F2A0BBF410073424E /* Trie.swift in Sources */,
 				8FB9B4612A0BBF3A0073424E /* LFUCache.swift in Sources */,
