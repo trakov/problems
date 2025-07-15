@@ -1,1 +1,1 @@
-MaximumMatchingofPlayersWithTrainers().tests()
+ValidWord().tests()
