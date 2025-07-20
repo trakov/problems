@@ -1,1 +1,1 @@
-MinimumDifferenceinSumsAfterRemovalofElements().tests()
+DeleteDuplicateFoldersinSystem().tests()
