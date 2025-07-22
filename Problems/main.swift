@@ -1,1 +1,1 @@
-DeleteDuplicateFoldersinSystem().tests()
+MaximumErasureValue().tests()
