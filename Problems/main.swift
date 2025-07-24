@@ -1,1 +1,1 @@
-MaximumErasureValue().tests()
+MinimumScoreAfterRemovalsonaTree().tests()
