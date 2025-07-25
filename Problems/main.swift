@@ -1,1 +1,1 @@
-MinimumScoreAfterRemovalsonaTree().tests()
+MaximumUniqueSubarraySumAfterDeletion().tests()
