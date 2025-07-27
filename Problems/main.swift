@@ -1,1 +1,1 @@
-CountHillsandValleysinanArray().tests()
+MaximizeSubarraysAfterRemovingOneConflictingPair().tests()
