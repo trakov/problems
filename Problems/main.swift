@@ -1,1 +1,1 @@
-MaximizeSubarraysAfterRemovingOneConflictingPair().tests()
+SmallestSubarraysWithMaximumBitwiseOR().tests()
