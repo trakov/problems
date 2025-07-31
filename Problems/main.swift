@@ -1,1 +1,1 @@
-SmallestSubarraysWithMaximumBitwiseOR().tests()
+BitwiseORsofSubarrays().tests()
