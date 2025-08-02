@@ -1,1 +1,1 @@
-BitwiseORsofSubarrays().tests()
+RearrangingFruits().tests()
