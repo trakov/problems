@@ -1,1 +1,1 @@
-RearrangingFruits().tests()
+MaximumFruitsHarvestedAfteratMostKSteps().tests()
