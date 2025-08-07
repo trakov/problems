@@ -270,6 +270,7 @@
 		8F8AF7032E3F22D300E8ABFE /* MaximumFruitsHarvestedAfteratMostKSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7022E3F22D300E8ABFE /* MaximumFruitsHarvestedAfteratMostKSteps.swift */; };
 		8F8AF7052E41E39300E8ABFE /* FruitsIntoBasketsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7042E41E39300E8ABFE /* FruitsIntoBasketsII.swift */; };
 		8F8AF7072E43237600E8ABFE /* FruitsIntoBasketsIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7062E43237600E8ABFE /* FruitsIntoBasketsIII.swift */; };
+		8F8AF7092E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7082E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift */; };
 		8F8BD1952D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8BD1942D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift */; };
 		8F8BD1972D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8BD1962D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift */; };
 		8F8EB75E2D377C8A00DFD2D3 /* MinimizeXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75D2D377C8A00DFD2D3 /* MinimizeXOR.swift */; };
@@ -1642,6 +1643,7 @@
 		8F8AF7022E3F22D300E8ABFE /* MaximumFruitsHarvestedAfteratMostKSteps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumFruitsHarvestedAfteratMostKSteps.swift; sourceTree = "<group>"; };
 		8F8AF7042E41E39300E8ABFE /* FruitsIntoBasketsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsIntoBasketsII.swift; sourceTree = "<group>"; };
 		8F8AF7062E43237600E8ABFE /* FruitsIntoBasketsIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsIntoBasketsIII.swift; sourceTree = "<group>"; };
+		8F8AF7082E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheMaximumNumberofFruitsCollected.swift; sourceTree = "<group>"; };
 		8F8BD1942D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueofanOrderedTripletI.swift; sourceTree = "<group>"; };
 		8F8BD1962D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueofanOrderedTripletII.swift; sourceTree = "<group>"; };
 		8F8EAA2F2872B28200A0DCF4 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
@@ -3546,6 +3548,7 @@
 				8F8AF7022E3F22D300E8ABFE /* MaximumFruitsHarvestedAfteratMostKSteps.swift */,
 				8F8AF7042E41E39300E8ABFE /* FruitsIntoBasketsII.swift */,
 				8F8AF7062E43237600E8ABFE /* FruitsIntoBasketsIII.swift */,
+				8F8AF7082E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4668,6 +4671,7 @@
 				8F08BBDD2D77084C0049E48D /* CheckifNumberisaSumofPowersofThree.swift in Sources */,
 				8FB9B4312A0BBF340073424E /* CapacityToShipPackagesWithinDDays.swift in Sources */,
 				8FB9B45F2A0BBF3A0073424E /* CourseScheduleII.swift in Sources */,
+				8F8AF7092E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift in Sources */,
 				8F6E2E6C2DF9556200D80D9C /* MaximumDifferenceBetweenEvenandOddFrequencyII.swift in Sources */,
 				8F0FBBC42D48A27000E4B9BE /* MaximumNumberofFishinaGrid.swift in Sources */,
 				8FD438D62D83B54F00E959C5 /* MaximumCandiesAllocatedtoKChildren.swift in Sources */,
