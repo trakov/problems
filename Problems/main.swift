@@ -1,1 +1,1 @@
-FindtheMaximumNumberofFruitsCollected().tests()
+ReorderedPowerof2().tests()
