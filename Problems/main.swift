@@ -1,1 +1,1 @@
-ReorderedPowerof2().tests()
+RangeProductQueriesofPowers().tests()

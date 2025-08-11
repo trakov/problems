@@ -272,6 +272,7 @@
 		8F8AF7072E43237600E8ABFE /* FruitsIntoBasketsIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7062E43237600E8ABFE /* FruitsIntoBasketsIII.swift */; };
 		8F8AF7092E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7082E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift */; };
 		8F8AF7122E48A70B00E8ABFE /* ReorderedPowerof2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7112E48A70B00E8ABFE /* ReorderedPowerof2.swift */; };
+		8F8AF7142E49AE2500E8ABFE /* RangeProductQueriesofPowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7132E49AE2500E8ABFE /* RangeProductQueriesofPowers.swift */; };
 		8F8BD1952D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8BD1942D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift */; };
 		8F8BD1972D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8BD1962D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift */; };
 		8F8EB75E2D377C8A00DFD2D3 /* MinimizeXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75D2D377C8A00DFD2D3 /* MinimizeXOR.swift */; };
@@ -1646,6 +1647,7 @@
 		8F8AF7062E43237600E8ABFE /* FruitsIntoBasketsIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsIntoBasketsIII.swift; sourceTree = "<group>"; };
 		8F8AF7082E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheMaximumNumberofFruitsCollected.swift; sourceTree = "<group>"; };
 		8F8AF7112E48A70B00E8ABFE /* ReorderedPowerof2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorderedPowerof2.swift; sourceTree = "<group>"; };
+		8F8AF7132E49AE2500E8ABFE /* RangeProductQueriesofPowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeProductQueriesofPowers.swift; sourceTree = "<group>"; };
 		8F8BD1942D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueofanOrderedTripletI.swift; sourceTree = "<group>"; };
 		8F8BD1962D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueofanOrderedTripletII.swift; sourceTree = "<group>"; };
 		8F8EAA2F2872B28200A0DCF4 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
@@ -3552,6 +3554,7 @@
 				8F8AF7062E43237600E8ABFE /* FruitsIntoBasketsIII.swift */,
 				8F8AF7082E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift */,
 				8F8AF7112E48A70B00E8ABFE /* ReorderedPowerof2.swift */,
+				8F8AF7132E49AE2500E8ABFE /* RangeProductQueriesofPowers.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4683,6 +4686,7 @@
 				8F6420232BC3BC4000F97A10 /* ValidParenthesisString.swift in Sources */,
 				8FB9B4B12A0BBF480073424E /* FloodFill.swift in Sources */,
 				8F3037C32A9F191E00C71BCB /* MinimumReplacementsToSortTheArray.swift in Sources */,
+				8F8AF7142E49AE2500E8ABFE /* RangeProductQueriesofPowers.swift in Sources */,
 				8FB9B5452A0BBF540073424E /* GuessNumberHigherOrLower.swift in Sources */,
 				8F6B6E6F2C3AAC8500A639F6 /* WaterBottles.swift in Sources */,
 				8FE6EB362E366AFD00026318 /* CountHillsandValleysinanArray.swift in Sources */,
