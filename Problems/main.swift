@@ -1,1 +1,1 @@
-RangeProductQueriesofPowers().tests()
+WaystoExpressanIntegerasSumofPowers().tests()

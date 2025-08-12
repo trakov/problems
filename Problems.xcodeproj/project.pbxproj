@@ -273,6 +273,7 @@
 		8F8AF7092E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7082E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift */; };
 		8F8AF7122E48A70B00E8ABFE /* ReorderedPowerof2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7112E48A70B00E8ABFE /* ReorderedPowerof2.swift */; };
 		8F8AF7142E49AE2500E8ABFE /* RangeProductQueriesofPowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF7132E49AE2500E8ABFE /* RangeProductQueriesofPowers.swift */; };
+		8F8AF71B2E4BED4E00E8ABFE /* WaystoExpressanIntegerasSumofPowers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8AF71A2E4BED4E00E8ABFE /* WaystoExpressanIntegerasSumofPowers.swift */; };
 		8F8BD1952D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8BD1942D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift */; };
 		8F8BD1972D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8BD1962D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift */; };
 		8F8EB75E2D377C8A00DFD2D3 /* MinimizeXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75D2D377C8A00DFD2D3 /* MinimizeXOR.swift */; };
@@ -1648,6 +1649,7 @@
 		8F8AF7082E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheMaximumNumberofFruitsCollected.swift; sourceTree = "<group>"; };
 		8F8AF7112E48A70B00E8ABFE /* ReorderedPowerof2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorderedPowerof2.swift; sourceTree = "<group>"; };
 		8F8AF7132E49AE2500E8ABFE /* RangeProductQueriesofPowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeProductQueriesofPowers.swift; sourceTree = "<group>"; };
+		8F8AF71A2E4BED4E00E8ABFE /* WaystoExpressanIntegerasSumofPowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaystoExpressanIntegerasSumofPowers.swift; sourceTree = "<group>"; };
 		8F8BD1942D9D47FC00D03FEE /* MaximumValueofanOrderedTripletI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueofanOrderedTripletI.swift; sourceTree = "<group>"; };
 		8F8BD1962D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueofanOrderedTripletII.swift; sourceTree = "<group>"; };
 		8F8EAA2F2872B28200A0DCF4 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
@@ -3555,6 +3557,7 @@
 				8F8AF7082E449FF400E8ABFE /* FindtheMaximumNumberofFruitsCollected.swift */,
 				8F8AF7112E48A70B00E8ABFE /* ReorderedPowerof2.swift */,
 				8F8AF7132E49AE2500E8ABFE /* RangeProductQueriesofPowers.swift */,
+				8F8AF71A2E4BED4E00E8ABFE /* WaystoExpressanIntegerasSumofPowers.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4703,6 +4706,7 @@
 				8F737ECE2DDC5DEA0084DADC /* ZeroArrayTransformationI.swift in Sources */,
 				8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */,
 				8F0326F22B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */,
+				8F8AF71B2E4BED4E00E8ABFE /* WaystoExpressanIntegerasSumofPowers.swift in Sources */,
 				8FB9B5152A0BBF4E0073424E /* NumberOf1Bits.swift in Sources */,
 				8FB9B4672A0BBF3A0073424E /* LowestCommonAncestorOfABinaryTree.swift in Sources */,
 				8FC102942A42C1A9005E8289 /* MinimumCostToMakeArrayEqual.swift in Sources */,
