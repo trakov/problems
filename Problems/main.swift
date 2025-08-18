@@ -1,1 +1,1 @@
-WaystoExpressanIntegerasSumofPowers().tests()
+TwoFourGame().tests()
