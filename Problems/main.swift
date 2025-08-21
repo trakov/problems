@@ -1,1 +1,1 @@
-TwoFourGame().tests()
+CountSubmatricesWithAllOnes().tests()
