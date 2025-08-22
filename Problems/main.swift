@@ -1,1 +1,1 @@
-CountSubmatricesWithAllOnes().tests()
+FindtheMinimumAreatoCoverAllOnesI().tests()
