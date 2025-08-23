@@ -1,1 +1,1 @@
-FindtheMinimumAreatoCoverAllOnesI().tests()
+FindtheMinimumAreatoCoverAllOnesII().tests()
