@@ -1,1 +1,1 @@
-FindtheMinimumAreatoCoverAllOnesII().tests()
+MaximumAreaofLongestDiagonalRectangle().tests()
