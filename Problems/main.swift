@@ -1,1 +1,1 @@
-MaximumAreaofLongestDiagonalRectangle().tests()
+LengthofLongestVShapedDiagonalSegment().tests()
