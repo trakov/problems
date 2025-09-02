@@ -1,1 +1,1 @@
-AliceandBobPlayingFlowerGame().tests()
+FindtheNumberofWaystoPlacePeopleI().tests()
