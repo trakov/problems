@@ -1,1 +1,1 @@
-FindtheNumberofWaystoPlacePeopleI().tests()
+FindtheNumberofWaystoPlacePeopleII().tests()
