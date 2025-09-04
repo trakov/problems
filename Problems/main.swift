@@ -1,1 +1,1 @@
-FindtheNumberofWaystoPlacePeopleII().tests()
+FindClosestPerson().tests()
