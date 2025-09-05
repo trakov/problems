@@ -1,1 +1,1 @@
-FindClosestPerson().tests()
+MinimumOperationstoMaketheIntegerZero().tests()
