@@ -1,1 +1,1 @@
-MinimumOperationstoMaketheIntegerZero().tests()
+MinimumOperationstoMakeArrayElementsZero().tests()
