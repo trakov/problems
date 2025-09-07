@@ -1,1 +1,1 @@
-MinimumOperationstoMakeArrayElementsZero().tests()
+FindNUniqueIntegersSumuptoZero().tests()
