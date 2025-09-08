@@ -239,6 +239,7 @@
 		8F7345942E6AC395001DF5A3 /* MinimumOperationstoMaketheIntegerZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7345932E6AC395001DF5A3 /* MinimumOperationstoMaketheIntegerZero.swift */; };
 		8F7345962E6CBAEA001DF5A3 /* MinimumOperationstoMakeArrayElementsZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7345952E6CBAEA001DF5A3 /* MinimumOperationstoMakeArrayElementsZero.swift */; };
 		8F7345982E6DEA65001DF5A3 /* FindNUniqueIntegersSumuptoZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7345972E6DEA65001DF5A3 /* FindNUniqueIntegersSumuptoZero.swift */; };
+		8F73459A2E6F2A1B001DF5A3 /* ConvertIntegertotheSumofTwoNoZeroIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7345992E6F2A1B001DF5A3 /* ConvertIntegertotheSumofTwoNoZeroIntegers.swift */; };
 		8F737EB82DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EB72DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift */; };
 		8F737EBC2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */; };
 		8F737EBE2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */; };
@@ -1546,6 +1547,7 @@
 		8F7345932E6AC395001DF5A3 /* MinimumOperationstoMaketheIntegerZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMaketheIntegerZero.swift; sourceTree = "<group>"; };
 		8F7345952E6CBAEA001DF5A3 /* MinimumOperationstoMakeArrayElementsZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMakeArrayElementsZero.swift; sourceTree = "<group>"; };
 		8F7345972E6DEA65001DF5A3 /* FindNUniqueIntegersSumuptoZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNUniqueIntegersSumuptoZero.swift; sourceTree = "<group>"; };
+		8F7345992E6F2A1B001DF5A3 /* ConvertIntegertotheSumofTwoNoZeroIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertIntegertotheSumofTwoNoZeroIntegers.swift; sourceTree = "<group>"; };
 		8F737EB72DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCharactersinStringAfterTransformationsI.swift; sourceTree = "<group>"; };
 		8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCharactersinStringAfterTransformationsII.swift; sourceTree = "<group>"; };
 		8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUnequalAdjacentGroupsSubsequenceI.swift; sourceTree = "<group>"; };
@@ -3600,6 +3602,7 @@
 				8F7345932E6AC395001DF5A3 /* MinimumOperationstoMaketheIntegerZero.swift */,
 				8F7345952E6CBAEA001DF5A3 /* MinimumOperationstoMakeArrayElementsZero.swift */,
 				8F7345972E6DEA65001DF5A3 /* FindNUniqueIntegersSumuptoZero.swift */,
+				8F7345992E6F2A1B001DF5A3 /* ConvertIntegertotheSumofTwoNoZeroIntegers.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4379,6 +4382,7 @@
 				8F8510652E1FA42B00622079 /* RescheduleMeetingsforMaximumFreeTimeII.swift in Sources */,
 				8FFE5F362E33586A005DB62B /* MaximumUniqueSubarraySumAfterDeletion.swift in Sources */,
 				8FB9B3C82A0BBF220073424E /* SmallestRangeI.swift in Sources */,
+				8F73459A2E6F2A1B001DF5A3 /* ConvertIntegertotheSumofTwoNoZeroIntegers.swift in Sources */,
 				8FE9D68F2CDF34310043A0AC /* MinimumArrayEnd.swift in Sources */,
 				8FFE5F202E2A1F39005DB62B /* MinimumDifferenceinSumsAfterRemovalofElements.swift in Sources */,
 				8FBFA56C2D2F9CD500E97F38 /* CountingWordsWithaGivenPrefix.swift in Sources */,

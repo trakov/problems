@@ -1,1 +1,1 @@
-FindNUniqueIntegersSumuptoZero().tests()
+ConvertIntegertotheSumofTwoNoZeroIntegers().tests()
