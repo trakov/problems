@@ -1,1 +1,1 @@
-ConvertIntegertotheSumofTwoNoZeroIntegers().tests()
+NumberofPeopleAwareofaSecret().tests()
