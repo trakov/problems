@@ -1,1 +1,1 @@
-NumberofPeopleAwareofaSecret().tests()
+MinimumNumberofPeopletoTeach().tests()

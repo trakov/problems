@@ -241,6 +241,7 @@
 		8F7345982E6DEA65001DF5A3 /* FindNUniqueIntegersSumuptoZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7345972E6DEA65001DF5A3 /* FindNUniqueIntegersSumuptoZero.swift */; };
 		8F73459A2E6F2A1B001DF5A3 /* ConvertIntegertotheSumofTwoNoZeroIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7345992E6F2A1B001DF5A3 /* ConvertIntegertotheSumofTwoNoZeroIntegers.swift */; };
 		8F73459C2E7000F6001DF5A3 /* NumberofPeopleAwareofaSecret.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F73459B2E7000F6001DF5A3 /* NumberofPeopleAwareofaSecret.swift */; };
+		8F73459E2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F73459D2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift */; };
 		8F737EB82DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EB72DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift */; };
 		8F737EBC2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */; };
 		8F737EBE2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */; };
@@ -1550,6 +1551,7 @@
 		8F7345972E6DEA65001DF5A3 /* FindNUniqueIntegersSumuptoZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNUniqueIntegersSumuptoZero.swift; sourceTree = "<group>"; };
 		8F7345992E6F2A1B001DF5A3 /* ConvertIntegertotheSumofTwoNoZeroIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertIntegertotheSumofTwoNoZeroIntegers.swift; sourceTree = "<group>"; };
 		8F73459B2E7000F6001DF5A3 /* NumberofPeopleAwareofaSecret.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofPeopleAwareofaSecret.swift; sourceTree = "<group>"; };
+		8F73459D2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofPeopletoTeach.swift; sourceTree = "<group>"; };
 		8F737EB72DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCharactersinStringAfterTransformationsI.swift; sourceTree = "<group>"; };
 		8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCharactersinStringAfterTransformationsII.swift; sourceTree = "<group>"; };
 		8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUnequalAdjacentGroupsSubsequenceI.swift; sourceTree = "<group>"; };
@@ -3606,6 +3608,7 @@
 				8F7345972E6DEA65001DF5A3 /* FindNUniqueIntegersSumuptoZero.swift */,
 				8F7345992E6F2A1B001DF5A3 /* ConvertIntegertotheSumofTwoNoZeroIntegers.swift */,
 				8F73459B2E7000F6001DF5A3 /* NumberofPeopleAwareofaSecret.swift */,
+				8F73459D2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3708,6 +3711,7 @@
 				8F1EBF922B45DB0100E76A95 /* NumberOfLaserBeamsInABank.swift in Sources */,
 				8FB9B58A2A0BBF5A0073424E /* NumberOfIslands.swift in Sources */,
 				8FB3A5D12A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift in Sources */,
+				8F73459E2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift in Sources */,
 				8F6BED112B5295420056FCAC /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift in Sources */,
 				8FB9B4DD2A0BBF480073424E /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */,
 				8FB9B50A2A0BBF4E0073424E /* SumOfSubarrayMinimums.swift in Sources */,
