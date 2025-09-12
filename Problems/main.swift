@@ -1,1 +1,1 @@
-MinimumNumberofPeopletoTeach().tests()
+VowelsGameinaString().tests()
