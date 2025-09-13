@@ -1,1 +1,1 @@
-VowelsGameinaString().tests()
+FindMostFrequentVowelandConsonant().tests()

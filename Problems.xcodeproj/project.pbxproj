@@ -243,6 +243,7 @@
 		8F73459C2E7000F6001DF5A3 /* NumberofPeopleAwareofaSecret.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F73459B2E7000F6001DF5A3 /* NumberofPeopleAwareofaSecret.swift */; };
 		8F73459E2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F73459D2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift */; };
 		8F7345A02E747FB0001DF5A3 /* VowelsGameinaString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F73459F2E747FB0001DF5A3 /* VowelsGameinaString.swift */; };
+		8F7345A22E75ED53001DF5A3 /* FindMostFrequentVowelandConsonant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7345A12E75ED53001DF5A3 /* FindMostFrequentVowelandConsonant.swift */; };
 		8F737EB82DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EB72DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift */; };
 		8F737EBC2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */; };
 		8F737EBE2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */; };
@@ -1554,6 +1555,7 @@
 		8F73459B2E7000F6001DF5A3 /* NumberofPeopleAwareofaSecret.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofPeopleAwareofaSecret.swift; sourceTree = "<group>"; };
 		8F73459D2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofPeopletoTeach.swift; sourceTree = "<group>"; };
 		8F73459F2E747FB0001DF5A3 /* VowelsGameinaString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VowelsGameinaString.swift; sourceTree = "<group>"; };
+		8F7345A12E75ED53001DF5A3 /* FindMostFrequentVowelandConsonant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMostFrequentVowelandConsonant.swift; sourceTree = "<group>"; };
 		8F737EB72DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCharactersinStringAfterTransformationsI.swift; sourceTree = "<group>"; };
 		8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCharactersinStringAfterTransformationsII.swift; sourceTree = "<group>"; };
 		8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUnequalAdjacentGroupsSubsequenceI.swift; sourceTree = "<group>"; };
@@ -3612,6 +3614,7 @@
 				8F73459B2E7000F6001DF5A3 /* NumberofPeopleAwareofaSecret.swift */,
 				8F73459D2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift */,
 				8F73459F2E747FB0001DF5A3 /* VowelsGameinaString.swift */,
+				8F7345A12E75ED53001DF5A3 /* FindMostFrequentVowelandConsonant.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4389,6 +4392,7 @@
 				8FFE0EFD2C22A86400EDC564 /* MinimumNumberofDaystoMakemBouquets.swift in Sources */,
 				8F9948D92DA80C9D007D982F /* CounttheNumberofPowerfulIntegers.swift in Sources */,
 				8FB9B3E72A0BBF280073424E /* SimplifyPath.swift in Sources */,
+				8F7345A22E75ED53001DF5A3 /* FindMostFrequentVowelandConsonant.swift in Sources */,
 				8FE9D6932CE1CE230043A0AC /* PrimeSubtractionOperation.swift in Sources */,
 				8F8510652E1FA42B00622079 /* RescheduleMeetingsforMaximumFreeTimeII.swift in Sources */,
 				8FFE5F362E33586A005DB62B /* MaximumUniqueSubarraySumAfterDeletion.swift in Sources */,
