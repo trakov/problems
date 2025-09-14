@@ -1,1 +1,1 @@
-FindMostFrequentVowelandConsonant().tests()
+VowelSpellchecker().tests()

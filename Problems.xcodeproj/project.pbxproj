@@ -244,6 +244,7 @@
 		8F73459E2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F73459D2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift */; };
 		8F7345A02E747FB0001DF5A3 /* VowelsGameinaString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F73459F2E747FB0001DF5A3 /* VowelsGameinaString.swift */; };
 		8F7345A22E75ED53001DF5A3 /* FindMostFrequentVowelandConsonant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7345A12E75ED53001DF5A3 /* FindMostFrequentVowelandConsonant.swift */; };
+		8F7345A42E769209001DF5A3 /* VowelSpellchecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7345A32E769209001DF5A3 /* VowelSpellchecker.swift */; };
 		8F737EB82DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EB72DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift */; };
 		8F737EBC2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */; };
 		8F737EBE2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */; };
@@ -1556,6 +1557,7 @@
 		8F73459D2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofPeopletoTeach.swift; sourceTree = "<group>"; };
 		8F73459F2E747FB0001DF5A3 /* VowelsGameinaString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VowelsGameinaString.swift; sourceTree = "<group>"; };
 		8F7345A12E75ED53001DF5A3 /* FindMostFrequentVowelandConsonant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMostFrequentVowelandConsonant.swift; sourceTree = "<group>"; };
+		8F7345A32E769209001DF5A3 /* VowelSpellchecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VowelSpellchecker.swift; sourceTree = "<group>"; };
 		8F737EB72DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCharactersinStringAfterTransformationsI.swift; sourceTree = "<group>"; };
 		8F737EBB2DD530880084DADC /* TotalCharactersinStringAfterTransformationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalCharactersinStringAfterTransformationsII.swift; sourceTree = "<group>"; };
 		8F737EBD2DD5BF230084DADC /* LongestUnequalAdjacentGroupsSubsequenceI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestUnequalAdjacentGroupsSubsequenceI.swift; sourceTree = "<group>"; };
@@ -3615,6 +3617,7 @@
 				8F73459D2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift */,
 				8F73459F2E747FB0001DF5A3 /* VowelsGameinaString.swift */,
 				8F7345A12E75ED53001DF5A3 /* FindMostFrequentVowelandConsonant.swift */,
+				8F7345A32E769209001DF5A3 /* VowelSpellchecker.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4286,6 +4289,7 @@
 				8FB9B53A2A0BBF540073424E /* ExcelSheetColumnNumber.swift in Sources */,
 				8FC057E12D06B75D00CAF1D4 /* SpecialArrayII.swift in Sources */,
 				8FB9B4402A0BBF340073424E /* Subsets.swift in Sources */,
+				8F7345A42E769209001DF5A3 /* VowelSpellchecker.swift in Sources */,
 				8F737EB82DD3D4B90084DADC /* TotalCharactersinStringAfterTransformationsI.swift in Sources */,
 				8FE9D6862CDC0C8D0043A0AC /* FindifArrayCanBeSorted.swift in Sources */,
 				8F8F1EAC2B8F1186007B818E /* FindBottomLeftTreeValue.swift in Sources */,
