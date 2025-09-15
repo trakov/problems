@@ -1,1 +1,1 @@
-VowelSpellchecker().tests()
+MaximumNumberofWordsYouCanType().tests()
