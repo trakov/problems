@@ -1,1 +1,1 @@
-MaximumNumberofWordsYouCanType().tests()
+ReplaceNonCoprimeNumbersinArray().tests()
