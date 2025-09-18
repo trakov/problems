@@ -1,1 +1,1 @@
-ReplaceNonCoprimeNumbersinArray().tests()
+DesignTaskManager().tests()
