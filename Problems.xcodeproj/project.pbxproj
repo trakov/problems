@@ -42,6 +42,7 @@
 		8F0327242B25B70A005950E1 /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327232B25B709005950E1 /* TransposeMatrix.swift */; };
 		8F034DBC2E7935420079A1BF /* ReplaceNonCoprimeNumbersinArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DBB2E7935420079A1BF /* ReplaceNonCoprimeNumbersinArray.swift */; };
 		8F034DBE2E7BD71A0079A1BF /* DesignTaskManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DBD2E7BD71A0079A1BF /* DesignTaskManager.swift */; };
+		8F034DC02E7D48DD0079A1BF /* DesignSpreadsheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DBF2E7D48DD0079A1BF /* DesignSpreadsheet.swift */; };
 		8F0424232AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */; };
 		8F0424252AA31C5E00970AC5 /* ExtraCharactersInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */; };
 		8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */; };
@@ -1250,6 +1251,7 @@
 		8F0327232B25B709005950E1 /* TransposeMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransposeMatrix.swift; sourceTree = "<group>"; };
 		8F034DBB2E7935420079A1BF /* ReplaceNonCoprimeNumbersinArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceNonCoprimeNumbersinArray.swift; sourceTree = "<group>"; };
 		8F034DBD2E7BD71A0079A1BF /* DesignTaskManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignTaskManager.swift; sourceTree = "<group>"; };
+		8F034DBF2E7D48DD0079A1BF /* DesignSpreadsheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSpreadsheet.swift; sourceTree = "<group>"; };
 		8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfTapsToOpenToWaterAGarden.swift; sourceTree = "<group>"; };
 		8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraCharactersInAString.swift; sourceTree = "<group>"; };
 		8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListInParts.swift; sourceTree = "<group>"; };
@@ -3627,6 +3629,7 @@
 				8F7345A52E77E6F4001DF5A3 /* MaximumNumberofWordsYouCanType.swift */,
 				8F034DBB2E7935420079A1BF /* ReplaceNonCoprimeNumbersinArray.swift */,
 				8F034DBD2E7BD71A0079A1BF /* DesignTaskManager.swift */,
+				8F034DBF2E7D48DD0079A1BF /* DesignSpreadsheet.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4048,6 +4051,7 @@
 				8F8F1EAE2B905E30007B818E /* EvenOddTree.swift in Sources */,
 				8FC7B9912BAC68BF0036C9F8 /* NextPermutation.swift in Sources */,
 				8FB9B53B2A0BBF540073424E /* NearestExitFromEntranceInMaze.swift in Sources */,
+				8F034DC02E7D48DD0079A1BF /* DesignSpreadsheet.swift in Sources */,
 				8FF63D9A2CCE26850061ED24 /* CountSquareSubmatriceswithAllOnes.swift in Sources */,
 				8FB9B4BD2A0BBF480073424E /* KeysAndRooms.swift in Sources */,
 				8FD44E1F2C5A01060096C210 /* FillingBookcaseShelves.swift in Sources */,

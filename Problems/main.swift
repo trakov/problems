@@ -1,1 +1,1 @@
-DesignTaskManager().tests()
+DesignSpreadsheet().tests()
