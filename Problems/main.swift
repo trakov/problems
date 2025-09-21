@@ -1,1 +1,1 @@
-ImplementRouter().tests()
+DesignMovieRentalSystem().tests()

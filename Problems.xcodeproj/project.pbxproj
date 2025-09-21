@@ -44,6 +44,7 @@
 		8F034DBE2E7BD71A0079A1BF /* DesignTaskManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DBD2E7BD71A0079A1BF /* DesignTaskManager.swift */; };
 		8F034DC02E7D48DD0079A1BF /* DesignSpreadsheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DBF2E7D48DD0079A1BF /* DesignSpreadsheet.swift */; };
 		8F034DC22E7F41850079A1BF /* ImplementRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC12E7F41850079A1BF /* ImplementRouter.swift */; };
+		8F034DC42E7FF33D0079A1BF /* DesignMovieRentalSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC32E7FF33D0079A1BF /* DesignMovieRentalSystem.swift */; };
 		8F0424232AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */; };
 		8F0424252AA31C5E00970AC5 /* ExtraCharactersInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */; };
 		8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */; };
@@ -1254,6 +1255,7 @@
 		8F034DBD2E7BD71A0079A1BF /* DesignTaskManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignTaskManager.swift; sourceTree = "<group>"; };
 		8F034DBF2E7D48DD0079A1BF /* DesignSpreadsheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSpreadsheet.swift; sourceTree = "<group>"; };
 		8F034DC12E7F41850079A1BF /* ImplementRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementRouter.swift; sourceTree = "<group>"; };
+		8F034DC32E7FF33D0079A1BF /* DesignMovieRentalSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignMovieRentalSystem.swift; sourceTree = "<group>"; };
 		8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfTapsToOpenToWaterAGarden.swift; sourceTree = "<group>"; };
 		8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraCharactersInAString.swift; sourceTree = "<group>"; };
 		8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListInParts.swift; sourceTree = "<group>"; };
@@ -3633,6 +3635,7 @@
 				8F034DBD2E7BD71A0079A1BF /* DesignTaskManager.swift */,
 				8F034DBF2E7D48DD0079A1BF /* DesignSpreadsheet.swift */,
 				8F034DC12E7F41850079A1BF /* ImplementRouter.swift */,
+				8F034DC32E7FF33D0079A1BF /* DesignMovieRentalSystem.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4713,6 +4716,7 @@
 				8FF63DA22CD4187A0061ED24 /* MinimumTotalDistanceTraveled.swift in Sources */,
 				8FD5EA962ABFFC3300F47EDD /* ChampagneTower.swift in Sources */,
 				8FB9B3CB2A0BBF220073424E /* ArithmeticSubarrays.swift in Sources */,
+				8F034DC42E7FF33D0079A1BF /* DesignMovieRentalSystem.swift in Sources */,
 				8FB9B4DB2A0BBF480073424E /* ArithmeticSlicesIISubsequence.swift in Sources */,
 				8FB9B5832A0BBF5A0073424E /* LengthOfLastWord.swift in Sources */,
 				8FF20C072C8C8733002C9D49 /* StickerstoSpellWord.swift in Sources */,
