@@ -1,1 +1,1 @@
-DesignMovieRentalSystem().tests()
+FractiontoRecurringDecimal().tests()
