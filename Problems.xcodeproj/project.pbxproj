@@ -46,6 +46,7 @@
 		8F034DC22E7F41850079A1BF /* ImplementRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC12E7F41850079A1BF /* ImplementRouter.swift */; };
 		8F034DC42E7FF33D0079A1BF /* DesignMovieRentalSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC32E7FF33D0079A1BF /* DesignMovieRentalSystem.swift */; };
 		8F034DC62E8471630079A1BF /* FractiontoRecurringDecimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC52E8471630079A1BF /* FractiontoRecurringDecimal.swift */; };
+		8F034DC82E897CCE0079A1BF /* LargestTriangleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC72E897CCE0079A1BF /* LargestTriangleArea.swift */; };
 		8F0424232AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */; };
 		8F0424252AA31C5E00970AC5 /* ExtraCharactersInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */; };
 		8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */; };
@@ -1258,6 +1259,7 @@
 		8F034DC12E7F41850079A1BF /* ImplementRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementRouter.swift; sourceTree = "<group>"; };
 		8F034DC32E7FF33D0079A1BF /* DesignMovieRentalSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignMovieRentalSystem.swift; sourceTree = "<group>"; };
 		8F034DC52E8471630079A1BF /* FractiontoRecurringDecimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FractiontoRecurringDecimal.swift; sourceTree = "<group>"; };
+		8F034DC72E897CCE0079A1BF /* LargestTriangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestTriangleArea.swift; sourceTree = "<group>"; };
 		8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfTapsToOpenToWaterAGarden.swift; sourceTree = "<group>"; };
 		8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraCharactersInAString.swift; sourceTree = "<group>"; };
 		8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListInParts.swift; sourceTree = "<group>"; };
@@ -3639,6 +3641,7 @@
 				8F034DC12E7F41850079A1BF /* ImplementRouter.swift */,
 				8F034DC32E7FF33D0079A1BF /* DesignMovieRentalSystem.swift */,
 				8F034DC52E8471630079A1BF /* FractiontoRecurringDecimal.swift */,
+				8F034DC72E897CCE0079A1BF /* LargestTriangleArea.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3731,6 +3734,7 @@
 				8FB9B4AD2A0BBF410073424E /* RemoveDuplicatesFromSortedList2.swift in Sources */,
 				8F0040DD2CA0B3E100116FE0 /* KthSmallestinLexicographicalOrder.swift in Sources */,
 				8FB9B55A2A0BBF540073424E /* MissingNumber.swift in Sources */,
+				8F034DC82E897CCE0079A1BF /* LargestTriangleArea.swift in Sources */,
 				8F7A23172BCEAE89005E48C2 /* AddOneRowToTree.swift in Sources */,
 				8F7345A62E77E6F4001DF5A3 /* MaximumNumberofWordsYouCanType.swift in Sources */,
 				8F00410E2CB50FA600116FE0 /* MinimumNumberofSwapstoMaketheStringBalanced.swift in Sources */,
