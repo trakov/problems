@@ -1,1 +1,1 @@
-LargestTriangleArea().tests()
+MinimumScoreTriangulationofPolygon().tests()
