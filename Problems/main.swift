@@ -1,1 +1,1 @@
-MinimumScoreTriangulationofPolygon().tests()
+FindTriangularSumofanArray().tests()

@@ -48,6 +48,7 @@
 		8F034DC62E8471630079A1BF /* FractiontoRecurringDecimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC52E8471630079A1BF /* FractiontoRecurringDecimal.swift */; };
 		8F034DC82E897CCE0079A1BF /* LargestTriangleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC72E897CCE0079A1BF /* LargestTriangleArea.swift */; };
 		8F034DCA2E8A87960079A1BF /* MinimumScoreTriangulationofPolygon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC92E8A87960079A1BF /* MinimumScoreTriangulationofPolygon.swift */; };
+		8F034DCC2E8BAD260079A1BF /* FindTriangularSumofanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DCB2E8BAD260079A1BF /* FindTriangularSumofanArray.swift */; };
 		8F0424232AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */; };
 		8F0424252AA31C5E00970AC5 /* ExtraCharactersInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */; };
 		8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */; };
@@ -1262,6 +1263,7 @@
 		8F034DC52E8471630079A1BF /* FractiontoRecurringDecimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FractiontoRecurringDecimal.swift; sourceTree = "<group>"; };
 		8F034DC72E897CCE0079A1BF /* LargestTriangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestTriangleArea.swift; sourceTree = "<group>"; };
 		8F034DC92E8A87960079A1BF /* MinimumScoreTriangulationofPolygon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumScoreTriangulationofPolygon.swift; sourceTree = "<group>"; };
+		8F034DCB2E8BAD260079A1BF /* FindTriangularSumofanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTriangularSumofanArray.swift; sourceTree = "<group>"; };
 		8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfTapsToOpenToWaterAGarden.swift; sourceTree = "<group>"; };
 		8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraCharactersInAString.swift; sourceTree = "<group>"; };
 		8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListInParts.swift; sourceTree = "<group>"; };
@@ -3645,6 +3647,7 @@
 				8F034DC52E8471630079A1BF /* FractiontoRecurringDecimal.swift */,
 				8F034DC72E897CCE0079A1BF /* LargestTriangleArea.swift */,
 				8F034DC92E8A87960079A1BF /* MinimumScoreTriangulationofPolygon.swift */,
+				8F034DCB2E8BAD260079A1BF /* FindTriangularSumofanArray.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4637,6 +4640,7 @@
 				8FB9B43B2A0BBF340073424E /* JumpGameIV.swift in Sources */,
 				8FB1A5482C125B1900CD2F8F /* HandofStraights.swift in Sources */,
 				8FB9B45E2A0BBF3A0073424E /* CourseSchedule.swift in Sources */,
+				8F034DCC2E8BAD260079A1BF /* FindTriangularSumofanArray.swift in Sources */,
 				8F0040D52C9BFD9F00116FE0 /* DifferentWaystoAddParentheses.swift in Sources */,
 				8FF20BB32C74D80D002C9D49 /* LowestCommonAncestorofaBinaryTreeIII.swift in Sources */,
 				8F0D54872B66212B00BD6498 /* NumberOfSubmatricesThatSumToTarget.swift in Sources */,
