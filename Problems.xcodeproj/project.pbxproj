@@ -49,6 +49,7 @@
 		8F034DC82E897CCE0079A1BF /* LargestTriangleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC72E897CCE0079A1BF /* LargestTriangleArea.swift */; };
 		8F034DCA2E8A87960079A1BF /* MinimumScoreTriangulationofPolygon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DC92E8A87960079A1BF /* MinimumScoreTriangulationofPolygon.swift */; };
 		8F034DCC2E8BAD260079A1BF /* FindTriangularSumofanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DCB2E8BAD260079A1BF /* FindTriangularSumofanArray.swift */; };
+		8F034DCE2E8E325C0079A1BF /* WaterBottlesII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F034DCD2E8E325C0079A1BF /* WaterBottlesII.swift */; };
 		8F0424232AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */; };
 		8F0424252AA31C5E00970AC5 /* ExtraCharactersInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */; };
 		8F0424282AA8478D00970AC5 /* SplitLinkedListInParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */; };
@@ -1264,6 +1265,7 @@
 		8F034DC72E897CCE0079A1BF /* LargestTriangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestTriangleArea.swift; sourceTree = "<group>"; };
 		8F034DC92E8A87960079A1BF /* MinimumScoreTriangulationofPolygon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumScoreTriangulationofPolygon.swift; sourceTree = "<group>"; };
 		8F034DCB2E8BAD260079A1BF /* FindTriangularSumofanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTriangularSumofanArray.swift; sourceTree = "<group>"; };
+		8F034DCD2E8E325C0079A1BF /* WaterBottlesII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterBottlesII.swift; sourceTree = "<group>"; };
 		8F0424222AA07F8C00970AC5 /* MinimumNumberOfTapsToOpenToWaterAGarden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfTapsToOpenToWaterAGarden.swift; sourceTree = "<group>"; };
 		8F0424242AA31C5E00970AC5 /* ExtraCharactersInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraCharactersInAString.swift; sourceTree = "<group>"; };
 		8F0424272AA8478D00970AC5 /* SplitLinkedListInParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitLinkedListInParts.swift; sourceTree = "<group>"; };
@@ -3648,6 +3650,7 @@
 				8F034DC72E897CCE0079A1BF /* LargestTriangleArea.swift */,
 				8F034DC92E8A87960079A1BF /* MinimumScoreTriangulationofPolygon.swift */,
 				8F034DCB2E8BAD260079A1BF /* FindTriangularSumofanArray.swift */,
+				8F034DCD2E8E325C0079A1BF /* WaterBottlesII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4343,6 +4346,7 @@
 				8F3BC63D2E131F91002909CA /* LongestHarmoniousSubsequence.swift in Sources */,
 				8FB9B4292A0BBF2E0073424E /* DesignAddAndSearchWordsDataStructure.swift in Sources */,
 				8FF63D8E2CC62ACE0061ED24 /* SplitaStringIntotheMaxNumberofUniqueSubstrings.swift in Sources */,
+				8F034DCE2E8E325C0079A1BF /* WaterBottlesII.swift in Sources */,
 				8FB9B5872A0BBF5A0073424E /* LetterCombinations.swift in Sources */,
 				8FB9B42B2A0BBF2E0073424E /* WaterAndJugProblem.swift in Sources */,
 				8F0040CF2C99443800116FE0 /* UncommonWordsfromTwoSentences.swift in Sources */,
