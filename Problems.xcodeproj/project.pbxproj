@@ -309,6 +309,7 @@
 		8F8BD1972D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8BD1962D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift */; };
 		8F8D2DA82E939523007C8AC8 /* SwiminRisingWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D2DA72E939523007C8AC8 /* SwiminRisingWater.swift */; };
 		8F8D2DAA2E94DF41007C8AC8 /* AvoidFloodinTheCity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D2DA92E94DF41007C8AC8 /* AvoidFloodinTheCity.swift */; };
+		8F8D2DAC2E978D85007C8AC8 /* FindtheMinimumAmountofTimetoBrewPotions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D2DAB2E978D85007C8AC8 /* FindtheMinimumAmountofTimetoBrewPotions.swift */; };
 		8F8EB75E2D377C8A00DFD2D3 /* MinimizeXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75D2D377C8A00DFD2D3 /* MinimizeXOR.swift */; };
 		8F8EB7602D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75F2D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift */; };
 		8F8EB7642D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB7632D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift */; };
@@ -1718,6 +1719,7 @@
 		8F8BD1962D9E085000D03FEE /* MaximumValueofanOrderedTripletII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValueofanOrderedTripletII.swift; sourceTree = "<group>"; };
 		8F8D2DA72E939523007C8AC8 /* SwiminRisingWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiminRisingWater.swift; sourceTree = "<group>"; };
 		8F8D2DA92E94DF41007C8AC8 /* AvoidFloodinTheCity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvoidFloodinTheCity.swift; sourceTree = "<group>"; };
+		8F8D2DAB2E978D85007C8AC8 /* FindtheMinimumAmountofTimetoBrewPotions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheMinimumAmountofTimetoBrewPotions.swift; sourceTree = "<group>"; };
 		8F8EAA2F2872B28200A0DCF4 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
 		8F8EB75D2D377C8A00DFD2D3 /* MinimizeXOR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeXOR.swift; sourceTree = "<group>"; };
 		8F8EB75F2D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitwiseXORofAllPairings.swift; sourceTree = "<group>"; };
@@ -3657,6 +3659,7 @@
 				8F034DCD2E8E325C0079A1BF /* WaterBottlesII.swift */,
 				8F8D2DA72E939523007C8AC8 /* SwiminRisingWater.swift */,
 				8F8D2DA92E94DF41007C8AC8 /* AvoidFloodinTheCity.swift */,
+				8F8D2DAB2E978D85007C8AC8 /* FindtheMinimumAmountofTimetoBrewPotions.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4398,6 +4401,7 @@
 				8FB79E132C653B94005549D1 /* ExpressionAddOperators.swift in Sources */,
 				8FD44E2F2C5A83BA0096C210 /* ColorfulNumbers.swift in Sources */,
 				8FBFA5682D2CFC4F00E97F38 /* StringMatchinginanArray.swift in Sources */,
+				8F8D2DAC2E978D85007C8AC8 /* FindtheMinimumAmountofTimetoBrewPotions.swift in Sources */,
 				8FB9B4962A0BBF410073424E /* FindMinimumInRotatedSortedArray.swift in Sources */,
 				8FC057CA2CFD7BB700CAF1D4 /* CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.swift in Sources */,
 				8FB9B5912A0BBF5A0073424E /* ValidParentheses.swift in Sources */,

@@ -1,1 +1,1 @@
-AvoidFloodinTheCity().tests()
+FindtheMinimumAmountofTimetoBrewPotions().tests()
