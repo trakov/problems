@@ -1,1 +1,1 @@
-FindtheMinimumAmountofTimetoBrewPotions().tests()
+TakingMaximumEnergyFromtheMysticDungeon().tests()
