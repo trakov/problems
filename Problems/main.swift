@@ -1,1 +1,1 @@
-TakingMaximumEnergyFromtheMysticDungeon().tests()
+MaximumTotalDamageWithSpellCasting().tests()
