@@ -1,1 +1,1 @@
-MaximumTotalDamageWithSpellCasting().tests()
+FindSumofArrayProductofMagicalSequences().tests()
