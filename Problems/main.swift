@@ -1,1 +1,1 @@
-FindSumofArrayProductofMagicalSequences().tests()
+FindResultantArrayAfterRemovingAnagrams().tests()
