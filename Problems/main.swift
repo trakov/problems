@@ -1,1 +1,1 @@
-FindResultantArrayAfterRemovingAnagrams().tests()
+AdjacentIncreasingSubarraysDetectionI().tests()
