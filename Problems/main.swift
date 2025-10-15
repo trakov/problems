@@ -1,1 +1,1 @@
-AdjacentIncreasingSubarraysDetectionI().tests()
+AdjacentIncreasingSubarraysDetectionII().tests()
