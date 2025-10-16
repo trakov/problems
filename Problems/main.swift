@@ -1,1 +1,1 @@
-AdjacentIncreasingSubarraysDetectionII().tests()
+SmallestMissingNonnegativeIntegerAfterOperations().tests()
