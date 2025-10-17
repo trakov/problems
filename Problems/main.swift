@@ -1,1 +1,1 @@
-SmallestMissingNonnegativeIntegerAfterOperations().tests()
+MaximizetheNumberofPartitionsAfterOperations().tests()
