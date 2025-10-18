@@ -1,1 +1,1 @@
-MaximizetheNumberofPartitionsAfterOperations().tests()
+MaximumNumberofDistinctElementsAfterOperations().tests()
