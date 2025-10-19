@@ -1,1 +1,1 @@
-MaximumNumberofDistinctElementsAfterOperations().tests()
+LexicographicallySmallestStringAfterApplyingOperations().tests()
