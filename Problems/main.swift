@@ -1,1 +1,1 @@
-LexicographicallySmallestStringAfterApplyingOperations().tests()
+FinalValueofVariableAfterPerformingOperations().tests()
