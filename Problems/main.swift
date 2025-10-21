@@ -1,1 +1,1 @@
-FinalValueofVariableAfterPerformingOperations().tests()
+MaximumFrequencyofanElementAfterPerformingOperationsI().tests()
