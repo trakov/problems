@@ -193,6 +193,8 @@
 		8F6886832EA4F23D00468A50 /* LexicographicallySmallestStringAfterApplyingOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6886822EA4F23D00468A50 /* LexicographicallySmallestStringAfterApplyingOperations.swift */; };
 		8F6886852EA603B400468A50 /* FinalValueofVariableAfterPerformingOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6886842EA603B400468A50 /* FinalValueofVariableAfterPerformingOperations.swift */; };
 		8F6886892EA74FF200468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6886882EA74FF200468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsI.swift */; };
+		8F68868D2EA8A7F800468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F68868C2EA8A7F800468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsII.swift */; };
+		8F6886902EA8AC3E00468A50 /* Algorithms in Frameworks */ = {isa = PBXBuildFile; productRef = 8F68868F2EA8AC3E00468A50 /* Algorithms */; };
 		8F6B6E6F2C3AAC8500A639F6 /* WaterBottles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E6E2C3AAC8500A639F6 /* WaterBottles.swift */; };
 		8F6B6E712C3CFC3D00A639F6 /* AverageWaitingTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E702C3CFC3C00A639F6 /* AverageWaitingTime.swift */; };
 		8F6B6E732C3FE4C500A639F6 /* ReverseSubstringsBetweenEachPairofParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E722C3FE4C500A639F6 /* ReverseSubstringsBetweenEachPairofParentheses.swift */; };
@@ -1487,6 +1489,7 @@
 		8F6886822EA4F23D00468A50 /* LexicographicallySmallestStringAfterApplyingOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallySmallestStringAfterApplyingOperations.swift; sourceTree = "<group>"; };
 		8F6886842EA603B400468A50 /* FinalValueofVariableAfterPerformingOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalValueofVariableAfterPerformingOperations.swift; sourceTree = "<group>"; };
 		8F6886882EA74FF200468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumFrequencyofanElementAfterPerformingOperationsI.swift; sourceTree = "<group>"; };
+		8F68868C2EA8A7F800468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumFrequencyofanElementAfterPerformingOperationsII.swift; sourceTree = "<group>"; };
 		8F6B6E6E2C3AAC8500A639F6 /* WaterBottles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterBottles.swift; sourceTree = "<group>"; };
 		8F6B6E702C3CFC3C00A639F6 /* AverageWaitingTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageWaitingTime.swift; sourceTree = "<group>"; };
 		8F6B6E722C3FE4C500A639F6 /* ReverseSubstringsBetweenEachPairofParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseSubstringsBetweenEachPairofParentheses.swift; sourceTree = "<group>"; };
@@ -2459,6 +2462,7 @@
 				8F91DCA52D5DD01100967792 /* HeapModule in Frameworks */,
 				8F91DCA72D5DD01100967792 /* OrderedCollections in Frameworks */,
 				8F91DC9D2D5DD01100967792 /* BitCollections in Frameworks */,
+				8F6886902EA8AC3E00468A50 /* Algorithms in Frameworks */,
 				8F91DCA32D5DD01100967792 /* HashTreeCollections in Frameworks */,
 				8F91DCA12D5DD01100967792 /* DequeModule in Frameworks */,
 				8F91DCA92D5DD01100967792 /* _RopeModule in Frameworks */,
@@ -3696,6 +3700,7 @@
 				8F6886822EA4F23D00468A50 /* LexicographicallySmallestStringAfterApplyingOperations.swift */,
 				8F6886842EA603B400468A50 /* FinalValueofVariableAfterPerformingOperations.swift */,
 				8F6886882EA74FF200468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsI.swift */,
+				8F68868C2EA8A7F800468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -3763,6 +3768,7 @@
 			mainGroup = 8FD0C0E326B506A000B7505D;
 			packageReferences = (
 				8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */,
+				8F68868E2EA8AC3E00468A50 /* XCRemoteSwiftPackageReference "swift-algorithms" */,
 			);
 			productRefGroup = 8FD0C0ED26B506A000B7505D /* Products */;
 			projectDirPath = "";
@@ -4454,6 +4460,7 @@
 				8FB9B5662A0BBF5A0073424E /* PowXN.swift in Sources */,
 				8FF5A4AD2B15AD1F00C11D6D /* NumberOfWaysToDivideALongCorridor.swift in Sources */,
 				8FB9B41E2A0BBF2E0073424E /* CheckCompletenessOfABinaryTree.swift in Sources */,
+				8F68868D2EA8A7F800468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsII.swift in Sources */,
 				8FF63D842CBE3E2A0061ED24 /* SeparateBlackandWhiteBalls.swift in Sources */,
 				8F5C73452D191697003CE491 /* MinimumNumberofOperationstoSortaBinaryTreebyLevel.swift in Sources */,
 				8FB584E32DC9D38100CEE980 /* BuildArrayfromPermutation.swift in Sources */,
@@ -5164,6 +5171,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		8F68868E2EA8AC3E00468A50 /* XCRemoteSwiftPackageReference "swift-algorithms" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apple/swift-algorithms.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.2.1;
+			};
+		};
 		8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/apple/swift-collections.git";
@@ -5175,6 +5190,11 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		8F68868F2EA8AC3E00468A50 /* Algorithms */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8F68868E2EA8AC3E00468A50 /* XCRemoteSwiftPackageReference "swift-algorithms" */;
+			productName = Algorithms;
+		};
 		8F91DC9C2D5DD01100967792 /* BitCollections */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 8F6C042E2C69B15300E16085 /* XCRemoteSwiftPackageReference "swift-collections" */;

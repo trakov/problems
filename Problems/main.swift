@@ -1,1 +1,1 @@
-MaximumFrequencyofanElementAfterPerformingOperationsI().tests()
+MaximumFrequencyofanElementAfterPerformingOperationsII().tests()
