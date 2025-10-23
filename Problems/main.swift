@@ -1,1 +1,1 @@
-MaximumFrequencyofanElementAfterPerformingOperationsII().tests()
+CheckIfDigitsAreEqualinStringAfterOperationsI().tests()
