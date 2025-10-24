@@ -1,1 +1,1 @@
-CheckIfDigitsAreEqualinStringAfterOperationsI().tests()
+NextGreaterNumericallyBalancedNumber().tests()
