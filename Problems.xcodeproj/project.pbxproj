@@ -197,6 +197,7 @@
 		8F6886902EA8AC3E00468A50 /* Algorithms in Frameworks */ = {isa = PBXBuildFile; productRef = 8F68868F2EA8AC3E00468A50 /* Algorithms */; };
 		8F6886922EAA03DE00468A50 /* CheckIfDigitsAreEqualinStringAfterOperationsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6886912EAA03DE00468A50 /* CheckIfDigitsAreEqualinStringAfterOperationsI.swift */; };
 		8F6886942EAB4C2100468A50 /* NextGreaterNumericallyBalancedNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6886932EAB4C2100468A50 /* NextGreaterNumericallyBalancedNumber.swift */; };
+		8F6886962EAEB8CB00468A50 /* SimpleBankSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6886952EAEB8CB00468A50 /* SimpleBankSystem.swift */; };
 		8F6B6E6F2C3AAC8500A639F6 /* WaterBottles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E6E2C3AAC8500A639F6 /* WaterBottles.swift */; };
 		8F6B6E712C3CFC3D00A639F6 /* AverageWaitingTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E702C3CFC3C00A639F6 /* AverageWaitingTime.swift */; };
 		8F6B6E732C3FE4C500A639F6 /* ReverseSubstringsBetweenEachPairofParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6B6E722C3FE4C500A639F6 /* ReverseSubstringsBetweenEachPairofParentheses.swift */; };
@@ -1494,6 +1495,7 @@
 		8F68868C2EA8A7F800468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumFrequencyofanElementAfterPerformingOperationsII.swift; sourceTree = "<group>"; };
 		8F6886912EAA03DE00468A50 /* CheckIfDigitsAreEqualinStringAfterOperationsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfDigitsAreEqualinStringAfterOperationsI.swift; sourceTree = "<group>"; };
 		8F6886932EAB4C2100468A50 /* NextGreaterNumericallyBalancedNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterNumericallyBalancedNumber.swift; sourceTree = "<group>"; };
+		8F6886952EAEB8CB00468A50 /* SimpleBankSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleBankSystem.swift; sourceTree = "<group>"; };
 		8F6B6E6E2C3AAC8500A639F6 /* WaterBottles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterBottles.swift; sourceTree = "<group>"; };
 		8F6B6E702C3CFC3C00A639F6 /* AverageWaitingTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageWaitingTime.swift; sourceTree = "<group>"; };
 		8F6B6E722C3FE4C500A639F6 /* ReverseSubstringsBetweenEachPairofParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseSubstringsBetweenEachPairofParentheses.swift; sourceTree = "<group>"; };
@@ -3707,6 +3709,7 @@
 				8F68868C2EA8A7F800468A50 /* MaximumFrequencyofanElementAfterPerformingOperationsII.swift */,
 				8F6886912EAA03DE00468A50 /* CheckIfDigitsAreEqualinStringAfterOperationsI.swift */,
 				8F6886932EAB4C2100468A50 /* NextGreaterNumericallyBalancedNumber.swift */,
+				8F6886952EAEB8CB00468A50 /* SimpleBankSystem.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4038,6 +4041,7 @@
 				8FB79E272C67CBE2005549D1 /* LeftmostColumnwithatLeastaOne.swift in Sources */,
 				8FB9B5402A0BBF540073424E /* BalancedBinaryTree.swift in Sources */,
 				8F08BBDF2D78183C0049E48D /* CountTotalNumberofColoredCells.swift in Sources */,
+				8F6886962EAEB8CB00468A50 /* SimpleBankSystem.swift in Sources */,
 				8FC1F8042D0AAD550091B840 /* TakeGiftsFromtheRichestPile.swift in Sources */,
 				8FB9B4502A0BBF340073424E /* SudokuSolver.swift in Sources */,
 				8FE0EBB02A3049AE006FC482 /* MinimumFlipsToMakeAORBEqualToC.swift in Sources */,

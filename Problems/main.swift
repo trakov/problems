@@ -1,1 +1,1 @@
-NextGreaterNumericallyBalancedNumber().tests()
+SimpleBankSystem().tests()
