@@ -1,1 +1,1 @@
-SimpleBankSystem().tests()
+MakeArrayElementsEqualtoZero().tests()
