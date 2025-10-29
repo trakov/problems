@@ -1,1 +1,1 @@
-MakeArrayElementsEqualtoZero().tests()
+SmallestNumberWithAllSetBits().tests()
