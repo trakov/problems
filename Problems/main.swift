@@ -1,1 +1,1 @@
-SmallestNumberWithAllSetBits().tests()
+MinimumNumberofIncrementsonSubarraystoFormaTargetArray().tests()
