@@ -1,1 +1,1 @@
-TheTwoSneakyNumbersofDigitville().tests()
+FindXSumofAllKLongSubarraysI().tests()
