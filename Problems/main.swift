@@ -1,1 +1,1 @@
-FindXSumofAllKLongSubarraysII().tests()
+PowerGridMaintenance().tests()

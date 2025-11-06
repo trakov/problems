@@ -113,6 +113,7 @@
 		8F21C5292EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5282EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift */; };
 		8F21C52B2EB9D51700FD0C9D /* FindXSumofAllKLongSubarraysI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C52A2EB9D51700FD0C9D /* FindXSumofAllKLongSubarraysI.swift */; };
 		8F21C52D2EBB24A900FD0C9D /* FindXSumofAllKLongSubarraysII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C52C2EBB24A900FD0C9D /* FindXSumofAllKLongSubarraysII.swift */; };
+		8F21C52F2EBC807200FD0C9D /* PowerGridMaintenance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C52E2EBC807200FD0C9D /* PowerGridMaintenance.swift */; };
 		8F25050C2A7ECD2E0089188D /* UniqueBinarySearchTreesII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F25050B2A7ECD2E0089188D /* UniqueBinarySearchTreesII.swift */; };
 		8F26829F2BB53F000097E666 /* LengthOfLongestSubarrayWithAtMostKFrequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F26829E2BB53F000097E666 /* LengthOfLongestSubarrayWithAtMostKFrequency.swift */; };
 		8F2682A12BB692A30097E666 /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F2682A02BB692A30097E666 /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */; };
@@ -1397,6 +1398,7 @@
 		8F21C5282EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheTwoSneakyNumbersofDigitville.swift; sourceTree = "<group>"; };
 		8F21C52A2EB9D51700FD0C9D /* FindXSumofAllKLongSubarraysI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindXSumofAllKLongSubarraysI.swift; sourceTree = "<group>"; };
 		8F21C52C2EBB24A900FD0C9D /* FindXSumofAllKLongSubarraysII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindXSumofAllKLongSubarraysII.swift; sourceTree = "<group>"; };
+		8F21C52E2EBC807200FD0C9D /* PowerGridMaintenance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerGridMaintenance.swift; sourceTree = "<group>"; };
 		8F25050B2A7ECD2E0089188D /* UniqueBinarySearchTreesII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueBinarySearchTreesII.swift; sourceTree = "<group>"; };
 		8F26829E2BB53F000097E666 /* LengthOfLongestSubarrayWithAtMostKFrequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLongestSubarrayWithAtMostKFrequency.swift; sourceTree = "<group>"; };
 		8F2682A02BB692A30097E666 /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift; sourceTree = "<group>"; };
@@ -3728,6 +3730,7 @@
 				8F21C5282EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift */,
 				8F21C52A2EB9D51700FD0C9D /* FindXSumofAllKLongSubarraysI.swift */,
 				8F21C52C2EBB24A900FD0C9D /* FindXSumofAllKLongSubarraysII.swift */,
+				8F21C52E2EBC807200FD0C9D /* PowerGridMaintenance.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4550,6 +4553,7 @@
 				8FB9B48A2A0BBF410073424E /* AllPathsFromSourceToTarget.swift in Sources */,
 				8FB9B4512A0BBF340073424E /* WordBreak.swift in Sources */,
 				8F6E2E702DFF3BB000D80D9C /* MaxDifferenceYouCanGetFromChanginganInteger.swift in Sources */,
+				8F21C52F2EBC807200FD0C9D /* PowerGridMaintenance.swift in Sources */,
 				8FF7C9912BF138AB00A1AFD7 /* LargestLocalValuesinaMatrix.swift in Sources */,
 				8F9FD94D2DDEEBFC00D6F0A9 /* ZeroArrayTransformationIII.swift in Sources */,
 				8FB9B4D12A0BBF480073424E /* UniquePaths.swift in Sources */,
