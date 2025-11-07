@@ -1,1 +1,1 @@
-PowerGridMaintenance().tests()
+MaximizetheMinimumPoweredCity().tests()
