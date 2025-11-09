@@ -1,1 +1,1 @@
-MaximizetheMinimumPoweredCity().tests()
+CountOperationstoObtainZero().tests()
