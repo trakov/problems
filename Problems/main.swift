@@ -1,1 +1,1 @@
-CountOperationstoObtainZero().tests()
+MinimumOperationstoConvertAllElementstoZero().tests()
