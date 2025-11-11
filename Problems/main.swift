@@ -1,1 +1,1 @@
-MinimumOperationstoConvertAllElementstoZero().tests()
+OnesandZeroes().tests()
