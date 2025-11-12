@@ -1,1 +1,1 @@
-OnesandZeroes().tests()
+MinimumNumberofOperationstoMakeAllArrayElementsEqualto1().tests()
