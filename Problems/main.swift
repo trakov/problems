@@ -1,1 +1,1 @@
-MinimumNumberofOperationstoMakeAllArrayElementsEqualto1().tests()
+MaximumNumberofOperationstoMoveOnestotheEnd().tests()
