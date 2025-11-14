@@ -1064,6 +1064,7 @@
 		8FDC32342E28CE2500C16A51 /* FindtheMaximumLengthofValidSubsequenceII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDC32332E28CE2500C16A51 /* FindtheMaximumLengthofValidSubsequenceII.swift */; };
 		8FDE73CF2EC4BFE900386ADF /* MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73CE2EC4BFE900386ADF /* MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.swift */; };
 		8FDE73D12EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D02EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift */; };
+		8FDE73D32EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */; };
 		8FDFE0D02D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */; };
 		8FDFE0D42D0D5EA90062DECD /* ContinuousSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */; };
 		8FDFE0D62D0F35700062DECD /* MaximumAveragePassRatio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */; };
@@ -2130,6 +2131,7 @@
 		8FDC32332E28CE2500C16A51 /* FindtheMaximumLengthofValidSubsequenceII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheMaximumLengthofValidSubsequenceII.swift; sourceTree = "<group>"; };
 		8FDE73CE2EC4BFE900386ADF /* MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.swift; sourceTree = "<group>"; };
 		8FDE73D02EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofOperationstoMoveOnestotheEnd.swift; sourceTree = "<group>"; };
+		8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncrementSubmatricesbyOne.swift; sourceTree = "<group>"; };
 		8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindScoreofanArrayAfterMarkingAllElements.swift; sourceTree = "<group>"; };
 		8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuousSubarrays.swift; sourceTree = "<group>"; };
 		8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAveragePassRatio.swift; sourceTree = "<group>"; };
@@ -3749,6 +3751,7 @@
 				8FCA79B82EC322C400A3EEC9 /* OnesandZeroes.swift */,
 				8FDE73CE2EC4BFE900386ADF /* MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.swift */,
 				8FDE73D02EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift */,
+				8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4627,6 +4630,7 @@
 				8FB9B3BC2A0BBECA0073424E /* TreeHeight.swift in Sources */,
 				8FB584EB2DCFA3DE00CEE980 /* MinimumEqualSumofTwoArraysAfterReplacingZeros.swift in Sources */,
 				8F6B6E852C47CC3500A639F6 /* DeleteNodesAndReturnForest.swift in Sources */,
+				8FDE73D32EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift in Sources */,
 				8F0327162B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift in Sources */,
 				8F1EBF8C2B405D4800E76A95 /* RedistributeCharactersToMakeAllStringsEqual.swift in Sources */,
 				8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */,

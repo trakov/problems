@@ -1,1 +1,1 @@
-MaximumNumberofOperationstoMoveOnestotheEnd().tests()
+IncrementSubmatricesbyOne().tests()
