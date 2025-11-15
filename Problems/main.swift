@@ -1,1 +1,1 @@
-IncrementSubmatricesbyOne().tests()
+CounttheNumberofSubstringsWithDominantOnes().tests()
