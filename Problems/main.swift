@@ -1,1 +1,1 @@
-CounttheNumberofSubstringsWithDominantOnes().tests()
+NumberofSubstringsWithOnly1s().tests()

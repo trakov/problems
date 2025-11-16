@@ -1066,6 +1066,7 @@
 		8FDE73D12EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D02EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift */; };
 		8FDE73D32EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */; };
 		8FDE73D52EC8BC8300386ADF /* CounttheNumberofSubstringsWithDominantOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D42EC8BC8300386ADF /* CounttheNumberofSubstringsWithDominantOnes.swift */; };
+		8FDE73D72ECA5E2200386ADF /* NumberofSubstringsWithOnly1s.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D62ECA5E2200386ADF /* NumberofSubstringsWithOnly1s.swift */; };
 		8FDFE0D02D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */; };
 		8FDFE0D42D0D5EA90062DECD /* ContinuousSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */; };
 		8FDFE0D62D0F35700062DECD /* MaximumAveragePassRatio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */; };
@@ -2134,6 +2135,7 @@
 		8FDE73D02EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofOperationstoMoveOnestotheEnd.swift; sourceTree = "<group>"; };
 		8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncrementSubmatricesbyOne.swift; sourceTree = "<group>"; };
 		8FDE73D42EC8BC8300386ADF /* CounttheNumberofSubstringsWithDominantOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofSubstringsWithDominantOnes.swift; sourceTree = "<group>"; };
+		8FDE73D62ECA5E2200386ADF /* NumberofSubstringsWithOnly1s.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofSubstringsWithOnly1s.swift; sourceTree = "<group>"; };
 		8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindScoreofanArrayAfterMarkingAllElements.swift; sourceTree = "<group>"; };
 		8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuousSubarrays.swift; sourceTree = "<group>"; };
 		8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAveragePassRatio.swift; sourceTree = "<group>"; };
@@ -3755,6 +3757,7 @@
 				8FDE73D02EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift */,
 				8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */,
 				8FDE73D42EC8BC8300386ADF /* CounttheNumberofSubstringsWithDominantOnes.swift */,
+				8FDE73D62ECA5E2200386ADF /* NumberofSubstringsWithOnly1s.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4456,6 +4459,7 @@
 				8F8F1EA82B8B389B007B818E /* GreatestCommonDivisorTraversal.swift in Sources */,
 				8FB9B3D82A0BBF220073424E /* KthLargestElementInAnArray.swift in Sources */,
 				8FB9B4C72A0BBF480073424E /* LongestCommonSubsequence.swift in Sources */,
+				8FDE73D72ECA5E2200386ADF /* NumberofSubstringsWithOnly1s.swift in Sources */,
 				8F9E9FC02A1380450078FC86 /* DesignAuthenticationManager.swift in Sources */,
 				8FB9BC312D6C5846003CA94C /* MostProfitablePathinaTree.swift in Sources */,
 				8FB9B4252A0BBF2E0073424E /* NumberOfWaysOfCuttingAPizza.swift in Sources */,
