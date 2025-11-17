@@ -1,1 +1,1 @@
-NumberofSubstringsWithOnly1s().tests()
+CheckIfAll1sAreatLeastLengthKPlacesAway().tests()

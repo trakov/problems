@@ -1067,6 +1067,7 @@
 		8FDE73D32EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */; };
 		8FDE73D52EC8BC8300386ADF /* CounttheNumberofSubstringsWithDominantOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D42EC8BC8300386ADF /* CounttheNumberofSubstringsWithDominantOnes.swift */; };
 		8FDE73D72ECA5E2200386ADF /* NumberofSubstringsWithOnly1s.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D62ECA5E2200386ADF /* NumberofSubstringsWithOnly1s.swift */; };
+		8FDE73D92ECAD59100386ADF /* CheckIfAll1sAreatLeastLengthKPlacesAway.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D82ECAD59100386ADF /* CheckIfAll1sAreatLeastLengthKPlacesAway.swift */; };
 		8FDFE0D02D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */; };
 		8FDFE0D42D0D5EA90062DECD /* ContinuousSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */; };
 		8FDFE0D62D0F35700062DECD /* MaximumAveragePassRatio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */; };
@@ -2136,6 +2137,7 @@
 		8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncrementSubmatricesbyOne.swift; sourceTree = "<group>"; };
 		8FDE73D42EC8BC8300386ADF /* CounttheNumberofSubstringsWithDominantOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofSubstringsWithDominantOnes.swift; sourceTree = "<group>"; };
 		8FDE73D62ECA5E2200386ADF /* NumberofSubstringsWithOnly1s.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofSubstringsWithOnly1s.swift; sourceTree = "<group>"; };
+		8FDE73D82ECAD59100386ADF /* CheckIfAll1sAreatLeastLengthKPlacesAway.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfAll1sAreatLeastLengthKPlacesAway.swift; sourceTree = "<group>"; };
 		8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindScoreofanArrayAfterMarkingAllElements.swift; sourceTree = "<group>"; };
 		8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuousSubarrays.swift; sourceTree = "<group>"; };
 		8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAveragePassRatio.swift; sourceTree = "<group>"; };
@@ -3758,6 +3760,7 @@
 				8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */,
 				8FDE73D42EC8BC8300386ADF /* CounttheNumberofSubstringsWithDominantOnes.swift */,
 				8FDE73D62ECA5E2200386ADF /* NumberofSubstringsWithOnly1s.swift */,
+				8FDE73D82ECAD59100386ADF /* CheckIfAll1sAreatLeastLengthKPlacesAway.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4616,6 +4619,7 @@
 				8F7AE47E2E052DC6004C2126 /* MaximumManhattanDistanceAfterKChanges.swift in Sources */,
 				8F0E18BD2AB182C600EAEC3B /* Candy.swift in Sources */,
 				8FF5A4972B060ED100C11D6D /* FindUniqueBinaryString.swift in Sources */,
+				8FDE73D92ECAD59100386ADF /* CheckIfAll1sAreatLeastLengthKPlacesAway.swift in Sources */,
 				8FF20BBB2C761927002C9D49 /* CountandSay.swift in Sources */,
 				8FB9B3D72A0BBF220073424E /* CopyListWithRandomPointer.swift in Sources */,
 				8FF7C9682BE2066E00A1AFD7 /* ReversePrefixofWord.swift in Sources */,
