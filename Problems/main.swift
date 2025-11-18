@@ -1,1 +1,1 @@
-CheckIfAll1sAreatLeastLengthKPlacesAway().tests()
+Onebitand2bitCharacters().tests()
