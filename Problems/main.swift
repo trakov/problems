@@ -1,1 +1,1 @@
-Onebitand2bitCharacters().tests()
+KeepMultiplyingFoundValuesbyTwo().tests()
