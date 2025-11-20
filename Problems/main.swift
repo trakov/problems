@@ -1,1 +1,1 @@
-KeepMultiplyingFoundValuesbyTwo().tests()
+SetIntersectionSizeAtLeastTwo().tests()
