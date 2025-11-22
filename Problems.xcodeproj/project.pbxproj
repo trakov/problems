@@ -1071,6 +1071,7 @@
 		8FDE73DD2ECC24D700386ADF /* Onebitand2bitCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73DC2ECC24D700386ADF /* Onebitand2bitCharacters.swift */; };
 		8FDE73DF2ECD8C6200386ADF /* KeepMultiplyingFoundValuesbyTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73DE2ECD8C6200386ADF /* KeepMultiplyingFoundValuesbyTwo.swift */; };
 		8FDE73E12ECEFBA900386ADF /* SetIntersectionSizeAtLeastTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73E02ECEFBA900386ADF /* SetIntersectionSizeAtLeastTwo.swift */; };
+		8FDE73E32ED2103200386ADF /* FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73E22ED2103200386ADF /* FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift */; };
 		8FDFE0D02D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */; };
 		8FDFE0D42D0D5EA90062DECD /* ContinuousSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */; };
 		8FDFE0D62D0F35700062DECD /* MaximumAveragePassRatio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */; };
@@ -2144,6 +2145,7 @@
 		8FDE73DC2ECC24D700386ADF /* Onebitand2bitCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onebitand2bitCharacters.swift; sourceTree = "<group>"; };
 		8FDE73DE2ECD8C6200386ADF /* KeepMultiplyingFoundValuesbyTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeepMultiplyingFoundValuesbyTwo.swift; sourceTree = "<group>"; };
 		8FDE73E02ECEFBA900386ADF /* SetIntersectionSizeAtLeastTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetIntersectionSizeAtLeastTwo.swift; sourceTree = "<group>"; };
+		8FDE73E22ED2103200386ADF /* FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift; sourceTree = "<group>"; };
 		8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindScoreofanArrayAfterMarkingAllElements.swift; sourceTree = "<group>"; };
 		8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuousSubarrays.swift; sourceTree = "<group>"; };
 		8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAveragePassRatio.swift; sourceTree = "<group>"; };
@@ -3770,6 +3772,7 @@
 				8FDE73DC2ECC24D700386ADF /* Onebitand2bitCharacters.swift */,
 				8FDE73DE2ECD8C6200386ADF /* KeepMultiplyingFoundValuesbyTwo.swift */,
 				8FDE73E02ECEFBA900386ADF /* SetIntersectionSizeAtLeastTwo.swift */,
+				8FDE73E22ED2103200386ADF /* FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4720,6 +4723,7 @@
 				8F41112F2AC887FA001E0804 /* One32Pattern.swift in Sources */,
 				8FB9B4752A0BBF3A0073424E /* SerializeAndDeserializeBinaryTree.swift in Sources */,
 				8FB9B55E2A0BBF540073424E /* InvertBinaryTree.swift in Sources */,
+				8FDE73E32ED2103200386ADF /* FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift in Sources */,
 				8F6420212BC3B82E00F97A10 /* NumberOfStudentsUnableToEatLunch.swift in Sources */,
 				8FB6EAC72B5E35130034C361 /* SetMismatch.swift in Sources */,
 				8FFA42DA2BFF0A52008B4F03 /* TheNumberofBeautifulSubsets.swift in Sources */,

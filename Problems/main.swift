@@ -1,1 +1,1 @@
-SetIntersectionSizeAtLeastTwo().tests()
+FindMinimumOperationstoMakeAllElementsDivisiblebyThree().tests()
