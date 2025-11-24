@@ -1072,6 +1072,7 @@
 		8FDE73DF2ECD8C6200386ADF /* KeepMultiplyingFoundValuesbyTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73DE2ECD8C6200386ADF /* KeepMultiplyingFoundValuesbyTwo.swift */; };
 		8FDE73E12ECEFBA900386ADF /* SetIntersectionSizeAtLeastTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73E02ECEFBA900386ADF /* SetIntersectionSizeAtLeastTwo.swift */; };
 		8FDE73E32ED2103200386ADF /* FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73E22ED2103200386ADF /* FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift */; };
+		8FDE73E52ED2D4FF00386ADF /* GreatestSumDivisiblebyThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73E42ED2D4FF00386ADF /* GreatestSumDivisiblebyThree.swift */; };
 		8FDFE0D02D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */; };
 		8FDFE0D42D0D5EA90062DECD /* ContinuousSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */; };
 		8FDFE0D62D0F35700062DECD /* MaximumAveragePassRatio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */; };
@@ -2146,6 +2147,7 @@
 		8FDE73DE2ECD8C6200386ADF /* KeepMultiplyingFoundValuesbyTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeepMultiplyingFoundValuesbyTwo.swift; sourceTree = "<group>"; };
 		8FDE73E02ECEFBA900386ADF /* SetIntersectionSizeAtLeastTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetIntersectionSizeAtLeastTwo.swift; sourceTree = "<group>"; };
 		8FDE73E22ED2103200386ADF /* FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift; sourceTree = "<group>"; };
+		8FDE73E42ED2D4FF00386ADF /* GreatestSumDivisiblebyThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreatestSumDivisiblebyThree.swift; sourceTree = "<group>"; };
 		8FDFE0CF2D0BFED00062DECD /* FindScoreofanArrayAfterMarkingAllElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindScoreofanArrayAfterMarkingAllElements.swift; sourceTree = "<group>"; };
 		8FDFE0D32D0D5EA90062DECD /* ContinuousSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuousSubarrays.swift; sourceTree = "<group>"; };
 		8FDFE0D52D0F35700062DECD /* MaximumAveragePassRatio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAveragePassRatio.swift; sourceTree = "<group>"; };
@@ -3773,6 +3775,7 @@
 				8FDE73DE2ECD8C6200386ADF /* KeepMultiplyingFoundValuesbyTwo.swift */,
 				8FDE73E02ECEFBA900386ADF /* SetIntersectionSizeAtLeastTwo.swift */,
 				8FDE73E22ED2103200386ADF /* FindMinimumOperationstoMakeAllElementsDivisiblebyThree.swift */,
+				8FDE73E42ED2D4FF00386ADF /* GreatestSumDivisiblebyThree.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4326,6 +4329,7 @@
 				8F7AE4762C5357A90084AFEF /* FindtheCityWiththeSmallestNumberofNeighborsataThresholdDistance.swift in Sources */,
 				8F0907D92AFF7C99003959BC /* DesignGraphWithShortestPathCalculator.swift in Sources */,
 				8FF63D9C2CCF64AA0061ED24 /* LongestSquareStreakinanArray.swift in Sources */,
+				8FDE73E52ED2D4FF00386ADF /* GreatestSumDivisiblebyThree.swift in Sources */,
 				8FD438D02D7FFFC800E959C5 /* NumberofSubstringsContainingAllThreeCharacters.swift in Sources */,
 				8F5C73432D183F44003CE491 /* FindBuildingWhereAliceandBobCanMeet.swift in Sources */,
 				8FF20BB12C74D746002C9D49 /* ValidWordAbbreviation.swift in Sources */,

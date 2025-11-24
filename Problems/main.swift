@@ -1,1 +1,1 @@
-FindMinimumOperationstoMakeAllElementsDivisiblebyThree().tests()
+GreatestSumDivisiblebyThree().tests()
