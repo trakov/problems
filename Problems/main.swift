@@ -1,1 +1,1 @@
-GreatestSumDivisiblebyThree().tests()
+BinaryPrefixDivisibleBy5().tests()
