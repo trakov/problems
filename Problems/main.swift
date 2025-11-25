@@ -1,1 +1,1 @@
-BinaryPrefixDivisibleBy5().tests()
+SmallestIntegerDivisiblebyK().tests()
