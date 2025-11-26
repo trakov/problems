@@ -1,1 +1,1 @@
-SmallestIntegerDivisiblebyK().tests()
+PathsinMatrixWhoseSumIsDivisiblebyK().tests()
