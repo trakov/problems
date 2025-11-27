@@ -1,1 +1,1 @@
-PathsinMatrixWhoseSumIsDivisiblebyK().tests()
+MaximumSubarraySumWithLengthDivisiblebyK().tests()

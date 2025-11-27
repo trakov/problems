@@ -281,6 +281,7 @@
 		8F737ECE2DDC5DEA0084DADC /* ZeroArrayTransformationI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737ECD2DDC5DEA0084DADC /* ZeroArrayTransformationI.swift */; };
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
 		8F755F402ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F755F3F2ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift */; };
+		8F755F442ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F755F432ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift */; };
 		8F7A0A402D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A0A3F2D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift */; };
 		8F7A0A422D8CE62D00BB12BD /* FindAllPossibleRecipesfromGivenSupplies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A0A412D8CE62D00BB12BD /* FindAllPossibleRecipesfromGivenSupplies.swift */; };
 		8F7A0A442D8F507100BB12BD /* CounttheNumberofCompleteComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7A0A432D8F507100BB12BD /* CounttheNumberofCompleteComponents.swift */; };
@@ -1649,6 +1650,7 @@
 		8F737ECD2DDC5DEA0084DADC /* ZeroArrayTransformationI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeroArrayTransformationI.swift; sourceTree = "<group>"; };
 		8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelCoursesIII.swift; sourceTree = "<group>"; };
 		8F755F3F2ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathsinMatrixWhoseSumIsDivisiblebyK.swift; sourceTree = "<group>"; };
+		8F755F432ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSubarraySumWithLengthDivisiblebyK.swift; sourceTree = "<group>"; };
 		8F7A0A3F2D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostWalkinWeightedGraph.swift; sourceTree = "<group>"; };
 		8F7A0A412D8CE62D00BB12BD /* FindAllPossibleRecipesfromGivenSupplies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPossibleRecipesfromGivenSupplies.swift; sourceTree = "<group>"; };
 		8F7A0A432D8F507100BB12BD /* CounttheNumberofCompleteComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofCompleteComponents.swift; sourceTree = "<group>"; };
@@ -3785,6 +3787,7 @@
 				8FDE73E62ED41F2E00386ADF /* BinaryPrefixDivisibleBy5.swift */,
 				8F92778A2ED56BD900CAEC55 /* SmallestIntegerDivisiblebyK.swift */,
 				8F755F3F2ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift */,
+				8F755F432ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4451,6 +4454,7 @@
 				8FF63D8C2CC5A5E70061ED24 /* ParsingABooleanExpression.swift in Sources */,
 				8FB9B4362A0BBF340073424E /* HouseRobberII.swift in Sources */,
 				8FB9B4632A0BBF3A0073424E /* FindSmallestLetterGreaterThanTarget.swift in Sources */,
+				8F755F442ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift in Sources */,
 				8FB9B4CD2A0BBF480073424E /* MaximumProductOfSplittedBinaryTree.swift in Sources */,
 				8FC102AD2A4E9DDA005E8289 /* LastDayWhereYouCanStillCross.swift in Sources */,
 				8FD112FC2D40F7FB00C645C5 /* MapofHighestPeak.swift in Sources */,
