@@ -1,1 +1,1 @@
-MaximumSubarraySumWithLengthDivisiblebyK().tests()
+MinimumOperationstoMakeArraySumDivisiblebyK().tests()

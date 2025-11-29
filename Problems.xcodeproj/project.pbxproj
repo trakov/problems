@@ -195,6 +195,7 @@
 		8F64AF1E2C6002370048D4E5 /* IntegertoEnglishWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F64AF1D2C6002370048D4E5 /* IntegertoEnglishWords.swift */; };
 		8F64AF262C6115990048D4E5 /* KthDistinctStringinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F64AF252C6115990048D4E5 /* KthDistinctStringinanArray.swift */; };
 		8F64AF282C611CAD0048D4E5 /* AlienDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F64AF272C611CAD0048D4E5 /* AlienDictionary.swift */; };
+		8F67237E2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */; };
 		8F68867F2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */; };
 		8F6886832EA4F23D00468A50 /* LexicographicallySmallestStringAfterApplyingOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6886822EA4F23D00468A50 /* LexicographicallySmallestStringAfterApplyingOperations.swift */; };
 		8F6886852EA603B400468A50 /* FinalValueofVariableAfterPerformingOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6886842EA603B400468A50 /* FinalValueofVariableAfterPerformingOperations.swift */; };
@@ -1520,6 +1521,7 @@
 		8F64AF1D2C6002370048D4E5 /* IntegertoEnglishWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegertoEnglishWords.swift; sourceTree = "<group>"; };
 		8F64AF252C6115990048D4E5 /* KthDistinctStringinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthDistinctStringinanArray.swift; sourceTree = "<group>"; };
 		8F64AF272C611CAD0048D4E5 /* AlienDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlienDictionary.swift; sourceTree = "<group>"; };
+		8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMakeArraySumDivisiblebyK.swift; sourceTree = "<group>"; };
 		8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofDistinctElementsAfterOperations.swift; sourceTree = "<group>"; };
 		8F6886822EA4F23D00468A50 /* LexicographicallySmallestStringAfterApplyingOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallySmallestStringAfterApplyingOperations.swift; sourceTree = "<group>"; };
 		8F6886842EA603B400468A50 /* FinalValueofVariableAfterPerformingOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalValueofVariableAfterPerformingOperations.swift; sourceTree = "<group>"; };
@@ -3788,6 +3790,7 @@
 				8F92778A2ED56BD900CAEC55 /* SmallestIntegerDivisiblebyK.swift */,
 				8F755F3F2ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift */,
 				8F755F432ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift */,
+				8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4969,6 +4972,7 @@
 				8FB9B5732A0BBF5A0073424E /* Merge2SortedLists.swift in Sources */,
 				8F05A3E62AB426A1005ECA47 /* MinCostToConnectAllPoints.swift in Sources */,
 				8FB9B48E2A0BBF410073424E /* DeleteColumnsToMakeSorted.swift in Sources */,
+				8F67237E2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift in Sources */,
 				8FB9B3C22A0BBF220073424E /* MaximumNumberOfVowelsInASubstringOfGivenLength.swift in Sources */,
 				8FB9B5962A0E04490073424E /* SolvingQuestionsWithBrainpower.swift in Sources */,
 				8FF20BE12C7B66BA002C9D49 /* DesignTicTacToe2.swift in Sources */,
