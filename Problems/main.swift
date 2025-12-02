@@ -1,1 +1,1 @@
-MinimumOperationstoMakeArraySumDivisiblebyK().tests()
+CountNumberofTrapezoidsI().tests()
