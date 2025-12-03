@@ -1,1 +1,1 @@
-CountNumberofTrapezoidsI().tests()
+CountNumberofTrapezoidsII().tests()

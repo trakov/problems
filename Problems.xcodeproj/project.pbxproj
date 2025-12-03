@@ -31,6 +31,7 @@
 		8F0041082CB252CA00116FE0 /* SentenceSimilarityIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0041072CB252C900116FE0 /* SentenceSimilarityIII.swift */; };
 		8F00410C2CB3AFDA00116FE0 /* MinimumStringLengthAfterRemovingSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F00410B2CB3AFDA00116FE0 /* MinimumStringLengthAfterRemovingSubstrings.swift */; };
 		8F00410E2CB50FA600116FE0 /* MinimumNumberofSwapstoMaketheStringBalanced.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F00410D2CB50FA600116FE0 /* MinimumNumberofSwapstoMaketheStringBalanced.swift */; };
+		8F01C3AA2EE0BEC20069137F /* CountNumberofTrapezoidsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F01C3A92EE0BEC20069137F /* CountNumberofTrapezoidsII.swift */; };
 		8F0326F22B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */; };
 		8F0327142B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327132B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift */; };
 		8F0327162B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */; };
@@ -1295,6 +1296,7 @@
 		8F0041072CB252C900116FE0 /* SentenceSimilarityIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentenceSimilarityIII.swift; sourceTree = "<group>"; };
 		8F00410B2CB3AFDA00116FE0 /* MinimumStringLengthAfterRemovingSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumStringLengthAfterRemovingSubstrings.swift; sourceTree = "<group>"; };
 		8F00410D2CB50FA600116FE0 /* MinimumNumberofSwapstoMaketheStringBalanced.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofSwapstoMaketheStringBalanced.swift; sourceTree = "<group>"; };
+		8F01C3A92EE0BEC20069137F /* CountNumberofTrapezoidsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofTrapezoidsII.swift; sourceTree = "<group>"; };
 		8F0326F12B18AF3E005950E1 /* MinimumOneBitOperationsToMakeIntegersZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOneBitOperationsToMakeIntegersZero.swift; sourceTree = "<group>"; };
 		8F0327132B1B003F005950E1 /* FindWordsThatCanBeFormedByCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindWordsThatCanBeFormedByCharacters.swift; sourceTree = "<group>"; };
 		8F0327152B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumTimeVisitingAllPoints.swift; sourceTree = "<group>"; };
@@ -3794,6 +3796,7 @@
 				8F755F432ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift */,
 				8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */,
 				8F67237F2EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift */,
+				8F01C3A92EE0BEC20069137F /* CountNumberofTrapezoidsII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4557,6 +4560,7 @@
 				8F6723802EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift in Sources */,
 				8FD44E2F2C5A83BA0096C210 /* ColorfulNumbers.swift in Sources */,
 				8FBFA5682D2CFC4F00E97F38 /* StringMatchinginanArray.swift in Sources */,
+				8F01C3AA2EE0BEC20069137F /* CountNumberofTrapezoidsII.swift in Sources */,
 				8F8D2DAC2E978D85007C8AC8 /* FindtheMinimumAmountofTimetoBrewPotions.swift in Sources */,
 				8FB9B4962A0BBF410073424E /* FindMinimumInRotatedSortedArray.swift in Sources */,
 				8FC057CA2CFD7BB700CAF1D4 /* CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.swift in Sources */,
