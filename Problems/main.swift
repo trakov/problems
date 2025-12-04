@@ -1,1 +1,1 @@
-CountNumberofTrapezoidsII().tests()
+CountCollisionsonaRoad().tests()
