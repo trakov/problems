@@ -1,1 +1,1 @@
-CountCollisionsonaRoad().tests()
+CountPartitionswithEvenSumDifference().tests()
