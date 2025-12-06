@@ -1,1 +1,1 @@
-CountPartitionswithEvenSumDifference().tests()
+CountPartitionsWithMaxMinDifferenceatMostK().tests()
