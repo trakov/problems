@@ -1,1 +1,1 @@
-CountPartitionsWithMaxMinDifferenceatMostK().tests()
+CountSpecialTriplets().tests()
