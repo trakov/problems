@@ -1,1 +1,1 @@
-CountSpecialTriplets().tests()
+CounttheNumberofComputerUnlockingPermutations().tests()
