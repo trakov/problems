@@ -178,6 +178,7 @@
 		8F4741782EE49ADB0074BC0D /* CountPartitionsWithMaxMinDifferenceatMostK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4741772EE49ADB0074BC0D /* CountPartitionsWithMaxMinDifferenceatMostK.swift */; };
 		8F47417A2EE7C7DE0074BC0D /* CountSpecialTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4741792EE7C7DE0074BC0D /* CountSpecialTriplets.swift */; };
 		8F47417C2EE94C4B0074BC0D /* CounttheNumberofComputerUnlockingPermutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F47417B2EE94C4B0074BC0D /* CounttheNumberofComputerUnlockingPermutations.swift */; };
+		8F47417E2EEA8BFD0074BC0D /* CountCoveredBuildings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F47417D2EEA8BFD0074BC0D /* CountCoveredBuildings.swift */; };
 		8F4755512C4FE6F0000C94A8 /* SortArraybyIncreasingFrequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4755502C4FE6F0000C94A8 /* SortArraybyIncreasingFrequency.swift */; };
 		8F4755532C50BCDF000C94A8 /* SorttheJumbledNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4755522C50BCDF000C94A8 /* SorttheJumbledNumbers.swift */; };
 		8F5B59782DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */; };
@@ -1503,6 +1504,7 @@
 		8F4741772EE49ADB0074BC0D /* CountPartitionsWithMaxMinDifferenceatMostK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPartitionsWithMaxMinDifferenceatMostK.swift; sourceTree = "<group>"; };
 		8F4741792EE7C7DE0074BC0D /* CountSpecialTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSpecialTriplets.swift; sourceTree = "<group>"; };
 		8F47417B2EE94C4B0074BC0D /* CounttheNumberofComputerUnlockingPermutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofComputerUnlockingPermutations.swift; sourceTree = "<group>"; };
+		8F47417D2EEA8BFD0074BC0D /* CountCoveredBuildings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCoveredBuildings.swift; sourceTree = "<group>"; };
 		8F4755502C4FE6F0000C94A8 /* SortArraybyIncreasingFrequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArraybyIncreasingFrequency.swift; sourceTree = "<group>"; };
 		8F4755522C50BCDF000C94A8 /* SorttheJumbledNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SorttheJumbledNumbers.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
@@ -3812,6 +3814,7 @@
 				8F4741772EE49ADB0074BC0D /* CountPartitionsWithMaxMinDifferenceatMostK.swift */,
 				8F4741792EE7C7DE0074BC0D /* CountSpecialTriplets.swift */,
 				8F47417B2EE94C4B0074BC0D /* CounttheNumberofComputerUnlockingPermutations.swift */,
+				8F47417D2EEA8BFD0074BC0D /* CountCoveredBuildings.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4703,6 +4706,7 @@
 				8FB9B3BC2A0BBECA0073424E /* TreeHeight.swift in Sources */,
 				8FB584EB2DCFA3DE00CEE980 /* MinimumEqualSumofTwoArraysAfterReplacingZeros.swift in Sources */,
 				8F6B6E852C47CC3500A639F6 /* DeleteNodesAndReturnForest.swift in Sources */,
+				8F47417E2EEA8BFD0074BC0D /* CountCoveredBuildings.swift in Sources */,
 				8FDE73D32EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift in Sources */,
 				8F0327162B1D04A7005950E1 /* MinimumTimeVisitingAllPoints.swift in Sources */,
 				8F1EBF8C2B405D4800E76A95 /* RedistributeCharactersToMakeAllStringsEqual.swift in Sources */,

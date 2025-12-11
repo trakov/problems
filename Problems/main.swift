@@ -1,1 +1,1 @@
-CounttheNumberofComputerUnlockingPermutations().tests()
+CountCoveredBuildings().tests()
