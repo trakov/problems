@@ -1,1 +1,1 @@
-CountCoveredBuildings().tests()
+CountMentionsPerUser().tests()
