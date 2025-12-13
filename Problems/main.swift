@@ -1,1 +1,1 @@
-CountMentionsPerUser().tests()
+CouponCodeValidator().tests()
