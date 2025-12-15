@@ -258,6 +258,7 @@
 		8F6E2E742DFFFF5400D80D9C /* MaximumDifferenceBetweenIncreasingElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E732DFFFF5400D80D9C /* MaximumDifferenceBetweenIncreasingElements.swift */; };
 		8F6E2E762E0137C100D80D9C /* CounttheNumberofArrayswithKMatchingAdjacentElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E752E0137C100D80D9C /* CounttheNumberofArrayswithKMatchingAdjacentElements.swift */; };
 		8F7083BC2EEDB6E100021C15 /* CouponCodeValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7083BB2EEDB6E100021C15 /* CouponCodeValidator.swift */; };
+		8F7083C02EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */; };
 		8F709A6F2C181CFE0083B7D2 /* RelativeSortArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */; };
 		8F709A712C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */; };
 		8F709A732C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */; };
@@ -1638,6 +1639,7 @@
 		8F6E2E732DFFFF5400D80D9C /* MaximumDifferenceBetweenIncreasingElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDifferenceBetweenIncreasingElements.swift; sourceTree = "<group>"; };
 		8F6E2E752E0137C100D80D9C /* CounttheNumberofArrayswithKMatchingAdjacentElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofArrayswithKMatchingAdjacentElements.swift; sourceTree = "<group>"; };
 		8F7083BB2EEDB6E100021C15 /* CouponCodeValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CouponCodeValidator.swift; sourceTree = "<group>"; };
+		8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofSmoothDescentPeriodsofaStock.swift; sourceTree = "<group>"; };
 		8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeSortArray.swift; sourceTree = "<group>"; };
 		8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofMovestoSeatEveryone.swift; sourceTree = "<group>"; };
 		8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIncrementtoMakeArrayUnique.swift; sourceTree = "<group>"; };
@@ -3821,6 +3823,7 @@
 				8F47417D2EEA8BFD0074BC0D /* CountCoveredBuildings.swift */,
 				8F47417F2EEBEE460074BC0D /* CountMentionsPerUser.swift */,
 				8F7083BB2EEDB6E100021C15 /* CouponCodeValidator.swift */,
+				8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4318,6 +4321,7 @@
 				8FB9B41B2A0BBF2E0073424E /* JumpGameIII.swift in Sources */,
 				8FD438D42D82E31C00E959C5 /* ZeroArrayTransformationII.swift in Sources */,
 				8F6C04232C67EE6700E16085 /* RandomPickIndex.swift in Sources */,
+				8F7083C02EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift in Sources */,
 				8FB584BF2DB75DCF00CEE980 /* CounttheNumberofIdealArrays.swift in Sources */,
 				8FC102A12A49D41E005E8289 /* FindAllDuplicatesInAnArray.swift in Sources */,
 				8F3D72DC2D588E7F007E7625 /* CountNumberofBadPairs.swift in Sources */,

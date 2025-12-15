@@ -1,1 +1,1 @@
-CouponCodeValidator().tests()
+NumberofSmoothDescentPeriodsofaStock().tests()
