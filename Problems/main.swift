@@ -1,1 +1,1 @@
-NumberofSmoothDescentPeriodsofaStock().tests()
+MaximumProfitfromTradingStockswithDiscounts().tests()

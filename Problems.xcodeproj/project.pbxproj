@@ -259,6 +259,7 @@
 		8F6E2E762E0137C100D80D9C /* CounttheNumberofArrayswithKMatchingAdjacentElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6E2E752E0137C100D80D9C /* CounttheNumberofArrayswithKMatchingAdjacentElements.swift */; };
 		8F7083BC2EEDB6E100021C15 /* CouponCodeValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7083BB2EEDB6E100021C15 /* CouponCodeValidator.swift */; };
 		8F7083C02EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */; };
+		8F7083C22EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7083C12EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift */; };
 		8F709A6F2C181CFE0083B7D2 /* RelativeSortArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */; };
 		8F709A712C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */; };
 		8F709A732C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */; };
@@ -1640,6 +1641,7 @@
 		8F6E2E752E0137C100D80D9C /* CounttheNumberofArrayswithKMatchingAdjacentElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofArrayswithKMatchingAdjacentElements.swift; sourceTree = "<group>"; };
 		8F7083BB2EEDB6E100021C15 /* CouponCodeValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CouponCodeValidator.swift; sourceTree = "<group>"; };
 		8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofSmoothDescentPeriodsofaStock.swift; sourceTree = "<group>"; };
+		8F7083C12EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProfitfromTradingStockswithDiscounts.swift; sourceTree = "<group>"; };
 		8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeSortArray.swift; sourceTree = "<group>"; };
 		8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofMovestoSeatEveryone.swift; sourceTree = "<group>"; };
 		8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIncrementtoMakeArrayUnique.swift; sourceTree = "<group>"; };
@@ -3824,6 +3826,7 @@
 				8F47417F2EEBEE460074BC0D /* CountMentionsPerUser.swift */,
 				8F7083BB2EEDB6E100021C15 /* CouponCodeValidator.swift */,
 				8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */,
+				8F7083C12EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4989,6 +4992,7 @@
 				8FB9B5392A0BBF540073424E /* ConvertANumberToHexadecimal.swift in Sources */,
 				8FF5A4A92B13871B00C11D6D /* LargestSubmatrixWithRearrangements.swift in Sources */,
 				8FB9B3DF2A0BBF280073424E /* RemovingStarsFromAString.swift in Sources */,
+				8F7083C22EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift in Sources */,
 				8F25050C2A7ECD2E0089188D /* UniqueBinarySearchTreesII.swift in Sources */,
 				8F7345962E6CBAEA001DF5A3 /* MinimumOperationstoMakeArrayElementsZero.swift in Sources */,
 				8FB9B3FC2A0BBF280073424E /* ValidateStackSequences.swift in Sources */,
