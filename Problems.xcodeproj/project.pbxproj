@@ -260,6 +260,7 @@
 		8F7083BC2EEDB6E100021C15 /* CouponCodeValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7083BB2EEDB6E100021C15 /* CouponCodeValidator.swift */; };
 		8F7083C02EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */; };
 		8F7083C22EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7083C12EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift */; };
+		8F7083C42EF26C4500021C15 /* BestTimetoBuyandSellStockV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F7083C32EF26C4500021C15 /* BestTimetoBuyandSellStockV.swift */; };
 		8F709A6F2C181CFE0083B7D2 /* RelativeSortArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */; };
 		8F709A712C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */; };
 		8F709A732C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */; };
@@ -1642,6 +1643,7 @@
 		8F7083BB2EEDB6E100021C15 /* CouponCodeValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CouponCodeValidator.swift; sourceTree = "<group>"; };
 		8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofSmoothDescentPeriodsofaStock.swift; sourceTree = "<group>"; };
 		8F7083C12EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProfitfromTradingStockswithDiscounts.swift; sourceTree = "<group>"; };
+		8F7083C32EF26C4500021C15 /* BestTimetoBuyandSellStockV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimetoBuyandSellStockV.swift; sourceTree = "<group>"; };
 		8F709A6E2C181CFE0083B7D2 /* RelativeSortArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeSortArray.swift; sourceTree = "<group>"; };
 		8F709A702C1AC7EF0083B7D2 /* MinimumNumberofMovestoSeatEveryone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofMovestoSeatEveryone.swift; sourceTree = "<group>"; };
 		8F709A722C1C07360083B7D2 /* MinimumIncrementtoMakeArrayUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumIncrementtoMakeArrayUnique.swift; sourceTree = "<group>"; };
@@ -3827,6 +3829,7 @@
 				8F7083BB2EEDB6E100021C15 /* CouponCodeValidator.swift */,
 				8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */,
 				8F7083C12EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift */,
+				8F7083C32EF26C4500021C15 /* BestTimetoBuyandSellStockV.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4464,6 +4467,7 @@
 				8FD44E532C5F712A0096C210 /* ShortestDistanceAfterRoadAdditionQueriesI.swift in Sources */,
 				8F9446B52CB7A5FE00E64087 /* MaximumWidthRamp.swift in Sources */,
 				8F0BB7EE2A737AF800A72248 /* PredictTheWinner.swift in Sources */,
+				8F7083C42EF26C4500021C15 /* BestTimetoBuyandSellStockV.swift in Sources */,
 				8FF20BDB2C7A0CE0002C9D49 /* CheckifArrayIsSortedandRotated.swift in Sources */,
 				8FB9B4132A0BBF2E0073424E /* RemoveTreeNodeBST.swift in Sources */,
 				8F9E9FF82A163E740078FC86 /* FindKClosestElements.swift in Sources */,

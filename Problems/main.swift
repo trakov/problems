@@ -1,1 +1,1 @@
-MaximumProfitfromTradingStockswithDiscounts().tests()
+BestTimetoBuyandSellStockV().tests()
