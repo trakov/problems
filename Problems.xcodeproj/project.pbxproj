@@ -121,6 +121,7 @@
 		8F26829F2BB53F000097E666 /* LengthOfLongestSubarrayWithAtMostKFrequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F26829E2BB53F000097E666 /* LengthOfLongestSubarrayWithAtMostKFrequency.swift */; };
 		8F2682A12BB692A30097E666 /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F2682A02BB692A30097E666 /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */; };
 		8F2682C92BB7F6AF0097E666 /* SubarraysWithKDifferentIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F2682C82BB7F6AF0097E666 /* SubarraysWithKDifferentIntegers.swift */; };
+		8F28DD102EF3C8B60040CF20 /* BestTimetoBuyandSellStockusingStrategy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F28DD0F2EF3C8B60040CF20 /* BestTimetoBuyandSellStockusingStrategy.swift */; };
 		8F3037B92A971EC000C71BCB /* TextJustification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3037B82A971EC000C71BCB /* TextJustification.swift */; };
 		8F3037BB2A98C18100C71BCB /* InterleavingString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3037BA2A98C18100C71BCB /* InterleavingString.swift */; };
 		8F3037BD2A9A5BEB00C71BCB /* MaximumLengthOfPairChain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3037BC2A9A5BEB00C71BCB /* MaximumLengthOfPairChain.swift */; };
@@ -1439,6 +1440,7 @@
 		8F26829E2BB53F000097E666 /* LengthOfLongestSubarrayWithAtMostKFrequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfLongestSubarrayWithAtMostKFrequency.swift; sourceTree = "<group>"; };
 		8F2682A02BB692A30097E666 /* CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountSubarraysWhereMaxElementAppearsAtLeastKTimes.swift; sourceTree = "<group>"; };
 		8F2682C82BB7F6AF0097E666 /* SubarraysWithKDifferentIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubarraysWithKDifferentIntegers.swift; sourceTree = "<group>"; };
+		8F28DD0F2EF3C8B60040CF20 /* BestTimetoBuyandSellStockusingStrategy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimetoBuyandSellStockusingStrategy.swift; sourceTree = "<group>"; };
 		8F3037B82A971EC000C71BCB /* TextJustification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextJustification.swift; sourceTree = "<group>"; };
 		8F3037BA2A98C18100C71BCB /* InterleavingString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterleavingString.swift; sourceTree = "<group>"; };
 		8F3037BC2A9A5BEB00C71BCB /* MaximumLengthOfPairChain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumLengthOfPairChain.swift; sourceTree = "<group>"; };
@@ -3830,6 +3832,7 @@
 				8F7083BF2EF0789700021C15 /* NumberofSmoothDescentPeriodsofaStock.swift */,
 				8F7083C12EF1423900021C15 /* MaximumProfitfromTradingStockswithDiscounts.swift */,
 				8F7083C32EF26C4500021C15 /* BestTimetoBuyandSellStockV.swift */,
+				8F28DD0F2EF3C8B60040CF20 /* BestTimetoBuyandSellStockusingStrategy.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5130,6 +5133,7 @@
 				8F21C52B2EB9D51700FD0C9D /* FindXSumofAllKLongSubarraysI.swift in Sources */,
 				8FB9B4D32A0BBF480073424E /* RottingOranges.swift in Sources */,
 				8FB584CC2DBBA7DB00CEE980 /* CountofInterestingSubarrays.swift in Sources */,
+				8F28DD102EF3C8B60040CF20 /* BestTimetoBuyandSellStockusingStrategy.swift in Sources */,
 				8F3D72DA2D573151007E7625 /* DesignaNumberContainerSystem.swift in Sources */,
 				8FB9B59C2A10C4F90073424E /* MaximizeScoreAfterNOperations.swift in Sources */,
 				8FB9B44C2A0BBF340073424E /* NumberOfLongestIncreasingSubsequence.swift in Sources */,

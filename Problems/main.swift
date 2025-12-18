@@ -1,1 +1,1 @@
-BestTimetoBuyandSellStockV().tests()
+BestTimetoBuyandSellStockusingStrategy().tests()
