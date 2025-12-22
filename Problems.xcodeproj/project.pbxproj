@@ -1081,6 +1081,7 @@
 		8FDC32322E276C6B00C16A51 /* FindtheMaximumLengthofValidSubsequenceI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDC32312E276C6B00C16A51 /* FindtheMaximumLengthofValidSubsequenceI.swift */; };
 		8FDC32342E28CE2500C16A51 /* FindtheMaximumLengthofValidSubsequenceII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDC32332E28CE2500C16A51 /* FindtheMaximumLengthofValidSubsequenceII.swift */; };
 		8FDE21862EF851C100DBDC28 /* DeleteColumnstoMakeSortedII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE21852EF851C100DBDC28 /* DeleteColumnstoMakeSortedII.swift */; };
+		8FDE21882EF91E0000DBDC28 /* DeleteColumnstoMakeSortedIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE21872EF91E0000DBDC28 /* DeleteColumnstoMakeSortedIII.swift */; };
 		8FDE73CF2EC4BFE900386ADF /* MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73CE2EC4BFE900386ADF /* MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.swift */; };
 		8FDE73D12EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D02EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift */; };
 		8FDE73D32EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */; };
@@ -2176,6 +2177,7 @@
 		8FDC32312E276C6B00C16A51 /* FindtheMaximumLengthofValidSubsequenceI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheMaximumLengthofValidSubsequenceI.swift; sourceTree = "<group>"; };
 		8FDC32332E28CE2500C16A51 /* FindtheMaximumLengthofValidSubsequenceII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheMaximumLengthofValidSubsequenceII.swift; sourceTree = "<group>"; };
 		8FDE21852EF851C100DBDC28 /* DeleteColumnstoMakeSortedII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnstoMakeSortedII.swift; sourceTree = "<group>"; };
+		8FDE21872EF91E0000DBDC28 /* DeleteColumnstoMakeSortedIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteColumnstoMakeSortedIII.swift; sourceTree = "<group>"; };
 		8FDE73CE2EC4BFE900386ADF /* MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.swift; sourceTree = "<group>"; };
 		8FDE73D02EC5B60C00386ADF /* MaximumNumberofOperationstoMoveOnestotheEnd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofOperationstoMoveOnestotheEnd.swift; sourceTree = "<group>"; };
 		8FDE73D22EC70A7D00386ADF /* IncrementSubmatricesbyOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncrementSubmatricesbyOne.swift; sourceTree = "<group>"; };
@@ -3836,6 +3838,7 @@
 				8F7083C32EF26C4500021C15 /* BestTimetoBuyandSellStockV.swift */,
 				8F28DD0F2EF3C8B60040CF20 /* BestTimetoBuyandSellStockusingStrategy.swift */,
 				8FDE21852EF851C100DBDC28 /* DeleteColumnstoMakeSortedII.swift */,
+				8FDE21872EF91E0000DBDC28 /* DeleteColumnstoMakeSortedIII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4221,6 +4224,7 @@
 				8FB9B43C2A0BBF340073424E /* EditDistance.swift in Sources */,
 				8FB9B4572A0BBF340073424E /* MinimumFuelCostToReportToTheCapital.swift in Sources */,
 				8FC7B9812BA16B570036C9F8 /* FindThePivotInteger.swift in Sources */,
+				8FDE21882EF91E0000DBDC28 /* DeleteColumnstoMakeSortedIII.swift in Sources */,
 				8FB9B55D2A0BBF540073424E /* BinaryTreeInorderTraversal.swift in Sources */,
 				8F7A0A402D8B9A3200BB12BD /* MinimumCostWalkinWeightedGraph.swift in Sources */,
 				8FB9B5742A0BBF5A0073424E /* RemoveDuplicatesFromSortedArray.swift in Sources */,
