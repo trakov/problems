@@ -1,1 +1,1 @@
-AppleRedistributionintoBoxes().tests()
+PyramidTransitionMatrix().tests()
