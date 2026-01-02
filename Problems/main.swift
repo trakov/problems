@@ -1,1 +1,1 @@
-PyramidTransitionMatrix().tests()
+NRepeatedElementinSize2NArray().tests()
