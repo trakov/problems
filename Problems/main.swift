@@ -1,1 +1,1 @@
-NRepeatedElementinSize2NArray().tests()
+NumberofWaystoPaintN3Grid().tests()
