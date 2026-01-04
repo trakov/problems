@@ -1,1 +1,1 @@
-NumberofWaystoPaintN3Grid().tests()
+FourDivisors().tests()
