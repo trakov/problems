@@ -17,6 +17,35 @@ public class TreeNode: ExpressibleByIntegerLiteral {
     }
 }
 
+extension TreeNode: CustomStringConvertible {
+    public var description: String {
+        var result: [Int?] = [val]
+        var queue: [TreeNode] = [self]
+        while !queue.isEmpty {
+            let node = queue.removeFirst()
+            if let left = node.left {
+                result.append(left.val)
+                queue.append(left)
+            } else {
+                result.append(nil)
+            }
+            if let right = node.right {
+                result.append(right.val)
+                queue.append(right)
+            } else {
+                result.append(nil)
+            }
+        }
+        return result.map {
+            if let val = $0 {
+                return String(val)
+            } else {
+                return "nil"
+            }
+        }.description
+    }
+}
+
 class BinaryTreeInorderTraversal {
     func inorderTraversal(_ root: TreeNode?) -> [Int] {
         var result: [Int] = []

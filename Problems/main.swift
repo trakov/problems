@@ -1,1 +1,1 @@
-FourDivisors().tests()
+SmallestSubtreewithalltheDeepestNodes().tests()
