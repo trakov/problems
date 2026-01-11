@@ -1,1 +1,1 @@
-SmallestSubtreewithalltheDeepestNodes().tests()
+MaximalRectangle().tests()
