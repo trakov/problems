@@ -1,1 +1,1 @@
-SeparateSquaresI().tests()
+SeparateSquaresII().tests()
