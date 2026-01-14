@@ -1,1 +1,1 @@
-MaximalRectangle().tests()
+SeparateSquaresI().tests()
