@@ -1,1 +1,1 @@
-SeparateSquaresII().tests()
+MaximizeAreaofSquareHoleinGrid().tests()
