@@ -1,1 +1,1 @@
-MaximizeAreaofSquareHoleinGrid().tests()
+MaximumSquareAreabyRemovingFencesFromaField().tests()
