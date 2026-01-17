@@ -1,1 +1,1 @@
-MaximumSquareAreabyRemovingFencesFromaField().tests()
+FindtheLargestAreaofSquareInsideTwoRectangles().tests()

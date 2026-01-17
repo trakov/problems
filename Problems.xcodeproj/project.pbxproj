@@ -1036,6 +1036,7 @@
 		8FCA79B72EC1A73E00A3EEC9 /* MinimumOperationstoConvertAllElementstoZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCA79B62EC1A73E00A3EEC9 /* MinimumOperationstoConvertAllElementstoZero.swift */; };
 		8FCA79B92EC322C400A3EEC9 /* OnesandZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCA79B82EC322C400A3EEC9 /* OnesandZeroes.swift */; };
 		8FCBEAF02F1A21DC00F3A409 /* MaximumSquareAreabyRemovingFencesFromaField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCBEAEF2F1A21DC00F3A409 /* MaximumSquareAreabyRemovingFencesFromaField.swift */; };
+		8FCBEAF22F1B96ED00F3A409 /* FindtheLargestAreaofSquareInsideTwoRectangles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCBEAF12F1B96ED00F3A409 /* FindtheLargestAreaofSquareInsideTwoRectangles.swift */; };
 		8FCC12BB2A7F837100698582 /* NumberOfMusicPlaylists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC12BA2A7F837100698582 /* NumberOfMusicPlaylists.swift */; };
 		8FCC12CE2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC12CD2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift */; };
 		8FCC13962A85FEA600698582 /* CoinChangeII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCC13952A85FEA600698582 /* CoinChangeII.swift */; };
@@ -2130,6 +2131,7 @@
 		8FCA79B62EC1A73E00A3EEC9 /* MinimumOperationstoConvertAllElementstoZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoConvertAllElementstoZero.swift; sourceTree = "<group>"; };
 		8FCA79B82EC322C400A3EEC9 /* OnesandZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnesandZeroes.swift; sourceTree = "<group>"; };
 		8FCBEAEF2F1A21DC00F3A409 /* MaximumSquareAreabyRemovingFencesFromaField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSquareAreabyRemovingFencesFromaField.swift; sourceTree = "<group>"; };
+		8FCBEAF12F1B96ED00F3A409 /* FindtheLargestAreaofSquareInsideTwoRectangles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheLargestAreaofSquareInsideTwoRectangles.swift; sourceTree = "<group>"; };
 		8FCC12BA2A7F837100698582 /* NumberOfMusicPlaylists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfMusicPlaylists.swift; sourceTree = "<group>"; };
 		8FCC12CD2A83580A00698582 /* MinimizeTheMaximumDifferenceOfPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeTheMaximumDifferenceOfPairs.swift; sourceTree = "<group>"; };
 		8FCC13952A85FEA600698582 /* CoinChangeII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinChangeII.swift; sourceTree = "<group>"; };
@@ -3869,6 +3871,7 @@
 				8F2DE8F12F177F200034A348 /* SeparateSquaresII.swift */,
 				8F4AE2452F18CC19003A71A8 /* MaximizeAreaofSquareHoleinGrid.swift */,
 				8FCBEAEF2F1A21DC00F3A409 /* MaximumSquareAreabyRemovingFencesFromaField.swift */,
+				8FCBEAF12F1B96ED00F3A409 /* FindtheLargestAreaofSquareInsideTwoRectangles.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4546,6 +4549,7 @@
 				8FB9B4B82A0BBF480073424E /* DecodeString.swift in Sources */,
 				8FF5A4A12B0CB47D00C11D6D /* CountNicePairsInAnArray.swift in Sources */,
 				8FB9B59E2A11F92C0073424E /* SwappingNodesInALinkedList.swift in Sources */,
+				8FCBEAF22F1B96ED00F3A409 /* FindtheLargestAreaofSquareInsideTwoRectangles.swift in Sources */,
 				8FB9B4662A0BBF3A0073424E /* SurroundedRegions.swift in Sources */,
 				8F46BA392D45506200C5D3AF /* MakeLexicographicallySmallestArraybySwappingElements.swift in Sources */,
 				8F6CBCC52B2C70B100EEF65E /* DestinationCity.swift in Sources */,
