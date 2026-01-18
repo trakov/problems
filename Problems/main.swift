@@ -1,1 +1,1 @@
-FindtheLargestAreaofSquareInsideTwoRectangles().tests()
+LargestMagicSquare().tests()
