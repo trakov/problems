@@ -1,1 +1,1 @@
-LargestMagicSquare().tests()
+MaximumSideLengthofaSquarewithSumLessthanorEqualtoThreshold().tests()
