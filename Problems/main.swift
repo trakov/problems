@@ -1,1 +1,1 @@
-MaximumSideLengthofaSquarewithSumLessthanorEqualtoThreshold().tests()
+ConstructtheMinimumBitwiseArrayI().tests()
