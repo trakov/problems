@@ -1,1 +1,1 @@
-ConstructtheMinimumBitwiseArrayI().tests()
+MinimumPairRemovaltoSortArrayI().tests()
