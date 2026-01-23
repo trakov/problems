@@ -1,1 +1,1 @@
-MinimumPairRemovaltoSortArrayI().tests()
+MinimumPairRemovaltoSortArrayII().tests()
