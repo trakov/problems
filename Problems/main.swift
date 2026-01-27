@@ -1,1 +1,1 @@
-MinimumPairRemovaltoSortArrayII().tests()
+MinimumCostPathwithEdgeReversals().tests()
