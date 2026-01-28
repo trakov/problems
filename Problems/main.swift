@@ -1,1 +1,1 @@
-MinimumCostPathwithEdgeReversals().tests()
+MinimumCostPathwithTeleportations().tests()
