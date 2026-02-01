@@ -22,7 +22,6 @@ final class MinimumCosttoConvertStringII {
             node = node!.child[i];
         }
         if node!.id == -1 {
-//            node!.id = ++index[0];
             index[0] += 1
             node!.id = index[0]
         }

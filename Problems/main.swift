@@ -1,1 +1,1 @@
-MinimumCosttoConvertStringII().tests()
+DivideanArrayIntoSubarraysWithMinimumCostI().tests()
