@@ -1,1 +1,1 @@
-DivideanArrayIntoSubarraysWithMinimumCostI().tests()
+DivideanArrayIntoSubarraysWithMinimumCostII().tests()
