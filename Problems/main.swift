@@ -1,1 +1,1 @@
-DivideanArrayIntoSubarraysWithMinimumCostII().tests()
+TrionicArrayI().tests()
