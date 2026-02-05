@@ -1,1 +1,1 @@
-TrionicArrayII().tests()
+TransformedArray().tests()
