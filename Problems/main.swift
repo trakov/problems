@@ -1,1 +1,1 @@
-TransformedArray().tests()
+MinimumRemovalstoBalanceArray().tests()
