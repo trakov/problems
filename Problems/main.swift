@@ -1,1 +1,1 @@
-MinimumRemovalstoBalanceArray().tests()
+LongestBalancedSubarrayI().tests()
