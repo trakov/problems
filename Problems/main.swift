@@ -1,1 +1,1 @@
-FindtheChildWhoHastheBallAfterKSeconds().tests()
+BrickWall().tests()
