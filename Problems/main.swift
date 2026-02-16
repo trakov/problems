@@ -1,1 +1,1 @@
-FindtheSmallestDivisorGivenaThreshold().tests()
+LexicographicallySmallestStringAfterSubstringOperation().tests()
