@@ -1,1 +1,1 @@
-BrickWall().tests()
+FindtheSmallestDivisorGivenaThreshold().tests()
