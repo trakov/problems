@@ -1,1 +1,1 @@
-LexicographicallySmallestStringAfterSubstringOperation().tests()
+BinaryWatch().tests()
