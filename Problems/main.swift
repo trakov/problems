@@ -1,1 +1,1 @@
-BinaryWatch().tests()
+BinaryNumberwithAlternatingBits().tests()
