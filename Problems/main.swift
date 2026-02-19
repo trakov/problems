@@ -1,1 +1,1 @@
-BinaryNumberwithAlternatingBits().tests()
+CountBinarySubstrings().tests()
