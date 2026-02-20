@@ -1,1 +1,1 @@
-CountBinarySubstrings().tests()
+SpecialBinaryString().tests()
