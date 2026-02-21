@@ -1,1 +1,1 @@
-SpecialBinaryString().tests()
+PrimeNumberofSetBitsinBinaryRepresentation().tests()
