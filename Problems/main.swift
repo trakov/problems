@@ -1,1 +1,1 @@
-PrimeNumberofSetBitsinBinaryRepresentation().tests()
+BinaryGap().tests()
