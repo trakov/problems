@@ -1,1 +1,1 @@
-BinaryGap().tests()
+CheckIfaStringContainsAllBinaryCodesofSizeK().tests()

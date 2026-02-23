@@ -99,6 +99,7 @@
 		8F1631B92F484BFA00D12D21 /* SpecialBinaryString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1631B82F484BFA00D12D21 /* SpecialBinaryString.swift */; };
 		8F1631BB2F49A25A00D12D21 /* PrimeNumberofSetBitsinBinaryRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1631BA2F49A25A00D12D21 /* PrimeNumberofSetBitsinBinaryRepresentation.swift */; };
 		8F1631BD2F4ACA1D00D12D21 /* BinaryGap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1631BC2F4ACA1D00D12D21 /* BinaryGap.swift */; };
+		8F1631BF2F4C446E00D12D21 /* CheckIfaStringContainsAllBinaryCodesofSizeK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1631BE2F4C446D00D12D21 /* CheckIfaStringContainsAllBinaryCodesofSizeK.swift */; };
 		8F1EBF552B2F48D100E76A95 /* DesignAFoodRatingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF542B2F48D100E76A95 /* DesignAFoodRatingSystem.swift */; };
 		8F1EBF572B301B8400E76A95 /* MaximumProductDifferenceBetweenTwoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF562B301B8400E76A95 /* MaximumProductDifferenceBetweenTwoPairs.swift */; };
 		8F1EBF592B3167A200E76A95 /* ImageSmoother.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF582B3167A200E76A95 /* ImageSmoother.swift */; };
@@ -1459,6 +1460,7 @@
 		8F1631B82F484BFA00D12D21 /* SpecialBinaryString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialBinaryString.swift; sourceTree = "<group>"; };
 		8F1631BA2F49A25A00D12D21 /* PrimeNumberofSetBitsinBinaryRepresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimeNumberofSetBitsinBinaryRepresentation.swift; sourceTree = "<group>"; };
 		8F1631BC2F4ACA1D00D12D21 /* BinaryGap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryGap.swift; sourceTree = "<group>"; };
+		8F1631BE2F4C446D00D12D21 /* CheckIfaStringContainsAllBinaryCodesofSizeK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfaStringContainsAllBinaryCodesofSizeK.swift; sourceTree = "<group>"; };
 		8F1EBF542B2F48D100E76A95 /* DesignAFoodRatingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAFoodRatingSystem.swift; sourceTree = "<group>"; };
 		8F1EBF562B301B8400E76A95 /* MaximumProductDifferenceBetweenTwoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductDifferenceBetweenTwoPairs.swift; sourceTree = "<group>"; };
 		8F1EBF582B3167A200E76A95 /* ImageSmoother.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSmoother.swift; sourceTree = "<group>"; };
@@ -3959,6 +3961,7 @@
 				8F1631B82F484BFA00D12D21 /* SpecialBinaryString.swift */,
 				8F1631BA2F49A25A00D12D21 /* PrimeNumberofSetBitsinBinaryRepresentation.swift */,
 				8F1631BC2F4ACA1D00D12D21 /* BinaryGap.swift */,
+				8F1631BE2F4C446D00D12D21 /* CheckIfaStringContainsAllBinaryCodesofSizeK.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4428,6 +4431,7 @@
 				8FD44DF02C5526840096C210 /* NumberofUnequalTripletsinArray.swift in Sources */,
 				8FB9B46E2A0BBF3A0073424E /* SubtreeOfAnotherTree.swift in Sources */,
 				8FB9B4A12A0BBF410073424E /* KthSmallestElementInABST.swift in Sources */,
+				8F1631BF2F4C446E00D12D21 /* CheckIfaStringContainsAllBinaryCodesofSizeK.swift in Sources */,
 				8FB9B5092A0BBF4E0073424E /* MaximumDifferenceBetweenNodeAndAncestor.swift in Sources */,
 				8F7345902E6877EC001DF5A3 /* FindtheNumberofWaystoPlacePeopleII.swift in Sources */,
 				8FB9B4552A0BBF340073424E /* SearchInRotatedSortedArrayII.swift in Sources */,
