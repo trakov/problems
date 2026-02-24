@@ -1,1 +1,1 @@
-CheckIfaStringContainsAllBinaryCodesofSizeK().tests()
+SumofRootToLeafBinaryNumbers().tests()
