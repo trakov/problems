@@ -1,1 +1,1 @@
-SumofRootToLeafBinaryNumbers().tests()
+MinimumOperationstoEqualizeBinaryString().tests()
