@@ -1,1 +1,1 @@
-MinimumOperationstoEqualizeBinaryString().tests()
+ConcatenationofConsecutiveBinaryNumbers().tests()
