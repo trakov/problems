@@ -1,1 +1,1 @@
-ConcatenationofConsecutiveBinaryNumbers().tests()
+PartitioningIntoMinimumNumberOfDeciBinaryNumbers().tests()
