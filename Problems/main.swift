@@ -1,1 +1,1 @@
-PartitioningIntoMinimumNumberOfDeciBinaryNumbers().tests()
+MinimumSwapstoArrangeaBinaryGrid().tests()

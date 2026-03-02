@@ -398,6 +398,7 @@
 		8F956B612B6B761700506E00 /* DivideArrayIntoArraysWithMaxDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F956B602B6B761700506E00 /* DivideArrayIntoArraysWithMaxDifference.swift */; };
 		8F98E29B2F52AE8F005CFD38 /* ConcatenationofConsecutiveBinaryNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F98E29A2F52AE8F005CFD38 /* ConcatenationofConsecutiveBinaryNumbers.swift */; };
 		8F98E29D2F54BC32005CFD38 /* PartitioningIntoMinimumNumberOfDeciBinaryNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F98E29C2F54BC32005CFD38 /* PartitioningIntoMinimumNumberOfDeciBinaryNumbers.swift */; };
+		8F98E29F2F556209005CFD38 /* MinimumSwapstoArrangeaBinaryGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F98E29E2F556209005CFD38 /* MinimumSwapstoArrangeaBinaryGrid.swift */; };
 		8F9948C72DA54908007D982F /* MinimumNumberofOperationstoMakeElementsinArrayDistinct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948C62DA54908007D982F /* MinimumNumberofOperationstoMakeElementsinArrayDistinct.swift */; };
 		8F9948C92DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948C82DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift */; };
 		8F9948D92DA80C9D007D982F /* CounttheNumberofPowerfulIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948D82DA80C9D007D982F /* CounttheNumberofPowerfulIntegers.swift */; };
@@ -1906,6 +1907,7 @@
 		8F956B602B6B761700506E00 /* DivideArrayIntoArraysWithMaxDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideArrayIntoArraysWithMaxDifference.swift; sourceTree = "<group>"; };
 		8F98E29A2F52AE8F005CFD38 /* ConcatenationofConsecutiveBinaryNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenationofConsecutiveBinaryNumbers.swift; sourceTree = "<group>"; };
 		8F98E29C2F54BC32005CFD38 /* PartitioningIntoMinimumNumberOfDeciBinaryNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitioningIntoMinimumNumberOfDeciBinaryNumbers.swift; sourceTree = "<group>"; };
+		8F98E29E2F556209005CFD38 /* MinimumSwapstoArrangeaBinaryGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSwapstoArrangeaBinaryGrid.swift; sourceTree = "<group>"; };
 		8F9948C62DA54908007D982F /* MinimumNumberofOperationstoMakeElementsinArrayDistinct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofOperationstoMakeElementsinArrayDistinct.swift; sourceTree = "<group>"; };
 		8F9948C82DA677E6007D982F /* MinimumOperationstoMakeArrayValuesEqualtoK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMakeArrayValuesEqualtoK.swift; sourceTree = "<group>"; };
 		8F9948D82DA80C9D007D982F /* CounttheNumberofPowerfulIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofPowerfulIntegers.swift; sourceTree = "<group>"; };
@@ -3974,6 +3976,7 @@
 				8F8CFEFD2F515A0C00F3561A /* MinimumOperationstoEqualizeBinaryString.swift */,
 				8F98E29A2F52AE8F005CFD38 /* ConcatenationofConsecutiveBinaryNumbers.swift */,
 				8F98E29C2F54BC32005CFD38 /* PartitioningIntoMinimumNumberOfDeciBinaryNumbers.swift */,
+				8F98E29E2F556209005CFD38 /* MinimumSwapstoArrangeaBinaryGrid.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5327,6 +5330,7 @@
 				8FB9B44C2A0BBF340073424E /* NumberOfLongestIncreasingSubsequence.swift in Sources */,
 				8F0040D12C9959A600116FE0 /* WordLadderII.swift in Sources */,
 				8F6CBCBD2B270A3100EEF65E /* ElementAppearingMoreThan25InSortedArray.swift in Sources */,
+				8F98E29F2F556209005CFD38 /* MinimumSwapstoArrangeaBinaryGrid.swift in Sources */,
 				8FFE0F112C2ECFD900EDC564 /* MaximumTotalImportanceofRoads.swift in Sources */,
 				8FB9B46D2A0BBF3A0073424E /* BestTeamWithNoConflicts.swift in Sources */,
 				8FB9B4722A0BBF3A0073424E /* ConcatenatedWords.swift in Sources */,
