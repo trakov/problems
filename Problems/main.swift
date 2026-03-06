@@ -1,1 +1,1 @@
-MinimumSwapstoArrangeaBinaryGrid().tests()
+CheckifBinaryStringHasatMostOneSegmentofOnes().tests()
