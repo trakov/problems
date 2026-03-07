@@ -1,1 +1,1 @@
-CheckifBinaryStringHasatMostOneSegmentofOnes().tests()
+MinimumNumberofFlipsMaketheBinaryStringAlternating().tests()

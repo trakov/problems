@@ -118,6 +118,7 @@
 		8F1EBF922B45DB0100E76A95 /* NumberOfLaserBeamsInABank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF912B45DB0100E76A95 /* NumberOfLaserBeamsInABank.swift */; };
 		8F1EBF942B467DB100E76A95 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF932B467DB100E76A95 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */; };
 		8F1EF1942F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EF1932F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift */; };
+		8F1EF1962F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EF1952F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift */; };
 		8F21C5252EB1E5E300FD0C9D /* SmallestNumberWithAllSetBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5242EB1E5E300FD0C9D /* SmallestNumberWithAllSetBits.swift */; };
 		8F21C5272EB3307C00FD0C9D /* MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5262EB3307C00FD0C9D /* MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift */; };
 		8F21C5292EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5282EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift */; };
@@ -1485,6 +1486,7 @@
 		8F1EBF912B45DB0100E76A95 /* NumberOfLaserBeamsInABank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLaserBeamsInABank.swift; sourceTree = "<group>"; };
 		8F1EBF932B467DB100E76A95 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMakeArrayEmpty.swift; sourceTree = "<group>"; };
 		8F1EF1932F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifBinaryStringHasatMostOneSegmentofOnes.swift; sourceTree = "<group>"; };
+		8F1EF1952F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofFlipsMaketheBinaryStringAlternating.swift; sourceTree = "<group>"; };
 		8F1FAEF02767C8BD007E7838 /* RemoveInvalidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveInvalidParentheses.swift; sourceTree = "<group>"; };
 		8F21C5242EB1E5E300FD0C9D /* SmallestNumberWithAllSetBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestNumberWithAllSetBits.swift; sourceTree = "<group>"; };
 		8F21C5262EB3307C00FD0C9D /* MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift; sourceTree = "<group>"; };
@@ -3980,6 +3982,7 @@
 				8F98E29C2F54BC32005CFD38 /* PartitioningIntoMinimumNumberOfDeciBinaryNumbers.swift */,
 				8F98E29E2F556209005CFD38 /* MinimumSwapstoArrangeaBinaryGrid.swift */,
 				8F1EF1932F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift */,
+				8F1EF1952F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4726,6 +4729,7 @@
 				8F9E9FC02A1380450078FC86 /* DesignAuthenticationManager.swift in Sources */,
 				8FB9BC312D6C5846003CA94C /* MostProfitablePathinaTree.swift in Sources */,
 				8FB9B4252A0BBF2E0073424E /* NumberOfWaysOfCuttingAPizza.swift in Sources */,
+				8F1EF1962F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift in Sources */,
 				8F3BC63D2E131F91002909CA /* LongestHarmoniousSubsequence.swift in Sources */,
 				8FB9B4292A0BBF2E0073424E /* DesignAddAndSearchWordsDataStructure.swift in Sources */,
 				8F8D2DB42E9D0AD3007C8AC8 /* FindResultantArrayAfterRemovingAnagrams.swift in Sources */,
