@@ -119,6 +119,7 @@
 		8F1EBF942B467DB100E76A95 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EBF932B467DB100E76A95 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */; };
 		8F1EF1942F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EF1932F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift */; };
 		8F1EF1962F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EF1952F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift */; };
+		8F1EF1982F5F372100365FA4 /* FindAllPossibleStableBinaryArraysI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EF1972F5F372100365FA4 /* FindAllPossibleStableBinaryArraysI.swift */; };
 		8F21C5252EB1E5E300FD0C9D /* SmallestNumberWithAllSetBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5242EB1E5E300FD0C9D /* SmallestNumberWithAllSetBits.swift */; };
 		8F21C5272EB3307C00FD0C9D /* MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5262EB3307C00FD0C9D /* MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift */; };
 		8F21C5292EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5282EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift */; };
@@ -1487,6 +1488,7 @@
 		8F1EBF932B467DB100E76A95 /* MinimumNumberOfOperationsToMakeArrayEmpty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberOfOperationsToMakeArrayEmpty.swift; sourceTree = "<group>"; };
 		8F1EF1932F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifBinaryStringHasatMostOneSegmentofOnes.swift; sourceTree = "<group>"; };
 		8F1EF1952F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofFlipsMaketheBinaryStringAlternating.swift; sourceTree = "<group>"; };
+		8F1EF1972F5F372100365FA4 /* FindAllPossibleStableBinaryArraysI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPossibleStableBinaryArraysI.swift; sourceTree = "<group>"; };
 		8F1FAEF02767C8BD007E7838 /* RemoveInvalidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveInvalidParentheses.swift; sourceTree = "<group>"; };
 		8F21C5242EB1E5E300FD0C9D /* SmallestNumberWithAllSetBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestNumberWithAllSetBits.swift; sourceTree = "<group>"; };
 		8F21C5262EB3307C00FD0C9D /* MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift; sourceTree = "<group>"; };
@@ -3983,6 +3985,7 @@
 				8F98E29E2F556209005CFD38 /* MinimumSwapstoArrangeaBinaryGrid.swift */,
 				8F1EF1932F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift */,
 				8F1EF1952F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift */,
+				8F1EF1972F5F372100365FA4 /* FindAllPossibleStableBinaryArraysI.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5292,6 +5295,7 @@
 				8F30CEF62B829110008B2544 /* MeetingRoomsIII.swift in Sources */,
 				8FF63D802CBAC5070061ED24 /* DivideIntervalsIntoMinimumNumberofGroups.swift in Sources */,
 				8FE9D68B2CDDF2FE0043A0AC /* MaximumXORforEachQuery.swift in Sources */,
+				8F1EF1982F5F372100365FA4 /* FindAllPossibleStableBinaryArraysI.swift in Sources */,
 				8FB9B47E2A0BBF3A0073424E /* ConstructBinaryTreeFromInorderAndPostorderTraversal.swift in Sources */,
 				8F7AE4842E091C01004C2126 /* SumofkMirrorNumbers.swift in Sources */,
 				8FB9B5752A0BBF5A0073424E /* MaximumSubarray.swift in Sources */,

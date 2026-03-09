@@ -1,1 +1,1 @@
-MinimumNumberofFlipsMaketheBinaryStringAlternating().tests()
+FindAllPossibleStableBinaryArraysI().tests()
