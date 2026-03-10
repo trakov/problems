@@ -120,6 +120,7 @@
 		8F1EF1942F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EF1932F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift */; };
 		8F1EF1962F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EF1952F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift */; };
 		8F1EF1982F5F372100365FA4 /* FindAllPossibleStableBinaryArraysI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EF1972F5F372100365FA4 /* FindAllPossibleStableBinaryArraysI.swift */; };
+		8F1EF19A2F5FE61000365FA4 /* FindAllPossibleStableBinaryArraysII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1EF1992F5FE61000365FA4 /* FindAllPossibleStableBinaryArraysII.swift */; };
 		8F21C5252EB1E5E300FD0C9D /* SmallestNumberWithAllSetBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5242EB1E5E300FD0C9D /* SmallestNumberWithAllSetBits.swift */; };
 		8F21C5272EB3307C00FD0C9D /* MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5262EB3307C00FD0C9D /* MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift */; };
 		8F21C5292EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21C5282EB497C500FD0C9D /* TheTwoSneakyNumbersofDigitville.swift */; };
@@ -1489,6 +1490,7 @@
 		8F1EF1932F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifBinaryStringHasatMostOneSegmentofOnes.swift; sourceTree = "<group>"; };
 		8F1EF1952F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofFlipsMaketheBinaryStringAlternating.swift; sourceTree = "<group>"; };
 		8F1EF1972F5F372100365FA4 /* FindAllPossibleStableBinaryArraysI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPossibleStableBinaryArraysI.swift; sourceTree = "<group>"; };
+		8F1EF1992F5FE61000365FA4 /* FindAllPossibleStableBinaryArraysII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllPossibleStableBinaryArraysII.swift; sourceTree = "<group>"; };
 		8F1FAEF02767C8BD007E7838 /* RemoveInvalidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveInvalidParentheses.swift; sourceTree = "<group>"; };
 		8F21C5242EB1E5E300FD0C9D /* SmallestNumberWithAllSetBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestNumberWithAllSetBits.swift; sourceTree = "<group>"; };
 		8F21C5262EB3307C00FD0C9D /* MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofIncrementsonSubarraystoFormaTargetArray.swift; sourceTree = "<group>"; };
@@ -3986,6 +3988,7 @@
 				8F1EF1932F5AB06E00365FA4 /* CheckifBinaryStringHasatMostOneSegmentofOnes.swift */,
 				8F1EF1952F5BC7F500365FA4 /* MinimumNumberofFlipsMaketheBinaryStringAlternating.swift */,
 				8F1EF1972F5F372100365FA4 /* FindAllPossibleStableBinaryArraysI.swift */,
+				8F1EF1992F5FE61000365FA4 /* FindAllPossibleStableBinaryArraysII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4196,6 +4199,7 @@
 				8FB9B4EA2A0BBF480073424E /* MergeStringsAlternately.swift in Sources */,
 				8FB9B3C72A0BBF220073424E /* MonotonicArray.swift in Sources */,
 				8F6E2E452DE83C9200D80D9C /* MaximizetheNumberofTargetNodesAfterConnectingTreesII.swift in Sources */,
+				8F1EF19A2F5FE61000365FA4 /* FindAllPossibleStableBinaryArraysII.swift in Sources */,
 				8FB9B5232A0BBF4E0073424E /* TeemoAttacking.swift in Sources */,
 				8FB9B4FD2A0BBF4E0073424E /* MaxConsecutiveOnes.swift in Sources */,
 				8F7A22DA2BCAFA1C005E48C2 /* MaximalRectangle.swift in Sources */,

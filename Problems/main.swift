@@ -1,1 +1,1 @@
-FindAllPossibleStableBinaryArraysI().tests()
+FindAllPossibleStableBinaryArraysII().tests()
