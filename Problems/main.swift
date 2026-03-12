@@ -1,1 +1,1 @@
-FindAllPossibleStableBinaryArraysII().tests()
+MaximizeSpanningTreeStabilitywithUpgrades().tests()
