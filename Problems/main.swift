@@ -1,1 +1,1 @@
-MaximizeSpanningTreeStabilitywithUpgrades().tests()
+MinimumNumberofSecondstoMakeMountainHeightZero().tests()
