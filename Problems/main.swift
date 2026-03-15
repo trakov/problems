@@ -1,1 +1,1 @@
-MinimumNumberofSecondstoMakeMountainHeightZero().tests()
+FancySequence().tests()
