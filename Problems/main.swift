@@ -1,1 +1,1 @@
-FancySequence().tests()
+GetBiggestThreeRhombusSumsinaGrid().tests()
