@@ -1,1 +1,1 @@
-CountSubmatriceswithTopLeftElementandSumLessThank().tests()
+CountSubmatricesWithEqualFrequencyofXandY().tests()
