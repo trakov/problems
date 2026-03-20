@@ -1,1 +1,1 @@
-CountSubmatricesWithEqualFrequencyofXandY().tests()
+MinimumAbsoluteDifferenceinSlidingSubmatrix().tests()
