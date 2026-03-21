@@ -1,1 +1,1 @@
-MinimumAbsoluteDifferenceinSlidingSubmatrix().tests()
+FlipSquareSubmatrixVertically().tests()
