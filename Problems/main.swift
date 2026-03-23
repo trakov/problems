@@ -1,1 +1,1 @@
-FlipSquareSubmatrixVertically().tests()
+MaximumNonNegativeProductinaMatrix().tests()
