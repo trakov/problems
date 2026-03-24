@@ -33,6 +33,7 @@
 		8F00410E2CB50FA600116FE0 /* MinimumNumberofSwapstoMaketheStringBalanced.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F00410D2CB50FA600116FE0 /* MinimumNumberofSwapstoMaketheStringBalanced.swift */; };
 		8F009BC52F6F373700083D98 /* FlipSquareSubmatrixVertically.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F009BC42F6F373700083D98 /* FlipSquareSubmatrixVertically.swift */; };
 		8F009BC72F71A06200083D98 /* MaximumNonNegativeProductinaMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F009BC62F71A06200083D98 /* MaximumNonNegativeProductinaMatrix.swift */; };
+		8F009BC92F72688600083D98 /* ConstructProductMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F009BC82F72688600083D98 /* ConstructProductMatrix.swift */; };
 		8F01C3AA2EE0BEC20069137F /* CountNumberofTrapezoidsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F01C3A92EE0BEC20069137F /* CountNumberofTrapezoidsII.swift */; };
 		8F01C3AC2EE152DA0069137F /* CountCollisionsonaRoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F01C3AB2EE152DA0069137F /* CountCollisionsonaRoad.swift */; };
 		8F01C3AE2EE28AA10069137F /* CountPartitionswithEvenSumDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F01C3AD2EE28AA10069137F /* CountPartitionswithEvenSumDifference.swift */; };
@@ -1371,6 +1372,7 @@
 		8F00410D2CB50FA600116FE0 /* MinimumNumberofSwapstoMaketheStringBalanced.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumNumberofSwapstoMaketheStringBalanced.swift; sourceTree = "<group>"; };
 		8F009BC42F6F373700083D98 /* FlipSquareSubmatrixVertically.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipSquareSubmatrixVertically.swift; sourceTree = "<group>"; };
 		8F009BC62F71A06200083D98 /* MaximumNonNegativeProductinaMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNonNegativeProductinaMatrix.swift; sourceTree = "<group>"; };
+		8F009BC82F72688600083D98 /* ConstructProductMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructProductMatrix.swift; sourceTree = "<group>"; };
 		8F01C3A92EE0BEC20069137F /* CountNumberofTrapezoidsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofTrapezoidsII.swift; sourceTree = "<group>"; };
 		8F01C3AB2EE152DA0069137F /* CountCollisionsonaRoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCollisionsonaRoad.swift; sourceTree = "<group>"; };
 		8F01C3AD2EE28AA10069137F /* CountPartitionswithEvenSumDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPartitionswithEvenSumDifference.swift; sourceTree = "<group>"; };
@@ -4016,6 +4018,7 @@
 				8F53C5092F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift */,
 				8F009BC42F6F373700083D98 /* FlipSquareSubmatrixVertically.swift */,
 				8F009BC62F71A06200083D98 /* MaximumNonNegativeProductinaMatrix.swift */,
+				8F009BC82F72688600083D98 /* ConstructProductMatrix.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4121,6 +4124,7 @@
 				8F1EBF922B45DB0100E76A95 /* NumberOfLaserBeamsInABank.swift in Sources */,
 				8FB9B58A2A0BBF5A0073424E /* NumberOfIslands.swift in Sources */,
 				8FB3A5D12A922D3E00EEBECF /* SortItemsByGroupsRespectingDependencies.swift in Sources */,
+				8F009BC92F72688600083D98 /* ConstructProductMatrix.swift in Sources */,
 				8F73459E2E713CEF001DF5A3 /* MinimumNumberofPeopletoTeach.swift in Sources */,
 				8F6BED112B5295420056FCAC /* MinimumNumberOfStepsToMakeTwoStringsAnagram.swift in Sources */,
 				8FB9B4DD2A0BBF480073424E /* ConvertBinaryNumberInALinkedListToInteger.swift in Sources */,

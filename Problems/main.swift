@@ -1,1 +1,1 @@
-MaximumNonNegativeProductinaMatrix().tests()
+ConstructProductMatrix().tests()
