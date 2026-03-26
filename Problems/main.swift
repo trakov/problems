@@ -1,1 +1,1 @@
-ConstructProductMatrix().tests()
+EqualSumGridPartitionI().tests()
