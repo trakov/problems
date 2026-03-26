@@ -1,1 +1,1 @@
-EqualSumGridPartitionI().tests()
+EqualSumGridPartitionII().tests()
