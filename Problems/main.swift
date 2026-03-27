@@ -1,1 +1,1 @@
-EqualSumGridPartitionII().tests()
+MatrixSimilarityAfterCyclicShifts().tests()
