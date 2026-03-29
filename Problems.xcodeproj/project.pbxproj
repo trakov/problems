@@ -422,6 +422,7 @@
 		8F9948EA2DAAC96A007D982F /* FindtheCountofGoodIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948E92DAAC96A007D982F /* FindtheCountofGoodIntegers.swift */; };
 		8F9948EC2DAB8908007D982F /* CountGoodNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948EB2DAB8908007D982F /* CountGoodNumbers.swift */; };
 		8F9948EE2DACD7E3007D982F /* CountGoodTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9948ED2DACD7E3007D982F /* CountGoodTriplets.swift */; };
+		8F9CFE262F77C4270020E9FD /* FindtheStringwithLCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE252F77C4270020E9FD /* FindtheStringwithLCP.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -1949,6 +1950,7 @@
 		8F9948EB2DAB8908007D982F /* CountGoodNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodNumbers.swift; sourceTree = "<group>"; };
 		8F9948ED2DACD7E3007D982F /* CountGoodTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTriplets.swift; sourceTree = "<group>"; };
 		8F9C9AC92757F00400CA1FF0 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
+		8F9CFE252F77C4270020E9FD /* FindtheStringwithLCP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheStringwithLCP.swift; sourceTree = "<group>"; };
 		8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChange.swift; sourceTree = "<group>"; };
 		8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatReservationManager.swift; sourceTree = "<group>"; };
@@ -4028,6 +4030,7 @@
 				8F009BCA2F73C53E00083D98 /* EqualSumGridPartitionI.swift */,
 				8F009BCC2F74F12500083D98 /* EqualSumGridPartitionII.swift */,
 				8F009BCE2F76634200083D98 /* MatrixSimilarityAfterCyclicShifts.swift */,
+				8F9CFE252F77C4270020E9FD /* FindtheStringwithLCP.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5120,6 +5123,7 @@
 				8FB9B45E2A0BBF3A0073424E /* CourseSchedule.swift in Sources */,
 				8F034DCC2E8BAD260079A1BF /* FindTriangularSumofanArray.swift in Sources */,
 				8F0040D52C9BFD9F00116FE0 /* DifferentWaystoAddParentheses.swift in Sources */,
+				8F9CFE262F77C4270020E9FD /* FindtheStringwithLCP.swift in Sources */,
 				8FF20BB32C74D80D002C9D49 /* LowestCommonAncestorofaBinaryTreeIII.swift in Sources */,
 				8F0D54872B66212B00BD6498 /* NumberOfSubmatricesThatSumToTarget.swift in Sources */,
 				8FC1029B2A474348005E8289 /* TallestBillboard.swift in Sources */,

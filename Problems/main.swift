@@ -1,1 +1,1 @@
-MatrixSimilarityAfterCyclicShifts().tests()
+FindtheStringwithLCP().tests()
