@@ -1,1 +1,1 @@
-FindtheStringwithLCP().tests()
+CheckifStringsCanbeMadeEqualWithOperationsI().tests()
