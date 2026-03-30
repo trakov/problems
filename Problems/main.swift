@@ -1,1 +1,1 @@
-CheckifStringsCanbeMadeEqualWithOperationsI().tests()
+CheckifStringsCanbeMadeEqualWithOperationsII().tests()
