@@ -425,6 +425,7 @@
 		8F9CFE262F77C4270020E9FD /* FindtheStringwithLCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE252F77C4270020E9FD /* FindtheStringwithLCP.swift */; };
 		8F9CFE282F79966A0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE272F79966A0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsI.swift */; };
 		8F9CFE2A2F7A481D0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE292F7A481D0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsII.swift */; };
+		8F9CFE2C2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE2B2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -1955,6 +1956,7 @@
 		8F9CFE252F77C4270020E9FD /* FindtheStringwithLCP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheStringwithLCP.swift; sourceTree = "<group>"; };
 		8F9CFE272F79966A0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifStringsCanbeMadeEqualWithOperationsI.swift; sourceTree = "<group>"; };
 		8F9CFE292F7A481D0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifStringsCanbeMadeEqualWithOperationsII.swift; sourceTree = "<group>"; };
+		8F9CFE2B2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallySmallestGeneratedString.swift; sourceTree = "<group>"; };
 		8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChange.swift; sourceTree = "<group>"; };
 		8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatReservationManager.swift; sourceTree = "<group>"; };
@@ -4037,6 +4039,7 @@
 				8F9CFE252F77C4270020E9FD /* FindtheStringwithLCP.swift */,
 				8F9CFE272F79966A0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsI.swift */,
 				8F9CFE292F7A481D0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsII.swift */,
+				8F9CFE2B2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4135,6 +4138,7 @@
 				8F7345A62E77E6F4001DF5A3 /* MaximumNumberofWordsYouCanType.swift in Sources */,
 				8F00410E2CB50FA600116FE0 /* MinimumNumberofSwapstoMaketheStringBalanced.swift in Sources */,
 				8FB9B5222A0BBF4E0073424E /* ArrangingCoins.swift in Sources */,
+				8F9CFE2C2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift in Sources */,
 				8FB9B5442A0BBF540073424E /* RangeSumQueryImmutable.swift in Sources */,
 				8FE9D6A92CE71AA10043A0AC /* ShortestSubarraytobeRemovedtoMakeArraySorted.swift in Sources */,
 				8F6B6E7B2C44EA4500A639F6 /* CreateBinaryTreeFromDescriptions.swift in Sources */,

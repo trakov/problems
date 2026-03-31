@@ -1,1 +1,1 @@
-CheckifStringsCanbeMadeEqualWithOperationsII().tests()
+LexicographicallySmallestGeneratedString().tests()
