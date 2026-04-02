@@ -1,1 +1,1 @@
-LexicographicallySmallestGeneratedString().tests()
+MaximumAmountofMoneyRobotCanEarn().tests()

@@ -426,6 +426,7 @@
 		8F9CFE282F79966A0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE272F79966A0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsI.swift */; };
 		8F9CFE2A2F7A481D0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE292F7A481D0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsII.swift */; };
 		8F9CFE2C2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE2B2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift */; };
+		8F9CFE2E2F7E3FA60020E9FD /* MaximumAmountofMoneyRobotCanEarn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE2D2F7E3FA60020E9FD /* MaximumAmountofMoneyRobotCanEarn.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -1957,6 +1958,7 @@
 		8F9CFE272F79966A0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifStringsCanbeMadeEqualWithOperationsI.swift; sourceTree = "<group>"; };
 		8F9CFE292F7A481D0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifStringsCanbeMadeEqualWithOperationsII.swift; sourceTree = "<group>"; };
 		8F9CFE2B2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallySmallestGeneratedString.swift; sourceTree = "<group>"; };
+		8F9CFE2D2F7E3FA60020E9FD /* MaximumAmountofMoneyRobotCanEarn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAmountofMoneyRobotCanEarn.swift; sourceTree = "<group>"; };
 		8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChange.swift; sourceTree = "<group>"; };
 		8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatReservationManager.swift; sourceTree = "<group>"; };
@@ -4040,6 +4042,7 @@
 				8F9CFE272F79966A0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsI.swift */,
 				8F9CFE292F7A481D0020E9FD /* CheckifStringsCanbeMadeEqualWithOperationsII.swift */,
 				8F9CFE2B2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift */,
+				8F9CFE2D2F7E3FA60020E9FD /* MaximumAmountofMoneyRobotCanEarn.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5045,6 +5048,7 @@
 				8FB9B4EF2A0BBF4E0073424E /* SquaresOfASortedArray.swift in Sources */,
 				8FB3A5CF2A90EDD000EEBECF /* FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.swift in Sources */,
 				8FF20BF52C844FEB002C9D49 /* Convert1DArrayInto2DArray.swift in Sources */,
+				8F9CFE2E2F7E3FA60020E9FD /* MaximumAmountofMoneyRobotCanEarn.swift in Sources */,
 				8FB9B4A72A0BBF410073424E /* ContainerWithMostWater2.swift in Sources */,
 				8FED94752B9735E300E55D4C /* MinimumLengthOfStringAfterDeletingSimilarEnds.swift in Sources */,
 				8F0BB7E92A722A1800A72248 /* MaximumRunningTimeOfNComputers.swift in Sources */,
