@@ -1,1 +1,1 @@
-MaximumAmountofMoneyRobotCanEarn().tests()
+MaximumWallsDestroyedbyRobots().tests()
