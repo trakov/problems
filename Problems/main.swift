@@ -1,1 +1,1 @@
-MaximumWallsDestroyedbyRobots().tests()
+DecodetheSlantedCiphertext().tests()

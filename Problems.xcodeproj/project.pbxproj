@@ -428,6 +428,7 @@
 		8F9CFE2C2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE2B2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift */; };
 		8F9CFE2E2F7E3FA60020E9FD /* MaximumAmountofMoneyRobotCanEarn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE2D2F7E3FA60020E9FD /* MaximumAmountofMoneyRobotCanEarn.swift */; };
 		8F9CFE302F7F8A9A0020E9FD /* MaximumWallsDestroyedbyRobots.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE2F2F7F8A9A0020E9FD /* MaximumWallsDestroyedbyRobots.swift */; };
+		8F9CFE322F81185E0020E9FD /* DecodetheSlantedCiphertext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CFE312F81185E0020E9FD /* DecodetheSlantedCiphertext.swift */; };
 		8F9E9FB82A1362790078FC86 /* MyCalendarI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */; };
 		8F9E9FBA2A136A620078FC86 /* LemonadeChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */; };
 		8F9E9FBC2A136E4D0078FC86 /* SeatReservationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */; };
@@ -1961,6 +1962,7 @@
 		8F9CFE2B2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallySmallestGeneratedString.swift; sourceTree = "<group>"; };
 		8F9CFE2D2F7E3FA60020E9FD /* MaximumAmountofMoneyRobotCanEarn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAmountofMoneyRobotCanEarn.swift; sourceTree = "<group>"; };
 		8F9CFE2F2F7F8A9A0020E9FD /* MaximumWallsDestroyedbyRobots.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWallsDestroyedbyRobots.swift; sourceTree = "<group>"; };
+		8F9CFE312F81185E0020E9FD /* DecodetheSlantedCiphertext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodetheSlantedCiphertext.swift; sourceTree = "<group>"; };
 		8F9E9FB72A1362790078FC86 /* MyCalendarI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalendarI.swift; sourceTree = "<group>"; };
 		8F9E9FB92A136A620078FC86 /* LemonadeChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChange.swift; sourceTree = "<group>"; };
 		8F9E9FBB2A136E4D0078FC86 /* SeatReservationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatReservationManager.swift; sourceTree = "<group>"; };
@@ -4046,6 +4048,7 @@
 				8F9CFE2B2F7BA8B40020E9FD /* LexicographicallySmallestGeneratedString.swift */,
 				8F9CFE2D2F7E3FA60020E9FD /* MaximumAmountofMoneyRobotCanEarn.swift */,
 				8F9CFE2F2F7F8A9A0020E9FD /* MaximumWallsDestroyedbyRobots.swift */,
+				8F9CFE312F81185E0020E9FD /* DecodetheSlantedCiphertext.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4409,6 +4412,7 @@
 				8FC102B32A528CE6005E8289 /* BuddyStrings.swift in Sources */,
 				8FF63D982CCCB4620061ED24 /* HeightofBinaryTreeAfterSubtreeRemovalQueries.swift in Sources */,
 				8FB9B5852A0BBF5A0073424E /* ValidSudoku.swift in Sources */,
+				8F9CFE322F81185E0020E9FD /* DecodetheSlantedCiphertext.swift in Sources */,
 				8FB9B5862A0BBF5A0073424E /* ThreeSumClosest.swift in Sources */,
 				8FB9B4FE2A0BBF4E0073424E /* HammingDistance.swift in Sources */,
 				8FB9B4902A0BBF410073424E /* MaximumIceCreamBars.swift in Sources */,
