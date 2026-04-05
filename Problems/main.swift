@@ -1,1 +1,1 @@
-DecodetheSlantedCiphertext().tests()
+RobotReturntoOrigin().tests()
