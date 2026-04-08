@@ -1,1 +1,1 @@
-WalkingRobotSimulationII().tests()
+XORAfterRangeMultiplicationQueriesI().tests()
