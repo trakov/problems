@@ -1,1 +1,1 @@
-XORAfterRangeMultiplicationQueriesI().tests()
+XORAfterRangeMultiplicationQueriesII().tests()
