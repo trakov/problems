@@ -1,1 +1,1 @@
-XORAfterRangeMultiplicationQueriesII().tests()
+MinimumDistanceBetweenThreeEqualElementsI().tests()
