@@ -1,1 +1,1 @@
-MinimumDistanceBetweenThreeEqualElementsI().tests()
+MinimumDistanceBetweenThreeEqualElementsII().tests()
