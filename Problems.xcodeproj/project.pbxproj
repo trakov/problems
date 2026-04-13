@@ -231,6 +231,7 @@
 		8F64AF282C611CAD0048D4E5 /* AlienDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F64AF272C611CAD0048D4E5 /* AlienDictionary.swift */; };
 		8F66632F2F8A5B0A00C0EAC5 /* MinimumDistanceBetweenThreeEqualElementsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F66632E2F8A5B0A00C0EAC5 /* MinimumDistanceBetweenThreeEqualElementsII.swift */; };
 		8F6663312F8B80DB00C0EAC5 /* MinimumDistancetoTypeaWordUsingTwoFingers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663302F8B80DB00C0EAC5 /* MinimumDistancetoTypeaWordUsingTwoFingers.swift */; };
+		8F6663332F8CC30D00C0EAC5 /* MinimumDistancetotheTargetElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663322F8CC30D00C0EAC5 /* MinimumDistancetotheTargetElement.swift */; };
 		8F67237E2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */; };
 		8F6723802EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F67237F2EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift */; };
 		8F68867F2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */; };
@@ -1650,6 +1651,7 @@
 		8F64AF272C611CAD0048D4E5 /* AlienDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlienDictionary.swift; sourceTree = "<group>"; };
 		8F66632E2F8A5B0A00C0EAC5 /* MinimumDistanceBetweenThreeEqualElementsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDistanceBetweenThreeEqualElementsII.swift; sourceTree = "<group>"; };
 		8F6663302F8B80DB00C0EAC5 /* MinimumDistancetoTypeaWordUsingTwoFingers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDistancetoTypeaWordUsingTwoFingers.swift; sourceTree = "<group>"; };
+		8F6663322F8CC30D00C0EAC5 /* MinimumDistancetotheTargetElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumDistancetotheTargetElement.swift; sourceTree = "<group>"; };
 		8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMakeArraySumDivisiblebyK.swift; sourceTree = "<group>"; };
 		8F67237F2EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofTrapezoidsI.swift; sourceTree = "<group>"; };
 		8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofDistinctElementsAfterOperations.swift; sourceTree = "<group>"; };
@@ -4070,6 +4072,7 @@
 				8F9CFE3B2F88D8580020E9FD /* MinimumDistanceBetweenThreeEqualElementsI.swift */,
 				8F66632E2F8A5B0A00C0EAC5 /* MinimumDistanceBetweenThreeEqualElementsII.swift */,
 				8F6663302F8B80DB00C0EAC5 /* MinimumDistancetoTypeaWordUsingTwoFingers.swift */,
+				8F6663322F8CC30D00C0EAC5 /* MinimumDistancetotheTargetElement.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5257,6 +5260,7 @@
 				8FC7B9972BADC0150036C9F8 /* VerticalOrderTraversalOfABinaryTree.swift in Sources */,
 				8FB9B5282A0BBF540073424E /* BinaryTreePostorderTraversal.swift in Sources */,
 				8FCBEB2D2F3B073E00F3A409 /* LongestBalancedSubarrayI.swift in Sources */,
+				8F6663332F8CC30D00C0EAC5 /* MinimumDistancetotheTargetElement.swift in Sources */,
 				8FB9B5142A0BBF4E0073424E /* IslandPerimeter.swift in Sources */,
 				8FB9B4082A0BBF2E0073424E /* MinimumTimeToCompleteTrips.swift in Sources */,
 				8FB9B4E42A0BBF480073424E /* MultiplyStrings.swift in Sources */,

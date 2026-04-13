@@ -1,1 +1,1 @@
-MinimumDistancetoTypeaWordUsingTwoFingers().tests()
+MinimumDistancetotheTargetElement().tests()
