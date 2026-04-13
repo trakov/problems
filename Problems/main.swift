@@ -1,1 +1,1 @@
-MinimumDistanceBetweenThreeEqualElementsII().tests()
+MinimumDistancetoTypeaWordUsingTwoFingers().tests()
