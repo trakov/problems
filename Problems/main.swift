@@ -1,1 +1,1 @@
-ShortestDistancetoTargetStringinaCircularArray().tests()
+ClosestEqualElementQueries().tests()
