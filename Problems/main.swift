@@ -1,1 +1,1 @@
-ClosestEqualElementQueries().tests()
+MinimumAbsoluteDistanceBetweenMirrorPairs().tests()
