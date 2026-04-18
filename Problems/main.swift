@@ -1,1 +1,1 @@
-MinimumAbsoluteDistanceBetweenMirrorPairs().tests()
+MirrorDistanceofanInteger().tests()

@@ -235,6 +235,7 @@
 		8F6663352F8F638D00C0EAC5 /* ShortestDistancetoTargetStringinaCircularArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663342F8F638D00C0EAC5 /* ShortestDistancetoTargetStringinaCircularArray.swift */; };
 		8F6663372F90C7E200C0EAC5 /* ClosestEqualElementQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663362F90C7E200C0EAC5 /* ClosestEqualElementQueries.swift */; };
 		8F6663392F91FAB200C0EAC5 /* MinimumAbsoluteDistanceBetweenMirrorPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663382F91FAB200C0EAC5 /* MinimumAbsoluteDistanceBetweenMirrorPairs.swift */; };
+		8F66633B2F9399FA00C0EAC5 /* MirrorDistanceofanInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F66633A2F9399FA00C0EAC5 /* MirrorDistanceofanInteger.swift */; };
 		8F67237E2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */; };
 		8F6723802EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F67237F2EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift */; };
 		8F68867F2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */; };
@@ -1658,6 +1659,7 @@
 		8F6663342F8F638D00C0EAC5 /* ShortestDistancetoTargetStringinaCircularArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestDistancetoTargetStringinaCircularArray.swift; sourceTree = "<group>"; };
 		8F6663362F90C7E200C0EAC5 /* ClosestEqualElementQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosestEqualElementQueries.swift; sourceTree = "<group>"; };
 		8F6663382F91FAB200C0EAC5 /* MinimumAbsoluteDistanceBetweenMirrorPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumAbsoluteDistanceBetweenMirrorPairs.swift; sourceTree = "<group>"; };
+		8F66633A2F9399FA00C0EAC5 /* MirrorDistanceofanInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MirrorDistanceofanInteger.swift; sourceTree = "<group>"; };
 		8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMakeArraySumDivisiblebyK.swift; sourceTree = "<group>"; };
 		8F67237F2EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofTrapezoidsI.swift; sourceTree = "<group>"; };
 		8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofDistinctElementsAfterOperations.swift; sourceTree = "<group>"; };
@@ -4082,6 +4084,7 @@
 				8F6663342F8F638D00C0EAC5 /* ShortestDistancetoTargetStringinaCircularArray.swift */,
 				8F6663362F90C7E200C0EAC5 /* ClosestEqualElementQueries.swift */,
 				8F6663382F91FAB200C0EAC5 /* MinimumAbsoluteDistanceBetweenMirrorPairs.swift */,
+				8F66633A2F9399FA00C0EAC5 /* MirrorDistanceofanInteger.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4407,6 +4410,7 @@
 				8F7345762E52E7CC001DF5A3 /* TwoFourGame.swift in Sources */,
 				8F1631BB2F49A25A00D12D21 /* PrimeNumberofSetBitsinBinaryRepresentation.swift in Sources */,
 				8F3D72E02D5B03CA007E7625 /* RemoveAllOccurrencesofaSubstring.swift in Sources */,
+				8F66633B2F9399FA00C0EAC5 /* MirrorDistanceofanInteger.swift in Sources */,
 				8F7A23192BCFAC7F005E48C2 /* SmallestStringStartingFromLeaf.swift in Sources */,
 				8FC102EB2A63C000005E8289 /* SmallestSufficientTeam.swift in Sources */,
 				8FB79E172C65CE31005549D1 /* MagicSquaresInGrid.swift in Sources */,
