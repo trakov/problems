@@ -1,1 +1,1 @@
-MirrorDistanceofanInteger().tests()
+TwoFurthestHousesWithDifferentColors().tests()
