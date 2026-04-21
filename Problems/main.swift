@@ -1,1 +1,1 @@
-TwoFurthestHousesWithDifferentColors().tests()
+MinimizeHammingDistanceAfterSwapOperations().tests()
