@@ -1,1 +1,1 @@
-MinimizeHammingDistanceAfterSwapOperations().tests()
+WordsWithinTwoEditsofDictionary().tests()
