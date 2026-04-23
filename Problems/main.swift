@@ -1,1 +1,1 @@
-WordsWithinTwoEditsofDictionary().tests()
+SumofDistances().tests()
