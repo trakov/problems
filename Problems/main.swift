@@ -1,1 +1,1 @@
-SumofDistances().tests()
+FurthestPointFromOrigin().tests()
