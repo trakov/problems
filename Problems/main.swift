@@ -1,1 +1,1 @@
-FurthestPointFromOrigin().tests()
+MaximizetheDistanceBetweenPointsonaSquare().tests()
