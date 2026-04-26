@@ -1,1 +1,1 @@
-MaximizetheDistanceBetweenPointsonaSquare().tests()
+DetectCyclesin2DGrid().tests()
