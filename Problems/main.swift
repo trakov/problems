@@ -1,1 +1,1 @@
-DetectCyclesin2DGrid().tests()
+CheckifThereisaValidPathinaGrid().tests()

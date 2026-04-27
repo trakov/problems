@@ -243,6 +243,7 @@
 		8F6663472F9B331200C0EAC5 /* FurthestPointFromOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663462F9B331200C0EAC5 /* FurthestPointFromOrigin.swift */; };
 		8F6663492F9CA2D500C0EAC5 /* MaximizetheDistanceBetweenPointsonaSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663482F9CA2D500C0EAC5 /* MaximizetheDistanceBetweenPointsonaSquare.swift */; };
 		8F66634B2F9E1B3700C0EAC5 /* DetectCyclesin2DGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F66634A2F9E1B3700C0EAC5 /* DetectCyclesin2DGrid.swift */; };
+		8F66634D2F9F20A600C0EAC5 /* CheckifThereisaValidPathinaGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F66634C2F9F20A600C0EAC5 /* CheckifThereisaValidPathinaGrid.swift */; };
 		8F67237E2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */; };
 		8F6723802EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F67237F2EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift */; };
 		8F68867F2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */; };
@@ -1674,6 +1675,7 @@
 		8F6663462F9B331200C0EAC5 /* FurthestPointFromOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FurthestPointFromOrigin.swift; sourceTree = "<group>"; };
 		8F6663482F9CA2D500C0EAC5 /* MaximizetheDistanceBetweenPointsonaSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizetheDistanceBetweenPointsonaSquare.swift; sourceTree = "<group>"; };
 		8F66634A2F9E1B3700C0EAC5 /* DetectCyclesin2DGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectCyclesin2DGrid.swift; sourceTree = "<group>"; };
+		8F66634C2F9F20A600C0EAC5 /* CheckifThereisaValidPathinaGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifThereisaValidPathinaGrid.swift; sourceTree = "<group>"; };
 		8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMakeArraySumDivisiblebyK.swift; sourceTree = "<group>"; };
 		8F67237F2EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofTrapezoidsI.swift; sourceTree = "<group>"; };
 		8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofDistinctElementsAfterOperations.swift; sourceTree = "<group>"; };
@@ -4106,6 +4108,7 @@
 				8F6663462F9B331200C0EAC5 /* FurthestPointFromOrigin.swift */,
 				8F6663482F9CA2D500C0EAC5 /* MaximizetheDistanceBetweenPointsonaSquare.swift */,
 				8F66634A2F9E1B3700C0EAC5 /* DetectCyclesin2DGrid.swift */,
+				8F66634C2F9F20A600C0EAC5 /* CheckifThereisaValidPathinaGrid.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5154,6 +5157,7 @@
 				8FB9B46C2A0BBF3A0073424E /* PopulatingNextRightPointersInEachNodeII.swift in Sources */,
 				8FCBEB1D2F2CBD1600F3A409 /* MinimumCosttoConvertStringII.swift in Sources */,
 				8FB9B4E82A0BBF480073424E /* BinaryTreeMaximumPathSum.swift in Sources */,
+				8F66634D2F9F20A600C0EAC5 /* CheckifThereisaValidPathinaGrid.swift in Sources */,
 				8FB9B5172A0BBF4E0073424E /* AverageSalaryExcludingTheMinimumAndMaximumSalary.swift in Sources */,
 				8FB9B3D92A0BBF220073424E /* LongestConsecutiveSequence.swift in Sources */,
 				8FB9B3FE2A0BBF280073424E /* LargestColorValueInADirectedGraph.swift in Sources */,
