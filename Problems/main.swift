@@ -1,1 +1,1 @@
-CheckifThereisaValidPathinaGrid().tests()
+MaximumScoreFromGridOperations().tests()
