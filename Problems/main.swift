@@ -1,1 +1,1 @@
-MaximumScoreFromGridOperations().tests()
+MaximumPathScoreinaGrid().tests()
