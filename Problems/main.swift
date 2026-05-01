@@ -1,1 +1,1 @@
-MaximumPathScoreinaGrid().tests()
+RotateFunction().tests()
