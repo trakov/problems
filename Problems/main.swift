@@ -1,1 +1,1 @@
-RotateFunction().tests()
+JumpGameV().tests()
