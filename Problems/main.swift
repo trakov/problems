@@ -1,1 +1,1 @@
-JumpGameV().tests()
+JumpGameVII().tests()
