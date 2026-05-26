@@ -1,1 +1,1 @@
-JumpGameVII().tests()
+CounttheNumberofSpecialCharactersI().tests()

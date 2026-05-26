@@ -249,6 +249,7 @@
 		8F6663532FA4717600C0EAC5 /* RotateFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663522FA4717600C0EAC5 /* RotateFunction.swift */; };
 		8F6663552FC36E5B00C0EAC5 /* JumpGameV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663542FC36E5B00C0EAC5 /* JumpGameV.swift */; };
 		8F6663572FC4DD4600C0EAC5 /* JumpGameVII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663562FC4DD4600C0EAC5 /* JumpGameVII.swift */; };
+		8F6663592FC574FA00C0EAC5 /* CounttheNumberofSpecialCharactersI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6663582FC574FA00C0EAC5 /* CounttheNumberofSpecialCharactersI.swift */; };
 		8F67237E2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */; };
 		8F6723802EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F67237F2EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift */; };
 		8F68867F2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */; };
@@ -1686,6 +1687,7 @@
 		8F6663522FA4717600C0EAC5 /* RotateFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateFunction.swift; sourceTree = "<group>"; };
 		8F6663542FC36E5B00C0EAC5 /* JumpGameV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGameV.swift; sourceTree = "<group>"; };
 		8F6663562FC4DD4600C0EAC5 /* JumpGameVII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpGameVII.swift; sourceTree = "<group>"; };
+		8F6663582FC574FA00C0EAC5 /* CounttheNumberofSpecialCharactersI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofSpecialCharactersI.swift; sourceTree = "<group>"; };
 		8F67237D2EDB3C9000085551 /* MinimumOperationstoMakeArraySumDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoMakeArraySumDivisiblebyK.swift; sourceTree = "<group>"; };
 		8F67237F2EDEBC4C00085551 /* CountNumberofTrapezoidsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberofTrapezoidsI.swift; sourceTree = "<group>"; };
 		8F68867E2EA3997700468A50 /* MaximumNumberofDistinctElementsAfterOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofDistinctElementsAfterOperations.swift; sourceTree = "<group>"; };
@@ -4124,6 +4126,7 @@
 				8F6663522FA4717600C0EAC5 /* RotateFunction.swift */,
 				8F6663542FC36E5B00C0EAC5 /* JumpGameV.swift */,
 				8F6663562FC4DD4600C0EAC5 /* JumpGameVII.swift */,
+				8F6663582FC574FA00C0EAC5 /* CounttheNumberofSpecialCharactersI.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4556,6 +4559,7 @@
 				8FB9B4712A0BBF3A0073424E /* SubarrayProductLessThanK.swift in Sources */,
 				8F5DE2E42C92C14500008D19 /* CounttheNumberofConsistentStrings.swift in Sources */,
 				8FB9B5302A0BBF540073424E /* ReverseWordsInString.swift in Sources */,
+				8F6663592FC574FA00C0EAC5 /* CounttheNumberofSpecialCharactersI.swift in Sources */,
 				8FB9B4CA2A0BBF480073424E /* SortList.swift in Sources */,
 				8FB9B42C2A0BBF340073424E /* ConstructQuadTree.swift in Sources */,
 				8FF63D8A2CC3C7370061ED24 /* FindKthBitinNthBinaryString.swift in Sources */,
