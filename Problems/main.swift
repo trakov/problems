@@ -1,1 +1,1 @@
-CounttheNumberofSpecialCharactersII().tests()
+LongestCommonSuffixQueries().tests()
