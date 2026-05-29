@@ -1,1 +1,1 @@
-LongestCommonSuffixQueries().tests()
+MinimumElementAfterReplacementWithDigitSum().tests()
