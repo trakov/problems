@@ -1,1 +1,1 @@
-BlockPlacementQueries().tests()
+DestroyingAsteroids().tests()
