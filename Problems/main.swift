@@ -1,1 +1,1 @@
-MinimumElementAfterReplacementWithDigitSum().tests()
+BlockPlacementQueries().tests()
