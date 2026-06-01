@@ -1,1 +1,1 @@
-DestroyingAsteroids().tests()
+MinimumCostofBuyingCandiesWithDiscount().tests()
