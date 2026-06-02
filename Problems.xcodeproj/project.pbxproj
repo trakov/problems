@@ -371,6 +371,7 @@
 		8F80B3642FCAA23900E0E610 /* BlockPlacementQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F80B3632FCAA23900E0E610 /* BlockPlacementQueries.swift */; };
 		8F80B3662FCCBC5D00E0E610 /* DestroyingAsteroids.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F80B3652FCCBC5D00E0E610 /* DestroyingAsteroids.swift */; };
 		8F80B3682FCD3B5000E0E610 /* MinimumCostofBuyingCandiesWithDiscount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F80B3672FCD3B5000E0E610 /* MinimumCostofBuyingCandiesWithDiscount.swift */; };
+		8F80B36A2FCE975F00E0E610 /* EarliestFinishTimeforLandandWaterRidesI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F80B3692FCE975F00E0E610 /* EarliestFinishTimeforLandandWaterRidesI.swift */; };
 		8F8504E82C61F21E0046CFCA /* MinimumNumberofPushestoTypeWordII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504E72C61F21E0046CFCA /* MinimumNumberofPushestoTypeWordII.swift */; };
 		8F8504EF2C62A0770046CFCA /* ReadNCharactersGivenRead4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504EE2C62A0770046CFCA /* ReadNCharactersGivenRead4.swift */; };
 		8F8504F42C6478D70046CFCA /* SpiralMatrixIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8504F32C6478D70046CFCA /* SpiralMatrixIII.swift */; };
@@ -1859,6 +1860,7 @@
 		8F80B3632FCAA23900E0E610 /* BlockPlacementQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlockPlacementQueries.swift; sourceTree = "<group>"; };
 		8F80B3652FCCBC5D00E0E610 /* DestroyingAsteroids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestroyingAsteroids.swift; sourceTree = "<group>"; };
 		8F80B3672FCD3B5000E0E610 /* MinimumCostofBuyingCandiesWithDiscount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumCostofBuyingCandiesWithDiscount.swift; sourceTree = "<group>"; };
+		8F80B3692FCE975F00E0E610 /* EarliestFinishTimeforLandandWaterRidesI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EarliestFinishTimeforLandandWaterRidesI.swift; sourceTree = "<group>"; };
 		8F8405FF29F1029300EF1303 /* MaximumWidthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumWidthOfBinaryTree.swift; sourceTree = "<group>"; };
 		8F84060129F127B100EF1303 /* DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoIntegers.swift; sourceTree = "<group>"; };
 		8F84060329F1380900EF1303 /* GrayCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayCode.swift; sourceTree = "<group>"; };
@@ -4145,6 +4147,7 @@
 				8F80B3632FCAA23900E0E610 /* BlockPlacementQueries.swift */,
 				8F80B3652FCCBC5D00E0E610 /* DestroyingAsteroids.swift */,
 				8F80B3672FCD3B5000E0E610 /* MinimumCostofBuyingCandiesWithDiscount.swift */,
+				8F80B3692FCE975F00E0E610 /* EarliestFinishTimeforLandandWaterRidesI.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4274,6 +4277,7 @@
 				8FF5A49F2B0B25AD00C11D6D /* MinimumAmountOfTimeToCollectGarbage.swift in Sources */,
 				8FB9B4FC2A0BBF4E0073424E /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift in Sources */,
 				8FB584D02DBE97D500CEE980 /* CountSubarraysofLengthThreeWithaCondition.swift in Sources */,
+				8F80B36A2FCE975F00E0E610 /* EarliestFinishTimeforLandandWaterRidesI.swift in Sources */,
 				8FF20BA52C71A6FC002C9D49 /* CountSubstringsThatSatisfyKConstraintI.swift in Sources */,
 				8F6B6E752C4107A700A639F6 /* MaximumScoreFromRemovingSubstrings.swift in Sources */,
 				8F05A3E32AB2C42C005ECA47 /* ReconstructItinerary.swift in Sources */,

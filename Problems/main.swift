@@ -1,1 +1,1 @@
-MinimumCostofBuyingCandiesWithDiscount().tests()
+EarliestFinishTimeforLandandWaterRidesI().tests()
