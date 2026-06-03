@@ -1,1 +1,1 @@
-EarliestFinishTimeforLandandWaterRidesI().tests()
+EarliestFinishTimeforLandandWaterRidesII().tests()
