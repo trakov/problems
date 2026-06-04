@@ -1,1 +1,1 @@
-EarliestFinishTimeforLandandWaterRidesII().tests()
+TotalWavinessofNumbersinRangeI().tests()
