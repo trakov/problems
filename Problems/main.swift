@@ -1,1 +1,1 @@
-LeftandRightSumDifferences().tests()
+TotalWavinessofNumbersinRangeII().tests()
