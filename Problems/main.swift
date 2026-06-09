@@ -1,1 +1,1 @@
-TotalWavinessofNumbersinRangeII().tests()
+MaximumTotalSubarrayValueI().tests()

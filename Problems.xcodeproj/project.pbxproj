@@ -409,6 +409,7 @@
 		8F8D2DB82E9F6199007C8AC8 /* AdjacentIncreasingSubarraysDetectionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D2DB72E9F6199007C8AC8 /* AdjacentIncreasingSubarraysDetectionII.swift */; };
 		8F8D2DBA2EA0C6F3007C8AC8 /* SmallestMissingNonnegativeIntegerAfterOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D2DB92EA0C6F3007C8AC8 /* SmallestMissingNonnegativeIntegerAfterOperations.swift */; };
 		8F8D2DBC2EA1FFBC007C8AC8 /* MaximizetheNumberofPartitionsAfterOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D2DBB2EA1FFBC007C8AC8 /* MaximizetheNumberofPartitionsAfterOperations.swift */; };
+		8F8E52A52FD8B17F001C35F8 /* MaximumTotalSubarrayValueI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8E52A42FD8B17F001C35F8 /* MaximumTotalSubarrayValueI.swift */; };
 		8F8EB75E2D377C8A00DFD2D3 /* MinimizeXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75D2D377C8A00DFD2D3 /* MinimizeXOR.swift */; };
 		8F8EB7602D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75F2D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift */; };
 		8F8EB7642D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB7632D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift */; };
@@ -1985,6 +1986,7 @@
 		8F8D2DB72E9F6199007C8AC8 /* AdjacentIncreasingSubarraysDetectionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdjacentIncreasingSubarraysDetectionII.swift; sourceTree = "<group>"; };
 		8F8D2DB92EA0C6F3007C8AC8 /* SmallestMissingNonnegativeIntegerAfterOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestMissingNonnegativeIntegerAfterOperations.swift; sourceTree = "<group>"; };
 		8F8D2DBB2EA1FFBC007C8AC8 /* MaximizetheNumberofPartitionsAfterOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizetheNumberofPartitionsAfterOperations.swift; sourceTree = "<group>"; };
+		8F8E52A42FD8B17F001C35F8 /* MaximumTotalSubarrayValueI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumTotalSubarrayValueI.swift; sourceTree = "<group>"; };
 		8F8EAA2F2872B28200A0DCF4 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
 		8F8EB75D2D377C8A00DFD2D3 /* MinimizeXOR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeXOR.swift; sourceTree = "<group>"; };
 		8F8EB75F2D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitwiseXORofAllPairings.swift; sourceTree = "<group>"; };
@@ -4160,6 +4162,7 @@
 				8F80B36D2FD1396400E0E610 /* TotalWavinessofNumbersinRangeI.swift */,
 				8FEB2B362FD4B067009D0BD8 /* LeftandRightSumDifferences.swift */,
 				8FEB2B382FD5F0D8009D0BD8 /* TotalWavinessofNumbersinRangeII.swift */,
+				8F8E52A42FD8B17F001C35F8 /* MaximumTotalSubarrayValueI.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4551,6 +4554,7 @@
 				8F6B6E772C423D1500A639F6 /* RobotCollisions.swift in Sources */,
 				8FB584B92DB5869E00CEE980 /* RabbitsinForest.swift in Sources */,
 				8FE6EB3A2E3889ED00026318 /* SmallestSubarraysWithMaximumBitwiseOR.swift in Sources */,
+				8F8E52A52FD8B17F001C35F8 /* MaximumTotalSubarrayValueI.swift in Sources */,
 				8FB9BC2B2D66F33F003CA94C /* ConstructSmallestNumberFromDIString.swift in Sources */,
 				8FED947B2B9C328300E55D4C /* MinimumCommonValue.swift in Sources */,
 				8FF7C96A2BE26F1B00A1AFD7 /* TimeConverter.swift in Sources */,
