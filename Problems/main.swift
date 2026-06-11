@@ -1,1 +1,1 @@
-MaximumTotalSubarrayValueI().tests()
+NumberofWaystoAssignEdgeWeightsI().tests()
