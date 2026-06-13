@@ -1,1 +1,1 @@
-NumberofWaystoAssignEdgeWeightsI().tests()
+WeightedWordMapping().tests()
