@@ -1,1 +1,1 @@
-WeightedWordMapping().tests()
+DeletetheMiddleNodeofaLinkedList().tests()
