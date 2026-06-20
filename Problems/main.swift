@@ -1,1 +1,1 @@
-AngleBetweenHandsofaClock().tests()
+MaximumBuildingHeight().tests()
