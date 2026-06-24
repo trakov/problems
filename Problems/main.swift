@@ -1,1 +1,1 @@
-NumberofZigZagArraysI().tests()
+NumberofZigZagArraysII().tests()
