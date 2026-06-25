@@ -1,1 +1,1 @@
-NumberofZigZagArraysII().tests()
+CountSubarraysWithMajorityElementI().tests()
