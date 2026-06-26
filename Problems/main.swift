@@ -1,1 +1,1 @@
-CountSubarraysWithMajorityElementI().tests()
+CountSubarraysWithMajorityElementII().tests()
