@@ -1,1 +1,1 @@
-FindtheMaximumNumberofElementsinSubset().tests()
+NumberofStringsThatAppearasSubstringsinWord().tests()
