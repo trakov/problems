@@ -1,1 +1,1 @@
-NumberofStringsThatAppearasSubstringsinWord().tests()
+FindaSafeWalkThroughaGrid().tests()
