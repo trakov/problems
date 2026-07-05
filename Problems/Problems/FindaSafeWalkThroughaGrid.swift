@@ -3,7 +3,7 @@ final class FindaSafeWalkThroughaGrid {
         var dp: [[Int] : Bool] = [:]
         let r = grid.count
         let c = grid[0].count
-        var visited = Array(repeating: Array(repeating: false, count: c), count: r)
+        let visited = Array(repeating: Array(repeating: false, count: c), count: r)
         
         func helper(_ grid: [[Int]], _ health: Int, _ i: Int, _ j: Int, _ visited: [[Bool]], _ r: Int, _ c: Int) -> Bool {
             if let value = dp[[health,i,j]] {

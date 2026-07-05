@@ -1,1 +1,1 @@
-FindaSafeWalkThroughaGrid().tests()
+NetworkRecoveryPathways().tests()
