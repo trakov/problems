@@ -1,1 +1,1 @@
-NumberofPathswithMaxScore().tests()
+RemoveCoveredIntervals().tests()
