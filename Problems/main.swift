@@ -1,1 +1,1 @@
-NetworkRecoveryPathways().tests()
+NumberofPathswithMaxScore().tests()
