@@ -1,1 +1,1 @@
-RemoveCoveredIntervals().tests()
+ConcatenateNonZeroDigitsandMultiplybySumI().tests()
