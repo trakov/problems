@@ -1,1 +1,1 @@
-ConcatenateNonZeroDigitsandMultiplybySumI().tests()
+ConcatenateNonZeroDigitsandMultiplybySumII().tests()
