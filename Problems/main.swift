@@ -1,1 +1,1 @@
-ConcatenateNonZeroDigitsandMultiplybySumII().tests()
+PathExistenceQueriesinaGraphI().tests()
