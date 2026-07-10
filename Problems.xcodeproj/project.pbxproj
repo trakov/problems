@@ -431,6 +431,7 @@
 		8F8E52CB2FFCBA24001C35F8 /* ConcatenateNonZeroDigitsandMultiplybySumI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8E52CA2FFCBA24001C35F8 /* ConcatenateNonZeroDigitsandMultiplybySumI.swift */; };
 		8F8E52CF2FFE0ABD001C35F8 /* ConcatenateNonZeroDigitsandMultiplybySumII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8E52CE2FFE0ABD001C35F8 /* ConcatenateNonZeroDigitsandMultiplybySumII.swift */; };
 		8F8E52D12FFF6F54001C35F8 /* PathExistenceQueriesinaGraphI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8E52D02FFF6F53001C35F8 /* PathExistenceQueriesinaGraphI.swift */; };
+		8F8E52D33000AEAB001C35F8 /* PathExistenceQueriesinaGraphII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8E52D23000AEAA001C35F8 /* PathExistenceQueriesinaGraphII.swift */; };
 		8F8EB75E2D377C8A00DFD2D3 /* MinimizeXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75D2D377C8A00DFD2D3 /* MinimizeXOR.swift */; };
 		8F8EB7602D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB75F2D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift */; };
 		8F8EB7642D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8EB7632D3AA13400DFD2D3 /* NeighboringBitwiseXOR.swift */; };
@@ -2029,6 +2030,7 @@
 		8F8E52CA2FFCBA24001C35F8 /* ConcatenateNonZeroDigitsandMultiplybySumI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenateNonZeroDigitsandMultiplybySumI.swift; sourceTree = "<group>"; };
 		8F8E52CE2FFE0ABD001C35F8 /* ConcatenateNonZeroDigitsandMultiplybySumII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcatenateNonZeroDigitsandMultiplybySumII.swift; sourceTree = "<group>"; };
 		8F8E52D02FFF6F53001C35F8 /* PathExistenceQueriesinaGraphI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathExistenceQueriesinaGraphI.swift; sourceTree = "<group>"; };
+		8F8E52D23000AEAA001C35F8 /* PathExistenceQueriesinaGraphII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathExistenceQueriesinaGraphII.swift; sourceTree = "<group>"; };
 		8F8EAA2F2872B28200A0DCF4 /* RemoveDuplicatesFromSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicatesFromSortedArray.swift; sourceTree = "<group>"; };
 		8F8EB75D2D377C8A00DFD2D3 /* MinimizeXOR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeXOR.swift; sourceTree = "<group>"; };
 		8F8EB75F2D38CCCC00DFD2D3 /* BitwiseXORofAllPairings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitwiseXORofAllPairings.swift; sourceTree = "<group>"; };
@@ -4226,6 +4228,7 @@
 				8F8E52CA2FFCBA24001C35F8 /* ConcatenateNonZeroDigitsandMultiplybySumI.swift */,
 				8F8E52CE2FFE0ABD001C35F8 /* ConcatenateNonZeroDigitsandMultiplybySumII.swift */,
 				8F8E52D02FFF6F53001C35F8 /* PathExistenceQueriesinaGraphI.swift */,
+				8F8E52D23000AEAA001C35F8 /* PathExistenceQueriesinaGraphII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5051,6 +5054,7 @@
 				8FB9B4912A0BBF410073424E /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				8FB9B52C2A0BBF540073424E /* FizzBuzz.swift in Sources */,
 				8FF20BE32C7B6868002C9D49 /* ValidateIPAddress.swift in Sources */,
+				8F8E52D33000AEAB001C35F8 /* PathExistenceQueriesinaGraphII.swift in Sources */,
 				8FF7C96E2BE4B4A100A1AFD7 /* CompareVersionNumbers.swift in Sources */,
 				8FB9B4C12A0BBF480073424E /* MinCostClimbingStairs.swift in Sources */,
 				8FB9B3EA2A0BBF280073424E /* RemoveDuplicatesFromSortedListII2.swift in Sources */,
