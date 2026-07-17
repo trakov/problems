@@ -1,1 +1,1 @@
-GCDofOddandEvenSums().tests()
+SortedGCDPairQueries().tests()
