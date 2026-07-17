@@ -1,1 +1,1 @@
-PathExistenceQueriesinaGraphII().tests()
+GCDofOddandEvenSums().tests()
