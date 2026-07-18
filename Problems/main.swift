@@ -1,1 +1,1 @@
-SortedGCDPairQueries().tests()
+FindGreatestCommonDivisorofArray().tests()
