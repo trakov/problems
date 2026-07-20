@@ -1,1 +1,1 @@
-FindGreatestCommonDivisorofArray().tests()
+Shift2DGrid().tests()
