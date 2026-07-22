@@ -1,1 +1,1 @@
-Shift2DGrid().tests()
+MaximizeActiveSectionwithTradeI().tests()
