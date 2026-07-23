@@ -1,1 +1,1 @@
-MaximizeActiveSectionwithTradeII().tests()
+NumberofUniqueXORTripletsI().tests()
