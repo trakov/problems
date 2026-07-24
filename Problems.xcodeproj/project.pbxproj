@@ -215,6 +215,7 @@
 		8F56833F3011561200479A27 /* MaximizeActiveSectionwithTradeI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56833E3011561200479A27 /* MaximizeActiveSectionwithTradeI.swift */; };
 		8F5683413011641D00479A27 /* MaximizeActiveSectionwithTradeII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5683403011641D00479A27 /* MaximizeActiveSectionwithTradeII.swift */; };
 		8F5683433012A87500479A27 /* NumberofUniqueXORTripletsI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5683423012A87500479A27 /* NumberofUniqueXORTripletsI.swift */; };
+		8F5683453013440F00479A27 /* NumberofUniqueXORTripletsII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5683443013440F00479A27 /* NumberofUniqueXORTripletsII.swift */; };
 		8F5B59782DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */; };
 		8F5B597D2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */; };
 		8F5B597F2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */; };
@@ -1694,6 +1695,7 @@
 		8F56833E3011561200479A27 /* MaximizeActiveSectionwithTradeI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeActiveSectionwithTradeI.swift; sourceTree = "<group>"; };
 		8F5683403011641D00479A27 /* MaximizeActiveSectionwithTradeII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeActiveSectionwithTradeII.swift; sourceTree = "<group>"; };
 		8F5683423012A87500479A27 /* NumberofUniqueXORTripletsI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofUniqueXORTripletsI.swift; sourceTree = "<group>"; };
+		8F5683443013440F00479A27 /* NumberofUniqueXORTripletsII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofUniqueXORTripletsII.swift; sourceTree = "<group>"; };
 		8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTripletsinanArray.swift; sourceTree = "<group>"; };
 		8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofGoodSubarrays.swift; sourceTree = "<group>"; };
 		8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountEqualandDivisiblePairsinanArray.swift; sourceTree = "<group>"; };
@@ -4250,6 +4252,7 @@
 				8F56833E3011561200479A27 /* MaximizeActiveSectionwithTradeI.swift */,
 				8F5683403011641D00479A27 /* MaximizeActiveSectionwithTradeII.swift */,
 				8F5683423012A87500479A27 /* NumberofUniqueXORTripletsI.swift */,
+				8F5683443013440F00479A27 /* NumberofUniqueXORTripletsII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4836,6 +4839,7 @@
 				8FB9B5272A0BBF540073424E /* SummaryRanges.swift in Sources */,
 				8FB9B4992A0BBF410073424E /* LongestPathWithDifferentAdjacentCharacters.swift in Sources */,
 				8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */,
+				8F5683453013440F00479A27 /* NumberofUniqueXORTripletsII.swift in Sources */,
 				8FB9B4EB2A0BBF480073424E /* Permutations.swift in Sources */,
 				8FB9B3EB2A0BBF280073424E /* ReorderList.swift in Sources */,
 				8F9E9FBE2A1377890078FC86 /* FlattenNestedListIterator.swift in Sources */,

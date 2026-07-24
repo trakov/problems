@@ -1,1 +1,1 @@
-NumberofUniqueXORTripletsI().tests()
+NumberofUniqueXORTripletsII().tests()
