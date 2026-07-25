@@ -1,1 +1,1 @@
-NumberofUniqueXORTripletsII().tests()
+MaximumProductofTwoDigits().tests()
