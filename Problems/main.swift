@@ -1,1 +1,1 @@
-MaximumProductofTwoDigits().tests()
+MaximumProductofThreeNumbers().tests()
