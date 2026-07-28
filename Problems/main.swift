@@ -1,1 +1,1 @@
-MaximumProductofThreeNumbers().tests()
+SmallestPalindromicRearrangementI().tests()
