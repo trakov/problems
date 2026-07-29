@@ -1,1 +1,1 @@
-SmallestPalindromicRearrangementI().tests()
+SmallestPalindromicRearrangementII().tests()
