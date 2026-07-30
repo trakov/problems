@@ -1,1 +1,1 @@
-SmallestPalindromicRearrangementII().tests()
+MinimumNumberofPushestoTypeWordI().tests()
