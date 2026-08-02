@@ -1,1 +1,1 @@
-MinimumNumberofPushestoTypeWordI().tests()
+StoneGame().tests()
