@@ -1,1 +1,1 @@
-StoneGame().tests()
+FindMissingElements().tests()
