@@ -1,1 +1,1 @@
-FindMissingElements().tests()
+RemoveMethodsFromProject().tests()
