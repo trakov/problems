@@ -1,1 +1,1 @@
-RemoveMethodsFromProject().tests()
+SmallestDivisibleDigitProductI().tests()
