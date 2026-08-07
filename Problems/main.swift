@@ -1,1 +1,1 @@
-SmallestDivisibleDigitProductI().tests()
+SmallestDivisibleDigitProductII().tests()
