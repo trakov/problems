@@ -1,1 +1,1 @@
-SmallestDivisibleDigitProductII().tests()
+FindtheLexicographicallySmallestValidSequence().tests()
