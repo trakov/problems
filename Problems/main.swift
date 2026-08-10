@@ -1,1 +1,1 @@
-FindtheLexicographicallySmallestValidSequence().tests()
+StoneGameIV().tests()
