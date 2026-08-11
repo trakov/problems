@@ -228,6 +228,7 @@
 		8F5683593025BB4200479A27 /* SmallestDivisibleDigitProductII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5683583025BB4200479A27 /* SmallestDivisibleDigitProductII.swift */; };
 		8F56835B302797FB00479A27 /* FindtheLexicographicallySmallestValidSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56835A302797FB00479A27 /* FindtheLexicographicallySmallestValidSequence.swift */; };
 		8F56835D302A668900479A27 /* StoneGameIV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56835C302A668900479A27 /* StoneGameIV.swift */; };
+		8F56835F302BB5C800479A27 /* SmallestMissingIntegerGreaterThanSequentialPrefixSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56835E302BB5C800479A27 /* SmallestMissingIntegerGreaterThanSequentialPrefixSum.swift */; };
 		8F5B59782DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */; };
 		8F5B597D2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */; };
 		8F5B597F2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */; };
@@ -1720,6 +1721,7 @@
 		8F5683583025BB4200479A27 /* SmallestDivisibleDigitProductII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestDivisibleDigitProductII.swift; sourceTree = "<group>"; };
 		8F56835A302797FB00479A27 /* FindtheLexicographicallySmallestValidSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindtheLexicographicallySmallestValidSequence.swift; sourceTree = "<group>"; };
 		8F56835C302A668900479A27 /* StoneGameIV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoneGameIV.swift; sourceTree = "<group>"; };
+		8F56835E302BB5C800479A27 /* SmallestMissingIntegerGreaterThanSequentialPrefixSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestMissingIntegerGreaterThanSequentialPrefixSum.swift; sourceTree = "<group>"; };
 		8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTripletsinanArray.swift; sourceTree = "<group>"; };
 		8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofGoodSubarrays.swift; sourceTree = "<group>"; };
 		8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountEqualandDivisiblePairsinanArray.swift; sourceTree = "<group>"; };
@@ -4289,6 +4291,7 @@
 				8F5683583025BB4200479A27 /* SmallestDivisibleDigitProductII.swift */,
 				8F56835A302797FB00479A27 /* FindtheLexicographicallySmallestValidSequence.swift */,
 				8F56835C302A668900479A27 /* StoneGameIV.swift */,
+				8F56835E302BB5C800479A27 /* SmallestMissingIntegerGreaterThanSequentialPrefixSum.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4987,6 +4990,7 @@
 				8FF63D862CBF98D20061ED24 /* LongestHappyString.swift in Sources */,
 				8FF63D882CC22A7B0061ED24 /* CountNumberofMaximumBitwiseORSubsets.swift in Sources */,
 				8FC057D32D01740100CAF1D4 /* MovePiecestoObtainaString.swift in Sources */,
+				8F56835F302BB5C800479A27 /* SmallestMissingIntegerGreaterThanSequentialPrefixSum.swift in Sources */,
 				8FB9B3CA2A0BBF220073424E /* SmallestNumberInInfiniteSet.swift in Sources */,
 				8F0424312AAE4E4000970AC5 /* CountAllValidPickupAndDeliveryOptions.swift in Sources */,
 				8FB9B3F62A0BBF280073424E /* IncreasingTripletSubsequence.swift in Sources */,

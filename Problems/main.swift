@@ -1,1 +1,1 @@
-StoneGameIV().tests()
+SmallestMissingIntegerGreaterThanSequentialPrefixSum().tests()
