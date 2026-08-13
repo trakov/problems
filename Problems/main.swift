@@ -1,1 +1,1 @@
-SmallestMissingIntegerGreaterThanSequentialPrefixSum().tests()
+LongestSubstringofOneRepeatingCharacter().tests()
