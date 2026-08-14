@@ -1,1 +1,1 @@
-LongestSubstringofOneRepeatingCharacter().tests()
+MaximumLengthSubstringWithTwoOccurrences().tests()
