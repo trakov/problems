@@ -1,1 +1,1 @@
-MaximumLengthSubstringWithTwoOccurrences().tests()
+LongestSubsequenceWithNonZeroBitwiseXOR().tests()
