@@ -1,1 +1,1 @@
-LongestSubsequenceWithNonZeroBitwiseXOR().tests()
+StoneGameIX().tests()
