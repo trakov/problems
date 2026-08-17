@@ -1,1 +1,1 @@
-StoneGameIX().tests()
+StoneGameV().tests()
