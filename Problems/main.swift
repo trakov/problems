@@ -1,1 +1,1 @@
-FindtheLargestAlmostMissingInteger().tests()
+CinemaSeatAllocation().tests()
