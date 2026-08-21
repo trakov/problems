@@ -1,1 +1,1 @@
-CinemaSeatAllocation().tests()
+KthSmallestAmountWithSingleDenominationCombination().tests()
