@@ -1,1 +1,1 @@
-DistributeElementsIntoTwoArraysI().tests()
+CheckDivisibilitybyDigitSumandProduct().tests()
