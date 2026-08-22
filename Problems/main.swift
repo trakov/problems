@@ -1,1 +1,1 @@
-KthSmallestAmountWithSingleDenominationCombination().tests()
+DistributeElementsIntoTwoArraysI().tests()
