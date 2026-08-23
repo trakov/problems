@@ -1,1 +1,1 @@
-CheckDivisibilitybyDigitSumandProduct().tests()
+SumGame().tests()
