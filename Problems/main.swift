@@ -1,1 +1,1 @@
-SumGame().tests()
+StoneGameVIII().tests()
