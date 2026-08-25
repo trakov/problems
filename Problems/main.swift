@@ -1,1 +1,1 @@
-StoneGameVIII().tests()
+SmallestMissingMultipleofK().tests()

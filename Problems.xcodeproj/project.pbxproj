@@ -241,6 +241,7 @@
 		8F568379303A441600479A27 /* CheckDivisibilitybyDigitSumandProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F568378303A441600479A27 /* CheckDivisibilitybyDigitSumandProduct.swift */; };
 		8F56837B303B818E00479A27 /* SumGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56837A303B818E00479A27 /* SumGame.swift */; };
 		8F56837D303C079500479A27 /* StoneGameVIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56837C303C079500479A27 /* StoneGameVIII.swift */; };
+		8F56837F303D5E3F00479A27 /* SmallestMissingMultipleofK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56837E303D5E3F00479A27 /* SmallestMissingMultipleofK.swift */; };
 		8F5B59782DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */; };
 		8F5B597D2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */; };
 		8F5B597F2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */; };
@@ -1746,6 +1747,7 @@
 		8F568378303A441600479A27 /* CheckDivisibilitybyDigitSumandProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckDivisibilitybyDigitSumandProduct.swift; sourceTree = "<group>"; };
 		8F56837A303B818E00479A27 /* SumGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumGame.swift; sourceTree = "<group>"; };
 		8F56837C303C079500479A27 /* StoneGameVIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoneGameVIII.swift; sourceTree = "<group>"; };
+		8F56837E303D5E3F00479A27 /* SmallestMissingMultipleofK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestMissingMultipleofK.swift; sourceTree = "<group>"; };
 		8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTripletsinanArray.swift; sourceTree = "<group>"; };
 		8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofGoodSubarrays.swift; sourceTree = "<group>"; };
 		8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountEqualandDivisiblePairsinanArray.swift; sourceTree = "<group>"; };
@@ -4328,6 +4330,7 @@
 				8F568378303A441600479A27 /* CheckDivisibilitybyDigitSumandProduct.swift */,
 				8F56837A303B818E00479A27 /* SumGame.swift */,
 				8F56837C303C079500479A27 /* StoneGameVIII.swift */,
+				8F56837E303D5E3F00479A27 /* SmallestMissingMultipleofK.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5607,6 +5610,7 @@
 				8FF34FFD2BBF3A0D00B8096B /* MaximumNestingDepthOfTheParentheses.swift in Sources */,
 				8F0907DB2B01E9BE003959BC /* SortVowelsInAString.swift in Sources */,
 				8FF63DA22CD4187A0061ED24 /* MinimumTotalDistanceTraveled.swift in Sources */,
+				8F56837F303D5E3F00479A27 /* SmallestMissingMultipleofK.swift in Sources */,
 				8FD5EA962ABFFC3300F47EDD /* ChampagneTower.swift in Sources */,
 				8FB9B3CB2A0BBF220073424E /* ArithmeticSubarrays.swift in Sources */,
 				8F034DC42E7FF33D0079A1BF /* DesignMovieRentalSystem.swift in Sources */,
