@@ -1,1 +1,1 @@
-SmallestMissingMultipleofK().tests()
+ShortestandLexicographicallySmallestBeautifulString().tests()
