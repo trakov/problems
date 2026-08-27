@@ -1,1 +1,1 @@
-ShortestandLexicographicallySmallestBeautifulString().tests()
+LexicographicallySmallestPermutationGreaterThanTarget().tests()
