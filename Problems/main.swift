@@ -1,1 +1,1 @@
-LexicographicallySmallestPermutationGreaterThanTarget().tests()
+LexicographicallySmallestPalindromicPermutationGreaterThanTarget().tests()
