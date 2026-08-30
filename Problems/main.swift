@@ -1,1 +1,1 @@
-LexicographicallySmallestPalindromicPermutationGreaterThanTarget().tests()
+RemovingMinimumandMaximumFromArray().tests()
