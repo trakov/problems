@@ -1,1 +1,1 @@
-RemovingMinimumandMaximumFromArray().tests()
+MinimumMovestoCleantheClassroom().tests()
