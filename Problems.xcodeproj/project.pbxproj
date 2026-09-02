@@ -247,6 +247,7 @@
 		8F56838530422BE600479A27 /* LexicographicallySmallestPalindromicPermutationGreaterThanTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56838430422BE600479A27 /* LexicographicallySmallestPalindromicPermutationGreaterThanTarget.swift */; };
 		8F5683873044C1B100479A27 /* RemovingMinimumandMaximumFromArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5683863044C1B100479A27 /* RemovingMinimumandMaximumFromArray.swift */; };
 		8F5683893046A98D00479A27 /* MinimumMovestoCleantheClassroom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5683883046A98D00479A27 /* MinimumMovestoCleantheClassroom.swift */; };
+		8F56838B3047DE5800479A27 /* ConstructUniformParityArrayI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56838A3047DE5800479A27 /* ConstructUniformParityArrayI.swift */; };
 		8F5B59782DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */; };
 		8F5B597D2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */; };
 		8F5B597F2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */; };
@@ -1758,6 +1759,7 @@
 		8F56838430422BE600479A27 /* LexicographicallySmallestPalindromicPermutationGreaterThanTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LexicographicallySmallestPalindromicPermutationGreaterThanTarget.swift; sourceTree = "<group>"; };
 		8F5683863044C1B100479A27 /* RemovingMinimumandMaximumFromArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemovingMinimumandMaximumFromArray.swift; sourceTree = "<group>"; };
 		8F5683883046A98D00479A27 /* MinimumMovestoCleantheClassroom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumMovestoCleantheClassroom.swift; sourceTree = "<group>"; };
+		8F56838A3047DE5800479A27 /* ConstructUniformParityArrayI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructUniformParityArrayI.swift; sourceTree = "<group>"; };
 		8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTripletsinanArray.swift; sourceTree = "<group>"; };
 		8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofGoodSubarrays.swift; sourceTree = "<group>"; };
 		8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountEqualandDivisiblePairsinanArray.swift; sourceTree = "<group>"; };
@@ -4346,6 +4348,7 @@
 				8F56838430422BE600479A27 /* LexicographicallySmallestPalindromicPermutationGreaterThanTarget.swift */,
 				8F5683863044C1B100479A27 /* RemovingMinimumandMaximumFromArray.swift */,
 				8F5683883046A98D00479A27 /* MinimumMovestoCleantheClassroom.swift */,
+				8F56838A3047DE5800479A27 /* ConstructUniformParityArrayI.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5246,6 +5249,7 @@
 				8FC7AC522CF041BC00D51E25 /* FlipColumnsForMaximumNumberofEqualRows.swift in Sources */,
 				8F8F1EAA2B8DA841007B818E /* LargestRectangleInHistogram.swift in Sources */,
 				8FED94792B9AF66100E55D4C /* CountElementsWithMaximumFrequency.swift in Sources */,
+				8F56838B3047DE5800479A27 /* ConstructUniformParityArrayI.swift in Sources */,
 				8FC057C82CFA945C00CAF1D4 /* ValidArrangementofPairs.swift in Sources */,
 				8F1EBF7E2B3AA1AA00E76A95 /* NumberOfDiceRollsWithTargetSum.swift in Sources */,
 				8FB584BB2DB60C6A00CEE980 /* CounttheHiddenSequences.swift in Sources */,

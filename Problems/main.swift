@@ -1,1 +1,1 @@
-MinimumMovestoCleantheClassroom().tests()
+ConstructUniformParityArrayI().tests()
