@@ -248,6 +248,7 @@
 		8F5683873044C1B100479A27 /* RemovingMinimumandMaximumFromArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5683863044C1B100479A27 /* RemovingMinimumandMaximumFromArray.swift */; };
 		8F5683893046A98D00479A27 /* MinimumMovestoCleantheClassroom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5683883046A98D00479A27 /* MinimumMovestoCleantheClassroom.swift */; };
 		8F56838B3047DE5800479A27 /* ConstructUniformParityArrayI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56838A3047DE5800479A27 /* ConstructUniformParityArrayI.swift */; };
+		8F56838D30493B4C00479A27 /* ConstructUniformParityArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F56838C30493B4C00479A27 /* ConstructUniformParityArrayII.swift */; };
 		8F5B59782DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */; };
 		8F5B597D2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */; };
 		8F5B597F2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */; };
@@ -1760,6 +1761,7 @@
 		8F5683863044C1B100479A27 /* RemovingMinimumandMaximumFromArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemovingMinimumandMaximumFromArray.swift; sourceTree = "<group>"; };
 		8F5683883046A98D00479A27 /* MinimumMovestoCleantheClassroom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumMovestoCleantheClassroom.swift; sourceTree = "<group>"; };
 		8F56838A3047DE5800479A27 /* ConstructUniformParityArrayI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructUniformParityArrayI.swift; sourceTree = "<group>"; };
+		8F56838C30493B4C00479A27 /* ConstructUniformParityArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstructUniformParityArrayII.swift; sourceTree = "<group>"; };
 		8F5B59772DAE22BC00FA53D3 /* CountGoodTripletsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTripletsinanArray.swift; sourceTree = "<group>"; };
 		8F5B597C2DB00B7400FA53D3 /* CounttheNumberofGoodSubarrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounttheNumberofGoodSubarrays.swift; sourceTree = "<group>"; };
 		8F5B597E2DB11E9D00FA53D3 /* CountEqualandDivisiblePairsinanArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountEqualandDivisiblePairsinanArray.swift; sourceTree = "<group>"; };
@@ -4349,6 +4351,7 @@
 				8F5683863044C1B100479A27 /* RemovingMinimumandMaximumFromArray.swift */,
 				8F5683883046A98D00479A27 /* MinimumMovestoCleantheClassroom.swift */,
 				8F56838A3047DE5800479A27 /* ConstructUniformParityArrayI.swift */,
+				8F56838C30493B4C00479A27 /* ConstructUniformParityArrayII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5785,6 +5788,7 @@
 				8FB9B3CC2A0BBF220073424E /* ProfitableSchemes.swift in Sources */,
 				8F8504F42C6478D70046CFCA /* SpiralMatrixIII.swift in Sources */,
 				8F73457C2E5A5E30001DF5A3 /* FindtheMinimumAreatoCoverAllOnesII.swift in Sources */,
+				8F56838D30493B4C00479A27 /* ConstructUniformParityArrayII.swift in Sources */,
 				8F424FFF2BBFC8ED006E4E74 /* MakeTheStringGreat.swift in Sources */,
 				8FB9B4952A0BBF410073424E /* SpiralMatrix2.swift in Sources */,
 				8F1EBF882B3D9D6900E76A95 /* StringCompressionII.swift in Sources */,

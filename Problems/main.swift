@@ -1,1 +1,1 @@
-ConstructUniformParityArrayI().tests()
+ConstructUniformParityArrayII().tests()
