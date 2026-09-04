@@ -1,1 +1,1 @@
-ConstructUniformParityArrayII().tests()
+SmallestStableIndexI().tests()
