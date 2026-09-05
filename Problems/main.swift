@@ -1,1 +1,1 @@
-SmallestStableIndexI().tests()
+SmallestStableIndexII().tests()
