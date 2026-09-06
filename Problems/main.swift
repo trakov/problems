@@ -1,1 +1,1 @@
-SmallestStableIndexII().tests()
+DistinctSubsequences().tests()
