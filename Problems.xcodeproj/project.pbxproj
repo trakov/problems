@@ -210,6 +210,7 @@
 		8F4C431B304E91410040F5D5 /* DistinctSubsequencesII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C431A304E91410040F5D5 /* DistinctSubsequencesII.swift */; };
 		8F4C431D304FE4730040F5D5 /* CountCommasinRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C431C304FE4730040F5D5 /* CountCommasinRange.swift */; };
 		8F4C431F3051216A0040F5D5 /* CountCommasinRangeII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C431E3051216A0040F5D5 /* CountCommasinRangeII.swift */; };
+		8F4C43213054A28F0040F5D5 /* Unique3DigitEvenNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43203054A28F0040F5D5 /* Unique3DigitEvenNumbers.swift */; };
 		8F53C5062F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5052F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift */; };
 		8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5072F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift */; };
 		8F53C50A2F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5092F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift */; };
@@ -1721,6 +1722,7 @@
 		8F4C431A304E91410040F5D5 /* DistinctSubsequencesII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistinctSubsequencesII.swift; sourceTree = "<group>"; };
 		8F4C431C304FE4730040F5D5 /* CountCommasinRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCommasinRange.swift; sourceTree = "<group>"; };
 		8F4C431E3051216A0040F5D5 /* CountCommasinRangeII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCommasinRangeII.swift; sourceTree = "<group>"; };
+		8F4C43203054A28F0040F5D5 /* Unique3DigitEvenNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Unique3DigitEvenNumbers.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -4370,6 +4372,7 @@
 				8F4C431A304E91410040F5D5 /* DistinctSubsequencesII.swift */,
 				8F4C431C304FE4730040F5D5 /* CountCommasinRange.swift */,
 				8F4C431E3051216A0040F5D5 /* CountCommasinRangeII.swift */,
+				8F4C43203054A28F0040F5D5 /* Unique3DigitEvenNumbers.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4970,6 +4973,7 @@
 				8FB9B51E2A0BBF4E0073424E /* FindPlayersWithZeroOrOneLosses.swift in Sources */,
 				8FB9B5272A0BBF540073424E /* SummaryRanges.swift in Sources */,
 				8FB9B4992A0BBF410073424E /* LongestPathWithDifferentAdjacentCharacters.swift in Sources */,
+				8F4C43213054A28F0040F5D5 /* Unique3DigitEvenNumbers.swift in Sources */,
 				8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */,
 				8F5683893046A98D00479A27 /* MinimumMovestoCleantheClassroom.swift in Sources */,
 				8F5683453013440F00479A27 /* NumberofUniqueXORTripletsII.swift in Sources */,
