@@ -1,1 +1,1 @@
-Unique3DigitEvenNumbers().tests()
+MaximumScoreofNonoverlappingIntervals().tests()
