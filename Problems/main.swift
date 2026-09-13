@@ -1,1 +1,1 @@
-MaximumScoreofNonoverlappingIntervals().tests()
+ImageOverlap().tests()
