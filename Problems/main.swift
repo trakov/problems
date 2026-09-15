@@ -1,1 +1,1 @@
-ImageOverlap().tests()
+MaximumNumberofNonoverlappingPalindromeSubstrings().tests()
