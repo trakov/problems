@@ -214,6 +214,7 @@
 		8F4C4323305539950040F5D5 /* MaximumScoreofNonoverlappingIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C4322305539950040F5D5 /* MaximumScoreofNonoverlappingIntervals.swift */; };
 		8F4C43253056EB110040F5D5 /* ImageOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43243056EB110040F5D5 /* ImageOverlap.swift */; };
 		8F4C43273059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43263059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift */; };
+		8F4C43293059D7870040F5D5 /* RectangleOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43283059D7870040F5D5 /* RectangleOverlap.swift */; };
 		8F53C5062F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5052F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift */; };
 		8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5072F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift */; };
 		8F53C50A2F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5092F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift */; };
@@ -1729,6 +1730,7 @@
 		8F4C4322305539950040F5D5 /* MaximumScoreofNonoverlappingIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumScoreofNonoverlappingIntervals.swift; sourceTree = "<group>"; };
 		8F4C43243056EB110040F5D5 /* ImageOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageOverlap.swift; sourceTree = "<group>"; };
 		8F4C43263059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofNonoverlappingPalindromeSubstrings.swift; sourceTree = "<group>"; };
+		8F4C43283059D7870040F5D5 /* RectangleOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOverlap.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -4382,6 +4384,7 @@
 				8F4C4322305539950040F5D5 /* MaximumScoreofNonoverlappingIntervals.swift */,
 				8F4C43243056EB110040F5D5 /* ImageOverlap.swift */,
 				8F4C43263059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift */,
+				8F4C43283059D7870040F5D5 /* RectangleOverlap.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5450,6 +5453,7 @@
 				8F9091592AE4112600FAFD84 /* ConstrainedSubsequenceSum.swift in Sources */,
 				8FF7C9972BF496F800A1AFD7 /* FindtheSafestPathinaGrid.swift in Sources */,
 				8FB9B42A2A0BBF2E0073424E /* ReducingDishes.swift in Sources */,
+				8F4C43293059D7870040F5D5 /* RectangleOverlap.swift in Sources */,
 				8FB9B4482A0BBF340073424E /* CheckIfNandItsDoubleExist.swift in Sources */,
 				8FB1A54C2C1454B100CD2F8F /* ContinuousSubarraySum.swift in Sources */,
 				8F8D2DAE2E98DF11007C8AC8 /* TakingMaximumEnergyFromtheMysticDungeon.swift in Sources */,

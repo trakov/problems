@@ -1,1 +1,1 @@
-MaximumNumberofNonoverlappingPalindromeSubstrings().tests()
+RectangleOverlap().tests()
