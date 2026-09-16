@@ -215,6 +215,7 @@
 		8F4C43253056EB110040F5D5 /* ImageOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43243056EB110040F5D5 /* ImageOverlap.swift */; };
 		8F4C43273059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43263059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift */; };
 		8F4C43293059D7870040F5D5 /* RectangleOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43283059D7870040F5D5 /* RectangleOverlap.swift */; };
+		8F4C432B305B29D90040F5D5 /* NumberofSetsofKNonOverlappingLineSegments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C432A305B29D90040F5D5 /* NumberofSetsofKNonOverlappingLineSegments.swift */; };
 		8F53C5062F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5052F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift */; };
 		8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5072F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift */; };
 		8F53C50A2F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5092F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift */; };
@@ -1731,6 +1732,7 @@
 		8F4C43243056EB110040F5D5 /* ImageOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageOverlap.swift; sourceTree = "<group>"; };
 		8F4C43263059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofNonoverlappingPalindromeSubstrings.swift; sourceTree = "<group>"; };
 		8F4C43283059D7870040F5D5 /* RectangleOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOverlap.swift; sourceTree = "<group>"; };
+		8F4C432A305B29D90040F5D5 /* NumberofSetsofKNonOverlappingLineSegments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofSetsofKNonOverlappingLineSegments.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -4385,6 +4387,7 @@
 				8F4C43243056EB110040F5D5 /* ImageOverlap.swift */,
 				8F4C43263059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift */,
 				8F4C43283059D7870040F5D5 /* RectangleOverlap.swift */,
+				8F4C432A305B29D90040F5D5 /* NumberofSetsofKNonOverlappingLineSegments.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5584,6 +5587,7 @@
 				8FB9B51C2A0BBF4E0073424E /* Words.swift in Sources */,
 				8FB9B5262A0BBF540073424E /* SingleNumber2.swift in Sources */,
 				8FB9B4E92A0BBF480073424E /* InsertIntoABinarySearchTree.swift in Sources */,
+				8F4C432B305B29D90040F5D5 /* NumberofSetsofKNonOverlappingLineSegments.swift in Sources */,
 				8FB1A5442C0E5B1C00CD2F8F /* AppendCharacterstoStringtoMakeSubsequence.swift in Sources */,
 				8F7083BC2EEDB6E100021C15 /* CouponCodeValidator.swift in Sources */,
 				8F0FBBEA2D56197200E4B9BE /* FindtheNumberofDistinctColorsAmongtheBalls.swift in Sources */,
