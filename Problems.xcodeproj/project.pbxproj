@@ -216,6 +216,7 @@
 		8F4C43273059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43263059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift */; };
 		8F4C43293059D7870040F5D5 /* RectangleOverlap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43283059D7870040F5D5 /* RectangleOverlap.swift */; };
 		8F4C432B305B29D90040F5D5 /* NumberofSetsofKNonOverlappingLineSegments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C432A305B29D90040F5D5 /* NumberofSetsofKNonOverlappingLineSegments.swift */; };
+		8F4C432D305BB08D0040F5D5 /* FindTwoNonoverlappingSubarraysEachWithTargetSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C432C305BB08D0040F5D5 /* FindTwoNonoverlappingSubarraysEachWithTargetSum.swift */; };
 		8F53C5062F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5052F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift */; };
 		8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5072F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift */; };
 		8F53C50A2F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5092F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift */; };
@@ -1733,6 +1734,7 @@
 		8F4C43263059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNumberofNonoverlappingPalindromeSubstrings.swift; sourceTree = "<group>"; };
 		8F4C43283059D7870040F5D5 /* RectangleOverlap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOverlap.swift; sourceTree = "<group>"; };
 		8F4C432A305B29D90040F5D5 /* NumberofSetsofKNonOverlappingLineSegments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberofSetsofKNonOverlappingLineSegments.swift; sourceTree = "<group>"; };
+		8F4C432C305BB08D0040F5D5 /* FindTwoNonoverlappingSubarraysEachWithTargetSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTwoNonoverlappingSubarraysEachWithTargetSum.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -4388,6 +4390,7 @@
 				8F4C43263059D6160040F5D5 /* MaximumNumberofNonoverlappingPalindromeSubstrings.swift */,
 				8F4C43283059D7870040F5D5 /* RectangleOverlap.swift */,
 				8F4C432A305B29D90040F5D5 /* NumberofSetsofKNonOverlappingLineSegments.swift */,
+				8F4C432C305BB08D0040F5D5 /* FindTwoNonoverlappingSubarraysEachWithTargetSum.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4761,6 +4764,7 @@
 				8FB9B4D52A0BBF480073424E /* GoalParserInterpretation.swift in Sources */,
 				8FDE73E72ED41F2E00386ADF /* BinaryPrefixDivisibleBy5.swift in Sources */,
 				8FB79E272C67CBE2005549D1 /* LeftmostColumnwithatLeastaOne.swift in Sources */,
+				8F4C432D305BB08D0040F5D5 /* FindTwoNonoverlappingSubarraysEachWithTargetSum.swift in Sources */,
 				8FB9B5402A0BBF540073424E /* BalancedBinaryTree.swift in Sources */,
 				8F6663452F99FB8F00C0EAC5 /* SumofDistances.swift in Sources */,
 				8F08BBDF2D78183C0049E48D /* CountTotalNumberofColoredCells.swift in Sources */,
