@@ -1,1 +1,1 @@
-FindTwoNonoverlappingSubarraysEachWithTargetSum().tests()
+MaximumNumberofNonOverlappingSubstrings().tests()
