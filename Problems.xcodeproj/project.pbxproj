@@ -221,6 +221,7 @@
 		8F4C4331305EFE860040F5D5 /* CircleandRectangleOverlapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C4330305EFE860040F5D5 /* CircleandRectangleOverlapping.swift */; };
 		8F4C4333305FA77F0040F5D5 /* ReverseDegreeofaString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C4332305FA77F0040F5D5 /* ReverseDegreeofaString.swift */; };
 		8F4C43353061BF580040F5D5 /* FindXValueofArrayI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43343061BF580040F5D5 /* FindXValueofArrayI.swift */; };
+		8F4C43373062474A0040F5D5 /* FindXValueofArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43363062474A0040F5D5 /* FindXValueofArrayII.swift */; };
 		8F53C5062F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5052F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift */; };
 		8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5072F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift */; };
 		8F53C50A2F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5092F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift */; };
@@ -1743,6 +1744,7 @@
 		8F4C4330305EFE860040F5D5 /* CircleandRectangleOverlapping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleandRectangleOverlapping.swift; sourceTree = "<group>"; };
 		8F4C4332305FA77F0040F5D5 /* ReverseDegreeofaString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseDegreeofaString.swift; sourceTree = "<group>"; };
 		8F4C43343061BF580040F5D5 /* FindXValueofArrayI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindXValueofArrayI.swift; sourceTree = "<group>"; };
+		8F4C43363062474A0040F5D5 /* FindXValueofArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindXValueofArrayII.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -4403,6 +4405,7 @@
 				8F4C4330305EFE860040F5D5 /* CircleandRectangleOverlapping.swift */,
 				8F4C4332305FA77F0040F5D5 /* ReverseDegreeofaString.swift */,
 				8F4C43343061BF580040F5D5 /* FindXValueofArrayI.swift */,
+				8F4C43363062474A0040F5D5 /* FindXValueofArrayII.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4530,6 +4533,7 @@
 				8FB9B3D12A0BBF220073424E /* SpiralMatrixIV.swift in Sources */,
 				8FFA42E42C03291E008B4F03 /* StudentAttendanceRecordI.swift in Sources */,
 				8FB9B4052A0BBF2E0073424E /* DesignCircularDeque.swift in Sources */,
+				8F4C43373062474A0040F5D5 /* FindXValueofArrayII.swift in Sources */,
 				8FB9B5192A0BBF4E0073424E /* LicenseKeyFormatting.swift in Sources */,
 				8FF5A49F2B0B25AD00C11D6D /* MinimumAmountOfTimeToCollectGarbage.swift in Sources */,
 				8FB9B4FC2A0BBF4E0073424E /* SubtractTheProductAndSumOfDigitsOfAnInteger.swift in Sources */,
