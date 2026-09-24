@@ -1,1 +1,1 @@
-FindXValueofArrayII().tests()
+SmallestIndexWithDigitSumEqualtoIndex().tests()

@@ -222,6 +222,7 @@
 		8F4C4333305FA77F0040F5D5 /* ReverseDegreeofaString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C4332305FA77F0040F5D5 /* ReverseDegreeofaString.swift */; };
 		8F4C43353061BF580040F5D5 /* FindXValueofArrayI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43343061BF580040F5D5 /* FindXValueofArrayI.swift */; };
 		8F4C43373062474A0040F5D5 /* FindXValueofArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43363062474A0040F5D5 /* FindXValueofArrayII.swift */; };
+		8F4C43393064E6010040F5D5 /* SmallestIndexWithDigitSumEqualtoIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43383064E6010040F5D5 /* SmallestIndexWithDigitSumEqualtoIndex.swift */; };
 		8F53C5062F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5052F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift */; };
 		8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5072F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift */; };
 		8F53C50A2F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5092F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift */; };
@@ -1745,6 +1746,7 @@
 		8F4C4332305FA77F0040F5D5 /* ReverseDegreeofaString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseDegreeofaString.swift; sourceTree = "<group>"; };
 		8F4C43343061BF580040F5D5 /* FindXValueofArrayI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindXValueofArrayI.swift; sourceTree = "<group>"; };
 		8F4C43363062474A0040F5D5 /* FindXValueofArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindXValueofArrayII.swift; sourceTree = "<group>"; };
+		8F4C43383064E6010040F5D5 /* SmallestIndexWithDigitSumEqualtoIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestIndexWithDigitSumEqualtoIndex.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -4406,6 +4408,7 @@
 				8F4C4332305FA77F0040F5D5 /* ReverseDegreeofaString.swift */,
 				8F4C43343061BF580040F5D5 /* FindXValueofArrayI.swift */,
 				8F4C43363062474A0040F5D5 /* FindXValueofArrayII.swift */,
+				8F4C43383064E6010040F5D5 /* SmallestIndexWithDigitSumEqualtoIndex.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5249,6 +5252,7 @@
 				8FF7C9952BF335A600A1AFD7 /* PathwithMaximumGold.swift in Sources */,
 				8F01C3AC2EE152DA0069137F /* CountCollisionsonaRoad.swift in Sources */,
 				8F0040D92C9F4BB800116FE0 /* LexicographicalNumbers.swift in Sources */,
+				8F4C43393064E6010040F5D5 /* SmallestIndexWithDigitSumEqualtoIndex.swift in Sources */,
 				8FC057C62CF9F59F00CAF1D4 /* MinimumTimetoVisitaCellInaGrid.swift in Sources */,
 				8FC7AC4E2CEEFCBE00D51E25 /* CountUnguardedCellsintheGrid.swift in Sources */,
 				8FB9B4D92A0BBF480073424E /* BullsAndCows.swift in Sources */,
