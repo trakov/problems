@@ -1,1 +1,1 @@
-SmallestIndexWithDigitSumEqualtoIndex().tests()
+BraceExpansionII().tests()
