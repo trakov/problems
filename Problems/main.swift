@@ -1,1 +1,1 @@
-EvaluatetheBracketPairsofaString().tests()
+CheckifThereIsaValidParenthesesStringPath().tests()

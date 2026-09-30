@@ -225,6 +225,7 @@
 		8F4C43393064E6010040F5D5 /* SmallestIndexWithDigitSumEqualtoIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C43383064E6010040F5D5 /* SmallestIndexWithDigitSumEqualtoIndex.swift */; };
 		8F4C433B306706E00040F5D5 /* BraceExpansionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C433A306706E00040F5D5 /* BraceExpansionII.swift */; };
 		8F4C433D3067A0000040F5D5 /* EvaluatetheBracketPairsofaString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C433C3067A0000040F5D5 /* EvaluatetheBracketPairsofaString.swift */; };
+		8F4C433F306B76F00040F5D5 /* CheckifThereIsaValidParenthesesStringPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C433E306B76F00040F5D5 /* CheckifThereIsaValidParenthesesStringPath.swift */; };
 		8F53C5062F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5052F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift */; };
 		8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5072F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift */; };
 		8F53C50A2F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5092F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift */; };
@@ -1751,6 +1752,7 @@
 		8F4C43383064E6010040F5D5 /* SmallestIndexWithDigitSumEqualtoIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestIndexWithDigitSumEqualtoIndex.swift; sourceTree = "<group>"; };
 		8F4C433A306706E00040F5D5 /* BraceExpansionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BraceExpansionII.swift; sourceTree = "<group>"; };
 		8F4C433C3067A0000040F5D5 /* EvaluatetheBracketPairsofaString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluatetheBracketPairsofaString.swift; sourceTree = "<group>"; };
+		8F4C433E306B76F00040F5D5 /* CheckifThereIsaValidParenthesesStringPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifThereIsaValidParenthesesStringPath.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -4415,6 +4417,7 @@
 				8F4C43383064E6010040F5D5 /* SmallestIndexWithDigitSumEqualtoIndex.swift */,
 				8F4C433A306706E00040F5D5 /* BraceExpansionII.swift */,
 				8F4C433C3067A0000040F5D5 /* EvaluatetheBracketPairsofaString.swift */,
+				8F4C433E306B76F00040F5D5 /* CheckifThereIsaValidParenthesesStringPath.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5205,6 +5208,7 @@
 				8F03271E2B205F25005950E1 /* CalculateMoneyInLeetcodeBank.swift in Sources */,
 				8FCBEB312F3DBE2800F3A409 /* LongestBalancedSubstringI.swift in Sources */,
 				8FFE0F172C32791400EDC564 /* ThreeConsecutiveOdds.swift in Sources */,
+				8F4C433F306B76F00040F5D5 /* CheckifThereIsaValidParenthesesStringPath.swift in Sources */,
 				8FB9B51A2A0BBF4E0073424E /* NumberComplement.swift in Sources */,
 				8F9948EA2DAAC96A007D982F /* FindtheCountofGoodIntegers.swift in Sources */,
 				8FB9B5342A0BBF540073424E /* ConvertSortedArrayЕoBinarySearchTree.swift in Sources */,
