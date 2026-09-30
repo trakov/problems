@@ -226,6 +226,7 @@
 		8F4C433B306706E00040F5D5 /* BraceExpansionII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C433A306706E00040F5D5 /* BraceExpansionII.swift */; };
 		8F4C433D3067A0000040F5D5 /* EvaluatetheBracketPairsofaString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C433C3067A0000040F5D5 /* EvaluatetheBracketPairsofaString.swift */; };
 		8F4C433F306B76F00040F5D5 /* CheckifThereIsaValidParenthesesStringPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C433E306B76F00040F5D5 /* CheckifThereIsaValidParenthesesStringPath.swift */; };
+		8F4C4341306CCDAE0040F5D5 /* MaximumNestingDepthofTwoValidParenthesesStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4C4340306CCDAE0040F5D5 /* MaximumNestingDepthofTwoValidParenthesesStrings.swift */; };
 		8F53C5062F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5052F6A7B0700E6BD35 /* CountSubmatriceswithTopLeftElementandSumLessThank.swift */; };
 		8F53C5082F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5072F6BD94B00E6BD35 /* CountSubmatricesWithEqualFrequencyofXandY.swift */; };
 		8F53C50A2F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F53C5092F6D22FC00E6BD35 /* MinimumAbsoluteDifferenceinSlidingSubmatrix.swift */; };
@@ -1753,6 +1754,7 @@
 		8F4C433A306706E00040F5D5 /* BraceExpansionII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BraceExpansionII.swift; sourceTree = "<group>"; };
 		8F4C433C3067A0000040F5D5 /* EvaluatetheBracketPairsofaString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvaluatetheBracketPairsofaString.swift; sourceTree = "<group>"; };
 		8F4C433E306B76F00040F5D5 /* CheckifThereIsaValidParenthesesStringPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckifThereIsaValidParenthesesStringPath.swift; sourceTree = "<group>"; };
+		8F4C4340306CCDAE0040F5D5 /* MaximumNestingDepthofTwoValidParenthesesStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumNestingDepthofTwoValidParenthesesStrings.swift; sourceTree = "<group>"; };
 		8F4CA64026CF60070030449C /* NumberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfIslands.swift; sourceTree = "<group>"; };
 		8F506B1727417A9700AF30B7 /* ValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParentheses.swift; sourceTree = "<group>"; };
 		8F506B192741872900AF30B7 /* RPN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPN.swift; sourceTree = "<group>"; };
@@ -4418,6 +4420,7 @@
 				8F4C433A306706E00040F5D5 /* BraceExpansionII.swift */,
 				8F4C433C3067A0000040F5D5 /* EvaluatetheBracketPairsofaString.swift */,
 				8F4C433E306B76F00040F5D5 /* CheckifThereIsaValidParenthesesStringPath.swift */,
+				8F4C4340306CCDAE0040F5D5 /* MaximumNestingDepthofTwoValidParenthesesStrings.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5373,6 +5376,7 @@
 				8F66632F2F8A5B0A00C0EAC5 /* MinimumDistanceBetweenThreeEqualElementsII.swift in Sources */,
 				8FD44DF42C56372D0096C210 /* SecondMinimumTimetoReachDestination.swift in Sources */,
 				8F8AF7072E43237600E8ABFE /* FruitsIntoBasketsIII.swift in Sources */,
+				8F4C4341306CCDAE0040F5D5 /* MaximumNestingDepthofTwoValidParenthesesStrings.swift in Sources */,
 				8F6886832EA4F23D00468A50 /* LexicographicallySmallestStringAfterApplyingOperations.swift in Sources */,
 				8FB9B5762A0BBF5A0073424E /* FourSum.swift in Sources */,
 				8FB9B4002A0BBF280073424E /* MaximumWidthOfBinaryTree.swift in Sources */,
