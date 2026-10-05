@@ -1,1 +1,1 @@
-MaximumNestingDepthofTwoValidParenthesesStrings().tests()
+ScoreofParentheses().tests()
