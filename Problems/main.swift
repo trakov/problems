@@ -1,1 +1,1 @@
-ScoreofParentheses().tests()
+RemoveOutermostParentheses().tests()
