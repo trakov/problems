@@ -1,1 +1,1 @@
-RemoveOutermostParentheses().tests()
+MinimumSumofSquaredDifference().tests()
