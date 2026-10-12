@@ -1,1 +1,1 @@
-MinimumInsertionstoBalanceaParenthesesString().tests()
+ApplyOperationsonArraytoMaximizeSumofSquares().tests()
