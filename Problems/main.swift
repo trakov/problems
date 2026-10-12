@@ -1,1 +1,1 @@
-MinimumSumofSquaredDifference().tests()
+MinimumInsertionstoBalanceaParenthesesString().tests()
