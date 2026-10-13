@@ -1,1 +1,1 @@
-ApplyOperationsonArraytoMaximizeSumofSquares().tests()
+MaximumAlternatingSumofSquares().tests()
