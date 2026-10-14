@@ -1,1 +1,1 @@
-MaximumAlternatingSumofSquares().tests()
+MaximizeSumofSquaresofDigits().tests()

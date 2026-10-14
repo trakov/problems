@@ -413,6 +413,7 @@
 		8F737F41307CBC4700A44CC0 /* MinimumInsertionstoBalanceaParenthesesString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737F40307CBC4700A44CC0 /* MinimumInsertionstoBalanceaParenthesesString.swift */; };
 		8F737F43307CBD3C00A44CC0 /* ApplyOperationsonArraytoMaximizeSumofSquares.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737F42307CBD3C00A44CC0 /* ApplyOperationsonArraytoMaximizeSumofSquares.swift */; };
 		8F737F45307DFA7A00A44CC0 /* MaximumAlternatingSumofSquares.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737F44307DFA7A00A44CC0 /* MaximumAlternatingSumofSquares.swift */; };
+		8F737F47307F508000A44CC0 /* MaximizeSumofSquaresofDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737F46307F508000A44CC0 /* MaximizeSumofSquaresofDigits.swift */; };
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
 		8F755F402ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F755F3F2ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift */; };
 		8F755F442ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F755F432ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift */; };
@@ -1999,6 +2000,7 @@
 		8F737F40307CBC4700A44CC0 /* MinimumInsertionstoBalanceaParenthesesString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumInsertionstoBalanceaParenthesesString.swift; sourceTree = "<group>"; };
 		8F737F42307CBD3C00A44CC0 /* ApplyOperationsonArraytoMaximizeSumofSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplyOperationsonArraytoMaximizeSumofSquares.swift; sourceTree = "<group>"; };
 		8F737F44307DFA7A00A44CC0 /* MaximumAlternatingSumofSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumAlternatingSumofSquares.swift; sourceTree = "<group>"; };
+		8F737F46307F508000A44CC0 /* MaximizeSumofSquaresofDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeSumofSquaresofDigits.swift; sourceTree = "<group>"; };
 		8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelCoursesIII.swift; sourceTree = "<group>"; };
 		8F755F3F2ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathsinMatrixWhoseSumIsDivisiblebyK.swift; sourceTree = "<group>"; };
 		8F755F432ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSubarraySumWithLengthDivisiblebyK.swift; sourceTree = "<group>"; };
@@ -4439,6 +4441,7 @@
 				8F737F40307CBC4700A44CC0 /* MinimumInsertionstoBalanceaParenthesesString.swift */,
 				8F737F42307CBD3C00A44CC0 /* ApplyOperationsonArraytoMaximizeSumofSquares.swift */,
 				8F737F44307DFA7A00A44CC0 /* MaximumAlternatingSumofSquares.swift */,
+				8F737F46307F508000A44CC0 /* MaximizeSumofSquaresofDigits.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -4936,6 +4939,7 @@
 				8FB584D42DC207EB00CEE980 /* FindNumberswithEvenNumberofDigits.swift in Sources */,
 				8FB9B46B2A0BBF3A0073424E /* NthTribonacciNumber.swift in Sources */,
 				8F8F1EAE2B905E30007B818E /* EvenOddTree.swift in Sources */,
+				8F737F47307F508000A44CC0 /* MaximizeSumofSquaresofDigits.swift in Sources */,
 				8FC7B9912BAC68BF0036C9F8 /* NextPermutation.swift in Sources */,
 				8FB9B53B2A0BBF540073424E /* NearestExitFromEntranceInMaze.swift in Sources */,
 				8F034DC02E7D48DD0079A1BF /* DesignSpreadsheet.swift in Sources */,
