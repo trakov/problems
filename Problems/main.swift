@@ -1,1 +1,1 @@
-MaximizeSumofSquaresofDigits().tests()
+SubarraysDistinctElementSumofSquaresI().tests()
