@@ -1,1 +1,1 @@
-SubarraysDistinctElementSumofSquaresI().tests()
+SubarraysDistinctElementSumofSquaresII().tests()
