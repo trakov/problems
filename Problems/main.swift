@@ -1,1 +1,1 @@
-SubarraysDistinctElementSumofSquaresII().tests()
+MinimumSwapstoSortbyDigitSum().tests()
