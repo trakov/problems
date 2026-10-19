@@ -1,1 +1,1 @@
-MinimumSwapstoSortbyDigitSum().tests()
+FindTargetIndicesAfterSortingArray().tests()
