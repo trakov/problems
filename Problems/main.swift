@@ -1,1 +1,1 @@
-FindTargetIndicesAfterSortingArray().tests()
+SumofSortableIntegers().tests()
