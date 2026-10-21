@@ -1,1 +1,1 @@
-SumofSortableIntegers().tests()
+MinimumOperationstoSortaString().tests()
