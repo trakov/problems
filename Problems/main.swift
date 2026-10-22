@@ -1,1 +1,1 @@
-MinimumOperationstoSortaString().tests()
+MinimumOperationstoSortaPermutation().tests()
