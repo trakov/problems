@@ -421,6 +421,7 @@
 		8F737F513087251800A44CC0 /* SumofSortableIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737F503087251800A44CC0 /* SumofSortableIntegers.swift */; };
 		8F737F53308882C500A44CC0 /* MinimumOperationstoSortaString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737F52308882C500A44CC0 /* MinimumOperationstoSortaString.swift */; };
 		8F737F553089DEDE00A44CC0 /* MinimumOperationstoSortaPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737F543089DEDE00A44CC0 /* MinimumOperationstoSortaPermutation.swift */; };
+		8F737F57308B2F3D00A44CC0 /* MaximumKtoSortaPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F737F56308B2F3D00A44CC0 /* MaximumKtoSortaPermutation.swift */; };
 		8F739DBA2ADF81650058A091 /* ParallelCoursesIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */; };
 		8F755F402ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F755F3F2ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift */; };
 		8F755F442ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F755F432ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift */; };
@@ -2015,6 +2016,7 @@
 		8F737F503087251800A44CC0 /* SumofSortableIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumofSortableIntegers.swift; sourceTree = "<group>"; };
 		8F737F52308882C500A44CC0 /* MinimumOperationstoSortaString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoSortaString.swift; sourceTree = "<group>"; };
 		8F737F543089DEDE00A44CC0 /* MinimumOperationstoSortaPermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperationstoSortaPermutation.swift; sourceTree = "<group>"; };
+		8F737F56308B2F3D00A44CC0 /* MaximumKtoSortaPermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumKtoSortaPermutation.swift; sourceTree = "<group>"; };
 		8F739DB92ADF81650058A091 /* ParallelCoursesIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelCoursesIII.swift; sourceTree = "<group>"; };
 		8F755F3F2ED6BC0D009481D5 /* PathsinMatrixWhoseSumIsDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathsinMatrixWhoseSumIsDivisiblebyK.swift; sourceTree = "<group>"; };
 		8F755F432ED848DC009481D5 /* MaximumSubarraySumWithLengthDivisiblebyK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumSubarraySumWithLengthDivisiblebyK.swift; sourceTree = "<group>"; };
@@ -4463,6 +4465,7 @@
 				8F737F503087251800A44CC0 /* SumofSortableIntegers.swift */,
 				8F737F52308882C500A44CC0 /* MinimumOperationstoSortaString.swift */,
 				8F737F543089DEDE00A44CC0 /* MinimumOperationstoSortaPermutation.swift */,
+				8F737F56308B2F3D00A44CC0 /* MaximumKtoSortaPermutation.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -5941,6 +5944,7 @@
 				8F7345942E6AC395001DF5A3 /* MinimumOperationstoMaketheIntegerZero.swift in Sources */,
 				8FCBEB352F431BA900F3A409 /* FindtheChildWhoHastheBallAfterKSeconds.swift in Sources */,
 				8FB9B47F2A0BBF3A0073424E /* ShuffleTheArray.swift in Sources */,
+				8F737F57308B2F3D00A44CC0 /* MaximumKtoSortaPermutation.swift in Sources */,
 				8FB9B42E2A0BBF340073424E /* SumOfSquareNumbers.swift in Sources */,
 				8F91DCAD2D5F150400967792 /* ProductoftheLastKNumbers.swift in Sources */,
 				8FF20B972C6F191C002C9D49 /* MaximumDistanceinArrays.swift in Sources */,

@@ -1,1 +1,1 @@
-MinimumOperationstoSortaPermutation().tests()
+MaximumKtoSortaPermutation().tests()
