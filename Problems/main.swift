@@ -1,1 +1,1 @@
-MaximumKtoSortaPermutation().tests()
+CountDaysSpentTogether().tests()
