@@ -1,1 +1,1 @@
-CountDaysSpentTogether().tests()
+CountIslandsWithTotalValueDivisiblebyK().tests()
