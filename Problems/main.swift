@@ -1,1 +1,1 @@
-CountIslandsWithTotalValueDivisiblebyK().tests()
+CreateGridWithExactlyOnePath().tests()
