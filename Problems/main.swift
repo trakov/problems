@@ -1,1 +1,1 @@
-CreateGridWithExactlyOnePath().tests()
+MinimumXORPathinaGrid().tests()
