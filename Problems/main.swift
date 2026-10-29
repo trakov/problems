@@ -1,1 +1,1 @@
-MinimumXORPathinaGrid().tests()
+PalindromicPathQueriesinaTree().tests()
