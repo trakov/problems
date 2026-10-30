@@ -1,1 +1,1 @@
-PalindromicPathQueriesinaTree().tests()
+ShortestPathWithAtMostKConsecutiveIdenticalCharacters().tests()
