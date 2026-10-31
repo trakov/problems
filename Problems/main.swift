@@ -1,1 +1,1 @@
-ShortestPathWithAtMostKConsecutiveIdenticalCharacters().tests()
+TwistedMirrorPathCount().tests()
