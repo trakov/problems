@@ -1,1 +1,1 @@
-TwistedMirrorPathCount().tests()
+MinimumMovestoEqualArrayElements().tests()
