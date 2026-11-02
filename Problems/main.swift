@@ -1,1 +1,1 @@
-MinimumMovestoEqualArrayElements().tests()
+MinimumMovestoEqualArrayElementsII().tests()
