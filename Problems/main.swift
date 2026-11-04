@@ -1,1 +1,1 @@
-MinimumMovestoEqualArrayElementsIII().tests()
+MinimumOperationstoMakeElementsWithinKSubarraysEqual().tests()
