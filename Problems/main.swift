@@ -1,1 +1,1 @@
-MinimumOperationstoMakeElementsWithinKSubarraysEqual().tests()
+CountZeroRequestServers().tests()
