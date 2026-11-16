@@ -1,1 +1,1 @@
-ClimbingStairsII().tests()
+CalculateDigitSumofaString().tests()
