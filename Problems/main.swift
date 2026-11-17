@@ -1,1 +1,1 @@
-CalculateDigitSumofaString().tests()
+MinimumChangestoMakeKSemipalindromes().tests()
