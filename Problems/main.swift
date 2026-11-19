@@ -1,1 +1,1 @@
-MinimumChangestoMakeKSemipalindromes().tests()
+MinimumScorebyChangingTwoElements().tests()
