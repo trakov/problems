@@ -1,1 +1,1 @@
-MinimumScorebyChangingTwoElements().tests()
+FindSubtreeSizesAfterChanges().tests()
