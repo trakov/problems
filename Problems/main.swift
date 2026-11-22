@@ -1,1 +1,1 @@
-MaximizeConsecutiveElementsinanArrayAfterModification().tests()
+CheckifAllAsAppearsBeforeAllBs().tests()
