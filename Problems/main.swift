@@ -1,1 +1,1 @@
-FindSubtreeSizesAfterChanges().tests()
+MaximizeConsecutiveElementsinanArrayAfterModification().tests()
