@@ -1,1 +1,1 @@
-CheckifAllAsAppearsBeforeAllBs().tests()
+MaximumSubarrayWithEqualProducts().tests()
