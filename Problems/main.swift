@@ -1,1 +1,1 @@
-MaximumSubarrayWithEqualProducts().tests()
+SmallestUniqueSubarray().tests()
