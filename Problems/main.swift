@@ -1,1 +1,1 @@
-SmallestUniqueSubarray().tests()
+StoneRemovalGame().tests()
