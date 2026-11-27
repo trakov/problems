@@ -1,1 +1,1 @@
-StoneRemovalGame().tests()
+MaximumNumberofItemsFromSaleI().tests()
